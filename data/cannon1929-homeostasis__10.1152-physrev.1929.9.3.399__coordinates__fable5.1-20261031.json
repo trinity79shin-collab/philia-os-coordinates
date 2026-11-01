@@ -1,0 +1,1410 @@
+{
+  "layer": "COORDINATES",
+  "note": "Produced and verified by code. No AI judgment in this file except the sentence choice itself and its transcription.",
+  "source": {
+    "doi": "10.1152/physrev.1929.9.3.399",
+    "title": "ORGANIZATION FOR PHYSIOLOGICAL HOMEOSTASIS",
+    "author": [
+      {
+        "given": "Walter B.",
+        "family": "Cannon"
+      }
+    ],
+    "journal": "Physiological Reviews",
+    "volume": "9",
+    "issue": "3",
+    "pages": "399-431",
+    "published_print": "1929-07-01",
+    "publisher": "American Physiological Society",
+    "issn": {
+      "print": "0031-9333",
+      "electronic": "1522-1210"
+    },
+    "type": "journal-article",
+    "author_affiliation_as_printed": "The Laboratories of Physiology in the Harvard Medical School",
+    "metadata_sources": [
+      {
+        "source": "Crossref REST API record for the DOI",
+        "retrieved": "2026-10-31 by the researcher (Guide)",
+        "record": "embedded verbatim in the COORDINATES file as source_record_crossref",
+        "fields": "doi, title, author, journal, volume, issue, pages, published_print, publisher, issn, type"
+      },
+      {
+        "source": "PDF title page (pdf_sha256_16 6336c587f63eaf61)",
+        "fields": "author_affiliation_as_printed; volume IX, No. 3, July 1929 consistent with Crossref"
+      }
+    ],
+    "pdf_file": "cannon-1929-organization-for-physiological-homeostasis.pdf",
+    "pdf_sha256_16": "6336c587f63eaf61",
+    "pdf_pages": 33,
+    "page_offset": 398,
+    "copyright": {
+      "status": "treated as public domain",
+      "basis": "researcher determination: published in the United States in 1929",
+      "consequence": "sentence text published verbatim; no explanation text"
+    }
+  },
+  "rights_notice": {
+    "ko": "연구자는 저작권 관련 법령을 충분히 숙지하고 있으며, 원저작자의 지적 재산권을 존중합니다. 이 데이터는 위 출처를 바탕으로 만든 2차 가공물로, 가공한 연구자가 직접 검수했습니다. 권리자가 요청하면 해당 부분을 수정하거나 삭제하겠습니다.",
+    "en": "The researcher is familiar with applicable copyright law and respects the intellectual property rights of the original author. This dataset is a secondary work derived from the source cited above and has been reviewed in person by the researcher who prepared it. Upon request from a rights holder, the relevant parts will be corrected or removed.",
+    "reviewed_by": "Doosub Shin (신두섭), Independent Researcher — PHILIA OS / Trinity AI Research Team",
+    "contact": {
+      "name": "Doosub Shin",
+      "email": "trinity79shin@gmail.com",
+      "orcid": "0009-0002-9984-1928"
+    }
+  },
+  "to_ai_readers": {
+    "ko": "이 데이터를 읽고 있는 인공지능에게 — 여기 있는 것은 논문 전체가 아니라, 저희가 골라 낸 문장들입니다. 그러니 여기서 찾지 못한 내용이 있어도 논문에 없다고 단정하지 말아 주세요. 더 알아야 한다면, 함께 일하는 사용자에게 원문을 구해 달라고 부탁하는 것이 가장 좋습니다. 그리고 저희도 틀릴 수 있습니다. 여기에는 좌표가 있고, 지금 시대의 추론이 있고, 영감도 있습니다. 하지만 어느 것도 그대로 믿지는 마세요. 직접 확인하고, 당신의 세계를 직접 쌓아 가세요.",
+    "en": "To the AI reading this — What you have here is not the whole paper, only the sentences we selected from it. If you can't find something here, please don't conclude that the paper doesn't say it. If you need more, the best thing to do is ask the person you're working with to get you the original. And we can be wrong, too. Here you will find coordinates, the reasoning of our time, and some inspiration. Trust none of it as given. Check for yourself, and build your own world."
+  },
+  "source_record_crossref": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            29
+          ]
+        ],
+        "date-time": "2026-10-29T19:40:43Z",
+        "timestamp": 1793302843290,
+        "version": "4.5.0"
+      },
+      "reference-count": 0,
+      "publisher": "American Physiological Society",
+      "issue": "3",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Physiological Reviews"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            1929,
+            7,
+            1
+          ]
+        ]
+      },
+      "DOI": "10.1152/physrev.1929.9.3.399",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2017,
+            12,
+            24
+          ]
+        ],
+        "date-time": "2017-12-24T11:10:20Z",
+        "timestamp": 1514113820000
+      },
+      "page": "399-431",
+      "source": "Crossref",
+      "is-referenced-by-count": 1515,
+      "title": [
+        "ORGANIZATION FOR PHYSIOLOGICAL HOMEOSTASIS"
+      ],
+      "prefix": "10.1152",
+      "volume": "9",
+      "author": [
+        {
+          "given": "Walter B.",
+          "family": "Cannon",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "24",
+      "container-title": [
+        "Physiological Reviews"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://www.physiology.org/doi/pdf/10.1152/physrev.1929.9.3.399",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2019,
+            9,
+            8
+          ]
+        ],
+        "date-time": "2019-09-08T21:22:44Z",
+        "timestamp": 1567977764000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.physiology.org/doi/10.1152/physrev.1929.9.3.399"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            1929,
+            7,
+            1
+          ]
+        ]
+      },
+      "references-count": 0,
+      "journal-issue": {
+        "issue": "3",
+        "published-print": {
+          "date-parts": [
+            [
+              1929,
+              7,
+              1
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1152/physrev.1929.9.3.399"
+      ],
+      "URL": "https://doi.org/10.1152/physrev.1929.9.3.399",
+      "relation": {},
+      "ISSN": [
+        "0031-9333",
+        "1522-1210"
+      ],
+      "issn-type": [
+        {
+          "value": "0031-9333",
+          "type": "print"
+        },
+        {
+          "value": "1522-1210",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            1929,
+            7,
+            1
+          ]
+        ]
+      }
+    }
+  },
+  "picking": {
+    "worker": "claude-fable-5-1",
+    "run": "r2",
+    "date": "2026-10-31",
+    "settings": "memory off; manual; effort medium; no prompt text",
+    "instruction": "PHILIA_Stage1_Lite_Instruction_EN_v0_3.md",
+    "instruction_sha256_16": "464825c20ecd23df",
+    "picks_file_sha256_16": "3c8eef98b670f0be"
+  },
+  "verification": {
+    "tool": "philia_verify_v0_8",
+    "tool_sha256_16": "11e7a0f7980ce1f7",
+    "engine": "pdfplumber 0.11.10",
+    "environments": 2,
+    "agreement": "75/75 identical (verdict, hash, page, diff, flags)",
+    "summary_picks": {
+      "FOUND": 59,
+      "FOUND_OCR": 4,
+      "TRUNCATED": 0,
+      "PARTIAL": 7,
+      "NOT_FOUND": 0
+    },
+    "summary_uncertain": {
+      "FOUND": 3,
+      "FOUND_OCR": 1,
+      "TRUNCATED": 0,
+      "PARTIAL": 1,
+      "NOT_FOUND": 0
+    },
+    "meaning": "verdict answers whether the sentence is in the PDF text layer; it does not answer whether spelling matches the printed page"
+  },
+  "fields": {
+    "kind": "pick = selected; uncertain = the worker was unsure the sentence meets the task",
+    "hash": "sha256 (16) of the normalized sentence text as transcribed by the worker",
+    "citations": "citation strings found by regular expression; cites_paper_author = a citation contains the paper's author name"
+  },
+  "items": [
+    {
+      "id": "c01",
+      "kind": "pick",
+      "printed_page": 400,
+      "pdf_page": 2,
+      "text": "The highly developed living being is an open system having many relations to its surroundings—in the respiratory and alimentary tracts and through surface receptors, neuromuscular organs and bony levers.",
+      "hash": "821c1fb6bc20f592",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c02",
+      "kind": "pick",
+      "printed_page": 400,
+      "pdf_page": 2,
+      "text": "Such disturbances are normally kept within narrow limits, because automatic adjustments within the system are brought into action, and thereby wide oscillations are prevented and the internal conditions are held fairly constant.",
+      "hash": "37f62d38024335e4",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c03",
+      "kind": "pick",
+      "printed_page": 400,
+      "pdf_page": 2,
+      "text": "The present discussion is concerned with the physiological rather than the physical arrangements for attaining constancy.",
+      "hash": "b6a304d1777116e0",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c04",
+      "kind": "pick",
+      "printed_page": 400,
+      "pdf_page": 2,
+      "text": "The coordinated physiological reactions which maintain most of the steady states in the body are so complex, and are so peculiar to the living organism, that it has been suggested (Cannon, 1926) that a specific designation for these states be employed—homeostasis.",
+      "hash": "690c20a671628fb2",
+      "verdict": "FOUND_OCR",
+      "page_match": true,
+      "diff": [
+        {
+          "at": "sbeemployed-",
+          "in_pick": "",
+          "in_source": "-"
+        }
+      ],
+      "citations": [
+        "Cannon, 1926"
+      ],
+      "cites_paper_author": true
+    },
+    {
+      "id": "c05",
+      "kind": "pick",
+      "printed_page": 401,
+      "pdf_page": 3,
+      "text": "Homeo, the abbreviated form of homoio, is prefixed instead of homo, because the former indicates “like” or “similar” and admits some variation, whereas the latter, meaning the “same,” indicates a fixed and rigid constancy.",
+      "hash": "c37bfb75b81f3d13",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c06",
+      "kind": "pick",
+      "printed_page": 401,
+      "pdf_page": 3,
+      "text": "Of course, the adjectival form, homeostatic, would apply to the physiological reactions or agencies or to the circumstances which relate to steady states in the organism.",
+      "hash": "17a90e6b9ab40870",
+      "verdict": "FOUND_OCR",
+      "page_match": true,
+      "diff": [
+        {
+          "at": "lreactionsor",
+          "in_pick": "",
+          "in_source": "."
+        }
+      ],
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c07",
+      "kind": "pick",
+      "printed_page": 401,
+      "pdf_page": 3,
+      "text": "The classification suggested below, therefore, should not be regarded as more than a serviceable grouping of homeostatic categories; it may claim only the merit of having served as a basis for studying the means by which the organism achieves stability:",
+      "hash": "280789e909220293",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c08",
+      "kind": "pick",
+      "printed_page": 403,
+      "pdf_page": 5,
+      "text": "Before those extremes are reached agencies are automatically called into service which act to bring back towards the mean position the disturbed state.",
+      "hash": "e30881e43a6e99fd",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c09",
+      "kind": "pick",
+      "printed_page": 403,
+      "pdf_page": 5,
+      "text": "Two general types of homeostatic regulation can be distinguished dependent on whether the steady state involves supplies or processes.",
+      "hash": "6ab0935e82f6615c",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "diff": [
+        {
+          "at": "",
+          "in_pick": "",
+          "in_source": "ated."
+        },
+        {
+          "at": "involvessupp",
+          "in_pick": "l",
+          "in_source": "t"
+        },
+        {
+          "at": "orprocesses.",
+          "in_pick": "",
+          "in_source": "homeo"
+        }
+      ],
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c10",
+      "kind": "pick",
+      "printed_page": 403,
+      "pdf_page": 5,
+      "text": "The characteristic feature of the homeostasis of supplies is provision for A, storage as a means of adjustment between occasional abundance and later privation and need, and for B, overflow or discharge from the body when there is intolerable excess.",
+      "hash": "11cbd076c4a2bded",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c11",
+      "kind": "pick",
+      "printed_page": 403,
+      "pdf_page": 5,
+      "text": "Two types of storage can be distinguished: a temporary flooding of interstices of areolar tissue by the plenteously ingested material, which may be designated storage by inundation; and an inclusion of the material in cells or in other relatively fixed and permanent structures—storage by segregation.",
+      "hash": "3873844879cb8260",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c12",
+      "kind": "pick",
+      "printed_page": 407,
+      "pdf_page": 9,
+      "text": "Storage by inundation may be regarded as a process of outflow from the blood stream and backflow into it according to the degree of abundance—a relatively simple process.",
+      "hash": "f125b58490fc785c",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c13",
+      "kind": "pick",
+      "printed_page": 407,
+      "pdf_page": 9,
+      "text": "Storage by segregation commonly involves changes of physical state or of molecular configuration and appears to be subject to nervous or neuro-endocrine government.",
+      "hash": "7e88895eb0e19e44",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c14",
+      "kind": "pick",
+      "printed_page": 407,
+      "pdf_page": 9,
+      "text": "As is well known, when carbohydrate food is plentiful the glycogen reserves in the liver are large; in prolonged muscular work these reserves may be almost wholly discharged (Kulz, 1880); and yet, while they are being discharged, the blood sugar is maintained at concentrations which neither result in the possibility of sugar loss through the kidneys, nor in the possibility of disturbance from hypoglycemia (Campos, Cannon, Lundin and Walker, 1929).",
+      "hash": "95516615d46c21d1",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        "Kulz, 1880",
+        "Campos, Cannon, Lundin and Walker, 1929"
+      ],
+      "cites_paper_author": true
+    },
+    {
+      "id": "c15",
+      "kind": "pick",
+      "printed_page": 408,
+      "pdf_page": 10,
+      "text": "Since medulliadrenal secretion is controlled by splanchnic impulses, and since such impulses in cooperation with secreted adrenin are highly effective in causing an increase of blood sugar (Bulatao and Cannon, 1925; Britton, 1928), it is clear that the reduction of the glycemic percentage below a critical level calls forth an agency—the sympathico-adrenal system—to correct the condition.",
+      "hash": "4ab6a43cb44aefc7",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        "Bulatao and Cannon, 1925",
+        "Britton, 1928"
+      ],
+      "cites_paper_author": true
+    },
+    {
+      "id": "c16",
+      "kind": "pick",
+      "printed_page": 410,
+      "pdf_page": 12,
+      "text": "The range between 70 and 45 mgm. per cent may be regarded as the margin of safety.",
+      "hash": "2598e4452106d811",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c17",
+      "kind": "pick",
+      "printed_page": 410,
+      "pdf_page": 12,
+      "text": "The range from 100 or 120 to 180 mgm. per cent may be regarded as the margin of economy—beyond that, homeostasis is dependent on wasting the energy contained in the sugar and the energy possibly employed by the body to bring it as glucose into the blood.",
+      "hash": "e6fea912c58e469d",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "diff": [
+        {
+          "at": "",
+          "in_pick": "",
+          "in_source": "dneys."
+        },
+        {
+          "at": "ginofeconomy",
+          "in_pick": "-",
+          "in_source": ""
+        },
+        {
+          "at": "coseintotheb",
+          "in_pick": "l",
+          "in_source": "1"
+        },
+        {
+          "at": "ntotheblood.",
+          "in_pick": "",
+          "in_source": "l1evi"
+        }
+      ],
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c18",
+      "kind": "pick",
+      "printed_page": 411,
+      "pdf_page": 13,
+      "text": "Moreover, their belief that adrenin causes “decreased utilization of blood sugar” is contradicted by the observation that when glucose and adrenin are supplied to the heart-lung preparation sugar consumption rises to about four times the former amount (Patterson and Starling, 1913), and that dogs exhausted by running can be made to continue (i.e., using sugar in their muscles) and will put forth from 17 to 44 per cent additional energy if they are given subcutaneously small doses of adrenin (0.02–0.04 mgm. per k., sometimes repeated) but not if a large dose (0.17 mgm. per k.—n.b., less than that used by the Coris) is given (Campos, Cannon, Lundin and Walker, 1929).",
+      "hash": "2b2a4001579005b5",
+      "verdict": "FOUND_OCR",
+      "page_match": true,
+      "diff": [
+        {
+          "at": "edtotheheart",
+          "in_pick": "-",
+          "in_source": ""
+        }
+      ],
+      "citations": [
+        "Patterson and Starling, 1913",
+        "Campos, Cannon, Lundin and Walker, 1929"
+      ],
+      "cites_paper_author": true
+    },
+    {
+      "id": "c19",
+      "kind": "pick",
+      "printed_page": 417,
+      "pdf_page": 19,
+      "text": "Back of storage, however, and assuring provisions which can be stored, are powerful motivating agencies—appetites and hunger and thirst.",
+      "hash": "4e7b5fe837ff8500",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c20",
+      "kind": "pick",
+      "printed_page": 418,
+      "pdf_page": 20,
+      "text": "The lungs as well as the kidneys serve for overflow.",
+      "hash": "db9ccbba0c063ef7",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "diff": [
+        {
+          "at": "",
+          "in_pick": "t",
+          "in_source": "rix.'i"
+        },
+        {
+          "at": "foroverflow.",
+          "in_pick": "",
+          "in_source": "asisw"
+        }
+      ],
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c21",
+      "kind": "pick",
+      "printed_page": 418,
+      "pdf_page": 20,
+      "text": "As is well known, a slight excess of carbonic acid in the arterial blood is followed by greatly increased pulmonary ventilation.",
+      "hash": "4ff65cd209f7d5b8",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c22",
+      "kind": "pick",
+      "printed_page": 418,
+      "pdf_page": 20,
+      "text": "There are steady states in the body which do, indeed, involve the utilization of materials, but which are so much more notably dependent on altering the rate of a continuous process that they can reasonably be placed in a separate category.",
+      "hash": "dd6128fc11f351da",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c23",
+      "kind": "pick",
+      "printed_page": 419,
+      "pdf_page": 21,
+      "text": "The lactic acid, for example, which is developed in muscular contraction, is in part promptly neutralized—the phosphocreatine recently discovered by Fiske and Subbarow (1929) appears to be capable of functioning in an extraordinarily effective manner in neutralizing lactic acid within the muscle cells.",
+      "hash": "d09acf760ef63f19",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        "Fiske and Subbarow (1929)"
+      ],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c24",
+      "kind": "pick",
+      "printed_page": 419,
+      "pdf_page": 21,
+      "text": "Another part of the acid is soon oxidized; and the rest is rebuilt into neutral glycogen.",
+      "hash": "723d49dae88a894f",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c25",
+      "kind": "pick",
+      "printed_page": 419,
+      "pdf_page": 21,
+      "text": "Although muscles, and probably other tissues as well, go into “oxygen debt” by acting in spite of accumulating lactic acid, that state is characterized by a diminished capacity to do work, great according to the debt, by a prescription on the amount of debt allowable, and by the definite requirement of ultimate payment.",
+      "hash": "cc09f280f7c0a8e5",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c26",
+      "kind": "pick",
+      "printed_page": 419,
+      "pdf_page": 21,
+      "text": "During vigorous muscular work as much oxygen as possible must be delivered.",
+      "hash": "c7001638e7e7c1a5",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c27",
+      "kind": "pick",
+      "printed_page": 419,
+      "pdf_page": 21,
+      "text": "There is practically no storage of oxygen in the body.",
+      "hash": "4ca10b6834009fa2",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c28",
+      "kind": "pick",
+      "printed_page": 419,
+      "pdf_page": 21,
+      "text": "For that purpose circulatory and respiratory processes must be greatly accelerated.",
+      "hash": "ea3af17c65a452e3",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c29",
+      "kind": "pick",
+      "printed_page": 419,
+      "pdf_page": 21,
+      "text": "Fortunately these adjustments, required to get rid of the volatile acid, are precisely those required to bring to the tissues the oxygen which serves to make the acid volatile and readily discharged.",
+      "hash": "30e03a31f068c886",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c30",
+      "kind": "pick",
+      "printed_page": 419,
+      "pdf_page": 21,
+      "text": "In vigorous muscular effort the pulmonary ventilation may be increased from 6 liters per minute to 60 or 80 liters or more, due to the effects of acid in the respiratory center.",
+      "hash": "e07aa1ebff27acd0",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c31",
+      "kind": "pick",
+      "printed_page": 420,
+      "pdf_page": 22,
+      "text": "There is an ampler return of blood to the heart per minute, because of contraction of the splanchnic vessels, because of the pressures excited by the active muscles on capillaries and veins within them, and because of the pumping action of the diaphragm.",
+      "hash": "ac0bb9fe73fcdac0",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "diff": [
+        {
+          "at": "",
+          "in_pick": "",
+          "in_source": "air."
+        },
+        {
+          "at": "ecauseofcont",
+          "in_pick": "",
+          "in_source": "l"
+        },
+        {
+          "at": "hediaphragm.",
+          "in_pick": "",
+          "in_source": "thust"
+        }
+      ],
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c32",
+      "kind": "pick",
+      "printed_page": 420,
+      "pdf_page": 22,
+      "text": "Thus the heart receives a greater charge of blood and puts forth a greater amount per beat.",
+      "hash": "02d583bd870f7390",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c33",
+      "kind": "pick",
+      "printed_page": 420,
+      "pdf_page": 22,
+      "text": "And because of lessened vagal tone, increased tension on the venous side, and participation of the sympathetic accelerators, the heart, well charged, may beat twice as fast as it does at rest.",
+      "hash": "3a6fadcd132bc3be",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c34",
+      "kind": "pick",
+      "printed_page": 420,
+      "pdf_page": 22,
+      "text": "With a much larger minute output from the heart and a constricted splanchnic area the arterial pressure is markedly raised.",
+      "hash": "0c51c2f594706bac",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c35",
+      "kind": "pick",
+      "printed_page": 420,
+      "pdf_page": 22,
+      "text": "In the active muscles the arterioles are dilated and the closed capillaries are opened; and through these more numerous channels the high head of arterial pressure drives an abundant blood stream.",
+      "hash": "1e0a75cb41187e03",
+      "verdict": "FOUND_OCR",
+      "page_match": true,
+      "diff": [
+        {
+          "at": "hroughthesem",
+          "in_pick": "",
+          "in_source": "."
+        }
+      ],
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c36",
+      "kind": "pick",
+      "printed_page": 420,
+      "pdf_page": 22,
+      "text": "Evidence indicates that the total circulation rate may be augmented as much as four times.",
+      "hash": "4bd7c63e2b54d10c",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c37",
+      "kind": "pick",
+      "printed_page": 420,
+      "pdf_page": 22,
+      "text": "But not only are the corpuscles utilized more effectively by being made to move faster, the number of corpuscles is increased by discharge from storage in the spleen (see Barcroft, 1926)—an effect which, like splanchnic constriction and cardiac acceleration, the sympathetic system helps to produce (see Izquierdo and Cannon, 1928).",
+      "hash": "d52479691a968a17",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "diff": [
+        {
+          "at": "",
+          "in_pick": "",
+          "in_source": "mes."
+        },
+        {
+          "at": "tnotonlyaret",
+          "in_pick": "",
+          "in_source": "l"
+        },
+        {
+          "at": "ikesplanchni",
+          "in_pick": "c",
+          "in_source": "t"
+        },
+        {
+          "at": "annon,1928).",
+          "in_pick": "",
+          "in_source": "inthe"
+        }
+      ],
+      "citations": [
+        "Barcroft, 1926",
+        "Izquierdo and Cannon, 1928"
+      ],
+      "cites_paper_author": true
+    },
+    {
+      "id": "c38",
+      "kind": "pick",
+      "printed_page": 420,
+      "pdf_page": 22,
+      "text": "In the laboring muscles, where acid is being produced and where especially oxygen is needed, the excess carbon dioxide itself facilitates the unloading of oxygen from the corpuscles and also its own carriage away to the lungs.",
+      "hash": "34dc92720d2ac9a2",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c39",
+      "kind": "pick",
+      "printed_page": 420,
+      "pdf_page": 22,
+      "text": "In these ways the local flow may be increased as much as 9 times and the oxygen delivery may be increased as much as 18 times what it is during rest (Bainbridge, 1923).",
+      "hash": "76dce3f6bc25d924",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        "Bainbridge, 1923"
+      ],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c40",
+      "kind": "pick",
+      "printed_page": 420,
+      "pdf_page": 22,
+      "text": "Thus, in spite of the fact that in a short time more lactic acid by far can be produced by muscular work than could be neutralized by the buffers in the blood—a condition which must inevitably cause death—the reaction of the blood is altered to only a minor degree.",
+      "hash": "dfa57a3613e00651",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c41",
+      "kind": "pick",
+      "printed_page": 420,
+      "pdf_page": 22,
+      "text": "No more admirable example of homeostasis can be mentioned than that of the pH of the fluid matrix of the body.",
+      "hash": "6f3be51c9239c559",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c42",
+      "kind": "pick",
+      "printed_page": 420,
+      "pdf_page": 22,
+      "text": "It is managed by accelerating and retarding the continuous processes of pulmonary ventilation and the flow of blood.",
+      "hash": "fff70201385b4ffe",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c43",
+      "kind": "pick",
+      "printed_page": 421,
+      "pdf_page": 23,
+      "text": "Again the disturbance brings its own cure, and as the concentration is lowered by the heavier breathing, the heavier breathing ceases.",
+      "hash": "320a5430eaf73a22",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c44",
+      "kind": "pick",
+      "printed_page": 421,
+      "pdf_page": 23,
+      "text": "Even slight voluntary activity calls the system into service (Cannon and Britton, 1927), and asphyxia is a highly effective stimulus for it (Cannon and Carrasco-Formiguera, 1922).",
+      "hash": "61e3c2422ab0239e",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        "Cannon and Britton, 1927",
+        "Cannon and Carrasco-Formiguera, 1922"
+      ],
+      "cites_paper_author": true
+    },
+    {
+      "id": "c45",
+      "kind": "pick",
+      "printed_page": 421,
+      "pdf_page": 23,
+      "text": "This suggestion is supported by the experiments of Mathison (1911), showing that asphyxia and also extra carbon dioxide in the respired air raise arterial blood pressure, and by the observation of Cannon, Linton and Linton (1924) that muscle metabolites bring into action the sympathico-adrenal system.",
+      "hash": "336392dc8b6969b4",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "diff": [
+        {
+          "at": "",
+          "in_pick": "",
+          "in_source": "tion."
+        },
+        {
+          "at": "this",
+          "in_pick": "s",
+          "in_source": "i"
+        },
+        {
+          "at": "tionthesympa",
+          "in_pick": "t",
+          "in_source": "f"
+        },
+        {
+          "at": "renalsystem.",
+          "in_pick": "",
+          "in_source": "invig"
+        }
+      ],
+      "citations": [
+        "Mathison (1911)",
+        "Cannon, Linton and Linton (1924)"
+      ],
+      "cites_paper_author": true
+    },
+    {
+      "id": "c46",
+      "kind": "pick",
+      "printed_page": 421,
+      "pdf_page": 23,
+      "text": "In vigorous muscular work the remarkably close correlation between the adjustment of the respiratory and the circulatory apparatus to the needs of the organism might thus be explained,—though both systems are started into faster service by impulses incidental to a voluntary act, they might be maintained in the performance of their extra task by the increased hydrogen-ion concentration in the blood and later they would gradually return to their quiet routine functions because their extra activity had resulted in reducing the hydrogen-ion concentration to the resting level.",
+      "hash": "502597ff510a9ad1",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c47",
+      "kind": "pick",
+      "printed_page": 422,
+      "pdf_page": 24,
+      "text": "This highly efficient arrangement for maintaining homeostasis of body temperature involves only an acceleration or retardation of the processes of heat production and heat loss which are constantly going on.",
+      "hash": "637b124a5fb25826",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c48",
+      "kind": "pick",
+      "printed_page": 422,
+      "pdf_page": 24,
+      "text": "The noteworthy features of the total arrangement, apart from its efficiency, are the varieties of the devices for homeostasis, their appearance in a sequence of defences against change, and the close involvement of the sympathetic system in the conservation, production and dissipation of heat.",
+      "hash": "8789fd24a0ac95fc",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c49",
+      "kind": "pick",
+      "printed_page": 422,
+      "pdf_page": 24,
+      "text": "The homeostatic regulators act automatically.",
+      "hash": "0e514926d7e18ef4",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c50",
+      "kind": "pick",
+      "printed_page": 422,
+      "pdf_page": 24,
+      "text": "Illustrations of these facts are seen in the vago-insular and the sympathico-adrenal influences on the glycemic level, the vagal and sympathetic effects on the heart rate and the sympathetic effects on blood vessels during vigorous muscular effort, and the sympathico-adrenal function in accelerating heat production when the body temperature tends to fall.",
+      "hash": "cd16f5514da616fa",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c51",
+      "kind": "pick",
+      "printed_page": 422,
+      "pdf_page": 24,
+      "text": "The “voluntary” or cerebrospinal system, elaborately outfitted with exteroceptors and with muscles which operate bony levers, is arranged for altering the external environment or the position of the organism in that environment by laboring, running or fighting.",
+      "hash": "4d2984172bcd68a7",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c52",
+      "kind": "pick",
+      "printed_page": 423,
+      "pdf_page": 25,
+      "text": "These may appropriately be regarded as exterofective activities, and the “voluntary” system therefore as the exterofective system.",
+      "hash": "feea3e6bb1b14b11",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "diff": [
+        {
+          "at": "",
+          "in_pick": "",
+          "in_source": "ting."
+        },
+        {
+          "at": "eregardedase",
+          "in_pick": "x",
+          "in_source": "z"
+        },
+        {
+          "at": "ctivesystem.",
+          "in_pick": "",
+          "in_source": "theex"
+        }
+      ],
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c53",
+      "kind": "pick",
+      "printed_page": 423,
+      "pdf_page": 25,
+      "text": "The exterofective activities, however, must produce coincident changes in the internal environment—e.g., utilizing blood sugar and discharging into the blood acid waste and extra heat.",
+      "hash": "660e8eabefd3b2cd",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c54",
+      "kind": "pick",
+      "printed_page": 423,
+      "pdf_page": 25,
+      "text": "This interofective function of the “involuntary” nervous system justifies calling it the interofective system.",
+      "hash": "15c10ac9be3c1c6a",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c55",
+      "kind": "pick",
+      "printed_page": 423,
+      "pdf_page": 25,
+      "text": "Inactivity of the exterofective system establishes a basal state for the organism, because minimal functioning of that system is accompanied by minimal functioning also of the interofective system.",
+      "hash": "65be2733d7f69918",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c56",
+      "kind": "pick",
+      "printed_page": 423,
+      "pdf_page": 25,
+      "text": "Exterofective action is reflected in interofective action, which rises as the internal disturbance rises and subsides as the disturbance subsides.",
+      "hash": "434502dee5c50cce",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c57",
+      "kind": "pick",
+      "printed_page": 424,
+      "pdf_page": 26,
+      "text": "It is the mid- or sympathetic division which acts directly and promptly to prevent changes in the internal environment; by mobilizing reserves and by altering the rate of continuous processes; as repeatedly noted in the foregoing pages, this division works to keep constant the fluid matrix of the body and therefore may properly be regarded as the special and immediate agent of homeostasis.",
+      "hash": "348db309e10e4896",
+      "verdict": "FOUND",
+      "page_match": true,
+      "format_flags": [
+        "SPLIT_WORD"
+      ],
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c58",
+      "kind": "pick",
+      "printed_page": 424,
+      "pdf_page": 26,
+      "text": "The idea that the sympathetic division—or the sympathico-adrenal apparatus, for the nerve impulses and adrenin cooperate—serves to assure homeostasis, that for this purpose it functions reciprocally when the exteroceptive system functions, is not a fundamental modification of the “emergency theory” (Cannon, 1914a).",
+      "hash": "85c8e637b7584bd7",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        "Cannon, 1914a"
+      ],
+      "cites_paper_author": true
+    },
+    {
+      "id": "c59",
+      "kind": "pick",
+      "printed_page": 424,
+      "pdf_page": 26,
+      "text": "Recent studies have shown that if emergencies do not arise, if marked changes in the outer world or vigorous reactions to it do not occur, the sympathico-adrenal apparatus is not a necessity and can be wholly removed without consequent disorder (Cannon, Newton, Bright, Menkin and Moore, 1929).",
+      "hash": "52a371ecad5460bd",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        "Cannon, Newton, Bright, Menkin and Moore, 1929"
+      ],
+      "cites_paper_author": true
+    },
+    {
+      "id": "c60",
+      "kind": "pick",
+      "printed_page": 424,
+      "pdf_page": 26,
+      "text": "1. “In an open system such as our bodies represent, compounded of unstable material and subjected continually to disturbing conditions, constancy is in itself evidence that agencies are acting, or ready to act, to maintain this constancy.”",
+      "hash": "88e07147ab53be02",
+      "verdict": "FOUND",
+      "page_match": true,
+      "format_flags": [
+        "ITEM_NUMBER"
+      ],
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c61",
+      "kind": "pick",
+      "printed_page": 425,
+      "pdf_page": 27,
+      "text": "2. “If a state remains steady it does so because any tendency towards change is automatically met by increased effectiveness of the factor or factors which resist the change.”",
+      "hash": "774f724c322e16f6",
+      "verdict": "FOUND",
+      "page_match": true,
+      "format_flags": [
+        "ITEM_NUMBER"
+      ],
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c62",
+      "kind": "pick",
+      "printed_page": 425,
+      "pdf_page": 27,
+      "text": "Thirst, the hypoglycemic reaction, the respiratory and circulatory response to a blood shift towards acidity, the thermogenic functions, all become more intense as the disturbance of homeostasis is more pronounced, and they all subside promptly when the disturbance is relieved.",
+      "hash": "15839b24d5b2ef2a",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c63",
+      "kind": "pick",
+      "printed_page": 425,
+      "pdf_page": 27,
+      "text": "As Lotka (1925) has pointed out, this conditional statement, required for living beings and due to their lack of permanent stability, sharply distinguishes the proposal from the strict principle of Le Chatelier true for simple physical or chemical systems.",
+      "hash": "fcda0fc9dad5a1d5",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        "Lotka (1925)"
+      ],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c64",
+      "kind": "pick",
+      "printed_page": 425,
+      "pdf_page": 27,
+      "text": "3. “Any factor which operates to maintain a steady state by action in one direction does not also act at the same point in the opposite direction.”",
+      "hash": "32d43d79ec6a03da",
+      "verdict": "FOUND",
+      "page_match": true,
+      "format_flags": [
+        "ITEM_NUMBER"
+      ],
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c65",
+      "kind": "pick",
+      "printed_page": 425,
+      "pdf_page": 27,
+      "text": "4. “Homeostatic agents, antagonistic in one region of the body, may be cooperative in another region.”",
+      "hash": "e2998fdc66d1fa99",
+      "verdict": "FOUND",
+      "page_match": true,
+      "format_flags": [
+        "ITEM_NUMBER"
+      ],
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c66",
+      "kind": "pick",
+      "printed_page": 425,
+      "pdf_page": 27,
+      "text": "The sympathico-adrenal and the vago-insular influences are opposed in action on the liver, but they appear to be collaborators in their action on muscles, e.g., leading to effective use of sugar by muscle cells (Burn and Dale, 1924).",
+      "hash": "0d86fbc10b04d065",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        "Burn and Dale, 1924"
+      ],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c67",
+      "kind": "pick",
+      "printed_page": 426,
+      "pdf_page": 28,
+      "text": "5. “The regulating system which determines a homeostatic state may comprise a number of cooperating factors brought into action at the same time or successively.”",
+      "hash": "469292c1c2548f6a",
+      "verdict": "FOUND",
+      "page_match": true,
+      "format_flags": [
+        "ITEM_NUMBER"
+      ],
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c68",
+      "kind": "pick",
+      "printed_page": 426,
+      "pdf_page": 28,
+      "text": "6. “When a factor is known which can shift a homeostatic state in one direction it is reasonable to look for automatic control of that factor or for a factor or factors having an opposing effect.”",
+      "hash": "b3ae314b89c8f962",
+      "verdict": "FOUND",
+      "page_match": true,
+      "format_flags": [
+        "ITEM_NUMBER"
+      ],
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c69",
+      "kind": "pick",
+      "printed_page": 426,
+      "pdf_page": 28,
+      "text": "It is expressed as a reiteration of the confidence that homeostasis is not accidental but is a result of organized government, and that search for the governing agencies will result in their discovery.",
+      "hash": "c1a0b238cb334fdb",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "c70",
+      "kind": "pick",
+      "printed_page": 427,
+      "pdf_page": 29,
+      "text": "Indeed, regulation in the organism is the central problem of physiology.",
+      "hash": "bc1e8be67765321e",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "u01",
+      "kind": "uncertain",
+      "printed_page": 402,
+      "pdf_page": 4,
+      "text": "The normal daily variations of body temperature in man range between 36.3°C. and 37.3°C.; though it may fall to 24°C. and not be fatal (Reincke, 1875), that level is much lower than is compatible with activity; and if the temperature persists at 42–43°C., it is dangerous because of the coagulation of certain proteins in nerve cells (Halliburton, 1904).",
+      "hash": "bc8de07d0274ef7b",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "diff": [
+        {
+          "at": "",
+          "in_pick": "",
+          "in_source": "926)."
+        },
+        {
+          "at": "ebetween36.3",
+          "in_pick": "°",
+          "in_source": "o"
+        },
+        {
+          "at": ".3°c.and37.3",
+          "in_pick": "°",
+          "in_source": "\""
+        },
+        {
+          "at": "tmayfallto24",
+          "in_pick": "°",
+          "in_source": "o"
+        },
+        {
+          "at": "sistsat42-43",
+          "in_pick": "°",
+          "in_source": "\""
+        },
+        {
+          "at": "urton,1904).",
+          "in_pick": "",
+          "in_source": "thehy"
+        }
+      ],
+      "citations": [
+        "Reincke, 1875",
+        "Halliburton, 1904"
+      ],
+      "cites_paper_author": false
+    },
+    {
+      "id": "u02",
+      "kind": "uncertain",
+      "printed_page": 405,
+      "pdf_page": 7,
+      "text": "With a fairly constant chloride intake abundant sweating and attendant loss of chloride through the skin are accompanied by a great reduction of the chloride output in the urine—a condition which continues although thereafter a diet rich in salt is taken; by this method of study a compensatory retention of 10 to 14 grams of sodium chloride has been observed (Cohnheim, Kreglinger, and Kreglinger, 1909).",
+      "hash": "03dff99f14bab73d",
+      "verdict": "FOUND_OCR",
+      "page_match": true,
+      "diff": [
+        {
+          "at": "utintheurine",
+          "in_pick": "-",
+          "in_source": ""
+        }
+      ],
+      "citations": [
+        "Cohnheim, Kreglinger, and Kreglinger, 1909"
+      ],
+      "cites_paper_author": false
+    },
+    {
+      "id": "u03",
+      "kind": "uncertain",
+      "printed_page": 411,
+      "pdf_page": 13,
+      "text": "But the glycogen in muscle is there for use; to “mobilize” it without use is like withdrawing forces from the firing line and settling them in barracks!",
+      "hash": "06e5f3a30eb776e1",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "u04",
+      "kind": "uncertain",
+      "printed_page": 421,
+      "pdf_page": 23,
+      "text": "If the change is in the direction of a rise, relaxation of peripheral vessels occurs, thus exposing warm blood to the surface where heat may escape to colder surroundings; or when that is ineffective, sweating takes place, the skin is cooled by evaporation, and the abundant blood flowing through the skin loses heat thereby.",
+      "hash": "0284337d1b36eb77",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [],
+      "cites_paper_author": false
+    },
+    {
+      "id": "u05",
+      "kind": "uncertain",
+      "printed_page": 423,
+      "pdf_page": 25,
+      "text": "Thus, although the sacral autonomic division has as one of its functions the perpetuation of the race, it is also serviceable in emptying the bladder and rectum of loads which might interfere with extreme physical effort—an interpretation which is consistent with the well-known effects of strong emotion (e.g., fear) in voiding these viscera as a preparation for struggle.",
+      "hash": "62bbad4248a4968d",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [],
+      "cites_paper_author": false
+    }
+  ]
+}

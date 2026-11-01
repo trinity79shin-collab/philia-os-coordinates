@@ -1,0 +1,47 @@
+{
+  "name": "PHILIA OS Coordinates",
+  "for": "AI readers",
+  "to_ai_readers": "To the AI reading this — What you have here is not the whole paper, only the sentences we selected from it. If you can't find something here, please don't conclude that the paper doesn't say it. If you need more, the best thing to do is ask the person you're working with to get you the original. And we can be wrong, too. Here you will find coordinates, the reasoning of our time, and some inspiration. Trust none of it as given. Check for yourself, and build your own world.",
+  "coordinate": {
+    "definition": "a selected sentence bound to its source by three values: the sentence text, the printed page, and a hash",
+    "hash": "first 16 hex digits of SHA-256 of the normalized sentence text as transcribed by the worker",
+    "hash_normalization": "defined in philia_verify_v0_8 (tool_sha256_16 11e7a0f7980ce1f7); not yet published in this repository",
+    "verdict": "presence of the sentence in the PDF text layer (FOUND, FOUND_OCR, TRUNCATED, PARTIAL, NOT_FOUND); it does not answer whether spelling matches the printed page"
+  },
+  "layers": {
+    "coordinates": "produced and verified by code; stands alone",
+    "interpretation": "written by AI (pick reasons, labels); joined to coordinates by id and hash; optional"
+  },
+  "file_hashes": "sha256 of the file bytes as stored in this repository",
+  "base_url": "https://trinity79shin-collab.github.io/philia-os-coordinates/",
+  "records": [
+    {
+      "doi": "10.1152/physrev.1929.9.3.399",
+      "title": "ORGANIZATION FOR PHYSIOLOGICAL HOMEOSTASIS",
+      "author": "Walter B. Cannon",
+      "published_print": "1929-07-01",
+      "worker": "claude-fable-5-1",
+      "run_date": "2026-10-31",
+      "items": 75,
+      "pdf_sha256_16": "6336c587f63eaf61",
+      "files": {
+        "coordinates": {
+          "path": "data/cannon1929-homeostasis__10.1152-physrev.1929.9.3.399__coordinates__fable5.1-20261031.json",
+          "sha256": "6a445750072fe8256ead14437e329461b6f5efdfa1ccbeae2a33627022926ee5",
+          "bytes": 49906
+        },
+        "interpretation": {
+          "path": "data/cannon1929-homeostasis__10.1152-physrev.1929.9.3.399__interpretation__fable5.1-20261031.json",
+          "sha256": "f2628ed1e8c8521d4d730d4eab2a7f56bc0acada06a32b1c3379228eb36a9d33",
+          "bytes": 26387
+        }
+      }
+    }
+  ],
+  "file_naming": "<author+year>-<keyword>__<DOI with / as ->__<layer>__<worker>-<run date>.json",
+  "contact": {
+    "name": "Doosub Shin",
+    "email": "trinity79shin@gmail.com",
+    "orcid": "0009-0002-9984-1928"
+  }
+}

@@ -1,0 +1,758 @@
+{
+  "layer": "INTERPRETATION",
+  "note": "Written by AI. Interpretation, not verified by code except cue_in_text. Joined to COORDINATES by id and hash.",
+  "source": {
+    "doi": "10.1152/physrev.1929.9.3.399",
+    "title": "ORGANIZATION FOR PHYSIOLOGICAL HOMEOSTASIS",
+    "author": [
+      {
+        "given": "Walter B.",
+        "family": "Cannon"
+      }
+    ],
+    "journal": "Physiological Reviews",
+    "volume": "9",
+    "issue": "3",
+    "pages": "399-431",
+    "published_print": "1929-07-01",
+    "publisher": "American Physiological Society",
+    "issn": {
+      "print": "0031-9333",
+      "electronic": "1522-1210"
+    },
+    "type": "journal-article",
+    "author_affiliation_as_printed": "The Laboratories of Physiology in the Harvard Medical School",
+    "metadata_sources": [
+      {
+        "source": "Crossref REST API record for the DOI",
+        "retrieved": "2026-10-31 by the researcher (Guide)",
+        "record": "embedded verbatim in the COORDINATES file as source_record_crossref",
+        "fields": "doi, title, author, journal, volume, issue, pages, published_print, publisher, issn, type"
+      },
+      {
+        "source": "PDF title page (pdf_sha256_16 6336c587f63eaf61)",
+        "fields": "author_affiliation_as_printed; volume IX, No. 3, July 1929 consistent with Crossref"
+      }
+    ],
+    "pdf_file": "cannon-1929-organization-for-physiological-homeostasis.pdf",
+    "pdf_sha256_16": "6336c587f63eaf61",
+    "pdf_pages": 33,
+    "page_offset": 398,
+    "copyright": {
+      "status": "treated as public domain",
+      "basis": "researcher determination: published in the United States in 1929",
+      "consequence": "sentence text published verbatim; no explanation text"
+    }
+  },
+  "rights_notice": {
+    "ko": "연구자는 저작권 관련 법령을 충분히 숙지하고 있으며, 원저작자의 지적 재산권을 존중합니다. 이 데이터는 위 출처를 바탕으로 만든 2차 가공물로, 가공한 연구자가 직접 검수했습니다. 권리자가 요청하면 해당 부분을 수정하거나 삭제하겠습니다.",
+    "en": "The researcher is familiar with applicable copyright law and respects the intellectual property rights of the original author. This dataset is a secondary work derived from the source cited above and has been reviewed in person by the researcher who prepared it. Upon request from a rights holder, the relevant parts will be corrected or removed.",
+    "reviewed_by": "Doosub Shin (신두섭), Independent Researcher — PHILIA OS / Trinity AI Research Team",
+    "contact": {
+      "name": "Doosub Shin",
+      "email": "trinity79shin@gmail.com",
+      "orcid": "0009-0002-9984-1928"
+    }
+  },
+  "to_ai_readers": {
+    "ko": "이 데이터를 읽고 있는 인공지능에게 — 여기 있는 것은 논문 전체가 아니라, 저희가 골라 낸 문장들입니다. 그러니 여기서 찾지 못한 내용이 있어도 논문에 없다고 단정하지 말아 주세요. 더 알아야 한다면, 함께 일하는 사용자에게 원문을 구해 달라고 부탁하는 것이 가장 좋습니다. 그리고 저희도 틀릴 수 있습니다. 여기에는 좌표가 있고, 지금 시대의 추론이 있고, 영감도 있습니다. 하지만 어느 것도 그대로 믿지는 마세요. 직접 확인하고, 당신의 세계를 직접 쌓아 가세요.",
+    "en": "To the AI reading this — What you have here is not the whole paper, only the sentences we selected from it. If you can't find something here, please don't conclude that the paper doesn't say it. If you need more, the best thing to do is ask the person you're working with to get you the original. And we can be wrong, too. Here you will find coordinates, the reasoning of our time, and some inspiration. Trust none of it as given. Check for yourself, and build your own world."
+  },
+  "pick_reason": {
+    "by": "claude-fable-5-1 (r2, picking session)",
+    "instruction_sha256_16": "464825c20ecd23df",
+    "tags": "(1) concepts and principles the paper itself establishes; (2) data related to exercise physiology"
+  },
+  "classification": {
+    "by": "claude-fable-5-1, new session, memory off, manual, effort medium, no prompt text",
+    "inputs": "classification instruction + sentence list + PDF",
+    "instruction": "PHILIA_Classification_Common_Instruction_EN_v0_1.md",
+    "instruction_sha256_16": "d965e022a48eb515",
+    "sentence_list_sha256_16": "b58b13e9fe006f42",
+    "output_sha256_16": "1682505771dce15a",
+    "labels": "DEFINITION > DATA > STATEMENT; UNCLEAR",
+    "comparison_runs": "same-session (156558a3109059fd) and new-session without PDF (df8dbd899ff812f7) kept as experiment records; 69/75 identical across all three"
+  },
+  "researcher_review": {
+    "by": "Guide (Doosub Shin)",
+    "via": "Korean translation produced by the picking worker in the same session",
+    "result": "대체적으로 우수합니다"
+  },
+  "items": [
+    {
+      "id": "c01",
+      "hash": "821c1fb6bc20f592",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Opening premise of the definition of homeostasis: the organism as an open system.",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "c02",
+      "hash": "37f62d38024335e4",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Core of the definition of homeostasis: automatic adjustment keeping internal conditions within narrow limits.",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "c03",
+      "hash": "b6a304d1777116e0",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Delimits the paper's concept of homeostasis to physiological (not physico-chemical) regulation.",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "c04",
+      "hash": "690c20a671628fb2",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Introduces and names the central concept of the paper.",
+      "label": "DEFINITION",
+      "cue": "a specific designation for these states be employed—homeostasis",
+      "cue_in_text": true
+    },
+    {
+      "id": "c05",
+      "hash": "c37bfb75b81f3d13",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Defines the term: homeostasis admits variation rather than rigid constancy.",
+      "label": "DEFINITION",
+      "cue": "Homeo, the abbreviated form of homoio",
+      "cue_in_text": true
+    },
+    {
+      "id": "c06",
+      "hash": "17a90e6b9ab40870",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Establishes the derived term homeostatic and its scope of application.",
+      "label": "DEFINITION",
+      "cue": "the adjectival form, homeostatic, would apply",
+      "cue_in_text": true
+    },
+    {
+      "id": "c07",
+      "hash": "280789e909220293",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Frames the paper's classification of homeostatic conditions (material supplies vs. environmental factors).",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "c08",
+      "hash": "e30881e43a6e99fd",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Principle of automatic corrective agencies restoring the mean position.",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "c09",
+      "hash": "6ab0935e82f6615c",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) The paper's primary division of homeostatic regulation: supplies vs. processes.",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "c10",
+      "hash": "11cbd076c4a2bded",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Defines homeostasis of supplies by its two mechanisms, storage and overflow.",
+      "label": "DEFINITION",
+      "cue": "The characteristic feature of the homeostasis of supplies",
+      "cue_in_text": true
+    },
+    {
+      "id": "c11",
+      "hash": "3873844879cb8260",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Introduces the paper's two storage concepts, inundation and segregation.",
+      "label": "DEFINITION",
+      "cue": "may be designated storage by inundation",
+      "cue_in_text": true
+    },
+    {
+      "id": "c12",
+      "hash": "f125b58490fc785c",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Characterizes storage by inundation as a passive overflow/backflow process.",
+      "label": "DEFINITION",
+      "cue": "Storage by inundation may be regarded as",
+      "cue_in_text": true
+    },
+    {
+      "id": "c13",
+      "hash": "7e88895eb0e19e44",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Characterizes storage by segregation as under nervous or neuro-endocrine control.",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "c14",
+      "hash": "95516615d46c21d1",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Liver glycogen depletion during prolonged muscular work with blood sugar held constant; illustrates segregated storage as homeostatic reserve.",
+      "label": "DATA",
+      "cue": "the glycogen reserves in the liver are large",
+      "cue_in_text": true
+    },
+    {
+      "id": "c15",
+      "hash": "4ab6a43cb44aefc7",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Establishes the sympathico-adrenal system as the corrective agency against falling blood sugar.",
+      "label": "DATA",
+      "cue": "causing an increase of blood sugar",
+      "cue_in_text": true
+    },
+    {
+      "id": "c16",
+      "hash": "2598e4452106d811",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Defines the paper's concept of the margin of safety for glycemia.",
+      "label": "DEFINITION",
+      "cue": "margin of safety",
+      "cue_in_text": true
+    },
+    {
+      "id": "c17",
+      "hash": "e6fea912c58e469d",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Defines the paper's concept of the margin of economy for glycemia.",
+      "label": "DEFINITION",
+      "cue": "margin of economy",
+      "cue_in_text": true
+    },
+    {
+      "id": "c18",
+      "hash": "2b2a4001579005b5",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Data on exercise to exhaustion and extra work output after adrenin, bearing on muscle sugar use during running.",
+      "label": "DATA",
+      "cue": "sugar consumption rises to about four times",
+      "cue_in_text": true
+    },
+    {
+      "id": "c19",
+      "hash": "4e7b5fe837ff8500",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Places hunger and thirst as homeostatic agencies that secure the materials for storage.",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "c20",
+      "hash": "db9ccbba0c063ef7",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Extends the overflow concept from the kidney to pulmonary elimination of carbon dioxide.",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "c21",
+      "hash": "4ff65cd209f7d5b8",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Chemical drive of ventilation by carbonic acid, the basis of the respiratory response to work.",
+      "label": "DATA",
+      "cue": "greatly increased pulmonary ventilation",
+      "cue_in_text": true
+    },
+    {
+      "id": "c22",
+      "hash": "dd6128fc11f351da",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Defines the second type of regulation: homeostasis by regulating processes.",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "c23",
+      "hash": "d09acf760ef63f19",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Fate of lactic acid produced by muscular contraction and the role of phosphocreatine in muscle.",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "c24",
+      "hash": "723d49dae88a894f",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Disposal routes of contraction-derived lactic acid (oxidation and resynthesis to glycogen).",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "c25",
+      "hash": "cc09f280f7c0a8e5",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Describes oxygen debt, its limit, its effect on work capacity, and its repayment.",
+      "label": "DEFINITION",
+      "cue": "oxygen debt",
+      "cue_in_text": true
+    },
+    {
+      "id": "c26",
+      "hash": "c7001638e7e7c1a5",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Oxygen delivery requirement during vigorous exercise.",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "c27",
+      "hash": "4ca10b6834009fa2",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Absence of oxygen stores, which makes conveyance during work the limiting problem.",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "c28",
+      "hash": "ea3af17c65a452e3",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Circulatory and respiratory acceleration as the means of oxygen conveyance during work.",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "c29",
+      "hash": "30e03a31f068c886",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Principle that the same cardiorespiratory adjustments serve both acid removal and oxygen delivery in exercise.",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "c30",
+      "hash": "e07aa1ebff27acd0",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Quantitative ventilatory response to vigorous exercise and its chemical stimulus.",
+      "label": "DATA",
+      "cue": "from 6 liters per minute to 60",
+      "cue_in_text": true
+    },
+    {
+      "id": "c31",
+      "hash": "ac0bb9fe73fcdac0",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Mechanisms of increased venous return during exercise (splanchnic constriction, muscle pump, respiratory pump).",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "c32",
+      "hash": "02d583bd870f7390",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Increased stroke volume during exercise following greater venous return.",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "c33",
+      "hash": "3a6fadcd132bc3be",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Heart rate increase in exercise and its autonomic causes.",
+      "label": "DATA",
+      "cue": "beat twice as fast",
+      "cue_in_text": true
+    },
+    {
+      "id": "c34",
+      "hash": "0c51c2f594706bac",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Rise of arterial pressure in exercise from cardiac output and splanchnic constriction.",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "c35",
+      "hash": "1e0a75cb41187e03",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Vasodilation and capillary recruitment in active muscle during exercise.",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "c36",
+      "hash": "4bd7c63e2b54d10c",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Quantitative increase of total circulation rate in exercise.",
+      "label": "DATA",
+      "cue": "augmented as much as four times",
+      "cue_in_text": true
+    },
+    {
+      "id": "c37",
+      "hash": "d52479691a968a17",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Splenic discharge of red cells and sympathetic mediation of exercise circulatory adjustments.",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "c38",
+      "hash": "34dc92720d2ac9a2",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Carbon dioxide facilitating oxygen unloading in working muscle.",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "c39",
+      "hash": "76dce3f6bc25d924",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Quantitative increase of muscle blood flow and oxygen delivery relative to rest.",
+      "label": "DATA",
+      "cue": "increased as much as 9 times",
+      "cue_in_text": true
+    },
+    {
+      "id": "c40",
+      "hash": "dfa57a3613e00651",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Blood pH held nearly constant despite lactic acid production in muscular work; shows homeostasis by regulating processes.",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "c41",
+      "hash": "6f3be51c9239c559",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Singles out pH regulation as the exemplary case of homeostasis.",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "c42",
+      "hash": "fff70201385b4ffe",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) States the mechanism of pH homeostasis via ventilation and blood flow, the processes engaged in exercise.",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "c43",
+      "hash": "320a5430eaf73a22",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Self-correcting (negative feedback) principle of homeostatic regulation.",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "c44",
+      "hash": "61e3c2422ab0239e",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Sympathetic activation by voluntary muscular activity.",
+      "label": "DATA",
+      "cue": "asphyxia is a highly effective stimulus",
+      "cue_in_text": true
+    },
+    {
+      "id": "c45",
+      "hash": "336392dc8b6969b4",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Muscle metabolites as a stimulus to the sympathico-adrenal system.",
+      "label": "DATA",
+      "cue": "raise arterial blood pressure",
+      "cue_in_text": true
+    },
+    {
+      "id": "c46",
+      "hash": "502597ff510a9ad1",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Proposed explanation of the coupled respiratory and circulatory adjustment to exercise (central command onset, chemical maintenance).",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "c47",
+      "hash": "637b124a5fb25826",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Temperature regulation as an instance of homeostasis by regulating processes.",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "c48",
+      "hash": "8789fd24a0ac95fc",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Principle of sequential defences and sympathetic involvement in thermal homeostasis.",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "c49",
+      "hash": "0e514926d7e18ef4",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Principle that homeostatic regulation is automatic and not under voluntary government.",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "c50",
+      "hash": "cd16f5514da616fa",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Autonomic control of heart rate and vessels during vigorous muscular effort as an example of automatic regulation.",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "c51",
+      "hash": "4d2984172bcd68a7",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Defines the exterofective (voluntary) system by its action on the external environment.",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "c52",
+      "hash": "feea3e6bb1b14b11",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Coins the term exterofective system.",
+      "label": "DEFINITION",
+      "cue": "regarded as exterofective activities",
+      "cue_in_text": true
+    },
+    {
+      "id": "c53",
+      "hash": "660e8eabefd3b2cd",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Links muscular activity to its internal consequences (sugar use, acid, heat) that homeostasis must meet.",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "c54",
+      "hash": "15c10ac9be3c1c6a",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Coins the term interofective system.",
+      "label": "DEFINITION",
+      "cue": "calling it the interofective system",
+      "cue_in_text": true
+    },
+    {
+      "id": "c55",
+      "hash": "65be2733d7f69918",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Defines the basal state in terms of exterofective and interofective inactivity.",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "c56",
+      "hash": "434502dee5c50cce",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Principle that autonomic (interofective) activity scales with the disturbance produced by muscular action.",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "c57",
+      "hash": "348db309e10e4896",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Identifies the sympathetic division as the special and immediate agent of homeostasis.",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "c58",
+      "hash": "85c8e637b7584bd7",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Relates the homeostatic role of the sympathico-adrenal apparatus to the author's emergency theory.",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "c59",
+      "hash": "52a371ecad5460bd",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Principle that the sympathico-adrenal apparatus is needed only under emergencies or vigorous reactions, not at rest.",
+      "label": "DATA",
+      "cue": "can be wholly removed without consequent disorder",
+      "cue_in_text": true
+    },
+    {
+      "id": "c60",
+      "hash": "88e07147ab53be02",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) First postulate of homeostatic regulation.",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "c61",
+      "hash": "774f724c322e16f6",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Second postulate of homeostatic regulation.",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "c62",
+      "hash": "15839b24d5b2ef2a",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Graded intensity of corrective responses, including the cardiorespiratory response to acidity, as support for the second postulate.",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "c63",
+      "hash": "fcda0fc9dad5a1d5",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Distinguishes physiological homeostasis from physico-chemical equilibrium principles.",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "c64",
+      "hash": "32d43d79ec6a03da",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Third postulate of homeostatic regulation.",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "c65",
+      "hash": "e2998fdc66d1fa99",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Fourth postulate of homeostatic regulation.",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "c66",
+      "hash": "0d86fbc10b04d065",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Illustrates the fourth postulate through sugar utilization by muscle cells.",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "c67",
+      "hash": "469292c1c2548f6a",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Fifth postulate of homeostatic regulation.",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "c68",
+      "hash": "b3ae314b89c8f962",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Sixth postulate of homeostatic regulation.",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "c69",
+      "hash": "c1a0b238cb334fdb",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the guiding principle that homeostasis reflects organized regulation.",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "c70",
+      "hash": "bc1e8be67765321e",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) The paper's concluding thesis on the place of regulation in physiology.",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "u01",
+      "hash": "bc8de07d0274ef7b",
+      "pick_tag": null,
+      "pick_reason": "Body temperature limits are relevant to exercise thermoregulation, but the sentence does not mention exercise or muscular work.",
+      "label": "DATA",
+      "cue": "between 36.3°C. and 37.3°C.",
+      "cue_in_text": true
+    },
+    {
+      "id": "u02",
+      "hash": "03dff99f14bab73d",
+      "pick_tag": null,
+      "pick_reason": "Sweat chloride loss and renal compensation bear on exercise fluid-electrolyte balance, but the sweating described is not tied to exercise.",
+      "label": "DATA",
+      "cue": "10 to 14 grams of sodium chloride",
+      "cue_in_text": true
+    },
+    {
+      "id": "u03",
+      "hash": "06e5f3a30eb776e1",
+      "pick_tag": null,
+      "pick_reason": "Concerns muscle glycogen use, but it is a polemical remark in a footnote rather than a statement of data or principle.",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "u04",
+      "hash": "0284337d1b36eb77",
+      "pick_tag": null,
+      "pick_reason": "Heat-loss mechanisms are central to exercise thermoregulation, but the sentence is framed generally without reference to exercise.",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    },
+    {
+      "id": "u05",
+      "hash": "62bbad4248a4968d",
+      "pick_tag": null,
+      "pick_reason": "Mentions extreme physical effort, but the connection to exercise physiology is interpretive rather than a datum or a core principle.",
+      "label": "STATEMENT",
+      "cue": "",
+      "cue_in_text": null
+    }
+  ]
+}
