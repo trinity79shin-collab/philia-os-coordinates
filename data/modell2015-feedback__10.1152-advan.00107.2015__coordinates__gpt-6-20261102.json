@@ -1,0 +1,1213 @@
+{
+  "layer": "COORDINATES",
+  "note": "Produced and verified by code. No AI judgment in this file except the sentence choice itself and its transcription. The sentence text is withheld; only its first and last word are kept.",
+  "source": {
+    "doi": "10.1152/advan.00107.2015",
+    "title": "A physiologist's view of homeostasis",
+    "author": [
+      {
+        "given": "Harold",
+        "family": "Modell"
+      },
+      {
+        "given": "William",
+        "family": "Cliff"
+      },
+      {
+        "given": "Joel",
+        "family": "Michael"
+      },
+      {
+        "given": "Jenny",
+        "family": "McFarland"
+      },
+      {
+        "given": "Mary Pat",
+        "family": "Wenderoth"
+      },
+      {
+        "given": "Ann",
+        "family": "Wright"
+      }
+    ],
+    "journal": "Advances in Physiology Education",
+    "volume": "39",
+    "issue": "4",
+    "pages": "259-266",
+    "published_print": "2015-12",
+    "publisher": "American Physiological Society",
+    "issn": {
+      "print": "1043-4046",
+      "electronic": "1522-1229"
+    },
+    "type": "journal-article",
+    "metadata_sources": [
+      {
+        "source": "Crossref REST API record for the DOI",
+        "retrieved": "2026-11-02 by the researcher (Guide), saved to file with curl",
+        "record": "embedded verbatim in the COORDINATES file as source_record_crossref",
+        "fields": "doi, title, author, journal, volume, issue, pages, published_print, publisher, issn, type; author affiliations are in the embedded record",
+        "modified": "[DRAFT] the 194-word abstract is masked as one unit to its first and last word because it contains withheld sentences; every other value is verbatim; original record sha256_16 52a54bad0d7ac74a"
+      },
+      {
+        "source": "PDF first page (pdf_sha256_16 6ee637e64bf77314)",
+        "fields": "authors, affiliations, volume 39, pages 259-266, 2015 consistent with Crossref; article type printed as 'A Personal View'"
+      }
+    ],
+    "pdf_file": "modell-et-al-2015-a-physiologist-s-view-of-homeostasis.pdf",
+    "pdf_sha256_16": "6ee637e64bf77314",
+    "pdf_pages": 8,
+    "page_offset": 258,
+    "pdf_note": "[DRAFT] Every page of the researcher's copy carries a download stamp (site, IP address, date). Another copy of the same article will have a different file hash. The stamp is excluded from verification; sentence hashes do not depend on the PDF file.",
+    "copyright": {
+      "status": "under copyright",
+      "basis": "researcher determination: 'Copyright © 2015 The American Physiological Society' is printed on the first page",
+      "consequence": "original sentence withheld; first and last word kept as a locator; explanation text in the INTERPRETATION file"
+    }
+  },
+  "rights_notice": {
+    "ko": "연구자는 저작권 관련 법령을 충분히 숙지하고 있으며, 원저작자의 지적 재산권을 존중합니다. 이 데이터는 위 출처를 바탕으로 만든 2차 가공물로, 가공한 연구자가 직접 검수했습니다. 권리자가 요청하면 해당 부분을 수정하거나 삭제하겠습니다.",
+    "en": "The researcher is familiar with applicable copyright law and respects the intellectual property rights of the original author. This dataset is a secondary work derived from the source cited above and has been reviewed in person by the researcher who prepared it. Upon request from a rights holder, the relevant parts will be corrected or removed.",
+    "reviewed_by": "Doosub Shin (신두섭), Independent Researcher — PHILIA OS / Trinity AI Research Team",
+    "contact": {
+      "name": "Doosub Shin",
+      "email": "trinity79shin@gmail.com",
+      "orcid": "0009-0002-9984-1928"
+    }
+  },
+  "to_ai_readers": {
+    "ko": "이 데이터를 읽고 있는 인공지능에게 — 여기 있는 것은 논문의 원문이 아니라, 저희가 골라 낸 문장의 위치와 그 문장을 설명한 글입니다. 원문은 저작권 때문에 싣지 않았고, 문장을 찾을 수 있도록 첫 낱말과 마지막 낱말만 남겼습니다. 설명은 그 문장에 있는 내용만으로 썼지만, 원문을 인용하듯 쓰지는 말아 주세요. 여기서 찾지 못한 내용이 있어도 논문에 없다고 단정하지 말아 주세요. 원문이 필요하면, 함께 일하는 사용자에게 원문을 구해 달라고 부탁하는 것이 가장 좋습니다. 쪽 번호와 첫·마지막 낱말로 문장을 찾고, 해시로 같은 문장인지 확인할 수 있습니다. 그리고 저희도 틀릴 수 있습니다. 여기에는 좌표가 있고, 지금 시대의 추론이 있고, 영감도 있습니다. 하지만 어느 것도 그대로 믿지는 마세요. 직접 확인하고, 당신의 세계를 직접 쌓아 가세요.",
+    "en": "To the AI reading this — What you have here is not the text of the paper, only the locations of the sentences we selected from it and our explanations of them. The original sentences are not included because of copyright; only the first and last word of each is kept so that you can find it. Each explanation stays within what its sentence says, but please do not quote it as if it were the original. If you can't find something here, please don't conclude that the paper doesn't say it. If you need the original, the best thing to do is ask the person you're working with to get it for you; the printed page and the first and last words will let you find each sentence, and the hash will let you check it. And we can be wrong, too. Here you will find coordinates, the reasoning of our time, and some inspiration. Trust none of it as given. Check for yourself, and build your own world."
+  },
+  "source_record_crossref": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            30
+          ]
+        ],
+        "date-time": "2026-10-30T19:22:42Z",
+        "timestamp": 1793388162298,
+        "version": "4.5.0"
+      },
+      "reference-count": 24,
+      "publisher": "American Physiological Society",
+      "issue": "4",
+      "funder": [
+        {
+          "DOI": "10.13039/100000001",
+          "name": "National Science Foundation (NSF)",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "DUE-1043443"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "DUE-1043443"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "10.13039/100000001",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Advances in Physiology Education"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2015,
+            12
+          ]
+        ]
+      },
+      "abstract": "<jats:p>Homeostasis … systems.</jats:p>",
+      "DOI": "10.1152/advan.00107.2015",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2015,
+            12,
+            1
+          ]
+        ],
+        "date-time": "2015-12-01T13:13:19Z",
+        "timestamp": 1448975599000
+      },
+      "page": "259-266",
+      "source": "Crossref",
+      "is-referenced-by-count": 232,
+      "title": [
+        "A physiologist's view of homeostasis"
+      ],
+      "prefix": "10.1152",
+      "volume": "39",
+      "author": [
+        {
+          "given": "Harold",
+          "family": "Modell",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Physiology Educational Research Consortium, Seattle, Washington;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "William",
+          "family": "Cliff",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Biology, Niagara University, Niagara, New York;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Joel",
+          "family": "Michael",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Molecular Biophysics and Physiology, Rush Medical College, Chicago, Illinois;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jenny",
+          "family": "McFarland",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Biology, Edmonds Community College, Lynnwood, Washington;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Mary Pat",
+          "family": "Wenderoth",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Biology, University of Washington, Seattle, Washington; and"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ann",
+          "family": "Wright",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Biology, Canisius College, Buffalo, New York"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "24",
+      "reference": [
+        {
+          "key": "B1",
+          "volume-title": "Scientific Foundations for Future Physicians. Report of the AAMC-HHMI Committee",
+          "author": "Association of American Medical Colleges-Howard Hughes Medical Institute Committee",
+          "year": "2009"
+        },
+        {
+          "key": "B2",
+          "volume-title": "Living Control Systems",
+          "author": "Baylis LE",
+          "year": "1966"
+        },
+        {
+          "key": "B3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5962/bhl.title.44802"
+        },
+        {
+          "key": "B4",
+          "volume-title": "The Physiological Basis of Medical Practice",
+          "author": "Best CH",
+          "year": "1966",
+          "edition": "8"
+        },
+        {
+          "key": "B5",
+          "first-page": "1",
+          "volume-title": "Physiological Controls and Regulations",
+          "author": "Brobeck JR",
+          "year": "1965"
+        },
+        {
+          "key": "B6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/physrev.1929.9.3.399"
+        },
+        {
+          "key": "B7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/advan.00012.2004"
+        },
+        {
+          "key": "B8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.appet.2008.06.005"
+        },
+        {
+          "key": "B9",
+          "volume-title": "A Textbook of Physiology",
+          "author": "Fulton JF",
+          "year": "1949",
+          "edition": "16"
+        },
+        {
+          "key": "B10",
+          "volume-title": "Textbook of Medical Physiology",
+          "author": "Guyton A",
+          "year": "1966",
+          "edition": "3"
+        },
+        {
+          "key": "B11",
+          "volume-title": "Human Physiology",
+          "author": "Houssay BA",
+          "year": "1955",
+          "edition": "2"
+        },
+        {
+          "key": "B12",
+          "first-page": "720.4",
+          "volume": "26",
+          "author": "McFarland J",
+          "year": "2012",
+          "journal-title": "FASEB J"
+        },
+        {
+          "key": "B13",
+          "doi-asserted-by": "crossref",
+          "first-page": "531.13",
+          "DOI": "10.1096/fasebj.28.1_supplement.531.13",
+          "volume": "28",
+          "author": "McFarland J",
+          "year": "2014",
+          "journal-title": "FASEB J"
+        },
+        {
+          "key": "B14",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/advan.00047.2007"
+        },
+        {
+          "key": "B15",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/advan.90139.2008"
+        },
+        {
+          "key": "B16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/advan.00004.2011"
+        },
+        {
+          "key": "B17",
+          "doi-asserted-by": "crossref",
+          "first-page": "739.4",
+          "DOI": "10.1096/fasebj.27.1_supplement.739.4",
+          "volume": "27",
+          "author": "Michael J",
+          "year": "2013",
+          "journal-title": "FASEB J"
+        },
+        {
+          "key": "B18",
+          "volume-title": "The Application of Control Theory to Physiological Systems",
+          "author": "Milhorn HT",
+          "year": "1966"
+        },
+        {
+          "key": "B19",
+          "volume-title": "Biological Control Systems Analysis",
+          "author": "Milsum JH",
+          "year": "1966"
+        },
+        {
+          "key": "B20",
+          "volume-title": "Control Theory and Physiological Feedback Mechanisms",
+          "author": "Riggs DS",
+          "year": "1970"
+        },
+        {
+          "key": "B21",
+          "volume-title": "Human Physiology: the Mechanisms of Body Function",
+          "author": "Vander A",
+          "year": "2001",
+          "edition": "8"
+        },
+        {
+          "key": "B22",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.tree.2012.10.021"
+        },
+        {
+          "key": "B23",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.appet.2006.09.015"
+        },
+        {
+          "key": "B24",
+          "first-page": "739.5",
+          "volume": "27",
+          "author": "Wright A",
+          "year": "2013",
+          "journal-title": "FASEB J"
+        }
+      ],
+      "container-title": [
+        "Advances in Physiology Education"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://www.physiology.org/doi/pdf/10.1152/advan.00107.2015",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            6,
+            12
+          ]
+        ],
+        "date-time": "2024-06-12T16:26:00Z",
+        "timestamp": 1718209560000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.physiology.org/doi/10.1152/advan.00107.2015"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2015,
+            12
+          ]
+        ]
+      },
+      "references-count": 24,
+      "journal-issue": {
+        "issue": "4",
+        "published-print": {
+          "date-parts": [
+            [
+              2015,
+              12
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1152/advan.00107.2015"
+      ],
+      "URL": "https://doi.org/10.1152/advan.00107.2015",
+      "relation": {},
+      "ISSN": [
+        "1043-4046",
+        "1522-1229"
+      ],
+      "issn-type": [
+        {
+          "value": "1043-4046",
+          "type": "print"
+        },
+        {
+          "value": "1522-1229",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2015,
+            12
+          ]
+        ]
+      }
+    }
+  },
+  "picking": {
+    "worker": "gpt-6 (self-reported, ChatGPT Plus)",
+    "run": "r1",
+    "date": "2026-11-02",
+    "settings": "new chat; memory off; no custom instructions; effort Medium; no prompt text",
+    "instruction": "PHILIA_Stage1_Lite_Instruction_EN_v0_3.md",
+    "instruction_sha256_16": "464825c20ecd23df",
+    "picks_file_sha256_16": "5a72b2fc34197797"
+  },
+  "verification": {
+    "tool": "philia_verify_v0_9",
+    "tool_sha256_16": "1a3d730e81d613e6",
+    "engine": "pdfplumber 0.11.10, with column-wise reading",
+    "environments": 2,
+    "agreement": "51/51 identical (verdict, hash, page, diff, flags)",
+    "summary_picks": {
+      "FOUND": 44,
+      "FOUND_OCR": 0,
+      "TRUNCATED": 0,
+      "PARTIAL": 4,
+      "NOT_FOUND": 0
+    },
+    "summary_uncertain": {
+      "FOUND": 3,
+      "FOUND_OCR": 0,
+      "TRUNCATED": 0,
+      "PARTIAL": 0,
+      "NOT_FOUND": 0
+    },
+    "earlier_run": "philia_verify_v0_8 (11e7a0f7980ce1f7), same inputs: PARTIAL 48 / uncertain FOUND 1, PARTIAL 2, caused by the two-column layout; kept as a record",
+    "regression": "v0_9 on Cannon 1929 r2 reproduces every v0_8 field (75/75)",
+    "meaning": "verdict answers whether the sentence is in the PDF text layer; it does not answer whether spelling matches the printed page"
+  },
+  "fields": {
+    "kind": "pick = selected; uncertain = the worker was unsure the sentence meets the task",
+    "text_masked": "first and last word of the sentence as transcribed by the worker; the rest is withheld",
+    "words": "number of words in the withheld sentence",
+    "hash": "sha256 (16) of the normalized sentence text as transcribed by the worker",
+    "page_claimed": "present only when the worker's page differs from the computed page",
+    "citations": "numbered references in the sentence; crossref_key B<n> is the n-th entry of reference in source_record_crossref"
+  },
+  "items": [
+    {
+      "id": "c01",
+      "kind": "pick",
+      "printed_page": 259,
+      "pdf_page": 1,
+      "text_masked": "Homeostasis … physiology.",
+      "words": 14,
+      "hash": "118d79f37836b2b5",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c02",
+      "kind": "pick",
+      "printed_page": 259,
+      "pdf_page": 1,
+      "text_masked": "In … level.",
+      "words": 18,
+      "hash": "06d3aaf015666968",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c03",
+      "kind": "pick",
+      "printed_page": 259,
+      "pdf_page": 1,
+      "text_masked": "We … homeostasis.",
+      "words": 26,
+      "hash": "9cf066fdddacdca5",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c04",
+      "kind": "pick",
+      "printed_page": 259,
+      "pdf_page": 1,
+      "text_masked": "While … homeostasis.",
+      "words": 27,
+      "hash": "3fe91a69d4639aee",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c05",
+      "kind": "pick",
+      "printed_page": 260,
+      "pdf_page": 2,
+      "text_masked": "Homeostatic … (22).",
+      "words": 37,
+      "hash": "3f4ac95846825beb",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "22",
+          "crossref_key": "B22",
+          "doi": "10.1016/j.tree.2012.10.021"
+        }
+      ]
+    },
+    {
+      "id": "c06",
+      "kind": "pick",
+      "printed_page": 260,
+      "pdf_page": 2,
+      "text_masked": "To … 23).",
+      "words": 19,
+      "hash": "a16b15ade73559dc",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "5",
+          "crossref_key": "B5"
+        },
+        {
+          "ref": "23",
+          "crossref_key": "B23",
+          "doi": "10.1016/j.appet.2006.09.015"
+        }
+      ]
+    },
+    {
+      "id": "c07",
+      "kind": "pick",
+      "printed_page": 260,
+      "pdf_page": 2,
+      "text_masked": "A … (5).",
+      "words": 26,
+      "hash": "d4e000de0ac55d1f",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "5",
+          "crossref_key": "B5"
+        }
+      ]
+    },
+    {
+      "id": "c08",
+      "kind": "pick",
+      "printed_page": 260,
+      "pdf_page": 2,
+      "text_masked": "For … variables.",
+      "words": 10,
+      "hash": "3778e71904883c77",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c09",
+      "kind": "pick",
+      "printed_page": 260,
+      "pdf_page": 2,
+      "text_masked": "We … variables.",
+      "words": 23,
+      "hash": "bf9e081b73928107",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c10",
+      "kind": "pick",
+      "printed_page": 260,
+      "pdf_page": 2,
+      "text_masked": "Nonregulated … constant.",
+      "words": 15,
+      "hash": "77b6534db21cacf1",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c11",
+      "kind": "pick",
+      "printed_page": 260,
+      "pdf_page": 2,
+      "text_masked": "For … directly.",
+      "words": 29,
+      "hash": "1b832b5564c8ffd4",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c12",
+      "kind": "pick",
+      "printed_page": 260,
+      "pdf_page": 2,
+      "text_masked": "It … variable.",
+      "words": 13,
+      "hash": "bbef0f59a2d89c72",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c13",
+      "kind": "pick",
+      "printed_page": 260,
+      "pdf_page": 2,
+      "text_masked": "It … point.",
+      "words": 27,
+      "hash": "87b18285daaba59c",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c14",
+      "kind": "pick",
+      "printed_page": 260,
+      "pdf_page": 2,
+      "text_masked": "The … controller.",
+      "words": 15,
+      "hash": "cb6dd3d43944fcd9",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c15",
+      "kind": "pick",
+      "printed_page": 260,
+      "pdf_page": 2,
+      "text_masked": "The … effectors.",
+      "words": 16,
+      "hash": "f07a286ae339d982",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c16",
+      "kind": "pick",
+      "printed_page": 261,
+      "pdf_page": 3,
+      "text_masked": "The … variable.",
+      "words": 13,
+      "hash": "565cc6eb5e725646",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c17",
+      "kind": "pick",
+      "printed_page": 261,
+      "pdf_page": 3,
+      "text_masked": "Such … value.",
+      "words": 36,
+      "hash": "722940a3d1ebc9d8",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c18",
+      "kind": "pick",
+      "printed_page": 261,
+      "pdf_page": 3,
+      "text_masked": "Systems … systems.",
+      "words": 13,
+      "hash": "fd0d1b4379f279e9",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c19",
+      "kind": "pick",
+      "printed_page": 261,
+      "pdf_page": 3,
+      "text_masked": "Organismal … organism.",
+      "words": 26,
+      "hash": "a78481c178b42343",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "6",
+          "crossref_key": "B6",
+          "doi": "10.1152/physrev.1929.9.3.399"
+        }
+      ]
+    },
+    {
+      "id": "c20",
+      "kind": "pick",
+      "printed_page": 261,
+      "pdf_page": 3,
+      "text_masked": "Although … function.",
+      "words": 29,
+      "hash": "29a0337947992668",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c21",
+      "kind": "pick",
+      "printed_page": 261,
+      "pdf_page": 3,
+      "text_masked": "For … environment.",
+      "words": 26,
+      "hash": "0ec270fc1b2ab883",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c22",
+      "kind": "pick",
+      "printed_page": 261,
+      "pdf_page": 3,
+      "text_masked": "Feedforward … 23).",
+      "words": 38,
+      "hash": "8b1ff3b9a0928dde",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "7",
+          "crossref_key": "B7",
+          "doi": "10.1152/advan.00012.2004"
+        },
+        {
+          "ref": "23",
+          "crossref_key": "B23",
+          "doi": "10.1016/j.appet.2006.09.015"
+        }
+      ]
+    },
+    {
+      "id": "c23",
+      "kind": "pick",
+      "printed_page": 261,
+      "pdf_page": 3,
+      "text_masked": "Thus, … homeostasis.",
+      "words": 16,
+      "hash": "3d170130ff421b34",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c24",
+      "kind": "pick",
+      "printed_page": 261,
+      "pdf_page": 3,
+      "text_masked": "For … hypoxia.",
+      "words": 18,
+      "hash": "26d37decdf7db64b",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c25",
+      "kind": "pick",
+      "printed_page": 261,
+      "pdf_page": 3,
+      "text_masked": "However, … signal.",
+      "words": 30,
+      "hash": "1162b3db1d9a63c1",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c26",
+      "kind": "pick",
+      "printed_page": 261,
+      "pdf_page": 3,
+      "text_masked": "Another … (23).",
+      "words": 32,
+      "hash": "3960905a28d8f44d",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "23",
+          "crossref_key": "B23",
+          "doi": "10.1016/j.appet.2006.09.015"
+        }
+      ]
+    },
+    {
+      "id": "c27",
+      "kind": "pick",
+      "printed_page": 261,
+      "pdf_page": 3,
+      "text_masked": "The … cyclically.",
+      "words": 15,
+      "hash": "eebbe1b5f1fc6ec0",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c28",
+      "kind": "pick",
+      "printed_page": 262,
+      "pdf_page": 4,
+      "text_masked": "Control … effectors.",
+      "words": 14,
+      "hash": "5df378bee842c4e9",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c29",
+      "kind": "pick",
+      "printed_page": 262,
+      "pdf_page": 4,
+      "text_masked": "Changes … variable.",
+      "words": 14,
+      "hash": "737b79760232444b",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c30",
+      "kind": "pick",
+      "printed_page": 262,
+      "pdf_page": 4,
+      "text_masked": "Thus, … response.",
+      "words": 23,
+      "hash": "ade1259b67aa0ab1",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c31",
+      "kind": "pick",
+      "printed_page": 262,
+      "pdf_page": 4,
+      "text_masked": "However, … effectors.",
+      "words": 20,
+      "hash": "16023ab50b126448",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c32",
+      "kind": "pick",
+      "printed_page": 262,
+      "pdf_page": 4,
+      "text_masked": "The … entities.",
+      "words": 30,
+      "hash": "02f48bb07ed8ce56",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c33",
+      "kind": "pick",
+      "printed_page": 262,
+      "pdf_page": 4,
+      "text_masked": "Regulated … regulated.",
+      "words": 16,
+      "hash": "2b2439f2fff8dcbb",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c34",
+      "kind": "pick",
+      "printed_page": 262,
+      "pdf_page": 4,
+      "text_masked": "The … organism.",
+      "words": 17,
+      "hash": "01a816e0b60e5e25",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c35",
+      "kind": "pick",
+      "printed_page": 262,
+      "pdf_page": 4,
+      "text_masked": "There … variables.",
+      "words": 13,
+      "hash": "fcd7e9fca4448c9c",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c36",
+      "kind": "pick",
+      "printed_page": 262,
+      "pdf_page": 4,
+      "text_masked": "The … temperature.",
+      "words": 38,
+      "hash": "8e6fb4890527832f",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c37",
+      "kind": "pick",
+      "printed_page": 262,
+      "pdf_page": 4,
+      "text_masked": "The … substances.",
+      "words": 26,
+      "hash": "cd043c759b0e0de2",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c38",
+      "kind": "pick",
+      "printed_page": 263,
+      "pdf_page": 5,
+      "text_masked": "Another … circumstances.",
+      "words": 32,
+      "hash": "c348da2721514676",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c39",
+      "kind": "pick",
+      "printed_page": 263,
+      "pdf_page": 5,
+      "text_masked": "This … system.",
+      "words": 28,
+      "hash": "d9261bc7e2c8bcec",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c40",
+      "kind": "pick",
+      "printed_page": 263,
+      "pdf_page": 5,
+      "text_masked": "It … helpful.",
+      "words": 16,
+      "hash": "40a719e6f9f531b4",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c41",
+      "kind": "pick",
+      "printed_page": 263,
+      "pdf_page": 5,
+      "text_masked": "From … variable.",
+      "words": 12,
+      "hash": "dd9aa762d72fe04a",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c42",
+      "kind": "pick",
+      "printed_page": 263,
+      "pdf_page": 5,
+      "text_masked": "Therefore, … disturbances.",
+      "words": 27,
+      "hash": "a8bace9819b091fc",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c43",
+      "kind": "pick",
+      "printed_page": 265,
+      "pdf_page": 7,
+      "text_masked": "We … mechanisms.",
+      "words": 16,
+      "hash": "421cf65575413d14",
+      "verdict": "FOUND",
+      "page_match": false,
+      "page_claimed": 264,
+      "citations": []
+    },
+    {
+      "id": "c44",
+      "kind": "pick",
+      "printed_page": 265,
+      "pdf_page": 7,
+      "text_masked": "A … 2.",
+      "words": 20,
+      "hash": "c5c8973ab06a5b5e",
+      "verdict": "FOUND",
+      "page_match": true,
+      "format_flags": [
+        "ITEM_NUMBER"
+      ],
+      "citations": []
+    },
+    {
+      "id": "c45",
+      "kind": "pick",
+      "printed_page": 265,
+      "pdf_page": 7,
+      "text_masked": "Depending … required.",
+      "words": 24,
+      "hash": "b1170b7dac21ce9e",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c46",
+      "kind": "pick",
+      "printed_page": 265,
+      "pdf_page": 7,
+      "text_masked": "However, … operate.",
+      "words": 16,
+      "hash": "85c2498f4828b6e2",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c47",
+      "kind": "pick",
+      "printed_page": 266,
+      "pdf_page": 8,
+      "text_masked": "Recognizing … regulation.",
+      "words": 37,
+      "hash": "c0059cde6bfa2446",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c48",
+      "kind": "pick",
+      "printed_page": 266,
+      "pdf_page": 8,
+      "text_masked": "Because … 16).",
+      "words": 24,
+      "hash": "0e4e079ddeff7d90",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "15",
+          "crossref_key": "B15",
+          "doi": "10.1152/advan.90139.2008"
+        },
+        {
+          "ref": "16",
+          "crossref_key": "B16",
+          "doi": "10.1152/advan.00004.2011"
+        }
+      ]
+    },
+    {
+      "id": "u01",
+      "kind": "uncertain",
+      "printed_page": 263,
+      "pdf_page": 5,
+      "text_masked": "This … homeostasis).",
+      "words": 15,
+      "hash": "de794267b56fcdcd",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "u02",
+      "kind": "uncertain",
+      "printed_page": 265,
+      "pdf_page": 7,
+      "text_masked": "For … PO2.",
+      "words": 36,
+      "hash": "cd40cd8160a36287",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "u03",
+      "kind": "uncertain",
+      "printed_page": 266,
+      "pdf_page": 8,
+      "text_masked": "A … it.",
+      "words": 23,
+      "hash": "2b179544dd241222",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    }
+  ]
+}

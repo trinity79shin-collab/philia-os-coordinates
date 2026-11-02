@@ -5,12 +5,13 @@
   "coordinate": {
     "definition": "a selected sentence bound to its source by three values: the sentence text, the printed page, and a hash",
     "hash": "first 16 hex digits of SHA-256 of the normalized sentence text as transcribed by the worker",
-    "hash_normalization": "defined in philia_verify_v0_8 (tool_sha256_16 11e7a0f7980ce1f7); not yet published in this repository",
+    "withheld_text": "for sources under copyright the sentence text is withheld: the coordinates file keeps only its first and last word (text_masked) and its word count (words); the hash is still of the full sentence, so a reader holding the source can find and check it",
+    "hash_normalization": "defined in philia_verify_v0_8 (tool_sha256_16 11e7a0f7980ce1f7); not yet published in this repository; unchanged in philia_verify_v0_9 (tool_sha256_16 1a3d730e81d613e6)",
     "verdict": "presence of the sentence in the PDF text layer (FOUND, FOUND_OCR, TRUNCATED, PARTIAL, NOT_FOUND); it does not answer whether spelling matches the printed page"
   },
   "layers": {
     "coordinates": "produced and verified by code; stands alone",
-    "interpretation": "written by AI (pick reasons, labels); joined to coordinates by id and hash; optional"
+    "interpretation": "written by AI (pick reasons, labels; explanations for sources under copyright); joined to coordinates by id and hash; optional"
   },
   "file_hashes": "sha256 of the file bytes as stored in this repository",
   "base_url": "https://trinity79shin-collab.github.io/philia-os-coordinates/",
@@ -34,6 +35,29 @@
           "path": "data/cannon1929-homeostasis__10.1152-physrev.1929.9.3.399__interpretation__fable5.1-20261031.json",
           "sha256": "f2628ed1e8c8521d4d730d4eab2a7f56bc0acada06a32b1c3379228eb36a9d33",
           "bytes": 26387
+        }
+      }
+    },
+    {
+      "doi": "10.1152/advan.00107.2015",
+      "title": "A physiologist's view of homeostasis",
+      "author": "Harold Modell, William Cliff, Joel Michael, Jenny McFarland, Mary Pat Wenderoth, Ann Wright",
+      "published_print": "2015-12",
+      "worker": "gpt-6",
+      "run_date": "2026-11-02",
+      "items": 51,
+      "pdf_sha256_16": "6ee637e64bf77314",
+      "copyright": "under copyright: sentence text withheld (first and last word kept); explanations in the interpretation file",
+      "files": {
+        "coordinates": {
+          "path": "data/modell2015-feedback__10.1152-advan.00107.2015__coordinates__gpt-6-20261102.json",
+          "sha256": "239f888dc4a350e87b68e152ba70ce3b36d298cddbce3cf0297b3752cdfb5098",
+          "bytes": 33215
+        },
+        "interpretation": {
+          "path": "data/modell2015-feedback__10.1152-advan.00107.2015__interpretation__gpt-6-20261102.json",
+          "sha256": "031fe40a10437a39c72d676e487acef92bdf43a473bda63fcdd99eb02ccf5398",
+          "bytes": 27436
         }
       }
     }
