@@ -60,6 +60,29 @@
           "bytes": 27436
         }
       }
+    },
+    {
+      "doi": "10.1152/ajpregu.00907.2006",
+      "title": "The principle of homeostasis in the hypothalamus-pituitary-adrenal system: new insight from positive feedback",
+      "author": "A. Peters, M. Conrad, C. Hubold, U. Schweiger, B. Fischer, H. L. Fehm",
+      "published_print": "2007-07",
+      "worker": "claude-fable-5-1",
+      "run_date": "2026-11-03",
+      "items": 33,
+      "pdf_sha256_16": "88c4d7e5ebe6f4e7",
+      "copyright": "under copyright: sentence text withheld (first and last word kept); explanations in the interpretation file",
+      "files": {
+        "coordinates": {
+          "path": "data/peters2007-cortisol__10.1152-ajpregu.00907.2006__coordinates__fable5.1-20261103.json",
+          "sha256": "bca01d3ff1dff45934a4c3b338d41497dbd3ab1a361c1af3deb8e2430006c884",
+          "bytes": 40890
+        },
+        "interpretation": {
+          "path": "data/peters2007-cortisol__10.1152-ajpregu.00907.2006__interpretation__fable5.1-20261103.json",
+          "sha256": "f6688eed91fe33d41a90929775df186f718c3128f864504e58c8292c4d03bc06",
+          "bytes": 21341
+        }
+      }
     }
   ],
   "file_naming": "<author+year>-<keyword>__<DOI with / as ->__<layer>__<worker>-<run date>.json",
