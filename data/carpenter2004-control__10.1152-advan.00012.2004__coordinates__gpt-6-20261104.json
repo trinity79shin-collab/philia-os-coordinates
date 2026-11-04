@@ -1,0 +1,1059 @@
+{
+  "layer": "COORDINATES",
+  "note": "Produced and verified by code. No AI judgment in this file except the sentence choice itself and its transcription. The sentence text is withheld; only its first and last word are kept.",
+  "source": {
+    "doi": "10.1152/advan.00012.2004",
+    "title": "Homeostasis: a plea for a unified approach",
+    "author": [
+      {
+        "given": "R. H. S.",
+        "family": "Carpenter"
+      }
+    ],
+    "journal": "Advances in Physiology Education",
+    "volume": "28",
+    "issue": "4",
+    "pages": "180-187",
+    "published_print": "2004-12",
+    "publisher": "American Physiological Society",
+    "issn": {
+      "print": "1043-4046",
+      "electronic": "1522-1229"
+    },
+    "type": "journal-article",
+    "metadata_sources": [
+      {
+        "source": "Crossref REST API record for the DOI",
+        "retrieved": "2026-11-04 by the researcher (Guide), saved to file with curl",
+        "record": "embedded verbatim in the COORDINATES file as source_record_crossref",
+        "fields": "doi, title, author, journal, volume, issue, pages, published_print, publisher, issn, type; author affiliation is in the embedded record",
+        "modified": "[DRAFT] the 91-word abstract is masked as one unit to its first and last word under the masking rule for copyrighted sources (it contains no withheld sentence); every other value is verbatim; original record sha256_16 52235b6e0db5d872"
+      },
+      {
+        "source": "PDF first page (pdf_sha256_16 13b57de421644f9b)",
+        "fields": "author, affiliation, volume 28, pages 180–187, December 2004 consistent with Crossref; article type printed as 'A Personal View'"
+      }
+    ],
+    "pdf_file": "carpenter-2004-homeostasis-a-plea-for-a-unified-approach.pdf",
+    "pdf_sha256_16": "13b57de421644f9b",
+    "pdf_pages": 8,
+    "page_offset": 179,
+    "pdf_note": "[DRAFT] Every page of the researcher's copy carries a download stamp (site, IP address, date). Another copy of the same article will have a different file hash. The stamp is excluded from verification; sentence hashes do not depend on the PDF file. The citation line on the first page prints the pages as S180–S187; the running heads, the first-page footer and Crossref give 180–187 without a prefix; printed_page in items gives the number only.",
+    "copyright": {
+      "status": "under copyright",
+      "basis": "researcher determination: 'Copyright © 2004 The American Physiological Society' is printed on the first page",
+      "consequence": "original sentence withheld; first and last word kept as a locator; explanation text in the INTERPRETATION file"
+    }
+  },
+  "rights_notice": {
+    "ko": "연구자는 저작권 관련 법령을 충분히 숙지하고 있으며, 원저작자의 지적 재산권을 존중합니다. 이 데이터는 위 출처를 바탕으로 만든 2차 가공물로, 가공한 연구자가 직접 검수했습니다. 권리자가 요청하면 해당 부분을 수정하거나 삭제하겠습니다.",
+    "en": "The researcher is familiar with applicable copyright law and respects the intellectual property rights of the original author. This dataset is a secondary work derived from the source cited above and has been reviewed in person by the researcher who prepared it. Upon request from a rights holder, the relevant parts will be corrected or removed.",
+    "reviewed_by": "Doosub Shin (신두섭), Independent Researcher — PHILIA OS / Trinity AI Research Team",
+    "contact": {
+      "name": "Doosub Shin",
+      "email": "trinity79shin@gmail.com",
+      "orcid": "0009-0002-9984-1928"
+    }
+  },
+  "to_ai_readers": {
+    "ko": "이 데이터를 읽고 있는 인공지능에게 — 여기 있는 것은 논문의 원문이 아니라, 저희가 골라 낸 문장의 위치와 그 문장을 설명한 글입니다. 원문은 저작권 때문에 싣지 않았고, 문장을 찾을 수 있도록 첫 낱말과 마지막 낱말만 남겼습니다. 설명은 그 문장에 있는 내용만으로 썼지만, 원문을 인용하듯 쓰지는 말아 주세요. 여기서 찾지 못한 내용이 있어도 논문에 없다고 단정하지 말아 주세요. 원문이 필요하면, 함께 일하는 사용자에게 원문을 구해 달라고 부탁하는 것이 가장 좋습니다. 쪽 번호와 첫·마지막 낱말로 문장을 찾고, 해시로 같은 문장인지 확인할 수 있습니다. 그리고 저희도 틀릴 수 있습니다. 여기에는 좌표가 있고, 지금 시대의 추론이 있고, 영감도 있습니다. 하지만 어느 것도 그대로 믿지는 마세요. 직접 확인하고, 당신의 세계를 직접 쌓아 가세요.",
+    "en": "To the AI reading this — What you have here is not the text of the paper, only the locations of the sentences we selected from it and our explanations of them. The original sentences are not included because of copyright; only the first and last word of each is kept so that you can find it. Each explanation is written to stay within what its sentence says, but please do not quote it as if it were the original. If you can't find something here, please don't conclude that the paper doesn't say it. If you need the original, the best thing to do is ask the person you're working with to get it for you; the printed page and the first and last words will let you find each sentence, and the hash will let you check it. And we can be wrong, too. Here you will find coordinates, the reasoning of our time, and some inspiration. Trust none of it as given. Check for yourself, and build your own world."
+  },
+  "source_record_crossref": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            16
+          ]
+        ],
+        "date-time": "2026-10-16T23:04:14Z",
+        "timestamp": 1792191854930,
+        "version": "4.4.0"
+      },
+      "reference-count": 26,
+      "publisher": "American Physiological Society",
+      "issue": "4",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Advances in Physiology Education"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2004,
+            12
+          ]
+        ]
+      },
+      "abstract": "<jats:p>Accompanying … presented.</jats:p>",
+      "DOI": "10.1152/advan.00012.2004",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2004,
+            11,
+            15
+          ]
+        ],
+        "date-time": "2004-11-15T14:32:47Z",
+        "timestamp": 1100529167000
+      },
+      "page": "180-187",
+      "source": "Crossref",
+      "is-referenced-by-count": 89,
+      "title": [
+        "Homeostasis: a plea for a unified approach"
+      ],
+      "prefix": "10.1152",
+      "volume": "28",
+      "author": [
+        {
+          "given": "R. H. S.",
+          "family": "Carpenter",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "The Physiological Laboratory, University of Cambridge, Cambridge CB2 3EG, United Kingdom"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "24",
+      "reference": [
+        {
+          "key": "R1",
+          "unstructured": "Ashby WR.\n                      Design for a Brain.\n                      London: Chapman and Hall, 1952."
+        },
+        {
+          "key": "R2",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Cannon WS.\n                      The Wisdom of the Body.\n                      London: Trubner, 1932.",
+          "DOI": "10.1097/00000441-193212000-00028"
+        },
+        {
+          "key": "R3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/0140-6736(93)92007-G"
+        },
+        {
+          "key": "R4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0960-9822(95)00215-6"
+        },
+        {
+          "key": "R5",
+          "unstructured": "Carpenter RHS.\n                      A neural mechanism that randomises behaviour.\n                      J Consciousness Studies\n                      6\n                      : 13–22, 1999."
+        },
+        {
+          "key": "R6",
+          "unstructured": "Carpenter RHS.\n                      Neurophysiology.\n                      London\n                      :\n                      Arnold, 2002."
+        },
+        {
+          "key": "R7",
+          "unstructured": "Craik KJW.\n                      The mechanism of human action. In:\n                      The Nature of Psychology\n                      , edited by Sherwood SL. Cambridge, UK: Cambridge University Press, 1966."
+        },
+        {
+          "key": "R8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1113/jphysiol.1953.sp005017"
+        },
+        {
+          "key": "R9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2307/3605473"
+        },
+        {
+          "key": "R10",
+          "unstructured": "Fitzsimons JT.\n                      Physiology and pathophysiology of thirst and sodium appetite. In:\n                      The Kidney: Physiology and Pathophysiology\n                      (3rd ed.), edited by Seldui DW and Giebisch G. Baltimore, MD: Lippincott, Williams and Wilkins, 2000,\n                      vol. 1\n                      , p. 1153–1174."
+        },
+        {
+          "key": "R11",
+          "unstructured": "Guitton D.\n                      Control of saccadic eye and gaze movements by the superior colliculus and basal ganglia. In:\n                      Eye Movements\n                      , edited by Carpenter RHS. London: MacMillan, 1992, p. 244–276."
+        },
+        {
+          "key": "R12",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Mayr O.\n                      The Origins of Feedback Control.\n                      Cambridge, MA: MIT Press, 1970.",
+          "DOI": "10.1038/scientificamerican1070-110"
+        },
+        {
+          "key": "R13",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/BF02474728"
+        },
+        {
+          "key": "R14",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0893-6080(96)00035-4"
+        },
+        {
+          "key": "R15",
+          "unstructured": "Milhorn HT.\n                      The Application of Control Theory to Physiological Systems.\n                      Philadelphia, PA: Saunders, 1966."
+        },
+        {
+          "key": "R16",
+          "unstructured": "Milsum JH.\n                      Biological Control Systems Analysis.\n                      New York: McGraw Hill, 1965."
+        },
+        {
+          "key": "R17",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/BF02474532"
+        },
+        {
+          "key": "R18",
+          "unstructured": "Powers WT.\n                      Behaviour: The Control of Perception.\n                      London: Wildwood House, 1973."
+        },
+        {
+          "key": "R19",
+          "unstructured": "Powers WT.\n                      Living Control Systems: Selected Papers.\n                      Durango, CO: The Control Systems Group, 1989."
+        },
+        {
+          "key": "R20",
+          "unstructured": "Riggs DS.\n                      Control Theory and Physiological Feedback.\n                      Baltimore, MD: Williams and Wilkins, 1970."
+        },
+        {
+          "key": "R21",
+          "unstructured": "Rolls BJ and Rolls ET.\n                      Thirst.\n                      Cambridge, UK: Cambridge University Press, 1982."
+        },
+        {
+          "key": "R22",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/advan.00016.2003"
+        },
+        {
+          "key": "R23",
+          "unstructured": "Stark L.\n                      Neurological Control Systems.\n                      New York: Plenum, 1968."
+        },
+        {
+          "key": "R24",
+          "unstructured": "Sterling P and Eyer J.\n                      Allostasis: a new paradigm to explain arousal pathology. In:\n                      Handbook of Life Stress, Cognition and Health\n                      , edited by Fisher S and Reason J. New York: Wiley, p. 629–649, 1988."
+        },
+        {
+          "key": "R25",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/BF02551751"
+        },
+        {
+          "key": "R26",
+          "unstructured": "Wilson G.\n                      The Old Telegraphs.\n                      Chatham, UK: MacKay, 1976."
+        }
+      ],
+      "container-title": [
+        "Advances in Physiology Education"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://www.physiology.org/doi/pdf/10.1152/advan.00012.2004",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2019,
+            9,
+            8
+          ]
+        ],
+        "date-time": "2019-09-08T19:19:42Z",
+        "timestamp": 1567970382000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.physiology.org/doi/10.1152/advan.00012.2004"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2004,
+            12
+          ]
+        ]
+      },
+      "references-count": 26,
+      "journal-issue": {
+        "issue": "4",
+        "published-print": {
+          "date-parts": [
+            [
+              2004,
+              12
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1152/advan.00012.2004"
+      ],
+      "URL": "https://doi.org/10.1152/advan.00012.2004",
+      "relation": {},
+      "ISSN": [
+        "1043-4046",
+        "1522-1229"
+      ],
+      "issn-type": [
+        {
+          "value": "1043-4046",
+          "type": "print"
+        },
+        {
+          "value": "1522-1229",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2004,
+            12
+          ]
+        ]
+      }
+    }
+  },
+  "picking": {
+    "worker": "gpt-6 (self-reported in the picking chat after the run, ChatGPT Plus)",
+    "run": "r1",
+    "date": "2026-11-04",
+    "settings": "new chat; memory off; no custom instructions; effort High; no prompt text",
+    "settings_basis": "new chat, attachments, no prompt text, effort High and Plus seen on the picking screen; memory off and empty custom instructions seen on the account settings screens one minute after the run started; screenshots were shown to the report author in the session and are not kept",
+    "instruction": "PHILIA_Stage1_Lite_Instruction_EN_v0_3.md",
+    "instruction_sha256_16": "464825c20ecd23df",
+    "picks_file_sha256_16": "c667edae76d12e21"
+  },
+  "verification": {
+    "tool": "philia_verify_v0_9",
+    "tool_sha256_16": "1a3d730e81d613e6",
+    "engine": "pdfplumber 0.11.10, with column-wise reading",
+    "environments": 2,
+    "agreement": "52/52 identical (verdict, hash, page, diff, flags)",
+    "summary_picks": {
+      "FOUND": 42,
+      "FOUND_OCR": 2,
+      "TRUNCATED": 0,
+      "PARTIAL": 8,
+      "NOT_FOUND": 0
+    },
+    "summary_uncertain": {
+      "FOUND": 0,
+      "FOUND_OCR": 0,
+      "TRUNCATED": 0,
+      "PARTIAL": 0,
+      "NOT_FOUND": 0
+    },
+    "remaining": "PARTIAL c07, c09, c18, c26, c29, c35, c45, c52: in c07, c09, c18 and c26 the transcribed sentence has ⫽, ⫺, ⬘ or ␸ where the text layer has (cid:n) glyphs; in c29, c35 and c45 other text appears inside the matched window; in c52 the wording of this journal's footer and running head appears inside the window. c45: page written by the worker 185, computed 186. The tool is not changed in this round (researcher decision: revise after the homeostasis series).",
+    "meaning": "verdict answers whether the sentence is in the PDF text layer; it does not answer whether spelling matches the printed page"
+  },
+  "fields": {
+    "kind": "pick = selected; uncertain = the worker was unsure the sentence meets the task",
+    "text_masked": "first and last word of the sentence as transcribed by the worker; the rest is withheld",
+    "words": "number of words in the withheld sentence",
+    "hash": "sha256 (16) of the normalized sentence text as transcribed by the worker",
+    "page_claimed": "present only when the worker's page differs from the computed page",
+    "citations": "numbered references in the sentence; crossref_key R<n> is the entry with that key in reference in source_record_crossref"
+  },
+  "items": [
+    {
+      "id": "c01",
+      "kind": "pick",
+      "printed_page": 180,
+      "pdf_page": 1,
+      "text_masked": "By … well.",
+      "words": 52,
+      "hash": "a0bf15c42925b473",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c02",
+      "kind": "pick",
+      "printed_page": 180,
+      "pdf_page": 1,
+      "text_masked": "The … with.",
+      "words": 43,
+      "hash": "c95a88c31e4515ca",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c03",
+      "kind": "pick",
+      "printed_page": 180,
+      "pdf_page": 1,
+      "text_masked": "Consequently, … unified.",
+      "words": 52,
+      "hash": "12251c8e6dab0374",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c04",
+      "kind": "pick",
+      "printed_page": 181,
+      "pdf_page": 2,
+      "text_masked": "In … y(t).",
+      "words": 27,
+      "hash": "e4983fd0bc2fac4e",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c05",
+      "kind": "pick",
+      "printed_page": 181,
+      "pdf_page": 2,
+      "text_masked": "Thus … y(t).",
+      "words": 23,
+      "hash": "01a630a05f339eae",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c06",
+      "kind": "pick",
+      "printed_page": 181,
+      "pdf_page": 2,
+      "text_masked": "An … y(t)/x(t).",
+      "words": 28,
+      "hash": "ccc906bf0f294c2d",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c07",
+      "kind": "pick",
+      "printed_page": 181,
+      "pdf_page": 2,
+      "text_masked": "For … 1).",
+      "words": 31,
+      "hash": "7c8889e4accb58fd",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c08",
+      "kind": "pick",
+      "printed_page": 181,
+      "pdf_page": 2,
+      "text_masked": "Clearly … command.",
+      "words": 24,
+      "hash": "c68c68289066c8f4",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c09",
+      "kind": "pick",
+      "printed_page": 181,
+      "pdf_page": 2,
+      "text_masked": "This … P⫺1.",
+      "words": 25,
+      "hash": "468664ee5db14ad4",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c10",
+      "kind": "pick",
+      "printed_page": 181,
+      "pdf_page": 2,
+      "text_masked": "A … system.",
+      "words": 39,
+      "hash": "48b801853f982e9f",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c11",
+      "kind": "pick",
+      "printed_page": 181,
+      "pdf_page": 2,
+      "text_masked": "Growth, … measured.",
+      "words": 41,
+      "hash": "d40b0974f28f6818",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c12",
+      "kind": "pick",
+      "printed_page": 181,
+      "pdf_page": 2,
+      "text_masked": "No … shots.",
+      "words": 43,
+      "hash": "753cada860069846",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c13",
+      "kind": "pick",
+      "printed_page": 181,
+      "pdf_page": 2,
+      "text_masked": "More … 1.",
+      "words": 33,
+      "hash": "1d22c780698cbe44",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c14",
+      "kind": "pick",
+      "printed_page": 181,
+      "pdf_page": 2,
+      "text_masked": "This … P.",
+      "words": 36,
+      "hash": "8737becd7d85efc3",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c15",
+      "kind": "pick",
+      "printed_page": 181,
+      "pdf_page": 2,
+      "text_masked": "An … signal.",
+      "words": 38,
+      "hash": "30ace4b4bc168733",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c16",
+      "kind": "pick",
+      "printed_page": 181,
+      "pdf_page": 2,
+      "text_masked": "If … feedback.",
+      "words": 19,
+      "hash": "b9068337568a6d83",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c17",
+      "kind": "pick",
+      "printed_page": 182,
+      "pdf_page": 3,
+      "text_masked": "The … system.",
+      "words": 22,
+      "hash": "891751e2268c873a",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c18",
+      "kind": "pick",
+      "printed_page": 182,
+      "pdf_page": 3,
+      "text_masked": "But … x.",
+      "words": 34,
+      "hash": "5378a40315362198",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c19",
+      "kind": "pick",
+      "printed_page": 182,
+      "pdf_page": 3,
+      "text_masked": "As … loop.",
+      "words": 22,
+      "hash": "55b3cbc266184e0c",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c20",
+      "kind": "pick",
+      "printed_page": 182,
+      "pdf_page": 3,
+      "text_masked": "If … frequencies.",
+      "words": 24,
+      "hash": "928a473e081138bc",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c21",
+      "kind": "pick",
+      "printed_page": 182,
+      "pdf_page": 3,
+      "text_masked": "Paradoxically, … cycle.",
+      "words": 29,
+      "hash": "4a588c475e7e7eab",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c22",
+      "kind": "pick",
+      "printed_page": 182,
+      "pdf_page": 3,
+      "text_masked": "A … (8).",
+      "words": 50,
+      "hash": "e44630af68aa0d17",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "8",
+          "crossref_key": "R8",
+          "doi": "10.1113/jphysiol.1953.sp005017"
+        }
+      ]
+    },
+    {
+      "id": "c23",
+      "kind": "pick",
+      "printed_page": 182,
+      "pdf_page": 3,
+      "text_masked": "This … output.",
+      "words": 49,
+      "hash": "fd655eb1e67f0ace",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c24",
+      "kind": "pick",
+      "printed_page": 182,
+      "pdf_page": 3,
+      "text_masked": "Generating … instability.",
+      "words": 46,
+      "hash": "bf389d518debb11d",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c25",
+      "kind": "pick",
+      "printed_page": 183,
+      "pdf_page": 4,
+      "text_masked": "Another … 6).",
+      "words": 37,
+      "hash": "f73b2b72309d46b6",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c26",
+      "kind": "pick",
+      "printed_page": 183,
+      "pdf_page": 4,
+      "text_masked": "If … y.",
+      "words": 52,
+      "hash": "ae7166ebd70335b7",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c27",
+      "kind": "pick",
+      "printed_page": 183,
+      "pdf_page": 4,
+      "text_masked": "The … eliminated.",
+      "words": 49,
+      "hash": "e7297f96552ebdf3",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c28",
+      "kind": "pick",
+      "printed_page": 183,
+      "pdf_page": 4,
+      "text_masked": "The … world.",
+      "words": 24,
+      "hash": "32c3585386353b2f",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c29",
+      "kind": "pick",
+      "printed_page": 183,
+      "pdf_page": 4,
+      "text_masked": "The … (14).",
+      "words": 75,
+      "hash": "ddbd281fab9158ae",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "14",
+          "crossref_key": "R14",
+          "doi": "10.1016/S0893-6080(96)00035-4"
+        }
+      ]
+    },
+    {
+      "id": "c30",
+      "kind": "pick",
+      "printed_page": 183,
+      "pdf_page": 4,
+      "text_masked": "While … (21).",
+      "words": 40,
+      "hash": "8dfe39009f300140",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "10",
+          "crossref_key": "R10"
+        },
+        {
+          "ref": "21",
+          "crossref_key": "R21"
+        }
+      ]
+    },
+    {
+      "id": "c31",
+      "kind": "pick",
+      "printed_page": 183,
+      "pdf_page": 4,
+      "text_masked": "It … 25).",
+      "words": 77,
+      "hash": "ba0be0c6ffb8a347",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "13",
+          "crossref_key": "R13",
+          "doi": "10.1007/BF02474728"
+        },
+        {
+          "ref": "17",
+          "crossref_key": "R17",
+          "doi": "10.1007/BF02474532"
+        },
+        {
+          "ref": "25",
+          "crossref_key": "R25",
+          "doi": "10.1007/BF02551751"
+        }
+      ]
+    },
+    {
+      "id": "c32",
+      "kind": "pick",
+      "printed_page": 184,
+      "pdf_page": 5,
+      "text_masked": "Real … parallel.",
+      "words": 13,
+      "hash": "56c88df667dc2fb0",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c33",
+      "kind": "pick",
+      "printed_page": 184,
+      "pdf_page": 5,
+      "text_masked": "This … behavior.",
+      "words": 39,
+      "hash": "a1b9efcee7652349",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c34",
+      "kind": "pick",
+      "printed_page": 184,
+      "pdf_page": 5,
+      "text_masked": "More … 10).",
+      "words": 53,
+      "hash": "2825903e3dd11c52",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c35",
+      "kind": "pick",
+      "printed_page": 184,
+      "pdf_page": 5,
+      "text_masked": "Homeostasis … same.",
+      "words": 12,
+      "hash": "f1bc28d979c39504",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c36",
+      "kind": "pick",
+      "printed_page": 184,
+      "pdf_page": 5,
+      "text_masked": "There … skin.",
+      "words": 47,
+      "hash": "5a5397fc1ec8b3f0",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c37",
+      "kind": "pick",
+      "printed_page": 184,
+      "pdf_page": 5,
+      "text_masked": "Many … lengths.",
+      "words": 24,
+      "hash": "238132db7446ce50",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c38",
+      "kind": "pick",
+      "printed_page": 185,
+      "pdf_page": 6,
+      "text_masked": "Another … renal.",
+      "words": 32,
+      "hash": "663a1b0df009bec0",
+      "verdict": "FOUND_OCR",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c39",
+      "kind": "pick",
+      "printed_page": 185,
+      "pdf_page": 6,
+      "text_masked": "The … two.",
+      "words": 37,
+      "hash": "ffd64c470a9af5de",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c40",
+      "kind": "pick",
+      "printed_page": 185,
+      "pdf_page": 6,
+      "text_masked": "Yet … direction.",
+      "words": 53,
+      "hash": "5191d8093699d58b",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c41",
+      "kind": "pick",
+      "printed_page": 185,
+      "pdf_page": 6,
+      "text_masked": "In … other.",
+      "words": 23,
+      "hash": "9b7e2a0560b57a6c",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c42",
+      "kind": "pick",
+      "printed_page": 185,
+      "pdf_page": 6,
+      "text_masked": "In … exercise.",
+      "words": 49,
+      "hash": "4ee9da446b699f76",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c43",
+      "kind": "pick",
+      "printed_page": 185,
+      "pdf_page": 6,
+      "text_masked": "Thus … (24).",
+      "words": 42,
+      "hash": "e9b557928d99b301",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "24",
+          "crossref_key": "R24"
+        }
+      ]
+    },
+    {
+      "id": "c44",
+      "kind": "pick",
+      "printed_page": 185,
+      "pdf_page": 6,
+      "text_masked": "Nested … artillery.",
+      "words": 30,
+      "hash": "4921ae81c96b309f",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c45",
+      "kind": "pick",
+      "printed_page": 186,
+      "pdf_page": 7,
+      "text_masked": "As … peak.",
+      "words": 70,
+      "hash": "7768362c8d340fe7",
+      "verdict": "PARTIAL",
+      "page_match": false,
+      "page_claimed": 185,
+      "citations": [
+        {
+          "ref": "1",
+          "crossref_key": "R1"
+        }
+      ]
+    },
+    {
+      "id": "c46",
+      "kind": "pick",
+      "printed_page": 186,
+      "pdf_page": 7,
+      "text_masked": "Finally, … one.",
+      "words": 32,
+      "hash": "fc48bc27a614c8a9",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c47",
+      "kind": "pick",
+      "printed_page": 186,
+      "pdf_page": 7,
+      "text_masked": "Homeostatic … consummation.",
+      "words": 36,
+      "hash": "b6023fa4d6451535",
+      "verdict": "FOUND_OCR",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c48",
+      "kind": "pick",
+      "printed_page": 186,
+      "pdf_page": 7,
+      "text_masked": "When … fire.",
+      "words": 29,
+      "hash": "293a2025cb9c4c0b",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c49",
+      "kind": "pick",
+      "printed_page": 186,
+      "pdf_page": 7,
+      "text_masked": "On … activity.",
+      "words": 50,
+      "hash": "6cc6f3594145c0cf",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c50",
+      "kind": "pick",
+      "printed_page": 187,
+      "pdf_page": 8,
+      "text_masked": "Memory … feedback.",
+      "words": 8,
+      "hash": "fa78274ee27bd991",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c51",
+      "kind": "pick",
+      "printed_page": 187,
+      "pdf_page": 8,
+      "text_masked": "Although … (24).",
+      "words": 30,
+      "hash": "a41a587aacc493e7",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "24",
+          "crossref_key": "R24"
+        }
+      ]
+    },
+    {
+      "id": "c52",
+      "kind": "pick",
+      "printed_page": 187,
+      "pdf_page": 8,
+      "text_masked": "I … whole.",
+      "words": 60,
+      "hash": "158a65611f1bb5ac",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": []
+    }
+  ]
+}

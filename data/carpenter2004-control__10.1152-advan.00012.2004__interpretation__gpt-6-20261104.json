@@ -1,0 +1,514 @@
+{
+  "layer": "INTERPRETATION",
+  "note": "Written by AI. Interpretation, not verified by code for correctness. Joined to COORDINATES by id and hash.",
+  "source": {
+    "doi": "10.1152/advan.00012.2004",
+    "title": "Homeostasis: a plea for a unified approach",
+    "author": [
+      {
+        "given": "R. H. S.",
+        "family": "Carpenter"
+      }
+    ],
+    "journal": "Advances in Physiology Education",
+    "volume": "28",
+    "issue": "4",
+    "pages": "180-187",
+    "published_print": "2004-12",
+    "publisher": "American Physiological Society",
+    "issn": {
+      "print": "1043-4046",
+      "electronic": "1522-1229"
+    },
+    "type": "journal-article",
+    "metadata_sources": [
+      {
+        "source": "Crossref REST API record for the DOI",
+        "retrieved": "2026-11-04 by the researcher (Guide), saved to file with curl",
+        "record": "embedded verbatim in the COORDINATES file as source_record_crossref",
+        "fields": "doi, title, author, journal, volume, issue, pages, published_print, publisher, issn, type; author affiliation is in the embedded record",
+        "modified": "[DRAFT] the 91-word abstract is masked as one unit to its first and last word under the masking rule for copyrighted sources (it contains no withheld sentence); every other value is verbatim; original record sha256_16 52235b6e0db5d872"
+      },
+      {
+        "source": "PDF first page (pdf_sha256_16 13b57de421644f9b)",
+        "fields": "author, affiliation, volume 28, pages 180–187, December 2004 consistent with Crossref; article type printed as 'A Personal View'"
+      }
+    ],
+    "pdf_file": "carpenter-2004-homeostasis-a-plea-for-a-unified-approach.pdf",
+    "pdf_sha256_16": "13b57de421644f9b",
+    "pdf_pages": 8,
+    "page_offset": 179,
+    "pdf_note": "[DRAFT] Every page of the researcher's copy carries a download stamp (site, IP address, date). Another copy of the same article will have a different file hash. The stamp is excluded from verification; sentence hashes do not depend on the PDF file. The citation line on the first page prints the pages as S180–S187; the running heads, the first-page footer and Crossref give 180–187 without a prefix; printed_page in items gives the number only.",
+    "copyright": {
+      "status": "under copyright",
+      "basis": "researcher determination: 'Copyright © 2004 The American Physiological Society' is printed on the first page",
+      "consequence": "original sentence withheld; first and last word kept as a locator; explanation text in the INTERPRETATION file"
+    }
+  },
+  "rights_notice": {
+    "ko": "연구자는 저작권 관련 법령을 충분히 숙지하고 있으며, 원저작자의 지적 재산권을 존중합니다. 이 데이터는 위 출처를 바탕으로 만든 2차 가공물로, 가공한 연구자가 직접 검수했습니다. 권리자가 요청하면 해당 부분을 수정하거나 삭제하겠습니다.",
+    "en": "The researcher is familiar with applicable copyright law and respects the intellectual property rights of the original author. This dataset is a secondary work derived from the source cited above and has been reviewed in person by the researcher who prepared it. Upon request from a rights holder, the relevant parts will be corrected or removed.",
+    "reviewed_by": "Doosub Shin (신두섭), Independent Researcher — PHILIA OS / Trinity AI Research Team",
+    "contact": {
+      "name": "Doosub Shin",
+      "email": "trinity79shin@gmail.com",
+      "orcid": "0009-0002-9984-1928"
+    }
+  },
+  "to_ai_readers": {
+    "ko": "이 데이터를 읽고 있는 인공지능에게 — 여기 있는 것은 논문의 원문이 아니라, 저희가 골라 낸 문장의 위치와 그 문장을 설명한 글입니다. 원문은 저작권 때문에 싣지 않았고, 문장을 찾을 수 있도록 첫 낱말과 마지막 낱말만 남겼습니다. 설명은 그 문장에 있는 내용만으로 썼지만, 원문을 인용하듯 쓰지는 말아 주세요. 여기서 찾지 못한 내용이 있어도 논문에 없다고 단정하지 말아 주세요. 원문이 필요하면, 함께 일하는 사용자에게 원문을 구해 달라고 부탁하는 것이 가장 좋습니다. 쪽 번호와 첫·마지막 낱말로 문장을 찾고, 해시로 같은 문장인지 확인할 수 있습니다. 그리고 저희도 틀릴 수 있습니다. 여기에는 좌표가 있고, 지금 시대의 추론이 있고, 영감도 있습니다. 하지만 어느 것도 그대로 믿지는 마세요. 직접 확인하고, 당신의 세계를 직접 쌓아 가세요.",
+    "en": "To the AI reading this — What you have here is not the text of the paper, only the locations of the sentences we selected from it and our explanations of them. The original sentences are not included because of copyright; only the first and last word of each is kept so that you can find it. Each explanation is written to stay within what its sentence says, but please do not quote it as if it were the original. If you can't find something here, please don't conclude that the paper doesn't say it. If you need the original, the best thing to do is ask the person you're working with to get it for you; the printed page and the first and last words will let you find each sentence, and the hash will let you check it. And we can be wrong, too. Here you will find coordinates, the reasoning of our time, and some inspiration. Trust none of it as given. Check for yourself, and build your own world."
+  },
+  "pick_reason": {
+    "by": "gpt-6 (r1, picking session)",
+    "instruction_sha256_16": "464825c20ecd23df",
+    "tags": "(1) concepts and principles the paper itself establishes; (2) data related to exercise physiology"
+  },
+  "classification": {
+    "by": "gpt-6, new chat, memory off, no custom instructions, effort High",
+    "inputs": "classification instruction + sentence list + PDF",
+    "instruction": "PHILIA_Classification_Common_Instruction_EN_v0_1.md",
+    "instruction_sha256_16": "d965e022a48eb515",
+    "sentence_list_sha256_16": "d31fff087327aa04",
+    "output_sha256_16": "b734557dad29ec6e",
+    "output_form": "JSON code block in the chat, copied as text by the researcher; the digest is of the copied text",
+    "start": "one new chat with no prompt text; ran on the first turn",
+    "labels": "DEFINITION > DATA > STATEMENT; UNCLEAR",
+    "cue": "removed because it copies words from the withheld sentence; all 24 cues were checked by code as verbatim and at most 8 words before removal"
+  },
+  "explanation": {
+    "by": "gpt-6, new chat, memory off, no custom instructions, effort High",
+    "inputs": "explanation instruction + sentence list + PDF",
+    "instruction": "PHILIA_Explanation_Instruction_EN_v0_1.md (draft, third run)",
+    "instruction_sha256_16": "53310007b6ab76c6",
+    "sentence_list_sha256_16": "d31fff087327aa04",
+    "output_sha256_16": "3f756eeb7e979b31",
+    "start": "one new chat with no prompt text; ran on the first turn",
+    "checks": "check_explanations_v0_2 (839f6142b816d1b8): no run of 5 or more words shared with the sentence, no new numbers, no quotation marks, length within 1.5x; square brackets name what a word refers to and are interpretation"
+  },
+  "researcher_review": {
+    "by": "Guide (Doosub Shin)",
+    "via": "Korean translations produced by the worker in the picking session and in the explanation session",
+    "scope": "picks and explanations",
+    "result": "검수했음 (picks), 검수함 (explanations)",
+    "other_checks": "none; the worker was not asked to review its own explanations"
+  },
+  "items": [
+    {
+      "id": "c01",
+      "hash": "a0bf15c42925b473",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Identifies hierarchical control as part of the paper’s unified homeostasis framework.",
+      "label": "STATEMENT",
+      "explanation": "Restricting attention to elementary direct negative feedback excludes other biological control arrangements and overlooks hierarchies of homeostatic regulation, despite their relevance to understanding disorders of physiological control."
+    },
+    {
+      "id": "c02",
+      "hash": "c95a88c31e4515ca",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Establishes the importance of quantitative feedback dynamics for control-system behavior.",
+      "label": "STATEMENT",
+      "explanation": "A regulator’s behavior depends on numerical properties of its feedback connections. People accustomed to chemical rather than physical explanations, and to fixed states rather than change over time, may struggle with these ideas."
+    },
+    {
+      "id": "c03",
+      "hash": "12251c8e6dab0374",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the article’s central principle of unified, diverse homeostatic mechanisms.",
+      "label": "STATEMENT",
+      "explanation": "Homeostasis should be understood as a coherent field with multiple forms, avoiding artificial divisions and repeated rediscovery of ideas already familiar 30 years earlier."
+    },
+    {
+      "id": "c04",
+      "hash": "e4983fd0bc2fac4e",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Defines a dynamically varying reference and output in homeostatic control.",
+      "label": "DEFINITION",
+      "explanation": "In basic homeostatic arrangements, target x remains fixed as a set point; more broadly, both target x(t) and actual value y(t) change over time."
+    },
+    {
+      "id": "c05",
+      "hash": "01a630a05f339eae",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Introduces the input-output model used throughout the paper.",
+      "label": "DEFINITION",
+      "explanation": "The entire regulator can be viewed as an opaque unit that receives x(t) as its input and delivers y(t) as its output."
+    },
+    {
+      "id": "c06",
+      "hash": "ccc906bf0f294c2d",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Defines the transfer-function concept used to assess regulation.",
+      "label": "DEFINITION",
+      "explanation": "A transfer function in control theory, T, describes the relationship of output to input as y(t)/x(t)."
+    },
+    {
+      "id": "c07",
+      "hash": "7c8889e4accb58fd",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Specifies the criterion for ideal control performance.",
+      "label": "DATA",
+      "explanation": "Perfect regulation keeps the actual quantity equal to its target continuously, with gain G = 1, phase shift φ = 0 at every frequency, and T = 1."
+    },
+    {
+      "id": "c08",
+      "hash": "c68c68289066c8f4",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Identifies the command as the actuator input required for controllability.",
+      "label": "DEFINITION",
+      "explanation": "To be controllable, a plant needs an incoming signal able to change its activity. That signal is termed the command."
+    },
+    {
+      "id": "c09",
+      "hash": "468664ee5db14ad4",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Explains the inverse-model requirement in ballistic control.",
+      "label": "STATEMENT",
+      "explanation": "The controller must counteract the plant’s behavior by operating as its inverse, expressed mathematically as Q = P⁻¹."
+    },
+    {
+      "id": "c10",
+      "hash": "48b801853f982e9f",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Defines the paper’s ballistic-control category.",
+      "label": "DEFINITION",
+      "explanation": "In a ballistic system, responses of the plant to possible commands are determined beforehand, and that knowledge guides command selection to produce the intended outcome."
+    },
+    {
+      "id": "c11",
+      "hash": "d40b0974f28f6818",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Identifies fatigue and external load variation as sources of control-model mismatch relevant to movement.",
+      "label": "STATEMENT",
+      "explanation": "A command can produce different results because of growth, illness, tiredness, or aging. Unexpected influences such as ball weight or side wind can also introduce disturbances that shift P away from its previously measured behavior."
+    },
+    {
+      "id": "c12",
+      "hash": "753cada860069846",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Establishes the need for outcome-based adaptation beyond open-loop control.",
+      "label": "STATEMENT",
+      "explanation": "Purely preplanned control cannot be robust: such systems need later information on whether their results matched their aims, much as a shooter changes the sights when wind repeatedly pushes shots off target."
+    },
+    {
+      "id": "c13",
+      "hash": "1d22c780698cbe44",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Describes parameter adjustment needed to maintain controller-plant matching.",
+      "label": "DATA",
+      "explanation": "The settings of controller Q must be revised continuously to follow variations in plant P, maintaining PQ = 1."
+    },
+    {
+      "id": "c14",
+      "hash": "8737becd7d85efc3",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the prospective advantage and informational requirement of parametric feedforward.",
+      "label": "DEFINITION",
+      "explanation": "Parametric feedforward counters a disturbance before it creates an error, but requires detailed advance knowledge of possible disruptions and their precise effects on P."
+    },
+    {
+      "id": "c15",
+      "hash": "30ace4b4bc168733",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Defines error measurement as an alternative to monitoring the external disturbance.",
+      "label": "DEFINITION",
+      "explanation": "Rather than observe a disturbance itself, this method detects its consequences by taking the measured result away from the intended result, producing an error signal."
+    },
+    {
+      "id": "c16",
+      "hash": "b9068337568a6d83",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Names the principle of parametric feedback.",
+      "label": "DEFINITION",
+      "explanation": "Using discrepancies, when they arise, to adjust how the system operates is known as parametric feedback."
+    },
+    {
+      "id": "c17",
+      "hash": "891751e2268c873a",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Identifies direct feedback as a principal class of homeostatic control.",
+      "label": "DEFINITION",
+      "explanation": "Direct feedback is another principal category of control and is frequently treated as equivalent to homeostasis itself."
+    },
+    {
+      "id": "c18",
+      "hash": "5378a40315362198",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Distinguishes direct feedback from parametric feedback by the use of error.",
+      "label": "STATEMENT",
+      "explanation": "With direct feedback, the discrepancy y − x enters the controller as its input instead of target x, rather than being used to retune the controller’s parameters."
+    },
+    {
+      "id": "c19",
+      "hash": "55b3cbc266184e0c",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Defines the sign and structure of the negative-feedback loop.",
+      "label": "DEFINITION",
+      "explanation": "Feeding the discrepancy back creates a closed loop. Subtracting output y from target x gives this loop its negative-feedback character."
+    },
+    {
+      "id": "c20",
+      "hash": "928a473e081138bc",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Establishes the destabilizing effect of feedback delay.",
+      "label": "STATEMENT",
+      "explanation": "Excessive travel time for information around the feedback path produces substantial phase delay at higher frequencies."
+    },
+    {
+      "id": "c21",
+      "hash": "4a588c475e7e7eab",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Characterizes hunting and limit-cycle instability.",
+      "label": "DEFINITION",
+      "explanation": "Excessive gain can cause hunting, in which output fluctuations grow ever larger until saturation confines them to a repeating cycle."
+    },
+    {
+      "id": "c22",
+      "hash": "e44630af68aa0d17",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Connects servo control to muscle length and load compensation.",
+      "label": "STATEMENT",
+      "explanation": "The monosynaptic stretch reflex illustrates a tracking servo: commands sent to gamma fibers specify a target muscle length, and contraction force is generated to reach that length despite disturbances from changing loads."
+    },
+    {
+      "id": "c23",
+      "hash": "fd655eb1e67f0ace",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Defines derivative-based prediction as a feedback-stabilizing mechanism.",
+      "label": "STATEMENT",
+      "explanation": "The future discrepancy can be anticipated from how previous errors have evolved, including their rates of change and higher derivatives, so that the predicted error accounts for the time until a command corrects the output."
+    },
+    {
+      "id": "c24",
+      "hash": "bf389d518debb11d",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Links predictive error signals from muscle spindles to motor-control stability.",
+      "label": "STATEMENT",
+      "explanation": "Many adapting sensory organs, including primary nerve fibers from muscle spindles, generate signals corresponding to time derivatives of errors. Including these signals in feedback loops can reduce oscillations and other instabilities."
+    },
+    {
+      "id": "c25",
+      "hash": "f73b2b72309d46b6",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Presents internal plant models as a remedy for feedback delay.",
+      "label": "STATEMENT",
+      "explanation": "Feedback delays may instead be addressed through an internal representation of the plant that forecasts its actual output, without calculating derivatives from observed errors."
+    },
+    {
+      "id": "c26",
+      "hash": "ae7166ebd70335b7",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Describes predicted error in internal feedback control.",
+      "label": "DEFINITION",
+      "explanation": "If the internal model is faithful, its prediction y′ matches actual output y. Comparing y′ with target x yields an anticipated discrepancy that can serve as direct feedback, just like a measured error, to adjust y."
+    },
+    {
+      "id": "c27",
+      "hash": "e7297f96552ebdf3",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Explains why an internal model can avoid instability caused by delay.",
+      "label": "STATEMENT",
+      "explanation": "A forecast discrepancy can become available before observations of the real output arrive, preventing many instabilities associated with the substantial phase delays found in biological systems."
+    },
+    {
+      "id": "c28",
+      "hash": "32c3585386353b2f",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Specifies the limitation of model-only error signals.",
+      "label": "STATEMENT",
+      "explanation": "Because a forecast discrepancy does not measure the real outcome, it cannot correct for unanticipated disturbances from outside the system."
+    },
+    {
+      "id": "c29",
+      "hash": "ddbd281fab9158ae",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Introduces error-based adaptation of an internal model.",
+      "label": "DEFINITION",
+      "explanation": "A secondary feedback path can compare observed output y with model prediction y′ and use their mismatch to revise the model through parametric feedback. The predicted output must be delayed to align with observation; this arrangement is the Smith controller, which has been examined in a biological setting."
+    },
+    {
+      "id": "c30",
+      "hash": "8dfe39009f300140",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Identifies fluid-regulation signals relevant to hydration during activity.",
+      "label": "DATA",
+      "explanation": "Thirst seems to arise mainly from discrepancies related to cellular water loss and extracellular fluid volume, yet drinking generally ends before those discrepancies have entirely disappeared."
+    },
+    {
+      "id": "c31",
+      "hash": "ba0be0c6ffb8a347",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Presents a predictive model of water ingestion and hydration control.",
+      "label": "STATEMENT",
+      "explanation": "An internal representation of bodily hydration probably forecasts the effects of a drinking pattern and stops intake when it predicts the water requirement will be satisfied, similarly to a saccade. Several earlier models of drinking regulation contain this proposal, sometimes implicitly."
+    },
+    {
+      "id": "c32",
+      "hash": "56c88df667dc2fb0",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Establishes simultaneous use of multiple control strategies in physiology.",
+      "label": "STATEMENT",
+      "explanation": "Biological regulators commonly employ multiple control strategies simultaneously."
+    },
+    {
+      "id": "c33",
+      "hash": "a1b9efcee7652349",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Explains how muscle spindle feedback updates movement-control programs.",
+      "label": "STATEMENT",
+      "explanation": "[Muscle spindle signals] supply partly predictive direct feedback for the monosynaptic reflex and parametric feedback for the cerebellum and other regions, helping ballistic plans and models stay aligned with actual muscle behavior."
+    },
+    {
+      "id": "c34",
+      "hash": "2825903e3dd11c52",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Establishes the hierarchy linking muscle, joint, and task-level control.",
+      "label": "STATEMENT",
+      "explanation": "Control is often layered: adjusting muscle length serves arm positioning, positioning the arm enables aiming a gun, and aiming serves the broader objective of survival."
+    },
+    {
+      "id": "c35",
+      "hash": "f1bc28d979c39504",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Clarifies that homeostasis allows some regulated variables to change.",
+      "label": "DEFINITION",
+      "explanation": "Homeostasis preserves some conditions without requiring every condition to remain unchanged."
+    },
+    {
+      "id": "c36",
+      "hash": "5a5397fc1ec8b3f0",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Shows the hierarchy of competing thermal control priorities.",
+      "label": "STATEMENT",
+      "explanation": "Bodily variables differ in priority, and preserving more fundamental ones can require permitting lower-priority quantities to vary; maintaining core temperature, for example, may come at the expense of skin health."
+    },
+    {
+      "id": "c37",
+      "hash": "238132db7446ce50",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Identifies redundancy in muscle-level solutions for a joint-control target.",
+      "label": "STATEMENT",
+      "explanation": "Because several muscles influence a joint’s angle, different combinations of muscle lengths can all eliminate error in joint position."
+    },
+    {
+      "id": "c38",
+      "hash": "663a1b0df009bec0",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Identifies respiratory and renal command pathways in acid-base control.",
+      "label": "DATA",
+      "explanation": "Acid–base regulation provides another case: its controlled variables are pH and CO2 in plasma, while breathing and kidney activity provide the corresponding command signals."
+    },
+    {
+      "id": "c39",
+      "hash": "ffd64c470a9af5de",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Defines multidimensional set points and vectorial error for coupled variables.",
+      "label": "DEFINITION",
+      "explanation": "The target has a location in two dimensions, with pH and PCO2 as coordinates; the body’s actual state usually occupies another position, and the connecting vector measures the discrepancy."
+    },
+    {
+      "id": "c40",
+      "hash": "5191d8093699d58b",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Describes sensory components of water-volume and osmolarity regulation.",
+      "label": "STATEMENT",
+      "explanation": "Controlling blood volume together with osmolarity involves sensors detecting distinct components of a combined error: hypothalamic dehydration receptors monitor one direction, whereas receptors sensing stretch in large veins monitor another."
+    },
+    {
+      "id": "c41",
+      "hash": "9b7e2a0560b57a6c",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the interdependence of subsystem reference values.",
+      "label": "STATEMENT",
+      "explanation": "In [systems regulating interdependent variables], the target for one subsystem necessarily depends on how the other subsystem operates."
+    },
+    {
+      "id": "c42",
+      "hash": "4ee9da446b699f76",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Explicitly identifies anticipatory muscle perfusion before exercise in hierarchical regulation.",
+      "label": "STATEMENT",
+      "explanation": "In layered regulation, lower-level targets continually shift with demands from higher levels. Some shifts anticipate events through internal models, as when delivery of blood to muscles increases ahead of exercise."
+    },
+    {
+      "id": "c43",
+      "hash": "e9b557928d99b301",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Describes context-dependent blood-pressure regulation and its allostasis framing.",
+      "label": "STATEMENT",
+      "explanation": "Blood pressure is maintained around a target that changes with circumstances; this variability has sometimes motivated describing its regulation as allostatic rather than homeostatic."
+    },
+    {
+      "id": "c44",
+      "hash": "4921ae81c96b309f",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Establishes that changeable set points imply nested homeostatic organization.",
+      "label": "DEFINITION",
+      "explanation": "An adjustable target implies nested homeostatic regulation, a longstanding principle illustrated by sights on rifles and artillery that can themselves be repositioned."
+    },
+    {
+      "id": "c45",
+      "hash": "7768362c8d340fe7",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Defines ultrastability as reorganization to preserve long-term homeostasis.",
+      "label": "DEFINITION",
+      "explanation": "Kenneth Craik recognized some 60 years earlier, though his thinking was not made public until more than 20 years later, that lasting changes in circumstances may require wholesale restructuring of control systems. Ross Ashby later termed this ultrastability: maintaining homeostasis by jumping between solutions rather than making small, gradual changes to model parameters."
+    },
+    {
+      "id": "c46",
+      "hash": "fc48bc27a614c8a9",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Includes locomotion and environmental selection within homeostatic control.",
+      "label": "STATEMENT",
+      "explanation": "For organisms capable of moving, physiological stability is often preserved by relocating to more favorable surroundings rather than adapting to the present environment."
+    },
+    {
+      "id": "c47",
+      "hash": "b6023fa4d6451535",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Integrates internal physiological regulation with predictive behavior.",
+      "label": "DEFINITION",
+      "explanation": "Homeostasis combines direct sensing and alteration of the internal environment with indirect regulation through sensory predictions of error, along with external control accomplished by movement and consummatory activity."
+    },
+    {
+      "id": "c48",
+      "hash": "293a2025cb9c4c0b",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Gives metabolic and vascular thermoregulatory responses relevant to physical activity.",
+      "label": "STATEMENT",
+      "explanation": "Cold conditions prompt increased metabolic activity and narrowing of skin blood vessels to limit heat transfer, alongside putting on extra clothing and approaching a fire."
+    },
+    {
+      "id": "c49",
+      "hash": "6cc6f3594145c0cf",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Describes hypothalamic control of glucostatic endocrine and feeding responses.",
+      "label": "STATEMENT",
+      "explanation": "[The hypothalamus] acts by regulating the release of glucostatic hormones (GH) and by directing behavior, including internal responses such as salivation and external acts such as hunting and eating, guided by models of their expected consequences."
+    },
+    {
+      "id": "c50",
+      "hash": "fa78274ee27bd991",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Interprets memory within the framework of parameter adaptation.",
+      "label": "DEFINITION",
+      "explanation": "Memory is equivalent to parametric feedback."
+    },
+    {
+      "id": "c51",
+      "hash": "a41a587aacc493e7",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Specifies the concepts the author treats as belonging to allostasis.",
+      "label": "DEFINITION",
+      "explanation": "In practice, despite rarely being defined, allostasis appears to include predictive feedback, layered regulation with adjustable targets, models of the plant, and major reorganization after environmental change."
+    },
+    {
+      "id": "c52",
+      "hash": "158a65611f1bb5ac",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the paper’s concluding commitment to integrated neural and hormonal control.",
+      "label": "STATEMENT",
+      "explanation": "An integrated perspective would treat these forms of regulation as connected and recognize close connections linking nervous-system and hormone-based control. Parallels between them could allow detailed numerical understanding of neural systems to improve explanations of whole-body homeostasis over long periods."
+    }
+  ]
+}
