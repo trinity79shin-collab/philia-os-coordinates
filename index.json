@@ -83,6 +83,29 @@
           "bytes": 21341
         }
       }
+    },
+    {
+      "doi": "10.1152/advan.00012.2004",
+      "title": "Homeostasis: a plea for a unified approach",
+      "author": "R. H. S. Carpenter",
+      "published_print": "2004-12",
+      "worker": "gpt-6",
+      "run_date": "2026-11-04",
+      "items": 52,
+      "pdf_sha256_16": "13b57de421644f9b",
+      "copyright": "under copyright: sentence text withheld (first and last word kept); explanations in the interpretation file",
+      "files": {
+        "coordinates": {
+          "path": "data/carpenter2004-control__10.1152-advan.00012.2004__coordinates__gpt-6-20261104.json",
+          "sha256": "762ccdc44b38cf0142ad4f9d428e441e3428c34e417d1e8c0a87d952cb083179",
+          "bytes": 32115
+        },
+        "interpretation": {
+          "path": "data/carpenter2004-control__10.1152-advan.00012.2004__interpretation__gpt-6-20261104.json",
+          "sha256": "7e48fb43e0cf3bbd4e6483a83ce288367017a2cacf4af95324cf061455f4eb73",
+          "bytes": 29706
+        }
+      }
     }
   ],
   "file_naming": "<author+year>-<keyword>__<DOI with / as ->__<layer>__<worker>-<run date>.json",
