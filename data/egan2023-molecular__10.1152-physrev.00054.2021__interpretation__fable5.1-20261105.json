@@ -1,0 +1,926 @@
+{
+  "layer": "INTERPRETATION",
+  "note": "Written by AI. Interpretation, not verified by code for correctness. Joined to COORDINATES by id and hash.",
+  "source": {
+    "doi": "10.1152/physrev.00054.2021",
+    "title": "Molecular responses to acute exercise and their relevance for adaptations in skeletal muscle to exercise training",
+    "author": [
+      {
+        "given": "Brendan",
+        "family": "Egan"
+      },
+      {
+        "given": "Adam P.",
+        "family": "Sharples"
+      }
+    ],
+    "journal": "Physiological Reviews",
+    "volume": "103",
+    "issue": "3",
+    "pages": "2057-2170",
+    "published_print": "2023-07-01",
+    "publisher": "American Physiological Society",
+    "issn": {
+      "print": "0031-9333",
+      "electronic": "1522-1210"
+    },
+    "type": "journal-article",
+    "metadata_sources": [
+      {
+        "source": "Crossref REST API record for the DOI",
+        "retrieved": "2026-11-05 by the researcher (Guide), saved to file with curl",
+        "record": "embedded verbatim in the COORDINATES file as source_record_crossref",
+        "fields": "doi, title, author, journal, volume, issue, pages, published_print, publisher, issn, type; author affiliation is in the embedded record",
+        "modified": "[DRAFT] the 202-word abstract is masked as one unit to its first and last word under the masking rule for copyrighted sources; it contains withheld sentence(s) c01 (code check); every other value is verbatim; original record sha256_16 7afdcd7057b5afb6"
+      },
+      {
+        "source": "PDF pages 1–2 (pdf_sha256_16 dc2c2d083ecc2115)",
+        "fields": "authors, affiliations, volume 103, pages 2057–2170, 2023 consistent with Crossref; article type printed as 'Review Article'; first published November 17, 2022"
+      }
+    ],
+    "pdf_file": "egan-sharples-2023-molecular-responses-to-acute-exercise-and-their-relevance-for-adaptations-in-skeletal-muscle-to.pdf",
+    "pdf_sha256_16": "dc2c2d083ecc2115",
+    "pdf_pages": 115,
+    "page_offset": 2055,
+    "pdf_note": "[DRAFT] Every page of the researcher's copy carries a download stamp (site, IP address, date). Another copy of the same article will have a different file hash. The stamp is excluded from verification; sentence hashes do not depend on the PDF file. PDF page 1 is an unnumbered Clinical Highlights page; PDF page 2 is printed page 2057, hence page_offset 2055. The main text runs to printed page 2125; the reference list fills 2125–2170.",
+    "copyright": {
+      "status": "under copyright",
+      "basis": "researcher determination: 'Copyright © 2023 the American Physiological Society' is printed on the first page",
+      "consequence": "original sentence withheld; first and last word kept as a locator; explanation text in the INTERPRETATION file"
+    }
+  },
+  "rights_notice": {
+    "ko": "연구자는 저작권 관련 법령을 충분히 숙지하고 있으며, 원저작자의 지적 재산권을 존중합니다. 이 데이터는 위 출처를 바탕으로 만든 2차 가공물로, 가공한 연구자가 직접 검수했습니다. 권리자가 요청하면 해당 부분을 수정하거나 삭제하겠습니다.",
+    "en": "The researcher is familiar with applicable copyright law and respects the intellectual property rights of the original author. This dataset is a secondary work derived from the source cited above and has been reviewed in person by the researcher who prepared it. Upon request from a rights holder, the relevant parts will be corrected or removed.",
+    "reviewed_by": "Doosub Shin (신두섭), Independent Researcher — PHILIA OS / Trinity AI Research Team",
+    "contact": {
+      "name": "Doosub Shin",
+      "email": "trinity79shin@gmail.com",
+      "orcid": "0009-0002-9984-1928"
+    }
+  },
+  "to_ai_readers": {
+    "ko": "이 데이터를 읽고 있는 인공지능에게 — 여기 있는 것은 논문의 원문이 아니라, 저희가 골라 낸 문장의 위치와 그 문장을 설명한 글입니다. 원문은 저작권 때문에 싣지 않았고, 문장을 찾을 수 있도록 첫 낱말과 마지막 낱말만 남겼습니다. 설명은 그 문장에 있는 내용만으로 썼지만, 원문을 인용하듯 쓰지는 말아 주세요. 여기서 찾지 못한 내용이 있어도 논문에 없다고 단정하지 말아 주세요. 원문이 필요하면, 함께 일하는 사용자에게 원문을 구해 달라고 부탁하는 것이 가장 좋습니다. 쪽 번호와 첫·마지막 낱말로 문장을 찾고, 해시로 같은 문장인지 확인할 수 있습니다. 그리고 저희도 틀릴 수 있습니다. 여기에는 좌표가 있고, 지금 시대의 추론이 있고, 영감도 있습니다. 하지만 어느 것도 그대로 믿지는 마세요. 직접 확인하고, 당신의 세계를 직접 쌓아 가세요.",
+    "en": "To the AI reading this — What you have here is not the text of the paper, only the locations of the sentences we selected from it and our explanations of them. The original sentences are not included because of copyright; only the first and last word of each is kept so that you can find it. Each explanation is written to stay within what its sentence says, but please do not quote it as if it were the original. If you can't find something here, please don't conclude that the paper doesn't say it. If you need the original, the best thing to do is ask the person you're working with to get it for you; the printed page and the first and last words will let you find each sentence, and the hash will let you check it. And we can be wrong, too. Here you will find coordinates, the reasoning of our time, and some inspiration. Trust none of it as given. Check for yourself, and build your own world."
+  },
+  "pick_reason": {
+    "by": "claude-fable-5-1 (r1, picking session)",
+    "instruction_sha256_16": "464825c20ecd23df",
+    "tags": "(1) concepts and principles the paper itself establishes; (2) data related to exercise physiology"
+  },
+  "classification": {
+    "by": "claude-fable-5-1, new chat, memory off, no custom instructions, effort medium",
+    "inputs": "classification instruction + sentence list + PDF",
+    "instruction": "PHILIA_Classification_Common_Instruction_EN_v0_1.md",
+    "instruction_sha256_16": "d965e022a48eb515",
+    "sentence_list_sha256_16": "e404351049170107",
+    "output_sha256_16": "c4a31155963e966d",
+    "output_form": "received by the researcher as text from the chat, not as a file; the digest is of that text",
+    "start": "one new chat with no prompt text; ran on the first turn",
+    "labels": "DEFINITION > DATA > STATEMENT; UNCLEAR",
+    "cue": "removed because it copies words from the withheld sentence; all 50 cues were checked by code as verbatim and at most 8 words before removal"
+  },
+  "explanation": {
+    "by": "claude-fable-5-1, new chat, memory off, no custom instructions, effort medium",
+    "inputs": "explanation instruction + sentence list + PDF",
+    "instruction": "PHILIA_Explanation_Instruction_EN_v0_1.md (draft, fourth run)",
+    "instruction_sha256_16": "53310007b6ab76c6",
+    "sentence_list_sha256_16": "e404351049170107",
+    "output_sha256_16": "a6490cfeb379d0e1",
+    "start": "one new chat with no prompt text; ran on the first turn",
+    "checks": "check_explanations_v0_2 (839f6142b816d1b8) checked: runs of 5 or more words shared with the sentence, new numbers, quotation marks, length within 1.5x. Flagged 4 (c31, c37, c45, c76): each shares a run of exactly 5 words with its sentence, every one containing a number kept from the sentence; the explanations are not changed. No new numbers, no quotation marks, none over 1.5x. Square brackets name what a word refers to and are interpretation"
+  },
+  "researcher_review": {
+    "by": "Guide (Doosub Shin)",
+    "via": "Korean translations produced by the worker in the picking session and in the explanation session",
+    "scope": "picks and explanations",
+    "result": "검수했음 (picks), 검수했음 (explanations)",
+    "other_checks": "none; the worker was not asked to review its own explanations"
+  },
+  "items": [
+    {
+      "id": "c01",
+      "hash": "76aba920d60459c0",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) The review's central model: adaptation to training is underpinned by molecular pathways activated/repressed by each acute exercise session.",
+      "label": "STATEMENT",
+      "explanation": "[The remodeling of skeletal muscle structure and function], together with the mechanism behind training adaptations, rests on molecular pathways and processes being turned on or off after every single bout of exercise."
+    },
+    {
+      "id": "c02",
+      "hash": "a6f7c435e71fda5c",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the review's framing: acute exercise-induced molecular changes as the mechanistic basis of training adaptations.",
+      "label": "STATEMENT",
+      "explanation": "The review concentrates instead on how acute exercise alters molecular pathways and processes, with those alterations put forward as the mechanism through which skeletal muscle adapts to repeated training."
+    },
+    {
+      "id": "c03",
+      "hash": "ab89dee477d3eaf9",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) The kinetic model of adaptation (transient transcription accumulating into mRNA/protein change) that the review builds on.",
+      "label": "STATEMENT",
+      "explanation": "[Time-course studies of mRNA after aerobic and resistance exercise] pointed to short-lived rises in transcription while recovering from successive exercise bouts building up mRNA step by step; this build-up was taken as the kinetic mechanism behind training adaptations, since a greater supply of transcripts provides the template for making proteins that drive lasting structural and functional change."
+    },
+    {
+      "id": "c04",
+      "hash": "64b50ac7778e0b09",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) The review's proposed stimulus-signal-sensor-signal transduction-effector framework.",
+      "label": "DEFINITION",
+      "explanation": "An updated scheme is then put forward for how molecular information is handled after exercise: an exercise stimulus produces molecular signals, sensor proteins detect them, signal transduction proteins process and relay them, and effector proteins then control transcription, translation (protein synthesis), protein breakdown, and other cell processes."
+    },
+    {
+      "id": "c05",
+      "hash": "f31eb7743ee95b47",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) The review's position that molecular specificity does not yet fully explain divergent training adaptations.",
+      "label": "STATEMENT",
+      "explanation": "Although molecular responses show some specificity to different kinds of acute exercise, they cannot yet fully account for why different kinds of training produce divergent adaptations."
+    },
+    {
+      "id": "c06",
+      "hash": "21ac293911d0701c",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Defines the shared versus distinguishing characteristics of exercise types used throughout the review.",
+      "label": "STATEMENT",
+      "explanation": "Every form of exercise shares basic features, namely that contraction begins, energy use rises, and homeostasis is disturbed, but forms differ in contraction force (load), speed, how long they last, how often they occur, and how many there are."
+    },
+    {
+      "id": "c07",
+      "hash": "b8cefcdb305341f5",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Describes how aerobic exercise intensity is expressed and the three intensity domains.",
+      "label": "DEFINITION",
+      "explanation": "Intensity and training prescription are usually stated relative to V̇O2max, or to the corresponding power output (Wmax) or running speed (vV̇O2max), tied to measurements of critical power and of lactate threshold, and framed by three accepted intensity domains: moderate (beneath lactate threshold), heavy (above lactate threshold but below critical power), and severe (past critical power)."
+    },
+    {
+      "id": "c08",
+      "hash": "a380161dcd7a0d30",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Gives typical repetition, load, and set prescriptions for strength versus hypertrophy training.",
+      "label": "DATA",
+      "explanation": "As an illustration, resistance training aimed at strength in a given muscle or muscle group commonly uses 1 to 5 reps per set at 80–95% 1RM across 3 to 5 sets, while a hypertrophy-oriented protocol is more likely to use 6 to 12 reps per set at 60–85% 1RM across 4 to 6 sets."
+    },
+    {
+      "id": "c09",
+      "hash": "4c0816e92c727cbf",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Contrasts contraction frequency and force demands of aerobic versus resistance exercise.",
+      "label": "STATEMENT",
+      "explanation": "So aerobic exercise involves contractions that are frequent (many repetitions) but low in power output (force), while resistance exercise involves fewer contractions at higher force."
+    },
+    {
+      "id": "c10",
+      "hash": "3c2e0570b65f297e",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) The specificity postulate the review examines: stimulus type and environment shape molecular signatures underpinning adaptation specificity.",
+      "label": "STATEMENT",
+      "explanation": "One idea put forward, accordingly, is that the kind of exercise performed, along with the environmental conditions at the time, shapes both how specific and how divergent the induced molecular signatures are, and that these signatures in turn account for the specificity of muscle adaptation to exercise."
+    },
+    {
+      "id": "c11",
+      "hash": "f6e5b544ea70c930",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) The review's critique that the aerobic-resistance continuum is too simplistic to explain specificity and continuity of adaptation.",
+      "label": "STATEMENT",
+      "explanation": "[Placing aerobic and resistance exercise at opposite ends of a spectrum] has value theoretically and as a teaching device, but, as section 5.10 later explains, it is, for several reasons, too simple a framework to fully account for the specificity and continuity linking acute molecular responses to the physiological and functional changes seen as endurance and hypertrophy phenotypes."
+    },
+    {
+      "id": "c12",
+      "hash": "b3b4aefff6bf4034",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Defines high-intensity interval and sprint interval exercise by heart rate and power output criteria.",
+      "label": "DEFINITION",
+      "explanation": "A comprehensive review on the topic defines HIIE as efforts that are near maximal, usually at an intensity of ≥80% maximal heart rate; SIE (sprint interval exercise), by contrast, involves efforts at power outputs at or above those corresponding to V̇O2max."
+    },
+    {
+      "id": "c13",
+      "hash": "e8c2bc89d78aa6cf",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Whole body hallmarks of aerobic training adaptation including maximal oxygen uptake and substrate oxidation shift.",
+      "label": "STATEMENT",
+      "explanation": "At the whole-body level, the characteristic adaptations to aerobic training are better aerobic fitness, as measured by V̇O2max, and/or better performance in time-to-exhaustion tests or time trials, together with greater reliance on fat oxidation (and less on carbohydrate) at an absolute intensity equal to that used before training."
+    },
+    {
+      "id": "c14",
+      "hash": "a1e031f1f7af3549",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Time course of neural versus hypertrophic adaptation and the protein synthesis-breakdown requirement for accretion.",
+      "label": "STATEMENT",
+      "explanation": "Neural adaptations appear quickly and generally come before hypertrophy, which develops more slowly because muscle protein synthesis (MPS) has to outpace the breakdown of muscle proteins (MPB) for some time before any measurable gain in contractile protein appears."
+    },
+    {
+      "id": "c15",
+      "hash": "61a80cdfdd3c4558",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) The review's principle that adaptations differ in relative contribution rather than being exclusive to an exercise type.",
+      "label": "STATEMENT",
+      "explanation": "It is more precise to say that particular adaptations contribute more in one exercise type than in another, rather than calling adaptations specific to one type of exercise."
+    },
+    {
+      "id": "c16",
+      "hash": "645e1a5f89b806da",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the network model of adaptation and its proposed sensitivity to training stimulus specifics.",
+      "label": "STATEMENT",
+      "explanation": "Current thinking holds that exercise switches on a web of molecular responses which, in general terms, produces adaptation after repeated sessions, and that this web is responsive enough to the details of a training stimulus to account in the end for differences in training adaptations."
+    },
+    {
+      "id": "c17",
+      "hash": "311413a2cd4fc71d",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Definition of exercise in terms of muscular force generation and disruption of homeostasis.",
+      "label": "DEFINITION",
+      "explanation": "Relevant here is that the very definition of exercise reflects [the maintenance of homeostasis under the challenge of exercise]: exercise is any activity in which activated muscle generates force and thereby disrupts a homeostatic state."
+    },
+    {
+      "id": "c18",
+      "hash": "574ac7a7ba932157",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Links the progressive overload principle to repeated homeostatic perturbation as the stimulus for adaptation.",
+      "label": "DEFINITION",
+      "explanation": "According to the progressive overload principle, regular, progressively harder training repeatedly disturbs homeostasis, and those disturbances are the required stimulus for adaptations that later protect against similar disturbances in subsequent exercise sessions; this is the reason organs and tissues become adapted to exercise."
+    },
+    {
+      "id": "c19",
+      "hash": "04dd35b1f1eab29e",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Defines signal transduction as the core of the review's model of exercise-induced molecular regulation.",
+      "label": "DEFINITION",
+      "explanation": "Current thinking about [the model of steps from exercise stimulus to change in protein abundance or activity] centers on signal transduction: stimuli, stressors, and signals arising inside or outside a cell set off intracellular signal relay, typically through cascades of kinases or phosphatases or other posttranslational and signaling mechanisms, acting on protein targets in different cell compartments (e.g., cytosol, nucleus, mitochondria) that control downstream processes."
+    },
+    {
+      "id": "c20",
+      "hash": "c7381ac3ae477572",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Catalogs the intracellular homeostatic perturbations treated as primary exercise signals in the model.",
+      "label": "STATEMENT",
+      "explanation": "Acute exercise, however, challenges homeostasis in many ways at once: ion imbalances across cell membranes; altered volume of muscle cells and tissue; shifts in the regulators of energy-yielding pathways and of ATP turnover, for example higher intracellular calcium within the sarcoplasmic reticulum (SR) and metabolites tied to cytosolic phosphorylation potential (ATP relative to ADP and Pi), and the mitochondrial redox state (NAD+ relative to NADH); falling muscle glycogen; falling pH; lower intracellular PO2; greater production of oxygen free radicals, including reactive oxygen and nitrogen species (RONS); a warmer muscle; and intermittent mechanical loading with associated sarcolemmal disruption."
+    },
+    {
+      "id": "c21",
+      "hash": "6544695028ebfe34",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) The review's position that cellular processes, not single master regulators, determine adaptation.",
+      "label": "STATEMENT",
+      "explanation": "Consequently, rather than single proteins acting as central master regulators of exercise adaptation, processes like the balance of MPS against MPB (autophagy and mitophagy included), the making of new mitochondria and ribosomes, and the activity of satellite cells in skeletal muscle should be recognized as important determinants too of how muscle adapts to training."
+    },
+    {
+      "id": "c22",
+      "hash": "cb948c4acc797bf8",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Quantifies whole muscle protein turnover rate in young healthy humans.",
+      "label": "DATA",
+      "explanation": "Across the proteome of young healthy human skeletal muscle, turnover runs at roughly 1.0–1.5% each day."
+    },
+    {
+      "id": "c23",
+      "hash": "160b1e6c1e0bfe7b",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Describes protein balance in fasted, exercise, fed, and postexercise states.",
+      "label": "STATEMENT",
+      "explanation": "There is a dynamic balance: breakdown (MPB) outpaces synthesis (MPS) when fasted and while exercising, while synthesis outpaces breakdown after eating and after exercise."
+    },
+    {
+      "id": "c24",
+      "hash": "be3e9b635cbac7f0",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Working model that exercise type preferentially stimulates mitochondrial versus myofibrillar protein synthesis.",
+      "label": "STATEMENT",
+      "explanation": "Still, a working model holds that acute aerobic exercise preferentially boosts mitoPS and acute resistance exercise preferentially boosts myoPS, and that these effects accumulated over time lie at the heart of training-induced mitochondrial biogenesis and myofibrillar protein gain, respectively."
+    },
+    {
+      "id": "c25",
+      "hash": "a249de7d9a5d260f",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Principle that functional consequences of exercise depend entirely on change at the protein level.",
+      "label": "STATEMENT",
+      "explanation": "In the end, whatever happens to mRNA abundance after exercise (up or down), and granting that mRNA and protein kinetics do not always agree, the phenotypic and functional outcomes of exercise depend wholly on changes at the protein level, whether as a different amount, a different maximal activity, or a different sensitivity to whatever regulates activity or function."
+    },
+    {
+      "id": "c26",
+      "hash": "98545ea8815b2fb4",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Time course of transcriptional versus translational signaling after an exercise session.",
+      "label": "DATA",
+      "explanation": "Broadly, signaling pathways linked to transcriptional control are switched on or off from the start of exercise into recovery and go back to baseline within roughly the first 3 hours afterward, whereas pathways controlling protein translation tend to switch on later but stay active for several hours of recovery."
+    },
+    {
+      "id": "c27",
+      "hash": "b2e23443398ea14e",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Principle that training adaptation is the cumulative effect of acute sessions leading to a new functional threshold.",
+      "label": "STATEMENT",
+      "explanation": "So although every single exercise session is a necessary stimulus for adaptation in muscle and in other organs, long-term adaptation (training) arises from the progressive, cumulative effects of these acute sessions, which raise the functional baseline of a given measure."
+    },
+    {
+      "id": "c28",
+      "hash": "4bf8b43e04befbc5",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Magnitude of intracellular calcium elevation during contraction by fiber type.",
+      "label": "DATA",
+      "explanation": "Consequently, during contraction the intracellular calcium concentration can rise up to 5-fold (type I fibers) and up to 50-fold (type II fibers)."
+    },
+    {
+      "id": "c29",
+      "hash": "d69ff6a21036203c",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Quantifies contraction number, duration, and relative intensity in a moderate-intensity cycling session.",
+      "label": "DATA",
+      "explanation": "For cycling, 30 minutes of MICE at 60 rpm would call for 30 contractions per leg per minute, each lasting about 0.5 seconds (900 in all), at below 10% 1RM."
+    },
+    {
+      "id": "c30",
+      "hash": "121f3612b4679388",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) ATP turnover increase during exercise relative to rest and limited ATP storage in muscle.",
+      "label": "DATA",
+      "explanation": "Even though ATP is vital to cell function and its turnover in working muscle can exceed resting rates by more than 100-fold, skeletal muscle stores only small amounts of ATP."
+    },
+    {
+      "id": "c31",
+      "hash": "94065cf29adca1f1",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Stability of muscle ATP during exercise and theoretical depletion times.",
+      "label": "DATA",
+      "explanation": "Even so, muscle ATP concentration stays largely steady in most kinds of exercise, falling only about 20–40% during very intense efforts, although measured in vivo hydrolysis rates could in principle empty the whole muscle ATP store in about 2 seconds at maximal and about 15 seconds at submaximal intensity."
+    },
+    {
+      "id": "c32",
+      "hash": "da723cb48d3db7ed",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Phosphocreatine kinetics across exercise intensity domains.",
+      "label": "DATA",
+      "explanation": "Accordingly, PCr concentration falls roughly in proportion to intensity: it keeps dropping when intensity is severe, but at moderate and heavy intensities it levels off once aerobic ATP resynthesis has risen enough to match the rate at which PCr is being broken down."
+    },
+    {
+      "id": "c33",
+      "hash": "382543b7c323a86a",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Regulation of oxidative phosphorylation by phosphorylation and redox potentials in proportion to intensity.",
+      "label": "DATA",
+      "explanation": "While exercising, how closely ATP resynthesis keeps pace with ATP hydrolysis is governed by phosphorylation potential (ATP relative to ADP and Pi) and by the redox potential of the mitochondria (NADH relative to NAD+), both of which fall as intensity rises."
+    },
+    {
+      "id": "c34",
+      "hash": "1c89284f7b160f6e",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Power versus capacity of anaerobic and aerobic ATP resynthesis pathways.",
+      "label": "STATEMENT",
+      "explanation": "Broadly, anaerobic processes can supply ATP quickly but only in small total amounts, whereas the aerobic system supplies it more slowly but has a far greater capacity."
+    },
+    {
+      "id": "c35",
+      "hash": "0575af08e450a750",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Distinguishes roles of absolute power output and relative intensity in energy demand and fuel selection.",
+      "label": "STATEMENT",
+      "explanation": "Absolute power output sets how fast ATP is demanded and energy is spent, while relative intensity governs how much carbohydrate (CHO) versus lipid, and how much circulating (extramuscular) versus intramuscular fuel, contributes to energy supply."
+    },
+    {
+      "id": "c36",
+      "hash": "88355729fa9a6ef4",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Intensity-dependent shift in circulating fatty acid and glucose utilization.",
+      "label": "DATA",
+      "explanation": "As intensity rises, muscle use of circulating FFAs falls slightly, whereas its use of circulating glucose keeps rising until close to maximal intensities."
+    },
+    {
+      "id": "c37",
+      "hash": "6ed6825bcb8d93cc",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Contribution of intramuscular triglyceride to energy provision by exercise duration and intensity.",
+      "label": "DATA",
+      "explanation": "IMTGs matter as fuel during long (>90 minutes) exercise at moderate intensity, supplying about 25% of total energy, but they tend to supply less at both higher and lower intensities."
+    },
+    {
+      "id": "c38",
+      "hash": "a07c8fab01257194",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Oxygen uptake range during resistance exercise.",
+      "label": "DATA",
+      "explanation": "Resistance exercise typically costs energy equivalent to about 30 to 60% of V̇O2max, though this varies widely with the protocol used."
+    },
+    {
+      "id": "c39",
+      "hash": "912fbf37c5d8df7e",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Glycolytic contribution to energy provision during resistance exercise.",
+      "label": "DATA",
+      "explanation": "Resistance exercise relies heavily on glycolytic metabolism; when single sets are taken to failure, these pathways can supply as much as 80% of the energy."
+    },
+    {
+      "id": "c40",
+      "hash": "3ad691a25dcc8b4f",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Blood lactate and muscle glycogen changes after resistance exercise.",
+      "label": "DATA",
+      "explanation": "After such exercise, blood lactate is often 5 to 15 mM, while muscle glycogen typically falls by 25 to 40% from resting values."
+    },
+    {
+      "id": "c41",
+      "hash": "59b1d2cc019b5cc1",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Magnitude and duration of elevated metabolic rate after exercise.",
+      "label": "DATA",
+      "explanation": "Once exercise stops, metabolic rate falls but stays slightly raised (about 5–10%) for as long as 24 hours."
+    },
+    {
+      "id": "c42",
+      "hash": "f70a8aa2f27cba06",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Time required to replenish muscle glycogen and intramuscular triglyceride after exercise.",
+      "label": "DATA",
+      "explanation": "Whereas muscle glycogen and IMTG fall quickly during exercise that is prolonged and/or heavy, restoring these intramuscular fuels to preexercise levels takes 24 to 48 hours."
+    },
+    {
+      "id": "c43",
+      "hash": "c07ff45d94e00ef0",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Lipid oxidation contribution during postexercise recovery.",
+      "label": "DATA",
+      "explanation": "During recovery, lipid oxidation can run at 25% of exercise rates and make up over 60% of the oxidative metabolism taking place."
+    },
+    {
+      "id": "c44",
+      "hash": "46ffc4a63c4830cc",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Magnitude and recovery time course of the epinephrine response to exercise.",
+      "label": "DATA",
+      "explanation": "Overall, circulating epinephrine rises to roughly 1.5 to 20 times resting levels depending on the exercise, and falls back to resting values within 30 to 60 minutes of stopping."
+    },
+    {
+      "id": "c45",
+      "hash": "03676688386e140a",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Time course of growth hormone response to aerobic versus resistance exercise.",
+      "label": "DATA",
+      "explanation": "Timing-wise, circulating GH rises within 10 minutes of starting aerobic exercise and peaks during or just after the session, whereas with resistance exercise the rise tends to come later, about 30 to 45 minutes after exercise begins."
+    },
+    {
+      "id": "c46",
+      "hash": "f3bb357084fdb44b",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Defines the umbrella term the review uses for circulating molecules changed by exercise.",
+      "label": "DEFINITION",
+      "explanation": "Acute exercise enriches the blood with a wide range of factors, among them metabolites, several kinds of RNA, and peptides/proteins, that together can be called exercise factors."
+    },
+    {
+      "id": "c47",
+      "hash": "9264cf716df5c3f0",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Heritability of muscle and aerobic fitness phenotypes.",
+      "label": "DATA",
+      "explanation": "Studies of twins and sibling pairs indicate that muscle size, fiber type composition, fiber number, V̇O2max, and strength all have a substantial genetic component, with heritability differing among them."
+    },
+    {
+      "id": "c48",
+      "hash": "b2b2490f189bd25c",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) General time course of acute exercise responses returning to rest.",
+      "label": "DATA",
+      "explanation": "Taken together, [the neuronal, mechanical, metabolic, and hormonal responses to acute exercise] are mostly short-lived: many peak during or shortly after the session, and most return to rest in a matter of hours (e.g., under 3 hours) after stopping."
+    },
+    {
+      "id": "c49",
+      "hash": "9575ff58563f3f62",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Summary principle that the interplay of exercise stimuli with signal transduction is the mechanistic basis of adaptation.",
+      "label": "STATEMENT",
+      "explanation": "The key point, though, is that the interaction between the neural, mechanical, metabolic, and endocrine responses to a single exercise bout and the switching on or off of signaling pathways (and the targets downstream of them) lies at the core of how training produces adaptation in skeletal muscle."
+    },
+    {
+      "id": "c50",
+      "hash": "447326947b326806",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Introduces the review's criteria for a bona fide regulator of training adaptation.",
+      "label": "STATEMENT",
+      "explanation": "It therefore seems intuitive that [the criteria listed next] should be demonstrated before a target gene, pathway, or downstream process can be accepted as a true regulator of training-induced adaptation in skeletal muscle."
+    },
+    {
+      "id": "c51",
+      "hash": "551feda110604481",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) First criterion for a bona fide regulator of training adaptation.",
+      "label": "STATEMENT",
+      "explanation": "First, boosting the function of the candidate should change target genes, pathways, or downstream effectors much as exercise does."
+    },
+    {
+      "id": "c52",
+      "hash": "c9cab2c160ccf11f",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Second criterion for a bona fide regulator of training adaptation.",
+      "label": "STATEMENT",
+      "explanation": "Second, removing its function should blunt the exercise-induced response of target genes, pathways, or downstream effectors."
+    },
+    {
+      "id": "c53",
+      "hash": "576a0c769d475bb0",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Third criterion for a bona fide regulator of training adaptation.",
+      "label": "STATEMENT",
+      "explanation": "Finally, how much the candidate protein is expressed or how active it is (for instance kinase activation or DNA binding), measured in vivo in skeletal muscle after acute exercise or training, should fit the role proposed for it in adaptation."
+    },
+    {
+      "id": "c54",
+      "hash": "b41fb2d917bfb9a6",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) The review's distinction between regulators of muscle phenotype and regulators of training-induced adaptation.",
+      "label": "STATEMENT",
+      "explanation": "An important distinction is whether a target gene or pathway merely regulates skeletal muscle phenotype in general, or is a true regulator of the training-induced adaptations in that phenotype."
+    },
+    {
+      "id": "c55",
+      "hash": "bcd86c0f66fe6f5e",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Applies the phenotype-versus-adaptation regulator distinction to calcium-sensitive enzymes.",
+      "label": "STATEMENT",
+      "explanation": "A reasonable conclusion, then, is that calcineurin regulates skeletal muscle phenotype but probably plays no mechanistic part in training-induced adaptation, whereas CaMKII signaling probably does play such a part."
+    },
+    {
+      "id": "c56",
+      "hash": "3bd0ca80b323aa58",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) The review's argument against master regulator narratives.",
+      "label": "STATEMENT",
+      "explanation": "It is argued, however, that mixing up [regulation of phenotype with regulation of training adaptation] has partly produced mistaken narratives about so-called master regulators or master switches governing training adaptation, for instance PGC-1α in aerobic-exercise mitochondrial adaptation, or mTORC1 in resistance-exercise hypertrophy."
+    },
+    {
+      "id": "c57",
+      "hash": "9a7b032413eb18b4",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) The review's conclusion that no single protein or pathway can act as a master regulator.",
+      "label": "STATEMENT",
+      "explanation": "Appealing as master regulation is as an idea, current knowledge, including much of what this review covers, makes it very unlikely that a single protein or pathway could exert such control."
+    },
+    {
+      "id": "c58",
+      "hash": "97308ccd8a2bdf25",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) The review's appraisal of why chronic contractile activity models do not mimic human training.",
+      "label": "STATEMENT",
+      "explanation": "Compared specifically with human training, [synergistic ablation and chronic low-frequency electrical stimulation] both apply the stimulus continuously rather than in episodes, yield adaptations far larger in size over a far shorter period, and produce some features opposite to those of human skeletal muscle."
+    },
+    {
+      "id": "c59",
+      "hash": "cdad6e8522620e65",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Principle that human biopsy studies cannot establish cause and effect for acute molecular changes.",
+      "label": "STATEMENT",
+      "explanation": "Because human exercise studies are observational, they cannot establish that acute exercise alters mRNA or protein abundance in a way that causes the changes seen in skeletal muscle phenotype."
+    },
+    {
+      "id": "c60",
+      "hash": "f3a1e84d529836d5",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) The review's logic for inferring causality from dose-proportional molecular responses.",
+      "label": "STATEMENT",
+      "explanation": "If the molecular response being measured scales (linearly or otherwise) with how strongly homeostasis is perturbed under different conditions, then a causal link between that response and adaptive change is logically more probable."
+    },
+    {
+      "id": "c61",
+      "hash": "ca8b25a4947c6ec8",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Mixed muscle versus fiber type-specific glycogen depletion after resistance exercise.",
+      "label": "DATA",
+      "explanation": "After elite male strength athletes performed a high-volume resistance session, vastus lateralis mixed-muscle glycogen fell by about 38%, yet at the fiber level many type II fibers had almost no intramyofibrillar glycogen left, a store that is key to excitation-contraction coupling and to producing contractile force."
+    },
+    {
+      "id": "c62",
+      "hash": "a040d91963ecf71d",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Intensity dependence of calcium-related kinase activation and its proposed physiological basis.",
+      "label": "DATA",
+      "explanation": "CaMKII phosphorylation after aerobic exercise rises with intensity, perhaps because more fibers are recruited or because intracellular calcium is expected to be higher when force output is greater."
+    },
+    {
+      "id": "c63",
+      "hash": "e669665c6cb05f57",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Relationship of cytosolic redox ratio and lactate/pyruvate ratio with exercise intensity.",
+      "label": "DATA",
+      "explanation": "The higher the intensity, the more the cytosolic ratio of NAD+ to NADH falls and the lactate-to-pyruvate ratio rises."
+    },
+    {
+      "id": "c64",
+      "hash": "795f74f7625bd760",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Intramuscular oxygen pressure at rest and during moderate-intensity exercise.",
+      "label": "DATA",
+      "explanation": "To illustrate, PO2 in resting muscle is about a fifth of that in inhaled air (around 30 versus around 160 mmHg), while moderate aerobic exercise (about 50% V̇O2max) brings PO2 in the working muscle down to about a fiftieth of inhaled air (around 3 mmHg)."
+    },
+    {
+      "id": "c65",
+      "hash": "7fa82f8cf15cc6b0",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Metabolic signals of energy deficit that activate AMPK.",
+      "label": "STATEMENT",
+      "explanation": "AMPK is thus activated allosterically by a shortfall in cellular energy, signaled by rising ADP concentration and higher ratios of AMP to ATP and of Cr to PCr."
+    },
+    {
+      "id": "c66",
+      "hash": "47e6d20394a1afae",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Volume and intensity thresholds for AMPK activation by exercise.",
+      "label": "DATA",
+      "explanation": "In addition, AMPK phosphorylation after resistance exercise may scale with volume, while for aerobic exercise the activity and/or phosphorylation of AMPK often scales with intensity once a threshold near 60% V̇O2max is passed."
+    },
+    {
+      "id": "c67",
+      "hash": "375096a421857033",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Physiological role of AMPK activation in energy homeostasis and adaptation.",
+      "label": "STATEMENT",
+      "explanation": "Conceptually, short-term AMPK activation safeguards ATP levels by driving catabolic pathways that replenish energy stores while suppressing biosynthetic and anabolic pathways, thereby restoring homeostasis; by responding to brief shifts in energy status it also transduces the signal for adaptations of metabolism and mitochondria."
+    },
+    {
+      "id": "c68",
+      "hash": "868ee90a4ded43bc",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) The review's formulation of how adaptation specificity may be conferred at the signaling level.",
+      "label": "STATEMENT",
+      "explanation": "Put differently, adaptation may be made specific by how much, and in what proportion, the pathways and targets described are activated or repressed, which depends chiefly on exercise type, intensity, and duration and on imposed environmental factors such as nutrient and oxygen availability."
+    },
+    {
+      "id": "c69",
+      "hash": "abcc8ef1db6ad60f",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) The review's conclusion that there is little evidence for specificity via an AMPK/Akt switch.",
+      "label": "DATA",
+      "explanation": "Yet whether exercise types are compared in parallel groups or head-to-head in crossover designs, AMPK- and Akt-related signaling responds largely alike, so there is little evidence that an AMPK/Akt switch confers specificity."
+    },
+    {
+      "id": "c70",
+      "hash": "06b4a300cb41c123",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) The review's position that specificity resides at the level of protein fractions and individual proteins.",
+      "label": "STATEMENT",
+      "explanation": "As noted above, though, specificity of adaptation to different exercise types most likely lies in differing responses of the myofibrillar, sarcoplasmic, and mitochondrial protein fractions and of individual proteins."
+    },
+    {
+      "id": "c71",
+      "hash": "864c67a9013ccc2b",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Number of exercise-responsive phosphosites after a severe-intensity aerobic session.",
+      "label": "DATA",
+      "explanation": "After one bout of aerobic exercise in untrained men (9 to 11 minutes long, at 85–92% Wmax), 1,004 phosphosites across 562 proteins in human skeletal muscle were found to respond to exercise."
+    },
+    {
+      "id": "c72",
+      "hash": "8331c34b50caeb32",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Principle that mRNA abundance change does not solely reflect transcription.",
+      "label": "STATEMENT",
+      "explanation": "Since mRNA abundance is the net result of how fast mRNA is transcribed, how it is processed, and how stable it is, any shift in mRNA abundance need not reflect transcription alone."
+    },
+    {
+      "id": "c73",
+      "hash": "80dd6e1520117e11",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) The review's concept of epigenetic memory of exercise at the DNA level.",
+      "label": "DEFINITION",
+      "explanation": "[The retained methylation signatures just described] indicate that these genes carry a form of epigenetic memory, or epi-memory, in the DNA itself, and that prior acute and chronic exercise alters how skeletal muscle responds, pre- and posttranscriptionally, to later exercise sessions."
+    },
+    {
+      "id": "c74",
+      "hash": "2cd2037f42ac42a7",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Time course of DNA methylation changes relative to gene expression after exercise.",
+      "label": "DATA",
+      "explanation": "Worth noting too is that pretranscriptional epigenetic changes, at least in DNA methylation, can appear extremely quickly after exercise (e.g., detectable at 30 minutes) and come before the later shifts in gene expression seen 3 to 6 hours after exercise."
+    },
+    {
+      "id": "c75",
+      "hash": "6c144b22e994f291",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Half-life of mitochondrial proteins under increased contractile activity.",
+      "label": "DATA",
+      "explanation": "When contractile activity is raised, mitochondrial proteins and their enzyme activities show half-lives of roughly 1 week."
+    },
+    {
+      "id": "c76",
+      "hash": "1f1a65b5a8678fe5",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Magnitude of aerobic fitness and mitochondrial volume increase after short-term training.",
+      "label": "DATA",
+      "explanation": "For instance, after formerly sedentary people did 6 weeks of MICT (30 minutes a day, 5 days a week, at about 85% of maximal heart rate), V̇O2max rose about 14% and total mitochondrial volume density about 40%, results that are typical."
+    },
+    {
+      "id": "c77",
+      "hash": "1e2d1237de74dede",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) The review's current model of coordinated mitochondrial turnover initiated by acute exercise signaling.",
+      "label": "STATEMENT",
+      "explanation": "Given how quickly and briefly [autophagy and mitophagy] change after exercise, the current model holds that, beyond regulating transcription, the signaling pathways set off by acute exercise start turning over the mitochondrial pool in muscle, coordinating removal of defective mitochondria with activation of new mitochondrial formation."
+    },
+    {
+      "id": "c78",
+      "hash": "db8e724246fd5b17",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Defines translational efficiency and capacity as determinants of protein synthesis.",
+      "label": "DEFINITION",
+      "explanation": "How fast a cell makes protein depends on translational efficiency (protein made per unit of mRNA) and translational capacity (i.e., how many ribosomes a unit of tissue contains)."
+    },
+    {
+      "id": "c79",
+      "hash": "cc1945cd4ef9e519",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Relationship of hypertrophy with translational capacity and resting protein synthesis.",
+      "label": "DATA",
+      "explanation": "The gain in muscle mass with resistance training correlates positively, in turn, with the rise in translational capacity and with higher resting MPS."
+    },
+    {
+      "id": "c80",
+      "hash": "202bdea0ac8f8122",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Role of satellite cells in maintaining myonuclear domain during muscle growth.",
+      "label": "STATEMENT",
+      "explanation": "Satellite cells supply new myonuclei fast enough to keep myonuclear domain size constant while muscle grows normally; this raises the total myonuclear count and so the total genetic machinery available to make mRNA and protein, with little change in protein synthesis kinetics per nucleus."
+    },
+    {
+      "id": "c81",
+      "hash": "dbc3641681e4bf91",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) The review's overarching model of exercise-induced protein turnover driving remodeling.",
+      "label": "STATEMENT",
+      "explanation": "The overarching model is that acute exercise activates signaling pathways that raise skeletal muscle protein turnover (i.e., both breakdown and synthesis go up), and that this higher turnover is essential for remodeling cell components, contractile proteins and extracellular matrix among them, during training."
+    },
+    {
+      "id": "c82",
+      "hash": "0bae716283a279fd",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) The review's proposal that the ubiquitin-proteasome system has dual roles beyond atrophy.",
+      "label": "STATEMENT",
+      "explanation": "[The findings on the ubiquitin ligase just described] indicate that the part the UPS plays in regulating how skeletal muscle adapts is more involved than that of a mere protein degradation pathway that leads only to atrophy."
+    },
+    {
+      "id": "c83",
+      "hash": "514cb8bc6001a2ab",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Principle that training attenuates homeostatic perturbation and hence molecular responses.",
+      "label": "STATEMENT",
+      "explanation": "So as exercise sessions are repeated, homeostasis is disturbed less (e.g., smaller shifts in the concentrations of AMP, ADP, and lactate, less glycogen depletion, less muscle damage), and some molecular responses to each acute session are therefore likely to be smaller."
+    },
+    {
+      "id": "c84",
+      "hash": "bc7391b0edc3ee2f",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Attenuated adenine nucleotide and phosphocreatine perturbation after training.",
+      "label": "DATA",
+      "explanation": "After training, when the absolute power output is unchanged, ATP and PCr concentrations fall less and free AMP and ADP rise less in muscle whose mitochondrial density has increased, but the same is seen after short-term training too short for any rise in mitochondrial density to be expected."
+    },
+    {
+      "id": "c85",
+      "hash": "4389fe1cc76e58cb",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Physiological basis of improved endurance performance after training.",
+      "label": "STATEMENT",
+      "explanation": "Hence the better endurance seen after training is put down to greater fatigue resistance arising from less glycogen depletion, tighter matching between ATP demand and supply, and so smaller departures from homeostasis along with fewer metabolic by-products."
+    },
+    {
+      "id": "c86",
+      "hash": "2414926fa0a1383a",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Distinguishes absolute versus relative intensity in pre-post training designs.",
+      "label": "STATEMENT",
+      "explanation": "In pre–post designs that compare acute responses before and after training, a posttraining session done at an unchanged absolute intensity (identical power output, or identical load, to the pretraining session) will represent a lower relative intensity (as a percentage of the V̇O2max or 1RM measured before training) than the pretraining session did."
+    },
+    {
+      "id": "c87",
+      "hash": "dd0af6cbff457394",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) The review's synthesis that training attenuates acute molecular responses.",
+      "label": "DATA",
+      "explanation": "Across [studies comparing acute exercise responses before and after a training period], the general pattern is that responses such as signaling-pathway activation and/or shifts in mRNA abundance are smaller after a period of training."
+    },
+    {
+      "id": "c88",
+      "hash": "625c746b11cfb226",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Heterogeneity of metabolic response at matched relative intensity and the value of lactate threshold matching.",
+      "label": "DATA",
+      "explanation": "In particular, people whose lactate threshold occurs at a smaller %V̇O2max use more carbohydrate and experience more cardiovascular strain, but these differences shrink when intensity is instead expressed relative to the lactate threshold of each person."
+    },
+    {
+      "id": "c89",
+      "hash": "0a17100b7ec45e44",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Principle that trained muscle requires a greater stimulus to activate adaptive pathways.",
+      "label": "STATEMENT",
+      "explanation": "Put another way, for the same relative effort, trained muscle needs a bigger stimulus before [the signaling and transcriptional pathways whose response training attenuates] trigger adaptive processes."
+    },
+    {
+      "id": "c90",
+      "hash": "705819530551a679",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) The review's interpretation distinguishing restorative responses from adaptive regulation.",
+      "label": "STATEMENT",
+      "explanation": "It follows that aspects of the molecular response which training does not blunt may matter for the restorative response needed after each session, yet may be only partly involved, or not involved at all, in regulating adaptation to training."
+    },
+    {
+      "id": "c91",
+      "hash": "ddf86573dae88442",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Definition of the repeated bout effect and its protective role against muscle damage.",
+      "label": "DEFINITION",
+      "explanation": "One long-known phenomenon in exercise science, the repeated bout effect, may partly account for [the attenuation of acute responses with repeated sessions]: a single session of unfamiliar, eccentrically biased exercise produces an adaptation that protects against muscle damage in a later session of similar exercise."
+    },
+    {
+      "id": "c92",
+      "hash": "d8a92bd3ddcfa4dc",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Introduces the first bout effect term adopted by the review.",
+      "label": "DEFINITION",
+      "explanation": "[The attenuation of early responses with training] might also be called the first bout effect."
+    },
+    {
+      "id": "c93",
+      "hash": "c5392c7b6c1493b6",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) The review's conceptualization of the first bout effect.",
+      "label": "DEFINITION",
+      "explanation": "[The first bout effect] can be pictured as a wide-ranging, unspecific molecular reaction to an initial exercise session in people unaccustomed to exercise in general or to that particular kind, a response that then weakens, or becomes more specific and refined, over later training sessions."
+    },
+    {
+      "id": "c94",
+      "hash": "1e7a5520d9cbae9d",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Interpretation that the refined protein synthesis response in trained state better predicts hypertrophy.",
+      "label": "DATA",
+      "explanation": "In other words, the smaller rise in MPS after acute exercise in trained people, and in the early stage of a training program, represents a response that has become more refined, and it tracks eventual hypertrophy better than the MPS rise after the very first session."
+    },
+    {
+      "id": "c95",
+      "hash": "a273529f9e18d0ac",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) The review's recommendation of a habituation period in acute exercise study design.",
+      "label": "STATEMENT",
+      "explanation": "If studying acute responses in untrained people may be producing mistaken interpretations, one recommendation is that future studies include a brief habituation period of training so as to capture those acute molecular responses that matter for adaptation rather than a general stress response."
+    },
+    {
+      "id": "c96",
+      "hash": "f61676243ede1a51",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) The review's distinction between acute restoration of homeostasis and chronic adaptive modification.",
+      "label": "STATEMENT",
+      "explanation": "Interpreting adaptation pathways and networks is further complicated because molecular responses to exercise probably serve mainly two ends: restoring homeostasis in the short term, and remodeling muscle tissue in the long term so that it better withstands homeostatic disturbance in future exercise sessions."
+    },
+    {
+      "id": "c97",
+      "hash": "e1eb5d4951892786",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) The caveat that not every acute molecular response is mechanistically involved in adaptation.",
+      "label": "STATEMENT",
+      "explanation": "[Restoring homeostasis and modifying muscle tissue] may go together for some pathways, though not for all, the caveat being that a given molecular response to a single exercise bout need not be mechanistically part of how adaptation to training is regulated."
+    },
+    {
+      "id": "c98",
+      "hash": "6155140007ee2f89",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Concluding statement of the review's model of cumulative acute responses producing adaptation.",
+      "label": "STATEMENT",
+      "explanation": "The mechanism behind muscle adaptation to training is taken to be the switching on or off of molecular pathways or processes after each acute exercise session, with the consequences accumulating over many days, weeks, and months as frequent, progressive training continues."
+    },
+    {
+      "id": "u01",
+      "hash": "e2a02cd15e9d03b4",
+      "pick_tag": null,
+      "pick_reason": "Describes the AMPK/Akt master switch concept from prior work rather than a concept this review establishes; unclear whether it meets (1).",
+      "label": "DEFINITION",
+      "explanation": "[The electrical stimulation findings on AMPK/PGC-1α versus Akt/mTOR pathways], along with the finding that MAPK signaling differed little between contraction models, led to the idea of an AMPK/Akt master switch, which in an exercise setting proposed that selective activation of AMPK/PGC-1α on one hand or Akt/mTOR on the other could account for the different adaptations to aerobic versus resistance training."
+    },
+    {
+      "id": "u02",
+      "hash": "5ba4580dcdcd3da9",
+      "pick_tag": null,
+      "pick_reason": "The reduced scope of plasticity concept is attributed to earlier work; unclear whether this counts as a principle this review establishes.",
+      "label": "DEFINITION",
+      "explanation": "Seen more broadly at the phenotype level, a weakening molecular response is generally taken to fit the observation that training adaptations plateau as parameters approach their physiological limits, what has been termed reduced scope of plasticity."
+    },
+    {
+      "id": "u03",
+      "hash": "8a6fc8ca5fe21cf0",
+      "pick_tag": null,
+      "pick_reason": "An interpretation of pharmacotherapy trials; unclear whether it is a principle of the review or exercise physiology data.",
+      "label": "STATEMENT",
+      "explanation": "[Limited functional gains from drug-induced hypertrophy] are read as showing that a muscle enlarged without any exercise stimulus is not necessarily a better-working muscle."
+    },
+    {
+      "id": "u04",
+      "hash": "6af20729a1893745",
+      "pick_tag": null,
+      "pick_reason": "A hypothesis from a cited microbiome study; unclear whether it meets (1) or (2).",
+      "label": "STATEMENT",
+      "explanation": "The working hypothesis holds that Veillonella spp. turn the lactate that exercise sends into the circulation into propionate in the gut, and that propionate may then trigger signaling in skeletal muscle by activating AMPK."
+    },
+    {
+      "id": "u05",
+      "hash": "49dac43e22b5f228",
+      "pick_tag": null,
+      "pick_reason": "Speculative explanation drawn from a single study; unclear whether it qualifies as exercise physiology data.",
+      "label": "STATEMENT",
+      "explanation": "One proposed explanation is that no fiber type-specific difference appeared because muscle glycogen depletion did not differ between the conditions."
+    }
+  ]
+}
