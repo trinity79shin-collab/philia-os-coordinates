@@ -106,6 +106,29 @@
           "bytes": 29706
         }
       }
+    },
+    {
+      "doi": "10.1152/physrev.00054.2021",
+      "title": "Molecular responses to acute exercise and their relevance for adaptations in skeletal muscle to exercise training",
+      "author": "Brendan Egan, Adam P. Sharples",
+      "published_print": "2023-07-01",
+      "worker": "claude-fable-5-1",
+      "run_date": "2026-11-05",
+      "items": 103,
+      "pdf_sha256_16": "dc2c2d083ecc2115",
+      "copyright": "under copyright: sentence text withheld (first and last word kept); explanations in the interpretation file",
+      "files": {
+        "coordinates": {
+          "path": "data/egan2023-molecular__10.1152-physrev.00054.2021__coordinates__fable5.1-20261105.json",
+          "sha256": "3c5cfd337a7ee38b1b9a15d26c0c581a6c663f2781137afb7412715af999b5c0",
+          "bytes": 226027
+        },
+        "interpretation": {
+          "path": "data/egan2023-molecular__10.1152-physrev.00054.2021__interpretation__fable5.1-20261105.json",
+          "sha256": "8c7b87f2c50cd0f4086d2f2300d990663d5ba812d827b92d39a259c9353decc8",
+          "bytes": 60140
+        }
+      }
     }
   ],
   "file_naming": "<author+year>-<keyword>__<DOI with / as ->__<layer>__<worker>-<run date>.json",
