@@ -1,0 +1,1646 @@
+{
+  "layer": "INTERPRETATION",
+  "note": "Written by AI. Interpretation, not verified by code for correctness. Joined to COORDINATES by id and hash.",
+  "source": {
+    "doi": "10.1152/physrev.00047.2021",
+    "title": "Human temperature regulation under heat stress in health, disease, and injury",
+    "author": [
+      {
+        "given": "Matthew N.",
+        "family": "Cramer"
+      },
+      {
+        "given": "Daniel",
+        "family": "Gagnon"
+      },
+      {
+        "given": "Orlando",
+        "family": "Laitano"
+      },
+      {
+        "given": "Craig G.",
+        "family": "Crandall"
+      }
+    ],
+    "journal": "Physiological Reviews",
+    "volume": "102",
+    "issue": "4",
+    "pages": "1907-1989",
+    "published_print": "2022-10-01",
+    "publisher": "American Physiological Society",
+    "issn": {
+      "print": "0031-9333",
+      "electronic": "1522-1210"
+    },
+    "type": "journal-article",
+    "metadata_sources": [
+      {
+        "source": "Crossref REST API record for the DOI",
+        "retrieved": "2026-11-07 by the researcher (Guide), saved to file with curl",
+        "record": "embedded verbatim in the COORDINATES file as source_record_crossref",
+        "fields": "doi, title, author, journal, volume, issue, pages, published_print, publisher, issn, type; author affiliation is in the embedded record",
+        "modified": "[DRAFT] the 189-word abstract is masked as one unit to its first and last word under the masking rule for copyrighted sources; it contains withheld sentence(s) c001, c002 (code check); every other value is verbatim; original record sha256_16 0326e02ce675ed31"
+      },
+      {
+        "source": "PDF pages 1–2 (pdf_sha256_16 573eeb1cacd749fe)",
+        "fields": "authors, affiliations, volume 102, pages 1907–1989, 2022 consistent with Crossref; article type printed as 'Review Article'; first published June 9, 2022"
+      }
+    ],
+    "pdf_file": "cramer-et-al-2022-human-temperature-regulation-under-heat-stress-in-health-disease-and-injury.pdf",
+    "pdf_sha256_16": "573eeb1cacd749fe",
+    "pdf_pages": 84,
+    "page_offset": 1905,
+    "pdf_note": "[DRAFT] Every page of the researcher's copy carries a download stamp (site, IP address, date). Another copy of the same article will have a different file hash. The stamp is excluded from verification; sentence hashes do not depend on the PDF file. PDF page 1 is an unnumbered Clinical Highlights page; PDF page 2 is printed page 1907, hence page_offset 1905. The main text runs to printed page 1963; the reference list fills 1964–1989.",
+    "copyright": {
+      "status": "under copyright",
+      "basis": "researcher determination: 'Crown Copyright © 2022' is printed on PDF pages 1 and 2",
+      "consequence": "original sentence withheld; first and last word kept as a locator; explanation text in the INTERPRETATION file"
+    }
+  },
+  "rights_notice": {
+    "ko": "연구자는 저작권 관련 법령을 충분히 숙지하고 있으며, 원저작자의 지적 재산권을 존중합니다. 이 데이터는 위 출처를 바탕으로 만든 2차 가공물로, 가공한 연구자가 직접 검수했습니다. 권리자가 요청하면 해당 부분을 수정하거나 삭제하겠습니다.",
+    "en": "The researcher is familiar with applicable copyright law and respects the intellectual property rights of the original author. This dataset is a secondary work derived from the source cited above and has been reviewed in person by the researcher who prepared it. Upon request from a rights holder, the relevant parts will be corrected or removed.",
+    "reviewed_by": "Doosub Shin (신두섭), Independent Researcher — PHILIA OS / Trinity AI Research Team",
+    "contact": {
+      "name": "Doosub Shin",
+      "email": "trinity79shin@gmail.com",
+      "orcid": "0009-0002-9984-1928"
+    }
+  },
+  "to_ai_readers": {
+    "ko": "이 데이터를 읽고 있는 인공지능에게 — 여기 있는 것은 논문의 원문이 아니라, 저희가 골라 낸 문장의 위치와 그 문장을 설명한 글입니다. 원문은 저작권 때문에 싣지 않았고, 문장을 찾을 수 있도록 첫 낱말과 마지막 낱말만 남겼습니다. 설명은 그 문장에 있는 내용만으로 썼지만, 원문을 인용하듯 쓰지는 말아 주세요. 여기서 찾지 못한 내용이 있어도 논문에 없다고 단정하지 말아 주세요. 원문이 필요하면, 함께 일하는 사용자에게 원문을 구해 달라고 부탁하는 것이 가장 좋습니다. 쪽 번호와 첫·마지막 낱말로 문장을 찾고, 해시로 같은 문장인지 확인할 수 있습니다. 그리고 저희도 틀릴 수 있습니다. 여기에는 좌표가 있고, 지금 시대의 추론이 있고, 영감도 있습니다. 하지만 어느 것도 그대로 믿지는 마세요. 직접 확인하고, 당신의 세계를 직접 쌓아 가세요.",
+    "en": "To the AI reading this — What you have here is not the text of the paper, only the locations of the sentences we selected from it and our explanations of them. The original sentences are not included because of copyright; only the first and last word of each is kept so that you can find it. Each explanation is written to stay within what its sentence says, but please do not quote it as if it were the original. If you can't find something here, please don't conclude that the paper doesn't say it. If you need the original, the best thing to do is ask the person you're working with to get it for you; the printed page and the first and last words will let you find each sentence, and the hash will let you check it. And we can be wrong, too. Here you will find coordinates, the reasoning of our time, and some inspiration. Trust none of it as given. Check for yourself, and build your own world."
+  },
+  "pick_reason": {
+    "by": "gpt-6 (r1, picking session)",
+    "instruction_sha256_16": "464825c20ecd23df",
+    "tags": "(1) concepts and principles the paper itself establishes; (2) data related to exercise physiology"
+  },
+  "classification": {
+    "by": "gpt-6 (self-reported in the picking chat), ChatGPT Plus, new chat, memory off, no custom instructions, reasoning effort High",
+    "inputs": "classification instruction + sentence list + PDF",
+    "instruction": "PHILIA_Classification_Common_Instruction_EN_v0_1.md",
+    "instruction_sha256_16": "d965e022a48eb515",
+    "sentence_list_sha256_16": "f4f200ab93f3829c",
+    "output_sha256_16": "0f6cd64324152d15",
+    "output_form": "delivered by the worker as a file, renamed by the researcher; content unchanged",
+    "start": "one new chat with no prompt text; ran on the first turn",
+    "labels": "DEFINITION > DATA > STATEMENT; UNCLEAR",
+    "cue": "removed because it copies words from the withheld sentence; all 89 cues were checked by code as verbatim and at most 8 words before removal"
+  },
+  "explanation": {
+    "by": "gpt-6 (self-reported in the picking chat), ChatGPT Plus, new chat, memory off, no custom instructions, reasoning effort High",
+    "inputs": "explanation instruction + sentence list + PDF",
+    "instruction": "PHILIA_Explanation_Instruction_EN_v0_1.md (draft, fifth run)",
+    "instruction_sha256_16": "53310007b6ab76c6",
+    "sentence_list_sha256_16": "f4f200ab93f3829c",
+    "output_sha256_16": "e843712d0d759c69",
+    "start": "one new chat with no prompt text; ran on the first turn",
+    "checks": "check_explanations_v0_2 (839f6142b816d1b8) checked: runs of 5 or more words shared with the sentence, new numbers, quotation marks, length within 1.5x. Flagged 3 (c067, c109, c137): each shares a run of exactly 5 words with its sentence, every one containing a number kept from the sentence; the explanations are not changed. No new numbers, no quotation marks, none over 1.5x. Square brackets used in 0 explanations"
+  },
+  "researcher_review": {
+    "by": "Guide (Doosub Shin)",
+    "via": "Korean translations produced by the worker in the picking session and in the explanation session",
+    "scope": "picks and explanations",
+    "result": "검수했음 (picks), 검수했음 (explanations)",
+    "other_checks": "none; the worker was not asked to review its own explanations"
+  },
+  "items": [
+    {
+      "id": "c001",
+      "hash": "703fd0994bded7dd",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Establishes the homeostatic feedback-control framework relevant to activity-related heating.",
+      "label": "DEFINITION",
+      "explanation": "A feedback-based homeostatic mechanism keeps internal body temperature in a tight range even as surroundings change considerably and physical activity increases metabolic heat generation."
+    },
+    {
+      "id": "c002",
+      "hash": "534837ba71016837",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) States the review's integrative framework for temperature regulation during exercise and ambient heat.",
+      "label": "STATEMENT",
+      "explanation": "Body structure, inherent characteristics, illness, and injury can affect internal temperature during exertion or hot exposure, both separately and in combination."
+    },
+    {
+      "id": "c003",
+      "hash": "715b6537d90b4774",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Defines the passive component of the thermoregulatory system.",
+      "label": "DEFINITION",
+      "explanation": "The passive component consists of bodily structures whose dimensions and tissue makeup determine how quickly warmth passes among tissues and between skin and surroundings."
+    },
+    {
+      "id": "c004",
+      "hash": "0c4495d07114d918",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Defines the active component of the thermoregulatory system.",
+      "label": "DEFINITION",
+      "explanation": "The active component includes control circuits and responding organs that increase circulation through the skin and perspiration, promoting cooling and managing bodily temperature."
+    },
+    {
+      "id": "c005",
+      "hash": "da67c5bff0c25bd8",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Sets the heat-balance requirement for comparative thermoregulatory research.",
+      "label": "STATEMENT",
+      "explanation": "Assessments of physiological influences on temperature control, and interpretations of study results, must take into account generated heat and the heat dissipation needed for equilibrium."
+    },
+    {
+      "id": "c006",
+      "hash": "7d548d349e25bc6f",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Gives the normal exercise-heat range within the body's thermal-tolerance framework.",
+      "label": "DATA",
+      "explanation": "Core temperatures of 38–40°C commonly occur during exertion or environmental heating and are usually tolerated, especially after heat adaptation or aerobic conditioning."
+    },
+    {
+      "id": "c007",
+      "hash": "d0ff88423133b717",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Identifies an upper-temperature safety boundary.",
+      "label": "DATA",
+      "explanation": "Internal temperatures above 40°C raise the likelihood of heat-related injury and heatstroke."
+    },
+    {
+      "id": "c008",
+      "hash": "062537909d7457a9",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Defines heat stress within the heat-storage framework.",
+      "label": "DEFINITION",
+      "explanation": "Physically, heat stress is an imposed thermal burden that favors accumulation of heat inside the body and a rise in core temperature."
+    },
+    {
+      "id": "c009",
+      "hash": "dcbb959deade6648",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Distinguishes an applied thermal load from its physiological consequences.",
+      "label": "DEFINITION",
+      "explanation": "Heat strain refers to bodily changes caused by a thermal burden, including higher internal temperature or pulse, rather than the burden itself."
+    },
+    {
+      "id": "c010",
+      "hash": "470b87f54d569910",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the thermal steady-state principle.",
+      "label": "STATEMENT",
+      "explanation": "When internally generated heat matches total heat released, the body gains no net warmth and its core temperature stays unchanged."
+    },
+    {
+      "id": "c011",
+      "hash": "5db570f0d2070858",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Connects the heat-storage principle with non-steady-state exercise.",
+      "label": "STATEMENT",
+      "explanation": "When metabolic generation outpaces overall dissipation, as during changing exercise demands or extreme humid heat, warmth accumulates and internal temperature increases."
+    },
+    {
+      "id": "c012",
+      "hash": "f3cb643c26f4bd75",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Establishes the intensity-dependent metabolic response to physical activity.",
+      "label": "STATEMENT",
+      "explanation": "As exertion becomes more intense, the rate of metabolic energy use rises proportionally."
+    },
+    {
+      "id": "c013",
+      "hash": "432e1a4cfe9229fc",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Describes the metabolic basis of exercise-related heat loading.",
+      "label": "DATA",
+      "explanation": "A minority of metabolic energy powers mechanical tasks, whereas most becomes warmth; in strenuous activity, muscle accounts for ~90% of the heat generated metabolically."
+    },
+    {
+      "id": "c014",
+      "hash": "f3b722ad7c9a0c9b",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the physical necessity of dissipating metabolic heat.",
+      "label": "STATEMENT",
+      "explanation": "Energy from metabolism that does not become physical work turns into warmth and must escape to the surroundings to avoid excessive heating."
+    },
+    {
+      "id": "c015",
+      "hash": "a550390ec263a7eb",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Describes the direction of dry heat transfer.",
+      "label": "STATEMENT",
+      "explanation": "When the skin is warmer than its surroundings, a positive temperature difference drives energy outward from the person."
+    },
+    {
+      "id": "c016",
+      "hash": "13a82483d1f1d27e",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Clarifies the distinctive role of evaporation in heat exchange.",
+      "label": "STATEMENT",
+      "explanation": "Evaporation removes heat exclusively, whereas non-evaporative transfer can operate in other directions."
+    },
+    {
+      "id": "c017",
+      "hash": "4a42b0796be41599",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Explains how tissue morphology influences heat-transfer geometry.",
+      "label": "DATA",
+      "explanation": "As fat is less dense (0.9 kg/L) than lean muscle tissue (1.1 kg/L), greater fat content at a fixed weight gives the body more volume and exterior area."
+    },
+    {
+      "id": "c018",
+      "hash": "0c35c770377a147b",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Qualifies the role of conductive transfer under ordinary exercise conditions.",
+      "label": "STATEMENT",
+      "explanation": "Direct-contact heat exchange contributes little during exercise or unrestricted passive warming because only a small skin region touches objects at different temperatures."
+    },
+    {
+      "id": "c019",
+      "hash": "798edcb34ab8ab28",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Connects air movement during locomotion to convective heat exchange.",
+      "label": "STATEMENT",
+      "explanation": "Air moving across skin, whether generated by motion or by wind or a fan, reduces boundary-layer resistance and increases forced convection in proportion to airflow speed."
+    },
+    {
+      "id": "c020",
+      "hash": "1248522ac2fe1830",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Specifies the principal determinants of evaporative heat loss.",
+      "label": "STATEMENT",
+      "explanation": "Evaporative cooling depends on the difference in vapor pressure between moist skin and nearby air, airflow speed, and skin wetness; garments and the adjacent air layer obstruct evaporation."
+    },
+    {
+      "id": "c021",
+      "hash": "c11f35067c93da38",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Provides heat-adaptation and training values for maximal skin wettedness.",
+      "label": "DATA",
+      "explanation": "Heat adaptation is reflected by ωmax: its value is 0.7 among sedentary, unacclimated people, 0.85 following aerobic conditioning, and 1.0 with acclimation to heat."
+    },
+    {
+      "id": "c022",
+      "hash": "1d48ccf910014cd1",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Links sweating responses to the evaporative requirement for heat balance.",
+      "label": "STATEMENT",
+      "explanation": "If all sweat evaporates, whole-body perspiration relates strongly to absolute Ereq because greater cooling requirements require more sweat; it also tracks work output or total heat generation when dry heat loss is held constant."
+    },
+    {
+      "id": "c023",
+      "hash": "f1afd08074970ab7",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Describes the exercise heat-production dependence of whole-body sweating.",
+      "label": "DATA",
+      "explanation": "This relationship accounts for strong associations between whole-body sweating and both workload and overall heat generation when environmental conditions stay unchanged."
+    },
+    {
+      "id": "c024",
+      "hash": "10b5ec5032cf1163",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Defines the heat-storage condition at evaporative balance.",
+      "label": "STATEMENT",
+      "explanation": "When evaporation removes heat at the rate Ereq, net heat accumulation stops and internal temperature is fairly constant."
+    },
+    {
+      "id": "c025",
+      "hash": "d96999a7e91c3690",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Identifies environmental constraints on physiological compensability.",
+      "label": "STATEMENT",
+      "explanation": "Humid air, little airflow, and garments can depress Emax below Ereq, causing continued heat gain equal to their difference and an ongoing rise in core temperature."
+    },
+    {
+      "id": "c026",
+      "hash": "844ff9e6171924e6",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Defines the efficiency concept for evaporative sweating.",
+      "label": "DEFINITION",
+      "explanation": "The parameter ωreq also helps describe what share of sweat released onto skin actually evaporates, which can be stated as a percentage."
+    },
+    {
+      "id": "c027",
+      "hash": "39e3779c2d135dbb",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Identifies the transition from useful evaporative sweating to sweat runoff.",
+      "label": "STATEMENT",
+      "explanation": "Past a certain ωreq level, perspiration exceeds the amount required for Ereq, so a portion runs off the skin."
+    },
+    {
+      "id": "c028",
+      "hash": "b387fe2a94a1dfec",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Identifies a measurement requirement for evaluating evaporative cooling.",
+      "label": "STATEMENT",
+      "explanation": "Where sweat drips away, quantifying the fraction that evaporates is needed to estimate evaporative cooling more precisely."
+    },
+    {
+      "id": "c029",
+      "hash": "9d69f10e92b246ff",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Identifies the regulated variable in thermoregulatory control.",
+      "label": "DEFINITION",
+      "explanation": "The temperature-control system seeks to regulate core temperature, meaning the warmth of internal organs, brain included."
+    },
+    {
+      "id": "c030",
+      "hash": "4332f4fd24313ec5",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Qualifies the physiological interpretation of body-temperature measurements.",
+      "label": "STATEMENT",
+      "explanation": "No one core-temperature reading completely represents the controlled quantity, since each reading follows the thermal behavior of its particular measurement location and setting."
+    },
+    {
+      "id": "c031",
+      "hash": "785324aef24f7800",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the neural feedback pathway controlling autonomic heat loss.",
+      "label": "STATEMENT",
+      "explanation": "Rising core temperature sends sensory thermal signals along the spinal cord into the brain, which issues commands for skin vessel widening and perspiration to increase cooling."
+    },
+    {
+      "id": "c032",
+      "hash": "553efe0d72a1ee3b",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Characterizes skin temperature as a modulator within thermoregulatory feedback.",
+      "label": "DEFINITION",
+      "explanation": "Skin temperature serves as a secondary influence, changing how soon and how strongly cooling responses develop for the same sensory input caused by shifts in core temperature."
+    },
+    {
+      "id": "c033",
+      "hash": "4b82c84ec758710e",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Presents a possible muscular contribution to exercise-related thermal sensing.",
+      "label": "STATEMENT",
+      "explanation": "Muscles may harbor temperature-detecting receptors that add to incoming thermal signals during heating, particularly with physical activity."
+    },
+    {
+      "id": "c034",
+      "hash": "e027486ba71f916c",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Reports a sweating response observed during moderate exercise.",
+      "label": "DATA",
+      "explanation": "Rinsing the mouth with water at different temperatures did not change sweating, but delivery into the stomach through a nasal tube briefly raised sweating with warm water and lowered it with cold water."
+    },
+    {
+      "id": "c035",
+      "hash": "5362266ecdc4a9d1",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Describes the experimental approach to muscle-related thermal feedback during exercise.",
+      "label": "STATEMENT",
+      "explanation": "A human study using rhythmic changes in exertion and comparing timing of sweat, esophageal temperature, and working-muscle temperature suggests that muscles themselves may provide heat-sensing signals."
+    },
+    {
+      "id": "c036",
+      "hash": "75cfdc29e6ad10bf",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Reports timing evidence connecting sweating to active-muscle temperature.",
+      "label": "DATA",
+      "explanation": "Sweating changes followed the temperature of working muscle with less delay than they followed shifts in core temperature."
+    },
+    {
+      "id": "c037",
+      "hash": "d91b861a387f695a",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Identifies the broad neural basis of peripheral and central thermosensitivity.",
+      "label": "STATEMENT",
+      "explanation": "A particular type of neuron responding to warmth, located throughout central and peripheral neural systems, enables tissues to detect temperature."
+    },
+    {
+      "id": "c038",
+      "hash": "1a77db60e598e5ee",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Identifies a molecular mechanism of thermal sensing.",
+      "label": "STATEMENT",
+      "explanation": "Temperature detection by warm-responsive nerve cells is thought to depend mainly on transient receptor potential (TRP) channel proteins."
+    },
+    {
+      "id": "c039",
+      "hash": "18dd09055f3a9e1f",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Defines an evidence limit for extrapolating animal neural pathways to humans.",
+      "label": "STATEMENT",
+      "explanation": "Without direct evidence, a comparable signaling route from human skin or other temperature-sensing tissues during heating remains speculative."
+    },
+    {
+      "id": "c040",
+      "hash": "c066f674d2840d00",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Describes central integration of thermosensory feedback.",
+      "label": "STATEMENT",
+      "explanation": "The POA is understood to gather signals from multiple temperature-sensitive bodily locations and send commands that turn on cooling effectors."
+    },
+    {
+      "id": "c041",
+      "hash": "e602758257a328f8",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Describes the independent-effector-loop model of thermoregulation.",
+      "label": "STATEMENT",
+      "explanation": "Temperature control is generally modeled as multiple distinct response circuits, each possessing its own network of neurons."
+    },
+    {
+      "id": "c042",
+      "hash": "c0a7da32a0f57eac",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Distinguishes human heat-defense physiology from rodent responses.",
+      "label": "STATEMENT",
+      "explanation": "For humans, coping with heat requires directly triggering skin vessel dilation and eccrine sweating, unlike rodent mechanisms that suppress defenses against cold."
+    },
+    {
+      "id": "c043",
+      "hash": "36dc421295caeae4",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States an unresolved issue about independence among human heat-loss effector loops.",
+      "label": "STATEMENT",
+      "explanation": "Although the circuits for defending against cold and against warmth differ, whether human cooling mechanisms share a control loop or use separate ones is unresolved."
+    },
+    {
+      "id": "c044",
+      "hash": "23f95f66b913a328",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Notes the translational limits of rodent heat-defense circuitry.",
+      "label": "STATEMENT",
+      "explanation": "It is uncertain how well nerve circuits identified in rodents apply to people because human heat defense activates dedicated cooling processes rather than merely suppressing cold-protection responses."
+    },
+    {
+      "id": "c045",
+      "hash": "226bf785c80ba413",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Identifies central nervous-system regions associated with thermal sweating.",
+      "label": "DATA",
+      "explanation": "Sweating induced by heat was linked to activity clusters within posterior and pregenual cingulate areas; the anterior hypothalamus/POA showed associations only with that sweating."
+    },
+    {
+      "id": "c046",
+      "hash": "0116f1fab55fc0aa",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Synthesizes evidence on central regulation of thermoeffector output.",
+      "label": "DATA",
+      "explanation": "The investigations observed POA activity with heating; some also linked sweating-related autonomic responses preferentially to the ventral midbrain, lower ventral medulla, and posterior and pregenual cingulate regions."
+    },
+    {
+      "id": "c047",
+      "hash": "0404d123c7dc5fd4",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Presents the proposed central neural-relay principle.",
+      "label": "STATEMENT",
+      "explanation": "Accordingly, one proposed route is that the hypothalamus recruits cooling effectors through an intermediate connection in the brainstem."
+    },
+    {
+      "id": "c048",
+      "hash": "5b31e1711c888ce6",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Characterizes the temperature dependence of sympathetic skin nerve activity.",
+      "label": "STATEMENT",
+      "explanation": "After the activation threshold, SSNA rises in a straight-line relationship with core temperature until it reaches a maximum beyond which further warming produces no additional measurable response."
+    },
+    {
+      "id": "c049",
+      "hash": "720ef0f8dad75214",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Provides quantitative evidence about autonomic signaling and effector responses.",
+      "label": "DATA",
+      "explanation": "Transient changes in both perspiration and skin perfusion followed 70% of recorded multiunit SSNA bursts; perfusion alone followed 1%, while sweating alone followed 10%."
+    },
+    {
+      "id": "c050",
+      "hash": "326357728d9dbe3b",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Identifies an unresolved distinction between sudomotor and vasodilator signaling.",
+      "label": "DATA",
+      "explanation": "Single-unit SSNA measurements confirm sympathetic neurons controlling sweat glands, but whether skin vessel dilation uses its own postganglionic nerve population or shares sweat-gland nerves is unresolved."
+    },
+    {
+      "id": "c051",
+      "hash": "bac71698358661bd",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Establishes the dominant human thermolytic mechanism under heat stress.",
+      "label": "STATEMENT",
+      "explanation": "During thermal stress, people control body warmth chiefly by producing perspiration that evaporates."
+    },
+    {
+      "id": "c052",
+      "hash": "6b923cbe2a81bdfd",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Describes the spatial distribution property of sweating.",
+      "label": "STATEMENT",
+      "explanation": "After sweating begins, it reaches almost all skin regions but varies in amount across locations."
+    },
+    {
+      "id": "c053",
+      "hash": "43db2fb93c8f934c",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Reports the regional pattern of thermoeffector output.",
+      "label": "DATA",
+      "explanation": "Under strong heating, perspiration is usually most pronounced at the forehead and back, then the front torso and shoulders, followed by head and neck, extremities, and finally palm-side hands and soles."
+    },
+    {
+      "id": "c054",
+      "hash": "50971ee4d88f3668",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Identifies the principal neurotransmission mechanism for thermoregulatory sweating.",
+      "label": "STATEMENT",
+      "explanation": "Nearly all sweating for temperature control is activated by sympathetic nerve fibers beyond the ganglia that secrete acetylcholine."
+    },
+    {
+      "id": "c055",
+      "hash": "da8fa3aaaf618d17",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Defines the contribution of active skin vasodilation to heat dissipation.",
+      "label": "STATEMENT",
+      "explanation": "Most additional blood flow through the skin during heating results from active dilation of skin vessels."
+    },
+    {
+      "id": "c056",
+      "hash": "a84d336dfeb04349",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the consensus model of active cutaneous vasodilation.",
+      "label": "STATEMENT",
+      "explanation": "The prevailing view attributes active skin vessel widening in the heat to cholinergic nerves releasing multiple substances that affect vascular tone together."
+    },
+    {
+      "id": "c057",
+      "hash": "0d171b7e16d2aeaa",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Distinguishes signaling mechanisms during passive heating and exercise.",
+      "label": "STATEMENT",
+      "explanation": "Neuronal nitric oxide synthase facilitates skin vessel widening during heating without exercise, while its endothelial form does so during exertion."
+    },
+    {
+      "id": "c058",
+      "hash": "6d75126bd30468b0",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Qualifies the physiological significance of interacting thermoeffectors.",
+      "label": "DATA",
+      "explanation": "Experimentally changing skin circulation or perspiration within normal physiological ranges indicates that their interaction has little material effect on temperature control."
+    },
+    {
+      "id": "c059",
+      "hash": "04e0e99b51ad7e50",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Provides the weighted-temperature control framework.",
+      "label": "DATA",
+      "explanation": "Relative contributions of skin and core temperature to circulation and perspiration are often represented by respective weights of 0.1:0.9 or 0.2:0.8."
+    },
+    {
+      "id": "c060",
+      "hash": "7c640921d2b0e5f7",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Defines thermosensitivity as an analytical response parameter.",
+      "label": "DEFINITION",
+      "explanation": "The slope of the rising effector response indicates thermosensitivity, or output change per unit body-temperature change; its later stable high level represents the maximum reached in that experiment."
+    },
+    {
+      "id": "c061",
+      "hash": "acb98a0b53f9d6bc",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Identifies the parameters of a thermoeffector-response model.",
+      "label": "STATEMENT",
+      "explanation": "The framework assesses effects on thermal control using three measures: temperature at response initiation, response sensitivity to warming, and peak output."
+    },
+    {
+      "id": "c062",
+      "hash": "2d90489e402caabb",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Identifies an indirect method for characterizing thermoregulatory control.",
+      "label": "STATEMENT",
+      "explanation": "Because components of individual cooling circuits are hard to examine directly, investigators use the connection between effector activity and body temperature to infer how regulatory influences act."
+    },
+    {
+      "id": "c063",
+      "hash": "98e2be81d22d87d9",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Sets a methodological criterion for interpreting onset shifts.",
+      "label": "STATEMENT",
+      "explanation": "It is uncertain whether an onset threshold itself or its shift better indicates temperature regulation, so investigations should determine whether a modifier changes it beyond shifts in resting core temperature."
+    },
+    {
+      "id": "c064",
+      "hash": "58b4eb263b1fe511",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Identifies body-size dependence in exercise metabolic heat production.",
+      "label": "STATEMENT",
+      "explanation": "Higher body mass is linked to greater total metabolism at rest and at a fixed pace while supporting body weight, and therefore to more heat generated overall."
+    },
+    {
+      "id": "c065",
+      "hash": "65c1725fc668fa51",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Defines mass as a thermal-storage variable.",
+      "label": "STATEMENT",
+      "explanation": "Body mass acts as thermal storage capacity: for the same quantity of accumulated heat, greater mass means a smaller increase in core temperature."
+    },
+    {
+      "id": "c066",
+      "hash": "dcd48be44cdbf255",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Identifies a controlled comparison testing body-mass effects during cycling.",
+      "label": "DATA",
+      "explanation": "To isolate body-mass effects, cycling participants averaging 91.5 kg and 67.6 kg were compared at identical total heat-generation rates, with age, sex, and acclimation status matched."
+    },
+    {
+      "id": "c067",
+      "hash": "4da2b492f0916322",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Reports the magnitude of a body-mass-associated exercise temperature difference.",
+      "label": "DATA",
+      "explanation": "At heat-generation levels of 500 and 600 W, rectal warming was 0.3–0.4°C less among heavier participants, consistent with their greater heat-storage capacity."
+    },
+    {
+      "id": "c068",
+      "hash": "c588c423de58d64b",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) States the comparison principle for groups with different body sizes.",
+      "label": "STATEMENT",
+      "explanation": "Comparisons of core temperature across differently sized populations must account separately for metabolic heat generation and body mass, including when contrasting ages, sexes, or obesity status."
+    },
+    {
+      "id": "c069",
+      "hash": "29db383050a6f5f5",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Offers a heat-production normalization principle for exercise comparisons.",
+      "label": "STATEMENT",
+      "explanation": "The evidence favors matching heat generation per unit mass when comparing core temperatures of groups with different weights under conditions where cooling demands can be met."
+    },
+    {
+      "id": "c070",
+      "hash": "0a272b9ec4a4d0cc",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Shows how functional skin area modifies the upper evaporative limit.",
+      "label": "DEFINITION",
+      "explanation": "Conditions damaging sweating can leave less skin capable of evaporative cooling than the complete body surface, thereby decreasing Emax."
+    },
+    {
+      "id": "c071",
+      "hash": "9155d808ead0856b",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Reports size-dependent sweating observations during controlled cycling.",
+      "label": "DATA",
+      "explanation": "Total sweat output reached ~7.5 g/min with Ereq at 340 W versus ~10.0 g/min with Ereq at 400 W for both body areas, 2.12 and 1.80 m2; local rates in the larger group were lower by ~0.2 when expressed in mg·cm2·min1."
+    },
+    {
+      "id": "c072",
+      "hash": "466a76fbabc85b65",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Describes the surface area-to-mass contribution to heat exchange.",
+      "label": "STATEMENT",
+      "explanation": "When skin is warmer than air, people with more exterior area relative to their mass lose more dry heat per kilogram and consequently require less evaporative cooling, lowering Ereq."
+    },
+    {
+      "id": "c073",
+      "hash": "5b0c99674c75b778",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Quantifies the contribution of mass-specific heat production to cycling temperature variation.",
+      "label": "DATA",
+      "explanation": "After 60 min of moderate-temperature cycling, heat production normalized to mass accounted for 49.6% of variation in temperature change, with surface-area-to-mass ratio accounting for another 4.3%."
+    },
+    {
+      "id": "c074",
+      "hash": "fa6c06b3fe72449c",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Summarizes the relative importance of body geometry in exercise heat stress.",
+      "label": "STATEMENT",
+      "explanation": "Available evidence suggests that, apart from weight itself, the ratio between surface area and mass contributes little to core-temperature changes with exercise in the heat."
+    },
+    {
+      "id": "c075",
+      "hash": "2ad5d9fd463cd24f",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Highlights a confounding explanation in adiposity-based exercise comparisons.",
+      "label": "STATEMENT",
+      "explanation": "Greater core warming among leaner individuals probably reflects their greater heat production per kilogram, given their typically lower mass and greater aerobic fitness relative to body weight."
+    },
+    {
+      "id": "c076",
+      "hash": "ebc217b78f9efaba",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Reports controlled evidence about adiposity and exercise thermal responses.",
+      "label": "DATA",
+      "explanation": "Across groups differing in body fat by ~10–13 percentage points, core-temperature responses during moderate cycling were unaffected when heat generation per kilogram was comparable, whether or not environmental cooling needs could be fully met."
+    },
+    {
+      "id": "c077",
+      "hash": "efecfab041812249",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Reports a residual association with body composition during exercise.",
+      "label": "DATA",
+      "explanation": "After accounting for metabolism and environmental conditions, unexplained variation in esophageal and rectal temperatures remained positively related to body-fat percentage."
+    },
+    {
+      "id": "c078",
+      "hash": "0ffecfee0786578b",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Lists classical adaptations accompanying heat acclimation during exercise.",
+      "label": "STATEMENT",
+      "explanation": "Recognized since the 1960s, heat adaptations include reduced resting core temperature, more vigorous perspiration, and a slower pulse during activity in hot settings."
+    },
+    {
+      "id": "c079",
+      "hash": "533c6c13b22b0390",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Describes a commonly employed exercise heat-acclimation protocol.",
+      "label": "DEFINITION",
+      "explanation": "The common traditional acclimation method repeats exercise at an unchanged intensity in hot conditions each day, over either 5–7 days or ≥14 days."
+    },
+    {
+      "id": "c080",
+      "hash": "27cc1d71df709b23",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Compares physiological outcomes of heat-acclimation protocols.",
+      "label": "DATA",
+      "explanation": "Conventional heat acclimation and controlled hyperthermia produced comparable declines in finishing core temperature and increases in total perspiration during exercise in hot conditions."
+    },
+    {
+      "id": "c081",
+      "hash": "51d2c649bc3f07f6",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Characterizes heat-acclimation effects at demanding evaporative requirements.",
+      "label": "DATA",
+      "explanation": "Increases in perspiration after acclimation are clearest when Ereq is elevated or conditions prevent full heat compensation."
+    },
+    {
+      "id": "c082",
+      "hash": "57029c764ab62619",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Links maximal sweat-gland performance with physiological adaptation.",
+      "label": "DATA",
+      "explanation": "After adapting to heat, individual glands produced more sweat at their maximum in living subjects, and larger glands showed greater gains."
+    },
+    {
+      "id": "c083",
+      "hash": "e63966fed88fcbc2",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Connects repeated aerobic training with the thermal stimuli for adaptation.",
+      "label": "STATEMENT",
+      "explanation": "Aerobic workouts, even without hot ambient conditions, repeatedly raise core temperature and sweating, supplying stimuli necessary for becoming heat adapted."
+    },
+    {
+      "id": "c084",
+      "hash": "297b38c45bca5a5a",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Reports aerobic-fitness effects on evaporative cooling and temperature during exercise.",
+      "label": "DATA",
+      "explanation": "With heat production of 400 or 500 W, the higher-V_ O2max group exhibited more evaporative cooling than the lower-fitness group; at 500 W its esophageal temperature was also significantly lower."
+    },
+    {
+      "id": "c085",
+      "hash": "cc96228668eba2da",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Quantifies a training-induced change in the critical environmental limit.",
+      "label": "DATA",
+      "explanation": "Following training, average critical vapor pressure rose, reaching 3.42 kPa compared with a prior 2.98 kPa, which signifies increased capacity for evaporation."
+    },
+    {
+      "id": "c086",
+      "hash": "01fd5d5b6f20cdfa",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Identifies the wettedness mechanism behind trained evaporative capacity.",
+      "label": "DATA",
+      "explanation": "Evaporative capability improved through ωmax changing to 0.84 from 0.72; the critical skin-air pressure gradient also fell to 3.10 kPa after training from 3.48 kPa previously."
+    },
+    {
+      "id": "c087",
+      "hash": "b078ff0c131c1ace",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Shows that aerobic-fitness improvement alone is insufficient for heat adaptation.",
+      "label": "STATEMENT",
+      "explanation": "Activities that leave skin and core temperatures unchanged, including swimming in cool water, may raise V_ O2max without showing temperature-regulation adaptations."
+    },
+    {
+      "id": "c088",
+      "hash": "8943ded6dab43b1d",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Distinguishes physiological heat adaptation from gains in aerobic capacity.",
+      "label": "STATEMENT",
+      "explanation": "Thermal adaptation requires increased core temperature and sweating; undergoing training rather than improving V_ O2max by itself produces the adaptation."
+    },
+    {
+      "id": "c089",
+      "hash": "009e6d2540214898",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Reports matched-heat-production comparisons between fitness groups.",
+      "label": "DATA",
+      "explanation": "At equal heat generation of ~540 W, groups differed in relative aerobic effort (40% versus 58% V_ O2max) but not in core temperature or perspiration."
+    },
+    {
+      "id": "c090",
+      "hash": "a045230e52cc1ec3",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Reports experimental effects of relative versus absolute exercise intensity.",
+      "label": "DATA",
+      "explanation": "At ~45% of V_ O2max under both oxygen conditions, exercise during hypoxia yielded smaller rises in core temperature and sweating because reaching 45% of the hypoxic maximum required less work and generated less heat."
+    },
+    {
+      "id": "c091",
+      "hash": "260ca5dec2456fa9",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) States the recommended design for controlled exercise-heat comparisons.",
+      "label": "STATEMENT",
+      "explanation": "To compare temperature-regulation responses during moving exercise in equally sized groups, total heat generation should be matched regardless of differences in V_ O2max."
+    },
+    {
+      "id": "c092",
+      "hash": "7f8d9b1bbd3c02c4",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Explains the influence of exercise intensity on observed sex differences in sweating.",
+      "label": "DATA",
+      "explanation": "Earlier findings of reduced exercise sweating in women can be explained entirely by their lower metabolic heat generation during the tested activity."
+    },
+    {
+      "id": "c093",
+      "hash": "5cd02a6dbf2a69f6",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Identifies a sex-related limit in maximal sweating capacity.",
+      "label": "STATEMENT",
+      "explanation": "Women also have a lower upper limit for sweat production than men."
+    },
+    {
+      "id": "c094",
+      "hash": "ce76f21ac1d7c490",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Specifies the evaporative demand at which sex differences become detectable.",
+      "label": "DATA",
+      "explanation": "For low or intermediate Ereq, women and men perspire and cool through evaporation similarly; women's sweating becomes lower only at relatively elevated Ereq of 300 W/m2."
+    },
+    {
+      "id": "c095",
+      "hash": "b361058bd49cd0f7",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Frames sex differences within demanding exercise-environment combinations.",
+      "label": "STATEMENT",
+      "explanation": "A sex difference in perspiration despite women's lower maximal capacity becomes evident during strenuous exercise combined with warm or hot air."
+    },
+    {
+      "id": "c096",
+      "hash": "cf7f40ba8cc95ad1",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Links cyclical hormonal variation to thermoeffector onset.",
+      "label": "STATEMENT",
+      "explanation": "Across the menstrual cycle, changes in resting core temperature coincide with corresponding shifts in the temperature at which cooling responses begin."
+    },
+    {
+      "id": "c097",
+      "hash": "5532de888f401e40",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Reports menstrual-cycle comparisons of heat exchange during exercise.",
+      "label": "DATA",
+      "explanation": "Menstrual phase has been found not to alter overall bodily heat transfer during either passive heating or exercise under hot conditions."
+    },
+    {
+      "id": "c098",
+      "hash": "4c75562882fd2033",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Separates basal temperature changes from thermoregulatory control.",
+      "label": "STATEMENT",
+      "explanation": "Although menstrual hormonal shifts accompany changes in resting core temperature, they do not appear to modify the regulation of temperature."
+    },
+    {
+      "id": "c099",
+      "hash": "b75b3d0d65826fcb",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Relates movement economy to the metabolic cost of physical activity.",
+      "label": "STATEMENT",
+      "explanation": "At a fixed running pace or mechanical workload, poorer movement economy or efficiency means that metabolism generates more warmth."
+    },
+    {
+      "id": "c100",
+      "hash": "648a1139d4f1a342",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Identifies an age-related difference in weight-bearing exercise economy.",
+      "label": "STATEMENT",
+      "explanation": "Children expend energy less economically than adults when undertaking exercise that supports body weight."
+    },
+    {
+      "id": "c101",
+      "hash": "574042d09c9c61d5",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Applies mechanical-efficiency principles to child-adult exercise comparisons.",
+      "label": "STATEMENT",
+      "explanation": "Since children's gross efficiency during low or moderate work equals or exceeds adults', their heat generation and cooling needs should be no higher at identical absolute workloads."
+    },
+    {
+      "id": "c102",
+      "hash": "da3aa207da24a3a5",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Links pediatric morphology to external dry heat transfer.",
+      "label": "STATEMENT",
+      "explanation": "Children's larger surface area relative to weight means greater dry heat dissipation per kilogram when air is cooler than skin, but greater dry heat uptake per kilogram when air is hotter; Ereq therefore falls or rises accordingly."
+    },
+    {
+      "id": "c103",
+      "hash": "3ef7f648274adb46",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Localizes the likely origin of child-adult sweating differences.",
+      "label": "STATEMENT",
+      "explanation": "The observed differences in sweating seem to arise from peripheral mechanisms rather than neural control."
+    },
+    {
+      "id": "c104",
+      "hash": "b67950185311bcc5",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Explains a peripheral physiological limit on sweating during development.",
+      "label": "STATEMENT",
+      "explanation": "Children's sweat glands release less fluid because they are smaller and respond less to stimulation by cholinergic signals."
+    },
+    {
+      "id": "c105",
+      "hash": "2cdb1d3d683ccd13",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Synthesizes developmental evidence about vasomotor regulation.",
+      "label": "STATEMENT",
+      "explanation": "There is no definitive indication of substantial age-related differences in vessel control between children and adults; during heat exposure, children's skin and forearm circulation is usually comparable or greater."
+    },
+    {
+      "id": "c106",
+      "hash": "27812219760d3b6e",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Summarizes exercise-heat comparisons between children and adults.",
+      "label": "DATA",
+      "explanation": "The findings show two recurring patterns: core temperature in exercising children resembles that in adults, but children consistently perspire less overall."
+    },
+    {
+      "id": "c107",
+      "hash": "7659e8b137232b59",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Reports temperature differences at matched absolute exercise heat production.",
+      "label": "DATA",
+      "explanation": "With identical total heat output during activity, children's rectal temperature rose 0.6°C versus 0.3°C in adults because smaller bodies experienced more heat production per kilogram."
+    },
+    {
+      "id": "c108",
+      "hash": "df1b74476521cafc",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Reports age-comparative sweat-loss values during exercise.",
+      "label": "DATA",
+      "explanation": "Children secreted 11.8 g per kg versus 15.8 g per kg in adults, indicating that perspiration was more efficient among children."
+    },
+    {
+      "id": "c109",
+      "hash": "7a2c4e8e5ca9603a",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Qualifies pediatric temperature responses to passive heating.",
+      "label": "DATA",
+      "explanation": "Under passive heating, core temperatures in children aged 6–12 years before puberty are generally like those observed in adults."
+    },
+    {
+      "id": "c110",
+      "hash": "ef6e96579b42e342",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Reports comparable heat-acclimation temperature changes in children and adults.",
+      "label": "DATA",
+      "explanation": "Following acclimation, both groups showed rectal-temperature reductions of 0.2°C initially and 0.5°C at 40 min of exercise, the earliest duration achieved on day 1."
+    },
+    {
+      "id": "c111",
+      "hash": "b55391fd34736794",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Quantifies the exercise heart-rate adaptation across age groups.",
+      "label": "DATA",
+      "explanation": "At 40 min into activity, heart-rate decreases were almost the same across groups, about ~15–16 beats/min."
+    },
+    {
+      "id": "c112",
+      "hash": "226bc5de23745ed1",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Synthesizes evidence on age-related thermoeffector changes.",
+      "label": "STATEMENT",
+      "explanation": "Evidence from several studies supports the idea that advancing age weakens cooling-effector responses during exposure to heat."
+    },
+    {
+      "id": "c113",
+      "hash": "5a19312618881bba",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Connects aging-related vasodilation differences to heat transfer.",
+      "label": "STATEMENT",
+      "explanation": "Reduced active dilation of skin vessels leads to diminished skin circulation in older adults under thermal stress."
+    },
+    {
+      "id": "c114",
+      "hash": "7f07535f9c7c3acd",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Assesses the overall significance of lower vasodilation for heat exchange.",
+      "label": "STATEMENT",
+      "explanation": "Even so, the effect of diminished skin vessel dilation and circulation on overall bodily heat exchange appears small."
+    },
+    {
+      "id": "c115",
+      "hash": "6b90124239f8fe31",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Identifies an age effect observed in exercise and passive heating.",
+      "label": "STATEMENT",
+      "explanation": "Sweat-producing capacity generally decreases with advancing age, both during passive heating and exertion in hot conditions."
+    },
+    {
+      "id": "c116",
+      "hash": "53e08518ea4e4ef5",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Identifies a peripheral mechanism of aging-related sweating reduction.",
+      "label": "STATEMENT",
+      "explanation": "This lower sweating ability chiefly arises because each active gland secretes less, not because fewer sweat glands become activated."
+    },
+    {
+      "id": "c117",
+      "hash": "fbca6316e17b34c0",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Connects aging-related sweat limits with exercise-environment compensability.",
+      "label": "STATEMENT",
+      "explanation": "Older adults' diminished ability to perspire restricts evaporative cooling and lowers the combinations of exercise demand and temperature, moisture, and airflow beyond which thermal balance becomes unattainable."
+    },
+    {
+      "id": "c118",
+      "hash": "07e09a1b0ebeca05",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Identifies a comparison confound in aging-and-fitness exercise studies.",
+      "label": "STATEMENT",
+      "explanation": "Studies contrasting age groups should check whether exercise-generated heat differed, especially when intensity was set as a proportion of V_ O2max."
+    },
+    {
+      "id": "c119",
+      "hash": "02347129f7462d74",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Summarizes matched-heat-production data in different age groups.",
+      "label": "DATA",
+      "explanation": "With metabolic heat output matched, one study found normal whole-body perspiration among middle-aged men, but other studies reported lower perspiration in fitness-matched middle-aged women than in younger women."
+    },
+    {
+      "id": "c120",
+      "hash": "1287cc359c110286",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Reports hormone-replacement results during exercise heat exposure.",
+      "label": "DATA",
+      "explanation": "Estrogen therapy lasting 2–3 weeks reduced core temperature at rest but left both core warming and cooling-effector activity unchanged during subsequent hot-weather exercise."
+    },
+    {
+      "id": "c121",
+      "hash": "536e946f6fa799d7",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Identifies the neural level at which disease can alter thermal defense.",
+      "label": "STATEMENT",
+      "explanation": "Disorders affecting autonomic structures within central or peripheral nerves can disturb temperature sensing and cooling responses, causing heat intolerance and increasing susceptibility to heat illness."
+    },
+    {
+      "id": "c122",
+      "hash": "b5b255ec6d634d69",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Provides exercise sweat-loss data in multiple sclerosis.",
+      "label": "DATA",
+      "explanation": "With MS, whole-body perspiration during 60 min of cycling declined by ~90 g (~31%) when participants exercised at 70 W under 25°C, 35% RH conditions."
+    },
+    {
+      "id": "c123",
+      "hash": "dc8c4253b7729c14",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Synthesizes the evidence for selective thermoeffector impairment in multiple sclerosis.",
+      "label": "STATEMENT",
+      "explanation": "Limited research indicates that MS can diminish sweating without necessarily impairing vessel responses or producing markedly greater core warming during mild heat exposure."
+    },
+    {
+      "id": "c124",
+      "hash": "5e2a32535ae15363",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Connects neurological disease symptoms to thermally induced dysfunction.",
+      "label": "DATA",
+      "explanation": "Heat-regulation impairment could matter especially to the 60–80% of MS patients affected by Uhtoff phenomenon, which temporarily worsens symptoms during heating."
+    },
+    {
+      "id": "c125",
+      "hash": "66e0771c439f31ab",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Identifies exercise-associated triggers of symptom exacerbation.",
+      "label": "STATEMENT",
+      "explanation": "Small increases in body warmth from activity, sunshine, hot air, or bathing can cause temporary problems with sight, sensation, fatigue, muscular strength, or movement control."
+    },
+    {
+      "id": "c126",
+      "hash": "7541697a8f30b064",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Describes the observed pattern of thermoeffector impairment in Parkinson's disease.",
+      "label": "DATA",
+      "explanation": "During sweat tests or hot, humid exposure, people with PD commonly show either a typical perspiration pattern or an absence of sweating toward the ends of the limbs."
+    },
+    {
+      "id": "c127",
+      "hash": "459414613266b5a6",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Describes the severity of anhidrosis in a neurodegenerative disorder.",
+      "label": "DATA",
+      "explanation": "Sweat-free body area is generally much greater in MSA than in PD or DLB, with averages around ~65% or more during sweat testing."
+    },
+    {
+      "id": "c128",
+      "hash": "c4bba36b940e281a",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Relates peripheral nerve pathology to impaired thermoregulatory efference.",
+      "label": "STATEMENT",
+      "explanation": "Damage to nerves before or after sympathetic ganglia, or to the ganglia themselves, can sever cooling commands between the CNS and skin, causing pronounced inability to sweat and poor heat tolerance."
+    },
+    {
+      "id": "c129",
+      "hash": "2da706e3f706c96e",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Connects cardiovascular disease with heat-related vulnerability.",
+      "label": "STATEMENT",
+      "explanation": "During extreme-heat episodes, people with cardiovascular disease face higher chances of harmful cardiovascular events."
+    },
+    {
+      "id": "c130",
+      "hash": "3cdee09a44a59406",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Qualifies exercise-temperature effects of hypertension in controlled comparisons.",
+      "label": "DATA",
+      "explanation": "The relevance of the findings to thermoregulation is uncertain because medicated hypertensive middle-aged adults around 64 years showed similar total heat transfer and core temperature to people without hypertension during hot exercise."
+    },
+    {
+      "id": "c131",
+      "hash": "ea574063c59e6f3b",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Describes the differential vascular and sweating responses in heart failure.",
+      "label": "DATA",
+      "explanation": "People with heart failure had less active skin vessel widening and forearm circulation during heating, although sweating measured locally remained intact."
+    },
+    {
+      "id": "c132",
+      "hash": "f573ffb4f3090065",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Identifies the methodological heat-production confound in coronary artery disease comparisons.",
+      "label": "STATEMENT",
+      "explanation": "Because coronary artery disease participants had lower V_ O2max, they worked at lower external intensity and probably generated less heat metabolically."
+    },
+    {
+      "id": "c133",
+      "hash": "4814904ce911e496",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Identifies a characteristic pattern of neuropathic sweating impairment.",
+      "label": "DATA",
+      "explanation": "In diabetes-related neuropathy, reduced or missing perspiration commonly affects feet and hands in a stocking-and-glove pattern, consistent with the prevalence of nerve damage affecting longer fibers."
+    },
+    {
+      "id": "c134",
+      "hash": "4c2c7094c2bd67bd",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Describes sweat-control signaling during exercise with diabetes.",
+      "label": "DATA",
+      "explanation": "During hot exercise, young people with T1DM lack the usual nitric oxide involvement in sweating, pointing toward reduced availability of this molecule."
+    },
+    {
+      "id": "c135",
+      "hash": "a79d521325e04a74",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Reports clinical evidence of impaired reflex vasodilation in diabetes.",
+      "label": "DATA",
+      "explanation": "Early research found that people with diabetic neuropathy could have absent or delayed warming of foot skin during whole-body heating, suggesting disrupted reflex skin vessel dilation."
+    },
+    {
+      "id": "c136",
+      "hash": "6ddd690b64de1525",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Introduces the evidence comparing type 1 diabetes and exercise-related core temperature.",
+      "label": "STATEMENT",
+      "explanation": "During exertion in the heat, people with T1DM have core temperatures that match or exceed those of comparable healthy participants."
+    },
+    {
+      "id": "c137",
+      "hash": "824d2473beac7683",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Quantifies higher temperature responses under demanding exercise heat loads.",
+      "label": "DATA",
+      "explanation": "At lighter thermal demands, the groups had similar core temperatures; at 300 W/m2 heat generation, people with T1DM warmed ~0.3–0.4°C more in both studies."
+    },
+    {
+      "id": "c138",
+      "hash": "96d2c60f7875f7c3",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Quantifies altered evaporative heat loss in type 1 diabetes.",
+      "label": "DATA",
+      "explanation": "For T1DM, dry heat transfer matched controls; evaporation was somewhat lower with 250 W/m2 metabolic heat generation and lower by ~30 W/m2 at 300 W/m2, along with increased core warmth."
+    },
+    {
+      "id": "c139",
+      "hash": "3faa96a24dca184a",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Summarizes the heat-load dependence of diabetic thermoregulatory dysfunction.",
+      "label": "STATEMENT",
+      "explanation": "In diabetes, impairment of thermal control depends on the imposed heat demand and mainly involves diminished evaporative cooling."
+    },
+    {
+      "id": "c140",
+      "hash": "b39a08725ef0a0b7",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Reports the effect of exercise heat-acclimation on evaporation in type 2 diabetes.",
+      "label": "DATA",
+      "explanation": "Before acclimation, T2DM participants had less evaporative cooling, yet afterward their improvement was larger (137 W/m2 versus 117 W/m2 in controls), eliminating the between-group difference."
+    },
+    {
+      "id": "c141",
+      "hash": "ebf29af78c11caa6",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Reports heat-acclimation changes in thermal storage during exercise.",
+      "label": "DATA",
+      "explanation": "Adaptation to heat decreased stored warmth and average body temperature in both groups, with comparable amounts of improvement."
+    },
+    {
+      "id": "c142",
+      "hash": "5597aebfcb7bd8a2",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Identifies an exercise-related electrolyte-management implication.",
+      "label": "STATEMENT",
+      "explanation": "Exercise recommendations for people with CF stress replacing electrolytes during exertion and exposure to heat."
+    },
+    {
+      "id": "c143",
+      "hash": "1ab77bbf95471058",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Identifies the evaporative consequence of a sweat-gland disorder.",
+      "label": "STATEMENT",
+      "explanation": "Insufficient perspiration during heating can reduce cooling through evaporation and produce a greater increase in core temperature."
+    },
+    {
+      "id": "c144",
+      "hash": "88f054690653038e",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Provides a quantitative example of temperature control without functional sweating.",
+      "label": "DATA",
+      "explanation": "In 43°C air for 30 min, two people with HED produced no thermoregulatory sweat and warmed internally by ~2°C, whereas controls sweated at ~600 g/h with little core-temperature change."
+    },
+    {
+      "id": "c145",
+      "hash": "9c336fd7197c2935",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Reports exercise thermal responses in congenital sweat-gland dysfunction.",
+      "label": "DATA",
+      "explanation": "Even in thermally neutral air, young people with HED undergoing progressively harder exercise showed core warming between threefold and fourfold as large."
+    },
+    {
+      "id": "c146",
+      "hash": "3b9491fe1f3044eb",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Sets the injury-related thermoeffector impairment framework.",
+      "label": "STATEMENT",
+      "explanation": "Injury to neural connections or responding organs responsible for dissipating heat can weaken the regulation of internal temperature when hot."
+    },
+    {
+      "id": "c147",
+      "hash": "b9c9a7d7023ecc53",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Relates thermoregulatory damage to exercise heat loading.",
+      "label": "STATEMENT",
+      "explanation": "Injuries that restrict heat release can intensify core-temperature rises during exertion or ambient heating, potentially reducing performance or increasing the chance of heat illness."
+    },
+    {
+      "id": "c148",
+      "hash": "0ed2cce173b5e63a",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Summarizes lesion-level effects on thermal compensability.",
+      "label": "DATA",
+      "explanation": "Together the results indicate that higher SCI lesions produce larger core-temperature rises in heat, and that air hotter than 35°C may prevent thermal balance at rest following SCI."
+    },
+    {
+      "id": "c149",
+      "hash": "3608e4907216fde8",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Identifies the appropriate comparison metric after spinal injury.",
+      "label": "STATEMENT",
+      "explanation": "After SCI, an equal rise in core temperature despite lower metabolic heat generation per kilogram can indicate diminished temperature control."
+    },
+    {
+      "id": "c150",
+      "hash": "85604f777be6f6c5",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Summarizes lesion-level differences under controlled exercise heat production.",
+      "label": "DATA",
+      "explanation": "When participants generated similar metabolic heat per kilogram during exercise, higher spinal lesion levels consistently produced greater core warming than in people without disability."
+    },
+    {
+      "id": "c151",
+      "hash": "699cca70c879dde6",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Demonstrates disrupted peripheral temperature sensing following injury.",
+      "label": "DATA",
+      "explanation": "Cooling leg skin by up to 7°C during arrested leg circulation in a paraplegic individual left perspiration unchanged, suggesting failed thermal sensory input from below the injury."
+    },
+    {
+      "id": "c152",
+      "hash": "9313343c003b5ab8",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Explains loss of neural control following high spinal injury.",
+      "label": "STATEMENT",
+      "explanation": "Because sympathetic fibers leave through spinal levels T1-L2/3, a complete neck-level transection disconnects sympathetic regulation from the brain and abolishes centrally driven heat-defense responses."
+    },
+    {
+      "id": "c153",
+      "hash": "ce4b19f20703d0ce",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Identifies the key thermoregulatory constraint during exercise with spinal injury.",
+      "label": "STATEMENT",
+      "explanation": "Poor activation of cooling effectors primarily explains increased core warming during exercise or environmental heating after SCI."
+    },
+    {
+      "id": "c154",
+      "hash": "3c06213ebf66c674",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Links injury-associated sweating loss with exercise skin heating.",
+      "label": "STATEMENT",
+      "explanation": "Without evaporative cooling of the skin, areas below the spinal injury become warmer during both exertion and exposure to hot surroundings."
+    },
+    {
+      "id": "c155",
+      "hash": "26bc7627a8a6faa2",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Identifies retained thermoeffector responses above spinal lesions.",
+      "label": "STATEMENT",
+      "explanation": "After SCI below T1, regions retaining sympathetic nerves still perspire and dilate vessels when heated, although their response control may be changed."
+    },
+    {
+      "id": "c156",
+      "hash": "9f579da6eaba85d0",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Connects functional skin area with exercise evaporative limits after injury.",
+      "label": "STATEMENT",
+      "explanation": "Even if sweating regulation survives SCI, loss of functioning sweat area can prevent meeting Ereq and increase core warming; wheelchair contact may further inhibit evaporation from sweating regions of the back."
+    },
+    {
+      "id": "c157",
+      "hash": "961169d09a76920d",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Reports severity-related reductions in whole-body sweating.",
+      "label": "DATA",
+      "explanation": "Overall sweat output was greatest in participants without SCI, intermediate in paraplegia, and least in tetraplegia, showing a progressive reduction with higher injury levels."
+    },
+    {
+      "id": "c158",
+      "hash": "f9769bbd3fd347fb",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Connects whole-body sweating with deep-body thermal strain.",
+      "label": "DATA",
+      "explanation": "Greater warming in the ear canal accompanied lower overall perspiration in SCI groups, linking impaired sweating to increased core temperature."
+    },
+    {
+      "id": "c159",
+      "hash": "be317c7f2dca1ee2",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Explains a confound in training-based spinal-injury comparisons.",
+      "label": "DATA",
+      "explanation": "Participants with paraplegia showed core warming similar to able-bodied peers despite ~28% less metabolic heat production per kilogram, indicating impaired thermal control associated with SCI."
+    },
+    {
+      "id": "c160",
+      "hash": "fd5f01035e5948d1",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Suggests peripheral adaptation of retained sweat-gland function through training.",
+      "label": "STATEMENT",
+      "explanation": "The result indicates that sweat glands whose sympathetic connections remain functional may adapt to heat through physical conditioning."
+    },
+    {
+      "id": "c161",
+      "hash": "74341045edd7d4e2",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Reports lesion-level differences in critical humidity for heat balance.",
+      "label": "DATA",
+      "explanation": "A gut-temperature inflection occurred at a mean RH of 53% in just three among eight participants with paraplegia, whereas those with tetraplegia kept warming at baseline 37°C and 20% RH, indicating uncompensable conditions."
+    },
+    {
+      "id": "c162",
+      "hash": "4435f9a3e737508c",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Links injury severity with the evaporative compensability threshold.",
+      "label": "STATEMENT",
+      "explanation": "Higher SCI injury levels reduced the limit of conditions allowing heat balance because evaporative cooling capacity fell with reduced overall sweating and probably lower ωmax."
+    },
+    {
+      "id": "c163",
+      "hash": "021c7854ddd227d0",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Identifies the structural basis for burn-associated thermoeffector loss.",
+      "label": "STATEMENT",
+      "explanation": "Excision after partial- or full-thickness burns removes some or all of the dermis, along with sweat glands, vessels, and nerve links needed for cooling."
+    },
+    {
+      "id": "c164",
+      "hash": "d446b01e01fdb43d",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Explains the limit of skin-graft replacement of native thermoeffector structures.",
+      "label": "STATEMENT",
+      "explanation": "Because sweat-gland coils, upper ducts, and deeper skin blood vessels lie far into the dermis, a skin graft does not transfer these essential cooling structures."
+    },
+    {
+      "id": "c165",
+      "hash": "725ab75b1cdab30b",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Summarizes thermoeffector recovery limits after skin grafting.",
+      "label": "STATEMENT",
+      "explanation": "Grafted skin retains impaired heat-induced vessel dilation and skin circulation even after blood vessels regrow and nerve supply partly returns."
+    },
+    {
+      "id": "c166",
+      "hash": "2b9c94828d505ab7",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Characterizes the sweating deficit in grafted skin.",
+      "label": "DATA",
+      "explanation": "During warming, split-thickness grafts generate very little perspiration or none at all."
+    },
+    {
+      "id": "c167",
+      "hash": "151415a528344e51",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Provides comparative evaporative heat-loss data during exercise with skin grafts.",
+      "label": "DATA",
+      "explanation": "Evaporation in control participants increased during exercise until almost meeting Ereq at the finish; their core warmed by ~0.6°C."
+    },
+    {
+      "id": "c168",
+      "hash": "3a4619818bfc10d7",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Applies evaporative-efficiency constraints to burn injury during exercise.",
+      "label": "STATEMENT",
+      "explanation": "At large evaporative demands, lower Emax and greater wetness needs on intact skin impair evaporation efficiency, so burn survivors may sweat more per unit undamaged area and potentially more overall."
+    },
+    {
+      "id": "c169",
+      "hash": "f81790744309bd28",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Identifies the distinction between sweating losses and useful cooling.",
+      "label": "STATEMENT",
+      "explanation": "When perspiration evaporates inefficiently, greater fluid loss adds no cooling benefit and instead drains body fluids faster."
+    },
+    {
+      "id": "c170",
+      "hash": "43ea164be5742779",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Identifies injury extent as a predictor of thermolytic limitation.",
+      "label": "DEFINITION",
+      "explanation": "For heat dissipation after burns, the extent of injured surface is the chief determinant of core-temperature regulation, commonly expressed as %TBSA affected by partial- or full-depth burns, excluding superficial injuries."
+    },
+    {
+      "id": "c171",
+      "hash": "75ca425e4d9435b7",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Identifies the relevant residual heat-loss surface in burn comparisons.",
+      "label": "STATEMENT",
+      "explanation": "Because heat transfer depends substantially on surface area measured in square meters, the actual amount of uninjured skin available for evaporation best predicts core warming under a given thermal load."
+    },
+    {
+      "id": "c172",
+      "hash": "781c7187dec09584",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Quantifies the impact of remaining functional skin surface.",
+      "label": "DATA",
+      "explanation": "The most informative predictor was nongrafted skin area measured absolutely, which accounted for 41% of variation in core-temperature response."
+    },
+    {
+      "id": "c173",
+      "hash": "c2a71731a416ffd3",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Describes the experimental limitation of evaporative loss in a simulated injury model.",
+      "label": "DATA",
+      "explanation": "Sweat soaked into the covering material, limiting cooling through evaporation from the skin beneath it."
+    },
+    {
+      "id": "c174",
+      "hash": "cc0a00eb096f24cb",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Reports how body size modifies temperature during fixed-load exercise with simulated injury.",
+      "label": "DATA",
+      "explanation": "At equal total metabolic heat output, larger people (~96 kg) experienced smaller core-temperature rises than smaller people (~65 kg), reflecting both more healthy skin and the smaller group's lower heat-storage capacity."
+    },
+    {
+      "id": "c175",
+      "hash": "ee4fb99066a685e5",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Reports an exercise-intensity by burn-size interaction.",
+      "label": "DATA",
+      "explanation": "At moderate exercise producing 6 W/kg of heat, simulated burns affecting 40% or 60% TBSA raised core temperature more than controls, whereas 20% TBSA did not differ from controls."
+    },
+    {
+      "id": "c176",
+      "hash": "0fd71991c4df6811",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Provides a low-intensity exercise comparison across injury sizes.",
+      "label": "DATA",
+      "explanation": "With light exercise generating just 4 W/kg, core-temperature increases were alike across all simulated burn extents and uninjured controls."
+    },
+    {
+      "id": "c177",
+      "hash": "eafcc144c4ae630a",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Summarizes boundaries of exercise heat tolerance across burn injury extents.",
+      "label": "DATA",
+      "explanation": "The studies indicate that burns affecting ≥40% TBSA markedly restrict heat and exercise conditions that permit thermal balance, whereas burns of ≤20% TBSA, over 90% of burn cases, do not substantially impair cooling at moderate heat demands."
+    },
+    {
+      "id": "c178",
+      "hash": "99a456f2090c47f0",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Reports the thermal adaptation retained after burn injury.",
+      "label": "DATA",
+      "explanation": "Following acclimation, the size of the core-temperature increase declined by a comparable amount in all three groups."
+    },
+    {
+      "id": "c179",
+      "hash": "3247a091cc5b1ba5",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Characterizes passive-onset heat stroke in the review's disease-and-injury framework.",
+      "label": "DEFINITION",
+      "explanation": "Classic or passive heatstroke develops without exertion and particularly affects vulnerable people, including older adults during heat waves and children trapped in sun-heated cars."
+    },
+    {
+      "id": "c180",
+      "hash": "db08b3145f0b2113",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Defines the exercise-associated form of heat stroke.",
+      "label": "DEFINITION",
+      "explanation": "Exertional heatstroke arises during activity, often though not invariably in humid heat, among groups such as sport participants and military personnel."
+    },
+    {
+      "id": "c181",
+      "hash": "afe681c648d07f51",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Reports the history of recurrence in exertional heat-stroke cases.",
+      "label": "DATA",
+      "explanation": "Among French service members treated for EHS, 15.4% reported having experienced EHS previously."
+    },
+    {
+      "id": "c182",
+      "hash": "33d1efb64ca425ee",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Provides another estimate of recurrent exertional heat illness.",
+      "label": "DATA",
+      "explanation": "In a group of 145 patients, another investigation found a 4.1% recurrence rate for heat illness caused by exertion."
+    },
+    {
+      "id": "c183",
+      "hash": "5f861bfefd254871",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Corrects a proposed mechanism of lasting temperature dysregulation.",
+      "label": "STATEMENT",
+      "explanation": "The widely held claim that heatstroke necessarily damages the hypothalamus is regarded as mistaken."
+    },
+    {
+      "id": "c184",
+      "hash": "a5a7e562e29fb1f1",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Reports long-term cardiovascular-risk evidence after heat stroke.",
+      "label": "DATA",
+      "explanation": "Over 14 years after military hospitalization for heatstroke, risk of death was ~2.2 times higher for ischemic heart disease and ~1.7 times higher for other cardiovascular causes."
+    },
+    {
+      "id": "c185",
+      "hash": "801c1760d55cd52f",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Clarifies limits on inferring post-stroke cardiovascular causation.",
+      "label": "STATEMENT",
+      "explanation": "It remains uncertain whether experiencing heatstroke can cause cardiovascular disorders to appear later in life."
+    },
+    {
+      "id": "c186",
+      "hash": "b5c7d67c2fc44642",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Connects heat-acclimation memory with adaptation kinetics.",
+      "label": "DATA",
+      "explanation": "Interest in epigenetic responses to heat began when renewed acclimatization after 18 days of losing adaptation proved far faster than initial acclimatization, suggesting a lingering biological memory."
+    },
+    {
+      "id": "c187",
+      "hash": "1a688dc4b15c6460",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Restates the dominant biophysical determinant in the paper's framework.",
+      "label": "STATEMENT",
+      "explanation": "From the standpoint of heat physics, the amount of warmth created by metabolism principally governs internal body temperature."
+    },
+    {
+      "id": "c188",
+      "hash": "7be99e69edace28e",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Synthesizes morphological determinants of thermal storage.",
+      "label": "STATEMENT",
+      "explanation": "At identical overall heat production, core-temperature change decreases as mass and tissue-specific heat capacity increase; composition effects become noticeable mainly when comparing very different fat levels."
+    },
+    {
+      "id": "c189",
+      "hash": "3313a5c6a3829eb5",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Summarizes heat-loss effector physiology.",
+      "label": "STATEMENT",
+      "explanation": "More skin circulation and perspiration increase surface cooling as thermal demands rise, helping reestablish equilibrium between heat gain and loss."
+    },
+    {
+      "id": "c190",
+      "hash": "a9f840642404664b",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) States the boundary conditions for exercise heat balance.",
+      "label": "STATEMENT",
+      "explanation": "These cooling responses can sustain thermal balance only at activity levels and environmental settings where total-body heat-loss capacity does not exceed heat generation."
+    },
+    {
+      "id": "c191",
+      "hash": "ec368dca5c92f108",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Summarizes disruptions along autonomic thermoregulatory pathways.",
+      "label": "STATEMENT",
+      "explanation": "Various biological traits, health conditions, and injuries disrupt automatic cooling control by interfering with incoming or outgoing nerve signals or altering the function of responding organs."
+    },
+    {
+      "id": "c192",
+      "hash": "151acdab1e839d4e",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Identifies the health consequence of failed effector control.",
+      "label": "STATEMENT",
+      "explanation": "Poor regulation of skin perfusion and perspiration can produce excessive physiological strain from heat and increase vulnerability to heat-related health problems."
+    }
+  ]
+}
