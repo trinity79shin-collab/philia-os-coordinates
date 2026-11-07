@@ -129,6 +129,29 @@
           "bytes": 60140
         }
       }
+    },
+    {
+      "doi": "10.1152/physrev.00047.2021",
+      "title": "Human temperature regulation under heat stress in health, disease, and injury",
+      "author": "Matthew N. Cramer, Daniel Gagnon, Orlando Laitano, Craig G. Crandall",
+      "published_print": "2022-10-01",
+      "worker": "gpt-6",
+      "run_date": "2026-11-07",
+      "items": 192,
+      "pdf_sha256_16": "573eeb1cacd749fe",
+      "copyright": "under copyright: sentence text withheld (first and last word kept); explanations in the interpretation file",
+      "files": {
+        "coordinates": {
+          "path": "data/cramer2022-thermoregulation__10.1152-physrev.00047.2021__coordinates__gpt-6-20261107.json",
+          "sha256": "680407c567b920587e21a199e477033ee5f03b8501ee720049ae2dacc8b4d52e",
+          "bytes": 208629
+        },
+        "interpretation": {
+          "path": "data/cramer2022-thermoregulation__10.1152-physrev.00047.2021__interpretation__gpt-6-20261107.json",
+          "sha256": "be02ad33a528aa1b0fc0fab1d35bb0150adbce4f2bb054c757ec86df9950c1db",
+          "bytes": 85297
+        }
+      }
     }
   ],
   "file_naming": "<author+year>-<keyword>__<DOI with / as ->__<layer>__<worker>-<run date>.json",
