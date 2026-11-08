@@ -152,6 +152,29 @@
           "bytes": 85297
         }
       }
+    },
+    {
+      "doi": "10.1152/japplphysiol.00811.2015",
+      "title": "Heat shock proteins and exercise adaptations. Our knowledge thus far and the road still ahead",
+      "author": "Darren C. Henstridge, Mark A. Febbraio, Mark Hargreaves",
+      "published_print": "2016-03-15",
+      "worker": "claude-fable-5-1",
+      "run_date": "2026-11-08",
+      "items": 55,
+      "pdf_sha256_16": "073a33bc167180aa",
+      "copyright": "under copyright: sentence text withheld (first and last word kept); explanations in the interpretation file",
+      "files": {
+        "coordinates": {
+          "path": "data/henstridge2016-heat-shock-proteins__10.1152-japplphysiol.00811.2015__coordinates__fable5.1-20261108.json",
+          "sha256": "d99c6b6b8eb3dda9b36b0ae521141971b633766bf198820e18f08cf34d62fa44",
+          "bytes": 45004
+        },
+        "interpretation": {
+          "path": "data/henstridge2016-heat-shock-proteins__10.1152-japplphysiol.00811.2015__interpretation__fable5.1-20261108.json",
+          "sha256": "bf6627ef8af4186815f36d25334523bee797343725542aac903491362691289a",
+          "bytes": 30736
+        }
+      }
     }
   ],
   "file_naming": "<author+year>-<keyword>__<DOI with / as ->__<layer>__<worker>-<run date>.json",
