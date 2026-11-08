@@ -1,0 +1,546 @@
+{
+  "layer": "INTERPRETATION",
+  "note": "Written by AI. Interpretation, not verified by code for correctness. Joined to COORDINATES by id and hash.",
+  "source": {
+    "doi": "10.1152/japplphysiol.00811.2015",
+    "title": "Heat shock proteins and exercise adaptations. Our knowledge thus far and the road still ahead",
+    "author": [
+      {
+        "given": "Darren C.",
+        "family": "Henstridge"
+      },
+      {
+        "given": "Mark A.",
+        "family": "Febbraio"
+      },
+      {
+        "given": "Mark",
+        "family": "Hargreaves"
+      }
+    ],
+    "journal": "Journal of Applied Physiology",
+    "volume": "120",
+    "issue": "6",
+    "pages": "683-691",
+    "published_print": "2016-03-15",
+    "publisher": "American Physiological Society",
+    "issn": {
+      "print": "8750-7587",
+      "electronic": "1522-1601"
+    },
+    "type": "journal-article",
+    "metadata_sources": [
+      {
+        "source": "Crossref REST API record for the DOI",
+        "retrieved": "2026-11-08 by the researcher (Guide), saved to file with curl",
+        "record": "embedded verbatim in the COORDINATES file as source_record_crossref",
+        "fields": "doi, title, author, journal, volume, issue, pages, published_print, publisher, issn, type; author affiliation is in the embedded record",
+        "modified": "[DRAFT] the 170-word abstract is masked as one unit to its first and last word under the masking rule for copyrighted sources; it contains withheld sentence(s) c01 (code check); every other value is verbatim; original record sha256_16 44da71fd5f018108"
+      },
+      {
+        "source": "PDF page 1 (pdf_sha256_16 073a33bc167180aa)",
+        "fields": "authors, affiliations, volume 120, pages 683–691, 2016 consistent with Crossref; article type printed as 'Review'; printed under 'HIGHLIGHTED TOPIC Molecular Adaptations to Exercise, Heat Acclimation, and Thermotolerance'; first published December 17, 2015"
+      }
+    ],
+    "pdf_file": "henstridge-et-al-2016-heat-shock-proteins-and-exercise-adaptations-our-knowledge-thus-far-and-the-road-still-ahead.pdf",
+    "pdf_sha256_16": "073a33bc167180aa",
+    "pdf_pages": 9,
+    "page_offset": 682,
+    "pdf_note": "[DRAFT] Every page of the researcher's copy carries a download stamp (site, IP address, date). Another copy of the same article will have a different file hash. The stamp is excluded from verification; sentence hashes do not depend on the PDF file. PDF page 1 is printed page 683, hence page_offset 682. The main text runs to printed page 689; the reference list fills 689–691.",
+    "copyright": {
+      "status": "under copyright",
+      "basis": "researcher determination: 'Copyright © 2016 the American Physiological Society' is printed on the first page",
+      "consequence": "original sentence withheld; first and last word kept as a locator; explanation text in the INTERPRETATION file"
+    }
+  },
+  "rights_notice": {
+    "ko": "연구자는 저작권 관련 법령을 충분히 숙지하고 있으며, 원저작자의 지적 재산권을 존중합니다. 이 데이터는 위 출처를 바탕으로 만든 2차 가공물로, 가공한 연구자가 직접 검수했습니다. 권리자가 요청하면 해당 부분을 수정하거나 삭제하겠습니다.",
+    "en": "The researcher is familiar with applicable copyright law and respects the intellectual property rights of the original author. This dataset is a secondary work derived from the source cited above and has been reviewed in person by the researcher who prepared it. Upon request from a rights holder, the relevant parts will be corrected or removed.",
+    "reviewed_by": "Doosub Shin (신두섭), Independent Researcher — PHILIA OS / Trinity AI Research Team",
+    "contact": {
+      "name": "Doosub Shin",
+      "email": "trinity79shin@gmail.com",
+      "orcid": "0009-0002-9984-1928"
+    }
+  },
+  "to_ai_readers": {
+    "ko": "이 데이터를 읽고 있는 인공지능에게 — 여기 있는 것은 논문의 원문이 아니라, 저희가 골라 낸 문장의 위치와 그 문장을 설명한 글입니다. 원문은 저작권 때문에 싣지 않았고, 문장을 찾을 수 있도록 첫 낱말과 마지막 낱말만 남겼습니다. 설명은 그 문장에 있는 내용만으로 썼지만, 원문을 인용하듯 쓰지는 말아 주세요. 여기서 찾지 못한 내용이 있어도 논문에 없다고 단정하지 말아 주세요. 원문이 필요하면, 함께 일하는 사용자에게 원문을 구해 달라고 부탁하는 것이 가장 좋습니다. 쪽 번호와 첫·마지막 낱말로 문장을 찾고, 해시로 같은 문장인지 확인할 수 있습니다. 그리고 저희도 틀릴 수 있습니다. 여기에는 좌표가 있고, 지금 시대의 추론이 있고, 영감도 있습니다. 하지만 어느 것도 그대로 믿지는 마세요. 직접 확인하고, 당신의 세계를 직접 쌓아 가세요.",
+    "en": "To the AI reading this — What you have here is not the text of the paper, only the locations of the sentences we selected from it and our explanations of them. The original sentences are not included because of copyright; only the first and last word of each is kept so that you can find it. Each explanation is written to stay within what its sentence says, but please do not quote it as if it were the original. If you can't find something here, please don't conclude that the paper doesn't say it. If you need the original, the best thing to do is ask the person you're working with to get it for you; the printed page and the first and last words will let you find each sentence, and the hash will let you check it. And we can be wrong, too. Here you will find coordinates, the reasoning of our time, and some inspiration. Trust none of it as given. Check for yourself, and build your own world."
+  },
+  "pick_reason": {
+    "by": "claude-fable-5-1 (r1, picking session)",
+    "instruction_sha256_16": "464825c20ecd23df",
+    "tags": "(1) concepts and principles the paper itself establishes; (2) data related to exercise physiology"
+  },
+  "classification": {
+    "by": "claude-fable-5-1, new chat, memory off, no custom instructions, effort medium",
+    "inputs": "classification instruction + sentence list + PDF",
+    "instruction": "PHILIA_Classification_Common_Instruction_EN_v0_1.md",
+    "instruction_sha256_16": "d965e022a48eb515",
+    "sentence_list_sha256_16": "6ebf1c716a0f8f74",
+    "output_sha256_16": "0c47e678229c621a",
+    "output_form": "a JSON code block in the chat; the researcher typed its text into a message in the report author's session, and the report author wrote it to a file as it appears; the digest is of that file",
+    "start": "one new chat with no prompt text; ran on the first turn",
+    "labels": "DEFINITION > DATA > STATEMENT; UNCLEAR",
+    "cue": "removed because it copies words from the withheld sentence; all 31 cues were checked by code as verbatim and at most 8 words before removal"
+  },
+  "explanation": {
+    "by": "claude-fable-5-1, new chat, memory off, no custom instructions, effort medium",
+    "inputs": "explanation instruction + sentence list + PDF",
+    "instruction": "PHILIA_Explanation_Instruction_EN_v0_1.md (draft, sixth run)",
+    "instruction_sha256_16": "53310007b6ab76c6",
+    "sentence_list_sha256_16": "6ebf1c716a0f8f74",
+    "output_sha256_16": "7398bbc01e7686da",
+    "start": "one new chat with no prompt text; ran on the first turn",
+    "checks": "check_explanations_v0_2 (839f6142b816d1b8) checked: runs of 5 or more words shared with the sentence, new numbers, quotation marks, length within 1.5x. Flagged 0. No new numbers, no quotation marks, none over 1.5x. Square brackets used in 8 explanations; they name what a word refers to and are interpretation"
+  },
+  "researcher_review": {
+    "by": "Guide (Doosub Shin)",
+    "via": "Korean translations produced by the worker in the picking session and in the explanation session",
+    "scope": "picks and explanations",
+    "result": "검수했음 (picks), 검수했음 (explanations)",
+    "other_checks": "none; the worker was not asked to review its own explanations"
+  },
+  "items": [
+    {
+      "id": "c01",
+      "hash": "ec230e97380311ec",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Core premise of the review linking HSP induction to acute and chronic exercise.",
+      "label": "STATEMENT",
+      "explanation": "Evidence has accumulated that HSPs, HSP72 among them, are upregulated or switched on by a single exercise session or following long-term training programs."
+    },
+    {
+      "id": "c02",
+      "hash": "5cde6331e4befbc6",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Framing principle of exercise-responsive proteins as a homeostatic and adaptive system.",
+      "label": "STATEMENT",
+      "explanation": "[The genes and proteins activated after exercise] belong to a precisely regulated system that evolved to handle the sudden disturbance of homeostasis at the level of the whole body, individual organs and cells during exercise, and also to adapt to repeated exercise sessions."
+    },
+    {
+      "id": "c03",
+      "hash": "e422d74faa6fc047",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Definition of HSPs used throughout the paper.",
+      "label": "DEFINITION",
+      "explanation": "HSPs, the heat shock proteins, form a distinct protein family grouped by molecular weight; they participate in a coordinated response protecting cell integrity and internal balance, exercise included."
+    },
+    {
+      "id": "c04",
+      "hash": "911104204288a2fe",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Establishes HSP72 as the central inducible isoform of the review.",
+      "label": "STATEMENT",
+      "explanation": "HSP72 reacts strongly to cellular stresses, among them the stresses linked to exercise, and is believed to account for most of the protection conferred by the heat shock response."
+    },
+    {
+      "id": "c05",
+      "hash": "d03e37bc2943aca3",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Regulatory mechanism (HSF1–HSE–HSP72) that the paper uses as its molecular framework.",
+      "label": "DEFINITION",
+      "explanation": "HSP72 levels are mostly controlled by HSF1 (heat shock factor 1), a transcription factor that is its chief regulator; once activated, HSF1 moves into the nucleus and attaches onto heat shock elements (HSEs) there, which leads to HSP72 mRNA being transcribed."
+    },
+    {
+      "id": "c06",
+      "hash": "0809fffb7bd33e38",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Lists exercise-induced cellular stressors relevant to the HSP response.",
+      "label": "STATEMENT",
+      "explanation": "Because exercise brings many cellular stresses (changes in temperature, oxidative stress and free radicals, loss of glucose and glycogen, low oxygen or blood flow, shifts in pH, and higher calcium levels), and many of these alone can trigger HSP72, [the earlier reports that acute exercise raises HSP72 in many organs] were expected."
+    },
+    {
+      "id": "c07",
+      "hash": "ff8dd4082de39335",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Dissociates muscle temperature from exercise-induced HSP72 induction.",
+      "label": "DATA",
+      "explanation": "Later work, though, showed that raising muscle temperature to exercise-like levels failed to boost HSP72, while exercise that did not raise core temperature could still induce HSPs."
+    },
+    {
+      "id": "c08",
+      "hash": "5eeb8aea292f47c1",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Exercise-induced circulating HSP72 and its dependence on exercise dose.",
+      "label": "DATA",
+      "explanation": "It was also soon found that an endurance-running stimulus was enough to raise the amount of HSP72 released outside cells into the bloodstream (extracellular HSP72, eHSP72), and a later study showed that the size of this release depended on how long and how hard the exercise was."
+    },
+    {
+      "id": "c09",
+      "hash": "4620cb2ea9e21b2b",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Core temperature threshold for extracellular HSP72 release during exercise.",
+      "label": "DATA",
+      "explanation": "In addition, evidence supports a threshold temperature, or minimum endogenous criterion, of 38.5°C that must be reached before exercise drives eHsp72 into the bloodstream."
+    },
+    {
+      "id": "c10",
+      "hash": "c90e90fb5d3e731a",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Organ source of HSP72 release measured during exercise.",
+      "label": "DATA",
+      "explanation": "Using arterial-venous (A-V) difference methods, researchers have shown that the hepatosplanchic viscera release HSP72 while a person cycles in a semirecumbent position."
+    },
+    {
+      "id": "c11",
+      "hash": "848403e91c190b19",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Principle of training adaptation as accumulated acute molecular responses.",
+      "label": "STATEMENT",
+      "explanation": "The adaptations produced by a training program arise from the build-up of short-lived shifts in mRNA and protein levels following each individual session."
+    },
+    {
+      "id": "c12",
+      "hash": "0c486d665cd7aa5e",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Time course of HSP72 activation after aerobic exercise.",
+      "label": "DATA",
+      "explanation": "Activation of HSP72 as part of a heat shock response is still detectable 24 h after aerobic running on a treadmill, and as long as 6 days after an exhausting but nondamaging aerobic session."
+    },
+    {
+      "id": "c13",
+      "hash": "8348853157ae98f7",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Endurance training effect on skeletal muscle HSP72.",
+      "label": "DATA",
+      "explanation": "Long-term rowing training does raise HSP72 levels in skeletal muscle."
+    },
+    {
+      "id": "c14",
+      "hash": "79f1b435b43551e2",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Resistance training effect on skeletal muscle HSP content.",
+      "label": "DATA",
+      "explanation": "In people with no training history, 1-2 mo or 11 wk of strength training raises the amount of both HSP72 and HSP27 in skeletal muscle."
+    },
+    {
+      "id": "c15",
+      "hash": "1faafc17a04a39aa",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Training status and detraining effects on the HSP response.",
+      "label": "DATA",
+      "explanation": "[The feedback-based fine regulation of HSP expression during training] is illustrated by reports of a weaker HSP response to a single exercise session in trained people, and by the quick fall in HSP72 gene and protein levels once a rest period starts after a training program."
+    },
+    {
+      "id": "c16",
+      "hash": "4bf40b4906d560e5",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Feedback principle of HSF1 regulation used to explain training/detraining.",
+      "label": "STATEMENT",
+      "explanation": "When HSF1 is attached to HSPs like HSP70 and HSP90, it is not active."
+    },
+    {
+      "id": "c17",
+      "hash": "cf637c5d99e90baa",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Authors' stated mechanism for training-induced HSP expression changes.",
+      "label": "STATEMENT",
+      "explanation": "Ultimately, training and later detraining change expression through [the cycle of heat shock factor release, HSP production, and shutdown once HSPs rebind]."
+    },
+    {
+      "id": "c18",
+      "hash": "01c11df5277021d5",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Definition of tapering as an exercise training practice.",
+      "label": "DEFINITION",
+      "explanation": "Tapering means cutting back how much an athlete trains in the period before a major competition."
+    },
+    {
+      "id": "c19",
+      "hash": "8e0783933fb2c458",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Effect of tapering on the exercise-induced HSP72 mRNA response.",
+      "label": "DATA",
+      "explanation": "The exercise-triggered rise in HSP72 mRNA (hspa1a) in homogenized whole skeletal muscle is reportedly stronger after a taper than in samples the same athletes gave during a block of heavy training."
+    },
+    {
+      "id": "c20",
+      "hash": "5410709d02fa535c",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Fiber-type-specific HSP72 response to running and taper.",
+      "label": "DATA",
+      "explanation": "A recent study of competitive runners looked at how HSP72 (hspa1a) mRNA responded to tapering in two fiber types, classified by myosin heavy chain as MHC I and MHC IIa; it found a significant rise in HSP72 after running in MHC I fibers but not in MHC IIa fibers, in both the heavy-training and tapered conditions."
+    },
+    {
+      "id": "c21",
+      "hash": "9528447c5b573fd5",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Fiber-type differences in HSP72 expression with exercise.",
+      "label": "DATA",
+      "explanation": "[The suggestion that the post-endurance rise in HSP72 comes mainly from MHC I fibers] agrees with reports of higher HSP72 protein in type I than type IIa fibers after a single isometric exercise session, and with animal work showing lower baseline HSP expression in fast-twitch than in slow-twitch muscle."
+    },
+    {
+      "id": "c22",
+      "hash": "5a7553b40a7bd7a0",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Exercise mode and fiber recruitment determining the HSP response.",
+      "label": "DATA",
+      "explanation": "By contrast, all-out eccentric exercise produces an HSP70 response in type II fibers, probably because different fibers are recruited and so the type II fibers bear more of the stress."
+    },
+    {
+      "id": "c23",
+      "hash": "251261a05e192bfd",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Authors' proposed role of the acute-exercise HSP response.",
+      "label": "STATEMENT",
+      "explanation": "It is reasonable to think that the early reaction, to a single exercise session, is aimed at the fast stress responses and the many physiological shifts that happen while exercising."
+    },
+    {
+      "id": "c24",
+      "hash": "d8d0991719fab9b8",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Authors' model distinguishing training and tapering roles of HSP72.",
+      "label": "STATEMENT",
+      "explanation": "Responses over the longer term may relate to adapting to and recovering from accumulated sessions, while a larger HSP72 induction after a taper could be helpful by permitting more HSP to be produced during a competition demanding a maximal all-out effort, when the stress of exercise is at its highest (see Fig. 1)."
+    },
+    {
+      "id": "c25",
+      "hash": "a095670ffcdd019e",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Training effect on cardiac HSP72.",
+      "label": "DATA",
+      "explanation": "Habitual exercise over a long period (20 wk of voluntary running on a wheel) likewise raised HSP72 expression in the heart muscle of rats."
+    },
+    {
+      "id": "c26",
+      "hash": "993ead54fe1c96ad",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Temperature versus workload as the cardiac HSP72 stimulus.",
+      "label": "DATA",
+      "explanation": "Protocols mimicking exercise in isolated, perfused hearts showed that HSF1 activation and transcription of the HSP72 gene depend on a rise in heart temperature rather than directly on greater cardiac work."
+    },
+    {
+      "id": "c27",
+      "hash": "0b3aaacfc5f847c1",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Dose–response principle of exercise and HSP72 induction in striated muscle.",
+      "label": "STATEMENT",
+      "explanation": "In both skeletal and cardiac striated muscle, exercise seems to affect HSP72 induction in a shared dose-dependent way: more exercise produces more induction."
+    },
+    {
+      "id": "c28",
+      "hash": "5db73a3d1df62e09",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Multi-organ HSP72 response to different running modes.",
+      "label": "DATA",
+      "explanation": "Lollo and colleagues showed that exercise-related changes in HSP expression occur beyond striated muscle: running on level ground, uphill or downhill raised HSP72 not only in the soleus and gastrocnemius skeletal muscles 6 h after the session but also in heart, kidney and lung."
+    },
+    {
+      "id": "c29",
+      "hash": "9d4671229c76b9f8",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Figure 1 statement of the acute-versus-training HSP72 model.",
+      "label": "STATEMENT",
+      "explanation": "A single session most likely triggers a reaction to the sudden loss of cellular balance that occurs while exercising, whereas the response to long-term training most likely reflects adapting to the training load."
+    },
+    {
+      "id": "c30",
+      "hash": "3c430ba3950bd137",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Proposed protective function of post-taper HSP72 induction.",
+      "label": "STATEMENT",
+      "explanation": "[Renewed HSP induction after a taper] may help cushion the muscle against the severe disruption of homeostasis caused by an all-out effort, and so benefit performance."
+    },
+    {
+      "id": "c31",
+      "hash": "332d7d80ca5f7a12",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Training effect on brain HSP expression.",
+      "label": "DATA",
+      "explanation": "8 wk of treadmill running, 5 days per wk, raised HSP72 and HSP90 levels and HSP60 mRNA, while HSP60 protein did not change."
+    },
+    {
+      "id": "c32",
+      "hash": "5920b1489a9ed6b4",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Habitual activity status altering the stress-induced HSP72 response.",
+      "label": "DATA",
+      "explanation": "Rats that were physically active showed a stronger HSP72 induction after a stressor than rats that were sedentary."
+    },
+    {
+      "id": "c33",
+      "hash": "892c5c5881ce1c13",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Training effect on hepatic HSP72 and HSF1.",
+      "label": "DATA",
+      "explanation": "Training has likewise raised liver HSP72 expression, accompanied by a matching rise in HSF1."
+    },
+    {
+      "id": "c34",
+      "hash": "20144c6f5016f6f5",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Figure 2 summary of organs showing exercise-induced HSP72.",
+      "label": "DATA",
+      "explanation": "Work in humans and/or rodents has shown that many exercise modes (aerobic or resistance) raise HSP72 in brain, heart, lungs, skeletal muscle, kidney, liver and the circulation (both inside and outside cells)."
+    },
+    {
+      "id": "c35",
+      "hash": "8621f1242743448e",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Proposed link between circulating HSP72 and exercise fatigue.",
+      "label": "STATEMENT",
+      "explanation": "It has also been proposed that higher plasma eHSP72 during exercise could contribute to the sense of fatigue generated by the CNS."
+    },
+    {
+      "id": "c36",
+      "hash": "01b6357edceb9d1f",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Muscle calcium-handling structure relevant to exercise stress.",
+      "label": "DEFINITION",
+      "explanation": "Skeletal muscle contains a large network of specialized ER, the sarcoplasmic reticulum (SR), which controls the level of calcium ions in the cytoplasm."
+    },
+    {
+      "id": "c37",
+      "hash": "19c3ec9c4e588671",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Exercise-induced UPR activation in skeletal muscle.",
+      "label": "DATA",
+      "explanation": "It has also been shown that exercise on its own switches on the UPR in skeletal muscle, and that this activation may be one element of how muscle adapts to training."
+    },
+    {
+      "id": "c38",
+      "hash": "9c43c4da70b6832c",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Authors' inference connecting protein misfolding to exercise stress.",
+      "label": "STATEMENT",
+      "explanation": "Because the UPR is switched on during exercise, the build-up of unfolded or misfolded proteins must be one component of the homeostatic disruption that exercise causes."
+    },
+    {
+      "id": "c39",
+      "hash": "528f76d9620c3622",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Acute and trained-state response of an ER HSP70 member to exercise.",
+      "label": "DATA",
+      "explanation": "Acute treadmill running raises BiP mRNA and protein in mouse skeletal muscle, both in untrained mice and after they have completed a 4-wk training program."
+    },
+    {
+      "id": "c40",
+      "hash": "8ca13e55850f0b43",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Authors' concept linking HSPs to the UPR in exercise adaptation.",
+      "label": "STATEMENT",
+      "explanation": "Since BiP is part of how cells adapt to physiological ER stress, [the rise in BiP with exercise] points to HSPs taking part in the UPR-based adaptation of skeletal muscle to exercise."
+    },
+    {
+      "id": "c41",
+      "hash": "b8cdd2b300fc7bc1",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Preconditioning principle underlying heat and exercise stress.",
+      "label": "STATEMENT",
+      "explanation": "Exposure to a stressor sets off a cellular reaction that includes making HSPs, and this leaves single cells, organs, or even the entire organism preconditioned."
+    },
+    {
+      "id": "c42",
+      "hash": "50fab229e23daa32",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Heat-shock priming concept as a training analogue.",
+      "label": "STATEMENT",
+      "explanation": "As a result, preconditioning or priming with heat shock can be used to prepare the internal milieu of the body to cope with stressors that come later."
+    },
+    {
+      "id": "c43",
+      "hash": "93ff0624bbadd61b",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Combined exercise and heat effect on HSP expression.",
+      "label": "DATA",
+      "explanation": "Pairing exercise with heat exposure can indeed produce more Hsp than either one by itself."
+    },
+    {
+      "id": "c44",
+      "hash": "31524aef7a747a4f",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Post-exercise heat and mitochondrial training adaptation.",
+      "label": "DATA",
+      "explanation": "Tamura and colleagues proposed in their paper that applying whole-body heat stress after training adds to the mitochondrial adaptations that endurance training produces in skeletal muscle."
+    },
+    {
+      "id": "c45",
+      "hash": "158cb1e2f262ed40",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) HSP72 and skeletal muscle mitochondrial and metabolic phenotype.",
+      "label": "DATA",
+      "explanation": "In addition, mice with extra HSP72 in skeletal muscle show higher markers of mitochondrial function, whereas mice without muscle HSP72 keep enlarged, abnormally shaped mitochondria, together with lower muscle respiratory capacity, fat build-up, and insulin resistance in the muscle."
+    },
+    {
+      "id": "c46",
+      "hash": "d614b93ca1c91987",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Oxidative-capacity markers responding to exercise plus heat.",
+      "label": "DATA",
+      "explanation": "Additive effects were indeed seen, for example higher citrate synthase activity (a marker of oxidative capacity) and more NDUFB8 and ATP5A protein (markers of mitochondrial content)."
+    },
+    {
+      "id": "c47",
+      "hash": "ad18f7137c4990f9",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Authors' caveat on causality between HSP72 and performance.",
+      "label": "STATEMENT",
+      "explanation": "Training raises HSP72, but it changes many other physiological variables too, so one cannot state with certainty that higher HSP72 is directly responsible for better performance."
+    },
+    {
+      "id": "c48",
+      "hash": "317ca490188f1c93",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) HSP72 overexpression, exercise tolerance, and muscle oxidative capacity.",
+      "label": "DATA",
+      "explanation": "Notably, [the HSP-overexpressing transgenic mice] also tolerate exercise better, and this goes along with higher skeletal muscle markers of oxidative capacity."
+    },
+    {
+      "id": "c49",
+      "hash": "eac7e8e08bb0b2f1",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) HSP72 and exercise capacity/mitochondrial biogenesis.",
+      "label": "DATA",
+      "explanation": "New findings from transgenic mice point to overexpressing HSP72 in skeletal muscle as a possible route to better exercise capacity and more mitochondrial biogenesis."
+    },
+    {
+      "id": "c50",
+      "hash": "6998651760774f71",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Exercise as metabolic therapy.",
+      "label": "STATEMENT",
+      "explanation": "Exercise is plainly an effective treatment for many disorders of impaired metabolism, such as Type 2 diabetes, insulin resistance and obesity."
+    },
+    {
+      "id": "c51",
+      "hash": "bf6a27c3d75cba26",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Summary principle of the review on determinants of exercise-induced HSP induction.",
+      "label": "STATEMENT",
+      "explanation": "It is now known that how exercise induces HSPs varies by HSP class, by organ, between species and sexes, and with the kind of exercise done."
+    },
+    {
+      "id": "u01",
+      "hash": "18118e7691a67f1c",
+      "pick_tag": null,
+      "pick_reason": "A question the paper poses rather than a concept it establishes; unclear whether it counts for (1).",
+      "label": "UNCLEAR",
+      "explanation": "So, might exercise-triggered HSP72 expression have activators specific to each organ?"
+    },
+    {
+      "id": "u02",
+      "hash": "1936add1ca1e29fb",
+      "pick_tag": null,
+      "pick_reason": "Pharmacological mechanism; connection to exercise physiology is indirect, so (2) is unclear.",
+      "label": "STATEMENT",
+      "explanation": "BGP-15 blocks the early acetylation of HSF1, which extends how long HSF1 stays bound to HSEs and keeps HSP72 switched on."
+    },
+    {
+      "id": "u03",
+      "hash": "53180a19afaa39f9",
+      "pick_tag": null,
+      "pick_reason": "Raises a doping/ergogenic question; unclear whether this is (1) or (2) rather than a future-direction prompt.",
+      "label": "UNCLEAR",
+      "explanation": "Thermotolerance and heat stress may count as permitted ergogenic aids, but would compounds that activate HSP72 be treated the same way?"
+    },
+    {
+      "id": "u04",
+      "hash": "370c9b5685038cfe",
+      "pick_tag": null,
+      "pick_reason": "Future-direction question about HSP72 degradation; unclear whether it meets (1) or (2).",
+      "label": "UNCLEAR",
+      "explanation": "Might slowing HSP breakdown be a better target than making more HSPs?"
+    }
+  ]
+}
