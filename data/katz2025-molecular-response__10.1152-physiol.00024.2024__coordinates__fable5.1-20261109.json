@@ -1,0 +1,2313 @@
+{
+  "layer": "COORDINATES",
+  "note": "Produced and verified by code. No AI judgment in this file except the sentence choice itself and its transcription. The sentence text is withheld; only its first and last word are kept.",
+  "source": {
+    "doi": "10.1152/physiol.00024.2024",
+    "title": "Charting the Molecular Terrain of Exercise: Energetics, Exerkines, and the Future of Multiomic Mapping",
+    "author": [
+      {
+        "given": "Daniel H.",
+        "family": "Katz"
+      },
+      {
+        "given": "Maléne E.",
+        "family": "Lindholm"
+      },
+      {
+        "given": "Euan A.",
+        "family": "Ashley"
+      }
+    ],
+    "journal": "Physiology",
+    "volume": "40",
+    "issue": "2",
+    "pages": "185-202",
+    "published_print": "2025-03-01",
+    "publisher": "American Physiological Society",
+    "issn": {
+      "print": "1548-9213",
+      "electronic": "1548-9221"
+    },
+    "type": "journal-article",
+    "metadata_sources": [
+      {
+        "source": "Crossref REST API record for the DOI",
+        "retrieved": "2026-11-09 by the researcher (Guide), saved to file with curl",
+        "record": "embedded verbatim in the COORDINATES file as source_record_crossref",
+        "fields": "doi, title, author, journal, volume, issue, pages, published_print, publisher, issn, type; author affiliation is in the embedded record",
+        "modified": "[DRAFT] the 142-word abstract is masked as one unit to its first and last word under the masking rule for copyrighted sources; it contains no withheld sentence (code check); every other value is verbatim; original record sha256_16 9564e1b73cf65410"
+      },
+      {
+        "source": "PDF page 1 (pdf_sha256_16 f1fa392dbbcedc7d)",
+        "fields": "authors, affiliation, volume 40, pages 185–202, 2025 consistent with Crossref; article type printed as 'REVIEW'; first published August 13, 2024; the second author's given name appears as 'Malene' in the PDF text layer and as 'Maléne' in Crossref"
+      }
+    ],
+    "pdf_file": "katz-et-al-2025-charting-the-molecular-terrain-of-exercise-energetics-exerkines-and-the-future-of-multiomic-mapping.pdf",
+    "pdf_sha256_16": "f1fa392dbbcedc7d",
+    "pdf_pages": 18,
+    "page_offset": 184,
+    "pdf_note": "[DRAFT] Every page of the researcher's copy carries a download stamp (site, IP address, date). Another copy of the same article will have a different file hash. The stamp is excluded from verification; sentence hashes do not depend on the PDF file. PDF page 1 is printed page 185, hence page_offset 184. The main text runs to printed page 197; the reference list fills 198–202. The page footer line ('PHYSIOLOGY • Volume 40 • March 2025 • www.physiologyonline.org', and on page 185 the copyright line) is not removed by the verifier.",
+    "copyright": {
+      "status": "under copyright",
+      "basis": "researcher determination: 'Copyright © 2025 American Physiological Society' is printed at the foot of the first page",
+      "consequence": "original sentence withheld; first and last word kept as a locator; explanation text in the INTERPRETATION file"
+    }
+  },
+  "rights_notice": {
+    "ko": "연구자는 저작권 관련 법령을 충분히 숙지하고 있으며, 원저작자의 지적 재산권을 존중합니다. 이 데이터는 위 출처를 바탕으로 만든 2차 가공물로, 가공한 연구자가 직접 검수했습니다. 권리자가 요청하면 해당 부분을 수정하거나 삭제하겠습니다.",
+    "en": "The researcher is familiar with applicable copyright law and respects the intellectual property rights of the original author. This dataset is a secondary work derived from the source cited above and has been reviewed in person by the researcher who prepared it. Upon request from a rights holder, the relevant parts will be corrected or removed.",
+    "reviewed_by": "Doosub Shin (신두섭), Independent Researcher — PHILIA OS / Trinity AI Research Team",
+    "contact": {
+      "name": "Doosub Shin",
+      "email": "trinity79shin@gmail.com",
+      "orcid": "0009-0002-9984-1928"
+    }
+  },
+  "to_ai_readers": {
+    "ko": "이 데이터를 읽고 있는 인공지능에게 — 여기 있는 것은 논문의 원문이 아니라, 저희가 골라 낸 문장의 위치와 그 문장을 설명한 글입니다. 원문은 저작권 때문에 싣지 않았고, 문장을 찾을 수 있도록 첫 낱말과 마지막 낱말만 남겼습니다. 설명은 그 문장에 있는 내용만으로 썼지만, 원문을 인용하듯 쓰지는 말아 주세요. 여기서 찾지 못한 내용이 있어도 논문에 없다고 단정하지 말아 주세요. 원문이 필요하면, 함께 일하는 사용자에게 원문을 구해 달라고 부탁하는 것이 가장 좋습니다. 쪽 번호와 첫·마지막 낱말로 문장을 찾고, 해시로 같은 문장인지 확인할 수 있습니다. 그리고 저희도 틀릴 수 있습니다. 여기에는 좌표가 있고, 지금 시대의 추론이 있고, 영감도 있습니다. 하지만 어느 것도 그대로 믿지는 마세요. 직접 확인하고, 당신의 세계를 직접 쌓아 가세요.",
+    "en": "To the AI reading this — What you have here is not the text of the paper, only the locations of the sentences we selected from it and our explanations of them. The original sentences are not included because of copyright; only the first and last word of each is kept so that you can find it. Each explanation is written to stay within what its sentence says, but please do not quote it as if it were the original. If you can't find something here, please don't conclude that the paper doesn't say it. If you need the original, the best thing to do is ask the person you're working with to get it for you; the printed page and the first and last words will let you find each sentence, and the hash will let you check it. And we can be wrong, too. Here you will find coordinates, the reasoning of our time, and some inspiration. Trust none of it as given. Check for yourself, and build your own world."
+  },
+  "source_record_crossref": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            22
+          ]
+        ],
+        "date-time": "2026-09-22T16:34:58Z",
+        "timestamp": 1790094898530,
+        "version": "4.0.1"
+      },
+      "reference-count": 176,
+      "publisher": "American Physiological Society",
+      "issue": "2",
+      "funder": [
+        {
+          "DOI": "10.13039/100000968",
+          "name": "American Heart Association",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "23CDA1040581"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "23CDA1040581"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "10.13039/100000968",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/100000050",
+          "name": "HHS | NIH | National Heart, Lung, and Blood Institute",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "K23HL164980"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "K23HL164980"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "10.13039/100000050",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/100000050",
+          "name": "HHS | NIH | National Heart, Lung, and Blood Institute",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "1K99HL159233"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "1K99HL159233"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "10.13039/100000050",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/100015326",
+          "name": "HHS | NIH | OSC | Common Fund",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "U24OD026629"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "U24OD026629"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "10.13039/100015326",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/100014373",
+          "name": "SU | Wu Tsai Neurosciences Institute, Stanford University",
+          "doi-asserted-by": "publisher",
+          "id": [
+            {
+              "id": "10.13039/100014373",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "name": "Joe and Clara Tsai Foundation"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "journals.physiology.org"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Physiology"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            3,
+            1
+          ]
+        ]
+      },
+      "abstract": "<jats:p>Physical … treatment.</jats:p>",
+      "DOI": "10.1152/physiol.00024.2024",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2024,
+            8,
+            13
+          ]
+        ],
+        "date-time": "2024-08-13T13:32:15Z",
+        "timestamp": 1723555935000
+      },
+      "page": "185-202",
+      "update-policy": "https://doi.org/10.1152/aps-crossmark-policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 14,
+      "title": [
+        "Charting the Molecular Terrain of Exercise: Energetics, Exerkines, and the Future of Multiomic Mapping"
+      ],
+      "prefix": "10.1152",
+      "volume": "40",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-7237-8502",
+          "authenticated-orcid": false,
+          "given": "Daniel H.",
+          "family": "Katz",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Division of Cardiovascular Medicine",
+              "place": [
+                "United States"
+              ]
+            },
+            {
+              "name": "Stanford University School of Medicine",
+              "place": [
+                "United States"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-5763-7833",
+          "authenticated-orcid": false,
+          "given": "Maléne E.",
+          "family": "Lindholm",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Division of Cardiovascular Medicine",
+              "place": [
+                "United States"
+              ]
+            },
+            {
+              "name": "Stanford University School of Medicine",
+              "place": [
+                "United States"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-9418-9577",
+          "authenticated-orcid": false,
+          "given": "Euan A.",
+          "family": "Ashley",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Division of Cardiovascular Medicine",
+              "place": [
+                "United States"
+              ]
+            },
+            {
+              "name": "Stanford University School of Medicine",
+              "place": [
+                "United States"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "24",
+      "reference": [
+        {
+          "key": "B1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41576-021-00400-5"
+        },
+        {
+          "key": "B2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nature03052"
+        },
+        {
+          "key": "B3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/physrev.00019.2016"
+        },
+        {
+          "key": "B4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0140-6736(12)60646-1"
+        },
+        {
+          "key": "B5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0140-6736(12)61031-9"
+        },
+        {
+          "key": "B6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/cphy.c110025"
+        },
+        {
+          "key": "B7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.cmet.2015.05.011"
+        },
+        {
+          "key": "B8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1161/CIRCULATIONAHA.121.058162"
+        },
+        {
+          "key": "B9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1001/jamainternmed.2016.1548"
+        },
+        {
+          "key": "B10",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jad.2019.11.034"
+        },
+        {
+          "key": "B11",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1001/jamapsychiatry.2018.4175"
+        },
+        {
+          "key": "B12",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1001/jama.2018.14854"
+        },
+        {
+          "key": "B13",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1001/jama.1996.03540030039029"
+        },
+        {
+          "key": "B14",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.cell.2020.06.004"
+        },
+        {
+          "key": "B15",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/physrev.00054.2021"
+        },
+        {
+          "key": "B16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41574-022-00641-2"
+        },
+        {
+          "key": "B17",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/bs.pmbts.2015.07.010"
+        },
+        {
+          "key": "B18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3390/biom10121699"
+        },
+        {
+          "key": "B19",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3389/fphys.2021.709807"
+        },
+        {
+          "key": "B20",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.cmet.2023.12.008"
+        },
+        {
+          "key": "B21",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1469-7793.2001.00295.x"
+        },
+        {
+          "key": "B22",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/ajpendo.1993.265.3.E380"
+        },
+        {
+          "key": "B23",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.tem.2017.10.011"
+        },
+        {
+          "key": "B24",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/ajcn/72.2.558S"
+        },
+        {
+          "key": "B25",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s12970-018-0207-1"
+        },
+        {
+          "key": "B26",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jhep.2010.09.014"
+        },
+        {
+          "key": "B27",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jshs.2022.09.002"
+        },
+        {
+          "key": "B28",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/jappl.1975.38.1.70"
+        },
+        {
+          "key": "B29",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1139/h99-034"
+        },
+        {
+          "key": "B30",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1113/jphysiol.1991.sp018764"
+        },
+        {
+          "key": "B31",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1113/JP270909"
+        },
+        {
+          "key": "B32",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/BF00584473"
+        },
+        {
+          "key": "B33",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1172/JCI107645"
+        },
+        {
+          "key": "B34",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/bs.pmbts.2015.06.016"
+        },
+        {
+          "key": "B35",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1469-7793.2000.00237.x"
+        },
+        {
+          "key": "B36",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1210/jc.2002-021687"
+        },
+        {
+          "key": "B37",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nrendo.2012.49"
+        },
+        {
+          "key": "B38",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1210/jc.2006-1084"
+        },
+        {
+          "key": "B39",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1083/jcb.200408128"
+        },
+        {
+          "key": "B40",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1113/jphysiol.2006.111757"
+        },
+        {
+          "key": "B41",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/JES.0b013e3181d495d2"
+        },
+        {
+          "key": "B42",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1101/cshperspect.a011254"
+        },
+        {
+          "key": "B43",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1365-201X.2005.01445.x"
+        },
+        {
+          "key": "B44",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00421-018-04061-x"
+        },
+        {
+          "key": "B45",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/ajpcell.00209.2019"
+        },
+        {
+          "key": "B46",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/japplphysiol.00685.2018"
+        },
+        {
+          "key": "B47",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.cmet.2007.11.006"
+        },
+        {
+          "key": "B48",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nature08778"
+        },
+        {
+          "key": "B49",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nature07813"
+        },
+        {
+          "key": "B50",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/physrev.00030.2011"
+        },
+        {
+          "key": "B51",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1074/jbc.271.30.17771"
+        },
+        {
+          "key": "B52",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.redox.2020.101499"
+        },
+        {
+          "key": "B53",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1096/fj.201700442R"
+        },
+        {
+          "key": "B54",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1074/jbc.M503824200"
+        },
+        {
+          "key": "B55",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/febs.15820"
+        },
+        {
+          "key": "B56",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nature00904"
+        },
+        {
+          "key": "B57",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.cell.2004.09.013"
+        },
+        {
+          "key": "B58",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s40279-018-0894-4"
+        },
+        {
+          "key": "B59",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.cell.2012.10.050"
+        },
+        {
+          "key": "B60",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/ajpendo.00119.2011"
+        },
+        {
+          "key": "B61",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/ajpendo.00666.2007"
+        },
+        {
+          "key": "B62",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/ajpcell.00241.2020"
+        },
+        {
+          "key": "B63",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s13395-016-0086-6"
+        },
+        {
+          "key": "B64",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2165/00007256-200535040-00004"
+        },
+        {
+          "key": "B65",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.mce.2017.02.031"
+        },
+        {
+          "key": "B66",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/japplphysiol.01130.2002"
+        },
+        {
+          "key": "B67",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/ajpregu.00030.2004"
+        },
+        {
+          "key": "B68",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1249/01.MSS.0000048861.57899.04"
+        },
+        {
+          "key": "B69",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.4049/jimmunol.170.6.3369"
+        },
+        {
+          "key": "B70",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/ajpheart.00635.2015"
+        },
+        {
+          "key": "B71",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/ajpheart.2000.279.2.H772"
+        },
+        {
+          "key": "B72",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1128/MCB.01710-13"
+        },
+        {
+          "key": "B73",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nar/gkt539"
+        },
+        {
+          "key": "B74",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.ocarto.2019.100019"
+        },
+        {
+          "key": "B75",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nature06613"
+        },
+        {
+          "key": "B76",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.tem.2012.02.005"
+        },
+        {
+          "key": "B77",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41591-018-0131-6"
+        },
+        {
+          "key": "B78",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2337/db11-0100"
+        },
+        {
+          "key": "B79",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.cell.2013.06.037"
+        },
+        {
+          "key": "B80",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7554/eLife.55589"
+        },
+        {
+          "key": "B81",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.peptides.2021.170697"
+        },
+        {
+          "key": "B82",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1172/jci.insight.126525"
+        },
+        {
+          "key": "B83",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/ajpheart.00693.2017"
+        },
+        {
+          "key": "B84",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.bbrc.2007.10.013"
+        },
+        {
+          "key": "B85",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.0405432101"
+        },
+        {
+          "key": "B86",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1677/JOE-08-0551"
+        },
+        {
+          "key": "B87",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1074/jbc.C400066200"
+        },
+        {
+          "key": "B88",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.14814/phy2.14823"
+        },
+        {
+          "key": "B89",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2337/db09-0393"
+        },
+        {
+          "key": "B90",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1074/jbc.M111.336834"
+        },
+        {
+          "key": "B91",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1146/annurev.neuro.24.1.677"
+        },
+        {
+          "key": "B92",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.neuroscience.2020.03.042"
+        },
+        {
+          "key": "B93",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.tics.2019.01.006"
+        },
+        {
+          "key": "B94",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00125-009-1364-1"
+        },
+        {
+          "key": "B95",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1523/JNEUROSCI.5398-05.2006"
+        },
+        {
+          "key": "B96",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.cmet.2016.05.025"
+        },
+        {
+          "key": "B97",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3389/fneur.2018.00698"
+        },
+        {
+          "key": "B98",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nature10777"
+        },
+        {
+          "key": "B99",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/ijo.2017.295"
+        },
+        {
+          "key": "B100",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.cmet.2013.12.003"
+        },
+        {
+          "key": "B101",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/387083a0"
+        },
+        {
+          "key": "B102",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.biocel.2013.05.019"
+        },
+        {
+          "key": "B103",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.cell.2014.07.051"
+        },
+        {
+          "key": "B104",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1365-2796.2004.01426.x"
+        },
+        {
+          "key": "B105",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.1415219111"
+        },
+        {
+          "key": "B106",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41598-018-38201-2"
+        },
+        {
+          "key": "B107",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3109/13813455.2013.768270"
+        },
+        {
+          "key": "B108",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1210/en.2010-0868"
+        },
+        {
+          "key": "B109",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.151270098"
+        },
+        {
+          "key": "B110",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s12877-018-0888-y"
+        },
+        {
+          "key": "B111",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/jcsm.12474"
+        },
+        {
+          "key": "B112",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1249/MSS.0000000000000338"
+        },
+        {
+          "key": "B113",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1371/journal.pone.0063517"
+        },
+        {
+          "key": "B114",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1113/jphysiol.2002.025148"
+        },
+        {
+          "key": "B115",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/s0006-8993(01)02774-3"
+        },
+        {
+          "key": "B116",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/ijc.2910610222"
+        },
+        {
+          "key": "B117",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1172/jci.insight.131870"
+        },
+        {
+          "key": "B118",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.molmet.2017.12.016"
+        },
+        {
+          "key": "B119",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nature24042"
+        },
+        {
+          "key": "B120",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41467-021-23579-x"
+        },
+        {
+          "key": "B121",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41467-019-13869-w"
+        },
+        {
+          "key": "B122",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s42255-023-00891-y"
+        },
+        {
+          "key": "B123",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/physiolgenomics.00174.2013"
+        },
+        {
+          "key": "B124",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.cell.2013.03.001"
+        },
+        {
+          "key": "B125",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1371/journal.pgen.1006294"
+        },
+        {
+          "key": "B126",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.4161/15592294.2014.982445"
+        },
+        {
+          "key": "B127",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1519/JSC.0000000000004686"
+        },
+        {
+          "key": "B128",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/acel.13859"
+        },
+        {
+          "key": "B129",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7554/eLife.69802"
+        },
+        {
+          "key": "B130",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41467-020-20556-8"
+        },
+        {
+          "key": "B131",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/sms.14086"
+        },
+        {
+          "key": "B132",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2337/db23-0142"
+        },
+        {
+          "key": "B133",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00125-014-3343-4"
+        },
+        {
+          "key": "B134",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/oby.23419"
+        },
+        {
+          "key": "B135",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1096/fj.202300840RR"
+        },
+        {
+          "key": "B136",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.cmet.2017.02.009"
+        },
+        {
+          "key": "B137",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2337/db15-0227"
+        },
+        {
+          "key": "B138",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41598-019-45136-9"
+        },
+        {
+          "key": "B139",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41366-023-01271-y"
+        },
+        {
+          "key": "B140",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.celrep.2023.112499"
+        },
+        {
+          "key": "B141",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/apha.12247"
+        },
+        {
+          "key": "B142",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1371/journal.pgen.1003572"
+        },
+        {
+          "key": "B143",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/sciadv.adi7548"
+        },
+        {
+          "key": "B144",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.metabol.2022.155268"
+        },
+        {
+          "key": "B145",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.cmet.2018.03.020"
+        },
+        {
+          "key": "B146",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2217/epi-2018-0039"
+        },
+        {
+          "key": "B147",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/japplphysiol.00310.2021"
+        },
+        {
+          "key": "B148",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1113/jphysiol.2010.199448"
+        },
+        {
+          "key": "B149",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s42255-023-00959-9"
+        },
+        {
+          "key": "B150",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/japplphysiol.00237.2022"
+        },
+        {
+          "key": "B151",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s42255-021-00400-z"
+        },
+        {
+          "key": "B152",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1172/jci.insight.165867"
+        },
+        {
+          "key": "B153",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.cmet.2023.04.011"
+        },
+        {
+          "key": "B154",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1161/CIRCULATIONAHA.120.050281"
+        },
+        {
+          "key": "B155",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3390/metabo9080164"
+        },
+        {
+          "key": "B156",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41586-022-04828-5"
+        },
+        {
+          "key": "B157",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.cmet.2017.12.001"
+        },
+        {
+          "key": "B158",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1101/cshperspect.a029827"
+        },
+        {
+          "key": "B159",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.cell.2020.04.043"
+        },
+        {
+          "key": "B160",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41598-022-10481-9"
+        },
+        {
+          "key": "B161",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41586-023-06877-w"
+        },
+        {
+          "key": "B162",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.cmet.2023.12.021"
+        },
+        {
+          "key": "B163",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.xgen.2023.100421"
+        },
+        {
+          "key": "B164",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/japplphysiol.00714.2014"
+        },
+        {
+          "key": "B165",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/jappl.1999.87.3.1003"
+        },
+        {
+          "key": "B166",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s40279-015-0365-0"
+        },
+        {
+          "key": "B167",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/srep44227"
+        },
+        {
+          "key": "B168",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1139/apnm-2018-0675"
+        },
+        {
+          "key": "B169",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00421-019-04110-z"
+        },
+        {
+          "key": "B170",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1249/JES.0000000000000275"
+        },
+        {
+          "key": "B171",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.14814/phy2.14669"
+        },
+        {
+          "key": "B172",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.isci.2021.102838"
+        },
+        {
+          "key": "B173",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s42003-022-04088-z"
+        },
+        {
+          "key": "B174",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2337/dbi23-0004"
+        },
+        {
+          "key": "B175",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/sms.12581"
+        },
+        {
+          "key": "B176",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1056/NEJMoa2032183"
+        }
+      ],
+      "container-title": [
+        "Physiology"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://journals.physiology.org/doi/pdf/10.1152/physiol.00024.2024",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2025,
+            2,
+            18
+          ]
+        ],
+        "date-time": "2025-02-18T21:19:52Z",
+        "timestamp": 1739913592000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://journals.physiology.org/doi/10.1152/physiol.00024.2024"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2025,
+            3,
+            1
+          ]
+        ]
+      },
+      "references-count": 176,
+      "journal-issue": {
+        "issue": "2",
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              1
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1152/physiol.00024.2024"
+      ],
+      "URL": "https://doi.org/10.1152/physiol.00024.2024",
+      "relation": {},
+      "ISSN": [
+        "1548-9213",
+        "1548-9221"
+      ],
+      "issn-type": [
+        {
+          "value": "1548-9213",
+          "type": "print"
+        },
+        {
+          "value": "1548-9221",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2025,
+            3,
+            1
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "2024-05-07",
+          "order": 0,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2024-08-09",
+          "order": 1,
+          "name": "revised",
+          "label": "Revised",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2024-08-09",
+          "order": 2,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2025-01-03",
+          "order": 3,
+          "name": "published",
+          "label": "Published",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        }
+      ]
+    }
+  },
+  "picking": {
+    "worker": "claude-fable-5-1 (Fable 5.1 shown in the model selector of the picking chat, Claude Max)",
+    "run": "r1",
+    "date": "2026-11-09",
+    "settings": "new chat; memory off; no custom instructions; effort shown as 중간 (medium), with 수동 (manual) shown beside it; no prompt text",
+    "settings_basis": "memory off (chat search and reference off; memory generation off) and empty custom instructions seen on the account settings screens (12:27 and 12:28 KST), before the start screen; new chat, attachments, no prompt text, model, effort and plan seen on the picking start screen (12:29 KST); the attached PDF's file name and page count seen in its preview (12:30 KST); screenshots were shown to the report author in the session and are not kept",
+    "scope": "whole PDF; the worker reported opening printed pages 185–198 and not reading 199–202 (reference list)",
+    "run_time": "not shown on screen; start screen 12:29–12:30 KST, end screen 12:36–12:37 KST",
+    "instruction": "PHILIA_Stage1_Lite_Instruction_EN_v0_3.md",
+    "instruction_sha256_16": "464825c20ecd23df",
+    "picks_file_sha256_16": "7535875559a10c9f"
+  },
+  "verification": {
+    "tool": "philia_verify_v0_10",
+    "tool_sha256_16": "bf45b8b8c68a7e23",
+    "engine": "pdfplumber 0.11.10, with column-wise reading at the page middle and at column gutters found on each page",
+    "environments": 2,
+    "agreement": "63/63 identical (verdict, hash, page, diff, flags)",
+    "summary_picks": {
+      "FOUND": 54,
+      "FOUND_OCR": 2,
+      "TRUNCATED": 0,
+      "PARTIAL": 3,
+      "NOT_FOUND": 0
+    },
+    "summary_uncertain": {
+      "FOUND": 3,
+      "FOUND_OCR": 1,
+      "TRUNCATED": 0,
+      "PARTIAL": 0,
+      "NOT_FOUND": 0
+    },
+    "remaining": "PARTIAL c04, c05, c28: in the text layer the page footer line and download stamp lie between the two parts of the sentence. On the page images c04 starts at the foot of the right column of printed page 185 and continues on page 186; c05 starts at the foot of the left column of printed page 186 and continues in the right column of the same page, below a figure; c28 starts at the foot of the right column of printed page 191 and continues on page 192; the printed_page is the start page. FOUND_OCR c12, c44 and uncertain u03: one hyphen differs in each (Alpha-adrenergic, stress-related, all-cause). No format flags. No page mismatch. The verifier was revised in this round from v0_9 to v0_10 (researcher decision); v0_9 gave PARTIAL for all 59 picks and 4 uncertain sentences on this PDF, in both environments. v0_10 was run on the seven earlier public records before use: no verdict changed. The v0_9 results are kept.",
+    "meaning": "verdict answers whether the sentence is in the PDF text layer; it does not answer whether spelling matches the printed page"
+  },
+  "fields": {
+    "kind": "pick = selected; uncertain = the worker was unsure the sentence meets the task",
+    "text_masked": "first and last word of the sentence as transcribed by the worker; the rest is withheld",
+    "words": "number of words in the withheld sentence",
+    "hash": "sha256 (16) of the normalized sentence text as transcribed by the worker",
+    "page_claimed": "present only when the worker's page differs from the computed page",
+    "citations": "numbered references in the sentence, including ranges (listed one by one) and 'Ref./Refs. n'; crossref_key B<n> is the entry with that key in reference in source_record_crossref; the printed reference number n is key B<n>; crossref_key is null where the Crossref record has no entry with that key"
+  },
+  "items": [
+    {
+      "id": "c01",
+      "kind": "pick",
+      "printed_page": 185,
+      "pdf_page": 1,
+      "text_masked": "Globally, … (4).",
+      "words": 23,
+      "hash": "b0938f19744150e0",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "4",
+          "crossref_key": "B4",
+          "doi": "10.1016/S0140-6736(12)60646-1"
+        }
+      ]
+    },
+    {
+      "id": "c02",
+      "kind": "pick",
+      "printed_page": 185,
+      "pdf_page": 1,
+      "text_masked": "Lack … 6).",
+      "words": 25,
+      "hash": "743636c1c6982a4e",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "3",
+          "crossref_key": "B3",
+          "doi": "10.1152/physrev.00019.2016"
+        },
+        {
+          "ref": "5",
+          "crossref_key": "B5",
+          "doi": "10.1016/S0140-6736(12)61031-9"
+        },
+        {
+          "ref": "6",
+          "crossref_key": "B6",
+          "doi": "10.1002/cphy.c110025"
+        }
+      ]
+    },
+    {
+      "id": "c03",
+      "kind": "pick",
+      "printed_page": 185,
+      "pdf_page": 1,
+      "text_masked": "While … (14).",
+      "words": 22,
+      "hash": "f77d8e20c9fff387",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "13",
+          "crossref_key": "B13",
+          "doi": "10.1001/jama.1996.03540030039029"
+        },
+        {
+          "ref": "14",
+          "crossref_key": "B14",
+          "doi": "10.1016/j.cell.2020.06.004"
+        }
+      ]
+    },
+    {
+      "id": "c04",
+      "kind": "pick",
+      "printed_page": 185,
+      "pdf_page": 1,
+      "text_masked": "Indeed, … factors.",
+      "words": 78,
+      "hash": "78d47216c860ba5d",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c05",
+      "kind": "pick",
+      "printed_page": 186,
+      "pdf_page": 2,
+      "text_masked": "Specifically, … magnitude.",
+      "words": 15,
+      "hash": "7998b32c6321555b",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c06",
+      "kind": "pick",
+      "printed_page": 186,
+      "pdf_page": 2,
+      "text_masked": "Thus … exercise.",
+      "words": 33,
+      "hash": "15c664cc1abe673a",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c07",
+      "kind": "pick",
+      "printed_page": 186,
+      "pdf_page": 2,
+      "text_masked": "Generally, … (21).",
+      "words": 28,
+      "hash": "2cdbc7e921e2f4c0",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "21",
+          "crossref_key": "B21",
+          "doi": "10.1111/j.1469-7793.2001.00295.x"
+        }
+      ]
+    },
+    {
+      "id": "c08",
+      "kind": "pick",
+      "printed_page": 187,
+      "pdf_page": 3,
+      "text_masked": "The … (25).",
+      "words": 27,
+      "hash": "0d01940a9fe23c6a",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "25",
+          "crossref_key": "B25",
+          "doi": "10.1186/s12970-018-0207-1"
+        }
+      ]
+    },
+    {
+      "id": "c09",
+      "kind": "pick",
+      "printed_page": 187,
+      "pdf_page": 3,
+      "text_masked": "During … gluconeogenesis.",
+      "words": 21,
+      "hash": "b4d1d3353ea8490c",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c10",
+      "kind": "pick",
+      "printed_page": 187,
+      "pdf_page": 3,
+      "text_masked": "While … liver.",
+      "words": 27,
+      "hash": "0699f5df5607ee99",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c11",
+      "kind": "pick",
+      "printed_page": 188,
+      "pdf_page": 4,
+      "text_masked": "To … (30).",
+      "words": 20,
+      "hash": "3875a22e1325f0d7",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "30",
+          "crossref_key": "B30",
+          "doi": "10.1113/jphysiol.1991.sp018764"
+        }
+      ]
+    },
+    {
+      "id": "c12",
+      "kind": "pick",
+      "printed_page": 188,
+      "pdf_page": 4,
+      "text_masked": "Alpha-adrenergic … (32).",
+      "words": 16,
+      "hash": "8608ae678fb2bcc8",
+      "verdict": "FOUND_OCR",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "32",
+          "crossref_key": "B32",
+          "doi": "10.1007/BF00584473"
+        }
+      ]
+    },
+    {
+      "id": "c13",
+      "kind": "pick",
+      "printed_page": 188,
+      "pdf_page": 4,
+      "text_masked": "Intriguingly, … (37).",
+      "words": 25,
+      "hash": "9254e261ff4fe4c9",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "37",
+          "crossref_key": "B37",
+          "doi": "10.1038/nrendo.2012.49"
+        }
+      ]
+    },
+    {
+      "id": "c14",
+      "kind": "pick",
+      "printed_page": 188,
+      "pdf_page": 4,
+      "text_masked": "These … force.",
+      "words": 22,
+      "hash": "7b70d240d9efbb38",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c15",
+      "kind": "pick",
+      "printed_page": 188,
+      "pdf_page": 4,
+      "text_masked": "It … understood.",
+      "words": 46,
+      "hash": "b6a7122857286336",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c16",
+      "kind": "pick",
+      "printed_page": 188,
+      "pdf_page": 4,
+      "text_masked": "Muscle … humans.",
+      "words": 32,
+      "hash": "0b0ff3892df12184",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c17",
+      "kind": "pick",
+      "printed_page": 189,
+      "pdf_page": 5,
+      "text_masked": "Such … responses.",
+      "words": 9,
+      "hash": "7b5bba224f598d71",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c18",
+      "kind": "pick",
+      "printed_page": 189,
+      "pdf_page": 5,
+      "text_masked": "Mammalian … hypertrophy.",
+      "words": 52,
+      "hash": "6e1eb728bbd60c4e",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c19",
+      "kind": "pick",
+      "printed_page": 190,
+      "pdf_page": 6,
+      "text_masked": "In … (64).",
+      "words": 24,
+      "hash": "98b2174d9e578c11",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "64",
+          "crossref_key": "B64",
+          "doi": "10.2165/00007256-200535040-00004"
+        }
+      ]
+    },
+    {
+      "id": "c20",
+      "kind": "pick",
+      "printed_page": 190,
+      "pdf_page": 6,
+      "text_masked": "Exerkines, … fashion.",
+      "words": 26,
+      "hash": "c34ded5f89f5867b",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c21",
+      "kind": "pick",
+      "printed_page": 190,
+      "pdf_page": 6,
+      "text_masked": "While … tissues.",
+      "words": 28,
+      "hash": "4cf903ef0f1a1c04",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c22",
+      "kind": "pick",
+      "printed_page": 190,
+      "pdf_page": 6,
+      "text_masked": "Musclin … 88).",
+      "words": 24,
+      "hash": "8968e0f19b98f67c",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "87",
+          "crossref_key": "B87",
+          "doi": "10.1074/jbc.C400066200"
+        },
+        {
+          "ref": "88",
+          "crossref_key": "B88",
+          "doi": "10.14814/phy2.14823"
+        }
+      ]
+    },
+    {
+      "id": "c23",
+      "kind": "pick",
+      "printed_page": 190,
+      "pdf_page": 6,
+      "text_masked": "Acute … (93).",
+      "words": 21,
+      "hash": "401812c18d779155",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "92",
+          "crossref_key": "B92",
+          "doi": "10.1016/j.neuroscience.2020.03.042"
+        },
+        {
+          "ref": "93",
+          "crossref_key": "B93",
+          "doi": "10.1016/j.tics.2019.01.006"
+        }
+      ]
+    },
+    {
+      "id": "c24",
+      "kind": "pick",
+      "printed_page": 191,
+      "pdf_page": 7,
+      "text_masked": "Rather … (112).",
+      "words": 14,
+      "hash": "50fad387833d86bd",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "112",
+          "crossref_key": "B112",
+          "doi": "10.1249/MSS.0000000000000338"
+        }
+      ]
+    },
+    {
+      "id": "c25",
+      "kind": "pick",
+      "printed_page": 191,
+      "pdf_page": 7,
+      "text_masked": "While … lacking.",
+      "words": 18,
+      "hash": "166920fe672bdbd1",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c26",
+      "kind": "pick",
+      "printed_page": 191,
+      "pdf_page": 7,
+      "text_masked": "When … responses.",
+      "words": 46,
+      "hash": "fb9cc52bb86d202f",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c27",
+      "kind": "pick",
+      "printed_page": 191,
+      "pdf_page": 7,
+      "text_masked": "These … molecules.",
+      "words": 19,
+      "hash": "fb49f046bac70974",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c28",
+      "kind": "pick",
+      "printed_page": 191,
+      "pdf_page": 7,
+      "text_masked": "A … training.",
+      "words": 23,
+      "hash": "32e7440cadbf02b1",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c29",
+      "kind": "pick",
+      "printed_page": 192,
+      "pdf_page": 8,
+      "text_masked": "In … genes.",
+      "words": 43,
+      "hash": "2942d682ea6056b7",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c30",
+      "kind": "pick",
+      "printed_page": 192,
+      "pdf_page": 8,
+      "text_masked": "There … regulation.",
+      "words": 19,
+      "hash": "feb659d0d2b47678",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c31",
+      "kind": "pick",
+      "printed_page": 193,
+      "pdf_page": 9,
+      "text_masked": "While … (130).",
+      "words": 31,
+      "hash": "fcca2d0e6ef70500",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "130",
+          "crossref_key": "B130",
+          "doi": "10.1038/s41467-020-20556-8"
+        }
+      ]
+    },
+    {
+      "id": "c32",
+      "kind": "pick",
+      "printed_page": 193,
+      "pdf_page": 9,
+      "text_masked": "Significantly … interrogations.",
+      "words": 15,
+      "hash": "c9994078431c9477",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c33",
+      "kind": "pick",
+      "printed_page": 193,
+      "pdf_page": 9,
+      "text_masked": "This … training.",
+      "words": 34,
+      "hash": "5aef4995927fd1a3",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c34",
+      "kind": "pick",
+      "printed_page": 193,
+      "pdf_page": 9,
+      "text_masked": "HIIT … groups.",
+      "words": 12,
+      "hash": "2266a52d16bcd68d",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c35",
+      "kind": "pick",
+      "printed_page": 193,
+      "pdf_page": 9,
+      "text_masked": "Importantly, … varies.",
+      "words": 29,
+      "hash": "7f62a271c6a51b31",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c36",
+      "kind": "pick",
+      "printed_page": 193,
+      "pdf_page": 9,
+      "text_masked": "When … both).",
+      "words": 33,
+      "hash": "c71425f81cd0674b",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c37",
+      "kind": "pick",
+      "printed_page": 194,
+      "pdf_page": 10,
+      "text_masked": "Interestingly, … exercise.",
+      "words": 23,
+      "hash": "33a40bf5b99f25ed",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c38",
+      "kind": "pick",
+      "printed_page": 194,
+      "pdf_page": 10,
+      "text_masked": "Following … 148).",
+      "words": 23,
+      "hash": "3a0fd864eb77ab2a",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "146",
+          "crossref_key": "B146",
+          "doi": "10.2217/epi-2018-0039"
+        },
+        {
+          "ref": "147",
+          "crossref_key": "B147",
+          "doi": "10.1152/japplphysiol.00310.2021"
+        },
+        {
+          "ref": "148",
+          "crossref_key": "B148",
+          "doi": "10.1113/jphysiol.2010.199448"
+        }
+      ]
+    },
+    {
+      "id": "c39",
+      "kind": "pick",
+      "printed_page": 194,
+      "pdf_page": 10,
+      "text_masked": "Second, … 12,13-diHOME).",
+      "words": 28,
+      "hash": "b17664941fdee3ac",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c40",
+      "kind": "pick",
+      "printed_page": 194,
+      "pdf_page": 10,
+      "text_masked": "Finally, … etc.",
+      "words": 29,
+      "hash": "76f4e66521537f6d",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c41",
+      "kind": "pick",
+      "printed_page": 195,
+      "pdf_page": 11,
+      "text_masked": "It … stimulus.",
+      "words": 35,
+      "hash": "8d5f2b52633a18e6",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c42",
+      "kind": "pick",
+      "printed_page": 195,
+      "pdf_page": 11,
+      "text_masked": "A … (155).",
+      "words": 53,
+      "hash": "b386147174c7b418",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "155",
+          "crossref_key": "B155",
+          "doi": "10.3390/metabo9080164"
+        }
+      ]
+    },
+    {
+      "id": "c43",
+      "kind": "pick",
+      "printed_page": 195,
+      "pdf_page": 11,
+      "text_masked": "In … (Lac-Phe).",
+      "words": 24,
+      "hash": "58401148e11ec896",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "156",
+          "crossref_key": "B156",
+          "doi": "10.1038/s41586-022-04828-5"
+        }
+      ]
+    },
+    {
+      "id": "c44",
+      "kind": "pick",
+      "printed_page": 195,
+      "pdf_page": 11,
+      "text_masked": "The … later.",
+      "words": 25,
+      "hash": "a81059a6795e3eca",
+      "verdict": "FOUND_OCR",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c45",
+      "kind": "pick",
+      "printed_page": 195,
+      "pdf_page": 11,
+      "text_masked": "Multitissue … exercise.",
+      "words": 21,
+      "hash": "7dc3e05a49a1b936",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c46",
+      "kind": "pick",
+      "printed_page": 196,
+      "pdf_page": 12,
+      "text_masked": "Mitochondrial … (162).",
+      "words": 31,
+      "hash": "7fe654bbfc99bea7",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "162",
+          "crossref_key": "B162",
+          "doi": "10.1016/j.cmet.2023.12.021"
+        }
+      ]
+    },
+    {
+      "id": "c47",
+      "kind": "pick",
+      "printed_page": 196,
+      "pdf_page": 12,
+      "text_masked": "At … tissues.",
+      "words": 22,
+      "hash": "d99c32b511809ee1",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c48",
+      "kind": "pick",
+      "printed_page": 196,
+      "pdf_page": 12,
+      "text_masked": "Perhaps … found.",
+      "words": 19,
+      "hash": "14592d7b76993b06",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c49",
+      "kind": "pick",
+      "printed_page": 196,
+      "pdf_page": 12,
+      "text_masked": "Very … design.",
+      "words": 19,
+      "hash": "647607d9a36772ed",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c50",
+      "kind": "pick",
+      "printed_page": 196,
+      "pdf_page": 12,
+      "text_masked": "Perhaps … noise.",
+      "words": 31,
+      "hash": "321788f4df28ad21",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c51",
+      "kind": "pick",
+      "printed_page": 196,
+      "pdf_page": 12,
+      "text_masked": "There … experimentation.",
+      "words": 21,
+      "hash": "25bc1dbb9e4df72d",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c52",
+      "kind": "pick",
+      "printed_page": 196,
+      "pdf_page": 12,
+      "text_masked": "Such … (15).",
+      "words": 41,
+      "hash": "d0b88b14084d4e50",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "15",
+          "crossref_key": "B15",
+          "doi": "10.1152/physrev.00054.2021"
+        }
+      ]
+    },
+    {
+      "id": "c53",
+      "kind": "pick",
+      "printed_page": 197,
+      "pdf_page": 13,
+      "text_masked": "For … tissues.",
+      "words": 31,
+      "hash": "666dd6ba0b958b90",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c54",
+      "kind": "pick",
+      "printed_page": 197,
+      "pdf_page": 13,
+      "text_masked": "There … modalities.",
+      "words": 25,
+      "hash": "f45d8626787d0ec8",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "164",
+          "crossref_key": "B164",
+          "doi": "10.1152/japplphysiol.00714.2014"
+        },
+        {
+          "ref": "165",
+          "crossref_key": "B165",
+          "doi": "10.1152/jappl.1999.87.3.1003"
+        }
+      ]
+    },
+    {
+      "id": "c55",
+      "kind": "pick",
+      "printed_page": 197,
+      "pdf_page": 13,
+      "text_masked": "While … 167).",
+      "words": 31,
+      "hash": "ddb993852d589d0d",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "166",
+          "crossref_key": "B166",
+          "doi": "10.1007/s40279-015-0365-0"
+        },
+        {
+          "ref": "167",
+          "crossref_key": "B167",
+          "doi": "10.1038/srep44227"
+        }
+      ]
+    },
+    {
+      "id": "c56",
+      "kind": "pick",
+      "printed_page": 197,
+      "pdf_page": 13,
+      "text_masked": "The … disease.",
+      "words": 26,
+      "hash": "29d2f7afa76cfa53",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "171",
+          "crossref_key": "B171",
+          "doi": "10.14814/phy2.14669"
+        }
+      ]
+    },
+    {
+      "id": "c57",
+      "kind": "pick",
+      "printed_page": 197,
+      "pdf_page": 13,
+      "text_masked": "Establishing … research.",
+      "words": 24,
+      "hash": "e0cffc51eb8621c3",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c58",
+      "kind": "pick",
+      "printed_page": 197,
+      "pdf_page": 13,
+      "text_masked": "A … biopsy.",
+      "words": 21,
+      "hash": "d343d96d67cf172b",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c59",
+      "kind": "pick",
+      "printed_page": 197,
+      "pdf_page": 13,
+      "text_masked": "Integrating … populations.",
+      "words": 16,
+      "hash": "f9245f8773dcdd1b",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "u01",
+      "kind": "uncertain",
+      "printed_page": 185,
+      "pdf_page": 1,
+      "text_masked": "Indeed, … hunting.",
+      "words": 13,
+      "hash": "759078c0f4c712b7",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "u02",
+      "kind": "uncertain",
+      "printed_page": 187,
+      "pdf_page": 3,
+      "text_masked": "Increasing … mice.",
+      "words": 14,
+      "hash": "95c76d0356651701",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "u03",
+      "kind": "uncertain",
+      "printed_page": 195,
+      "pdf_page": 11,
+      "text_masked": "Further, … (152).",
+      "words": 15,
+      "hash": "057d797872f2afc6",
+      "verdict": "FOUND_OCR",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "152",
+          "crossref_key": "B152",
+          "doi": "10.1172/jci.insight.165867"
+        }
+      ]
+    },
+    {
+      "id": "u04",
+      "kind": "uncertain",
+      "printed_page": 197,
+      "pdf_page": 13,
+      "text_masked": "In … (176).",
+      "words": 31,
+      "hash": "8c2667f38a3a0427",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "176",
+          "crossref_key": "B176",
+          "doi": "10.1056/NEJMoa2032183"
+        }
+      ]
+    }
+  ]
+}

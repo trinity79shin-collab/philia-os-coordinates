@@ -1,0 +1,610 @@
+{
+  "layer": "INTERPRETATION",
+  "note": "Written by AI. Interpretation, not verified by code for correctness. Joined to COORDINATES by id and hash.",
+  "source": {
+    "doi": "10.1152/physiol.00024.2024",
+    "title": "Charting the Molecular Terrain of Exercise: Energetics, Exerkines, and the Future of Multiomic Mapping",
+    "author": [
+      {
+        "given": "Daniel H.",
+        "family": "Katz"
+      },
+      {
+        "given": "Maléne E.",
+        "family": "Lindholm"
+      },
+      {
+        "given": "Euan A.",
+        "family": "Ashley"
+      }
+    ],
+    "journal": "Physiology",
+    "volume": "40",
+    "issue": "2",
+    "pages": "185-202",
+    "published_print": "2025-03-01",
+    "publisher": "American Physiological Society",
+    "issn": {
+      "print": "1548-9213",
+      "electronic": "1548-9221"
+    },
+    "type": "journal-article",
+    "metadata_sources": [
+      {
+        "source": "Crossref REST API record for the DOI",
+        "retrieved": "2026-11-09 by the researcher (Guide), saved to file with curl",
+        "record": "embedded verbatim in the COORDINATES file as source_record_crossref",
+        "fields": "doi, title, author, journal, volume, issue, pages, published_print, publisher, issn, type; author affiliation is in the embedded record",
+        "modified": "[DRAFT] the 142-word abstract is masked as one unit to its first and last word under the masking rule for copyrighted sources; it contains no withheld sentence (code check); every other value is verbatim; original record sha256_16 9564e1b73cf65410"
+      },
+      {
+        "source": "PDF page 1 (pdf_sha256_16 f1fa392dbbcedc7d)",
+        "fields": "authors, affiliation, volume 40, pages 185–202, 2025 consistent with Crossref; article type printed as 'REVIEW'; first published August 13, 2024; the second author's given name appears as 'Malene' in the PDF text layer and as 'Maléne' in Crossref"
+      }
+    ],
+    "pdf_file": "katz-et-al-2025-charting-the-molecular-terrain-of-exercise-energetics-exerkines-and-the-future-of-multiomic-mapping.pdf",
+    "pdf_sha256_16": "f1fa392dbbcedc7d",
+    "pdf_pages": 18,
+    "page_offset": 184,
+    "pdf_note": "[DRAFT] Every page of the researcher's copy carries a download stamp (site, IP address, date). Another copy of the same article will have a different file hash. The stamp is excluded from verification; sentence hashes do not depend on the PDF file. PDF page 1 is printed page 185, hence page_offset 184. The main text runs to printed page 197; the reference list fills 198–202. The page footer line ('PHYSIOLOGY • Volume 40 • March 2025 • www.physiologyonline.org', and on page 185 the copyright line) is not removed by the verifier.",
+    "copyright": {
+      "status": "under copyright",
+      "basis": "researcher determination: 'Copyright © 2025 American Physiological Society' is printed at the foot of the first page",
+      "consequence": "original sentence withheld; first and last word kept as a locator; explanation text in the INTERPRETATION file"
+    }
+  },
+  "rights_notice": {
+    "ko": "연구자는 저작권 관련 법령을 충분히 숙지하고 있으며, 원저작자의 지적 재산권을 존중합니다. 이 데이터는 위 출처를 바탕으로 만든 2차 가공물로, 가공한 연구자가 직접 검수했습니다. 권리자가 요청하면 해당 부분을 수정하거나 삭제하겠습니다.",
+    "en": "The researcher is familiar with applicable copyright law and respects the intellectual property rights of the original author. This dataset is a secondary work derived from the source cited above and has been reviewed in person by the researcher who prepared it. Upon request from a rights holder, the relevant parts will be corrected or removed.",
+    "reviewed_by": "Doosub Shin (신두섭), Independent Researcher — PHILIA OS / Trinity AI Research Team",
+    "contact": {
+      "name": "Doosub Shin",
+      "email": "trinity79shin@gmail.com",
+      "orcid": "0009-0002-9984-1928"
+    }
+  },
+  "to_ai_readers": {
+    "ko": "이 데이터를 읽고 있는 인공지능에게 — 여기 있는 것은 논문의 원문이 아니라, 저희가 골라 낸 문장의 위치와 그 문장을 설명한 글입니다. 원문은 저작권 때문에 싣지 않았고, 문장을 찾을 수 있도록 첫 낱말과 마지막 낱말만 남겼습니다. 설명은 그 문장에 있는 내용만으로 썼지만, 원문을 인용하듯 쓰지는 말아 주세요. 여기서 찾지 못한 내용이 있어도 논문에 없다고 단정하지 말아 주세요. 원문이 필요하면, 함께 일하는 사용자에게 원문을 구해 달라고 부탁하는 것이 가장 좋습니다. 쪽 번호와 첫·마지막 낱말로 문장을 찾고, 해시로 같은 문장인지 확인할 수 있습니다. 그리고 저희도 틀릴 수 있습니다. 여기에는 좌표가 있고, 지금 시대의 추론이 있고, 영감도 있습니다. 하지만 어느 것도 그대로 믿지는 마세요. 직접 확인하고, 당신의 세계를 직접 쌓아 가세요.",
+    "en": "To the AI reading this — What you have here is not the text of the paper, only the locations of the sentences we selected from it and our explanations of them. The original sentences are not included because of copyright; only the first and last word of each is kept so that you can find it. Each explanation is written to stay within what its sentence says, but please do not quote it as if it were the original. If you can't find something here, please don't conclude that the paper doesn't say it. If you need the original, the best thing to do is ask the person you're working with to get it for you; the printed page and the first and last words will let you find each sentence, and the hash will let you check it. And we can be wrong, too. Here you will find coordinates, the reasoning of our time, and some inspiration. Trust none of it as given. Check for yourself, and build your own world."
+  },
+  "pick_reason": {
+    "by": "claude-fable-5-1 (r1, picking session)",
+    "instruction_sha256_16": "464825c20ecd23df",
+    "tags": "(1) concepts and principles the paper itself establishes; (2) data related to exercise physiology"
+  },
+  "classification": {
+    "by": "claude-fable-5-1, new chat, memory off, no custom instructions, effort medium",
+    "inputs": "classification instruction + sentence list + PDF",
+    "instruction": "PHILIA_Classification_Common_Instruction_EN_v0_1.md",
+    "instruction_sha256_16": "d965e022a48eb515",
+    "sentence_list_sha256_16": "df1ced1cc8779e65",
+    "output_sha256_16": "b0bb135e9fb80810",
+    "output_form": "a JSON code block in the chat; the researcher passed the text of the block to the report author's session, where it arrived as a text attachment, and the report author saved it to a file as it is; the digest is of that file",
+    "start": "one new chat with no prompt text; ran on the first turn",
+    "labels": "DEFINITION > DATA > STATEMENT; UNCLEAR",
+    "cue": "removed because it copies words from the withheld sentence; all 28 cues were checked by code as verbatim and at most 8 words before removal"
+  },
+  "explanation": {
+    "by": "claude-fable-5-1, new chat, memory off, no custom instructions, effort medium",
+    "inputs": "explanation instruction + sentence list + PDF",
+    "instruction": "PHILIA_Explanation_Instruction_EN_v0_1.md (draft, seventh run)",
+    "instruction_sha256_16": "53310007b6ab76c6",
+    "sentence_list_sha256_16": "df1ced1cc8779e65",
+    "output_sha256_16": "8b11bd5578d42fad",
+    "start": "one new chat with no prompt text; ran on the first turn",
+    "checks": "check_explanations_v0_2 (839f6142b816d1b8) checked: runs of 5 or more words shared with the sentence, new numbers, quotation marks, length within 1.5x. Flagged 0. No new numbers, no quotation marks, none over 1.5x. Square brackets used in 14 explanations; they name what a word refers to and are interpretation"
+  },
+  "researcher_review": {
+    "by": "Guide (Doosub Shin)",
+    "via": "Korean translations produced by the worker in the picking session and in the explanation session",
+    "scope": "picks and explanations",
+    "result": "검수했음 (picks), 검수했음 (explanations)",
+    "other_checks": "none; the worker was not asked to review its own explanations"
+  },
+  "items": [
+    {
+      "id": "c01",
+      "hash": "b0938f19744150e0",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Population-level physical activity data that frame the exercise dose question.",
+      "label": "DATA",
+      "explanation": "About 80% of adolescents and a third of adults worldwide do not reach the advised daily levels of exercise in terms of how often, how long, and how hard they exercise."
+    },
+    {
+      "id": "c02",
+      "hash": "743636c1c6982a4e",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Links a core exercise physiology fitness measure to health outcomes.",
+      "label": "STATEMENT",
+      "explanation": "Being physically inactive is a leading contributor to chronic disease, and poor cardiorespiratory fitness strongly predicts death from any cause."
+    },
+    {
+      "id": "c03",
+      "hash": "f77d8e20c9fff387",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the knowledge gap that motivates the paper.",
+      "label": "STATEMENT",
+      "explanation": "Physical activity is significantly linked to general health, yet the molecular mechanisms behind this link are poorly understood."
+    },
+    {
+      "id": "c04",
+      "hash": "78d47216c860ba5d",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Carries the paper's acute/chronic framing and the modifiers of exercise response.",
+      "label": "DEFINITION",
+      "explanation": "How the body responds to a single exercise session (sometimes called acute) or to a training program (sometimes called chronic) can depend on many things: exercise type such as endurance or resistance, intensity such as continuous moderate effort or HIIT, duration, previous training status, sex, age, diet, medications taken, coexisting conditions such as obesity or insulin resistance, and more."
+    },
+    {
+      "id": "c05",
+      "hash": "7998b32c6321555b",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Quantifies the energetic demand of exercise.",
+      "label": "DATA",
+      "explanation": "The need for ATP, adenosine triphosphate, can grow by as much as two orders of magnitude."
+    },
+    {
+      "id": "c06",
+      "hash": "15c664cc1abe673a",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Describes the multi-organ integration that supports working muscle.",
+      "label": "STATEMENT",
+      "explanation": "At this point, several organs start a coordinated response that supplies the muscles with the oxygen, blood flow, and chemical fuels they need to keep producing the required force for as long as the exercise lasts."
+    },
+    {
+      "id": "c07",
+      "hash": "2cdbc7e921e2f4c0",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Substrate use as a function of exercise intensity.",
+      "label": "STATEMENT",
+      "explanation": "In general, carbohydrate metabolism is the main support for exercise at higher intensity, whereas moderate intensity relies on a mix of FFA (free fatty acid) and carbohydrate metabolism."
+    },
+    {
+      "id": "c08",
+      "hash": "0d01940a9fe23c6a",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Identifies fuel sources during exercise.",
+      "label": "STATEMENT",
+      "explanation": "Moderate exercise is fuelled mainly by FFAs released from adipose tissue, together with IMTG and blood triglycerides carried as chylomicrons and VLDL."
+    },
+    {
+      "id": "c09",
+      "hash": "b4d1d3353ea8490c",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Glucose homeostasis mechanism during exercise.",
+      "label": "STATEMENT",
+      "explanation": "While exercising, the liver keeps blood glucose steady by breaking down its glycogen stores and by gluconeogenesis."
+    },
+    {
+      "id": "c10",
+      "hash": "0699f5df5607ee99",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Lactate handling between tissues during exercise.",
+      "label": "STATEMENT",
+      "explanation": "Muscle uses part of the lactate itself to make ATP; the rest enters the blood, and most of it is turned into glucose in the liver."
+    },
+    {
+      "id": "c11",
+      "hash": "3875a22e1325f0d7",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Cardiovascular response to exercise.",
+      "label": "STATEMENT",
+      "explanation": "Adrenergic signals to the heart raise cardiac output by boosting both stroke volume and heart rate, which helps distribute fuel."
+    },
+    {
+      "id": "c12",
+      "hash": "8608ae678fb2bcc8",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Hormonal regulation of fuel mobilization during exercise.",
+      "label": "STATEMENT",
+      "explanation": "While exercising, the ratio of glucagon to insulin rises because alpha-adrenergic signals act on pancreatic beta cells."
+    },
+    {
+      "id": "c13",
+      "hash": "9254e261ff4fe4c9",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Acute versus trained-state behavior of an exercise signaling molecule.",
+      "label": "DATA",
+      "explanation": "IL-6 goes up after a single exercise session, more so at higher intensity, yet trained people show lower levels than untrained people."
+    },
+    {
+      "id": "c14",
+      "hash": "7b70d240d9efbb38",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Carries the paper's organizing view of what training adaptation serves.",
+      "label": "STATEMENT",
+      "explanation": "[Tissue adaptations to exercise over time] seem aimed at bettering later efforts: faster oxygen and energy delivery, more efficient energy use, and stronger force production."
+    },
+    {
+      "id": "c15",
+      "hash": "b6a7122857286336",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the acute-to-chronic principle and its unresolved mechanism, a central theme of the paper.",
+      "label": "STATEMENT",
+      "explanation": "Through [pathways for force generation and energy mobilization later switching on adaptive cellular programs], repeated single exercise sessions are thought to produce the lasting changes linked to training, though exactly how acute molecular responses become the molecular behavior of the trained state is still not fully understood."
+    },
+    {
+      "id": "c16",
+      "hash": "0b0ff3892df12184",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Carries the paper's argument that knowledge is muscle-centered and multitissue understanding is lacking.",
+      "label": "STATEMENT",
+      "explanation": "Muscle is a thoroughly studied and very important example of how cells respond to exercise, but it is poorly described how the processes seen there correspond to other tissues, particularly in humans."
+    },
+    {
+      "id": "c17",
+      "hash": "7b5bba224f598d71",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the redundancy principle the paper draws about exercise signaling.",
+      "label": "STATEMENT",
+      "explanation": "[Knockout mice still adapting to training] show that molecular responses are redundant."
+    },
+    {
+      "id": "c18",
+      "hash": "6e1eb728bbd60c4e",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Signaling basis of muscle remodeling and hypertrophy.",
+      "label": "STATEMENT",
+      "explanation": "mTORC acts below several exercise-activated stimulatory pathways, notably mechanical transduction and growth factor signaling. It pushes the cell toward turning over and remodeling protein, which is needed to build the molecular machinery of adaptation to exercise, particularly the protein gain behind muscle hypertrophy."
+    },
+    {
+      "id": "c19",
+      "hash": "98b2174d9e578c11",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Endocrine response to an exercise bout.",
+      "label": "DATA",
+      "explanation": "After acute exercise, resistance exercise in particular, the activity of cortisol, androgens (namely testosterone), growth hormone (GH), and IGF-I is seen to rise in every case."
+    },
+    {
+      "id": "c20",
+      "hash": "c34ded5f89f5867b",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Gives the paper's working definition of a title concept.",
+      "label": "DEFINITION",
+      "explanation": "In a broad sense, an exerkine is any molecule that tells other tissues an acute exercise session has taken place, acting by autocrine, paracrine, or endocrine routes."
+    },
+    {
+      "id": "c21",
+      "hash": "4cf903ef0f1a1c04",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Carries the paper's multi-tissue-origin view of exercise signaling.",
+      "label": "DEFINITION",
+      "explanation": "Early research centred on myokines, meaning exerkines that come from skeletal muscle, but it is now evident that many tissues produce molecules in response to exercise."
+    },
+    {
+      "id": "c22",
+      "hash": "8968e0f19b98f67c",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Divergent acute and training responses of a muscle-derived signal.",
+      "label": "DATA",
+      "explanation": "Musclin goes up with single exercise sessions but goes down across a training period, a notable pattern that is nevertheless not uncommon."
+    },
+    {
+      "id": "c23",
+      "hash": "401812c18d779155",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Contrast between acute and chronic exercise effects on a circulating factor.",
+      "label": "DATA",
+      "explanation": "In humans, a single exercise session raises [BDNF] in the blood, whereas long-term training seems not to do so."
+    },
+    {
+      "id": "c24",
+      "hash": "50fad387833d86bd",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Training effect on a liver-derived signal tied to metabolic health.",
+      "label": "DATA",
+      "explanation": "Instead, training seems to lower fetuin-A, which in the end improves insulin resistance."
+    },
+    {
+      "id": "c25",
+      "hash": "166920fe672bdbd1",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the gap that justifies the paper's turn to omic approaches.",
+      "label": "STATEMENT",
+      "explanation": "Many publications have pinpointed individual exerkines, but broad approaches that span several cell types are missing."
+    },
+    {
+      "id": "c26",
+      "hash": "fb9cc52bb86d202f",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) The authors' own criterion for reading multiomic exercise studies.",
+      "label": "STATEMENT",
+      "explanation": "Readers of [multiomic exercise studies] are advised to check that the reports present both broad multiomic patterns and particular molecules of strong interest, usually ones showing large effect sizes or believed to be key regulators of multiomic responses."
+    },
+    {
+      "id": "c27",
+      "hash": "fb49f046bac70974",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) The paper's standard for the value of multiomic studies.",
+      "label": "STATEMENT",
+      "explanation": "[Multiomic exercise studies] are most valuable when their wide data collection contributes knowledge that goes further than lists of molecules that change."
+    },
+    {
+      "id": "c28",
+      "hash": "32e7440cadbf02b1",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Sample base of human muscle exercise-response data.",
+      "label": "DATA",
+      "explanation": "A meta-analysis published recently on how the skeletal muscle transcriptome responds looked at data from 132 people doing acute exercise and 460 people doing exercise training."
+    },
+    {
+      "id": "c29",
+      "hash": "2942d682ea6056b7",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Time course of the muscle response after an exercise bout.",
+      "label": "DATA",
+      "explanation": "[The meta-analysis of skeletal muscle transcriptomic responses] found time courses of transcription after single exercise sessions: genes for angiogenesis, cellular stress, and transcriptional regulation were switched on immediately or early, while genes for fatty acid metabolism were turned down later."
+    },
+    {
+      "id": "c30",
+      "hash": "feb659d0d2b47678",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Empirical contrast between acute and chronic exercise responses in muscle.",
+      "label": "DATA",
+      "explanation": "[In a transcriptomic analysis of muscle biopsies], acute and chronic exercise effects coincided very little, and some factors were regulated in opposite directions."
+    },
+    {
+      "id": "c31",
+      "hash": "fcca2d0e6ef70500",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Fiber-type-specific adaptation to endurance training.",
+      "label": "DATA",
+      "explanation": "Energy metabolism proteins rose in both kinds of fiber, but mitochondrial effects stood out more in type I fibers, and only these showed regulation of mitochondrial calcium uptake."
+    },
+    {
+      "id": "c32",
+      "hash": "c9994078431c9477",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the paper's core claim about the multiomic approach.",
+      "label": "STATEMENT",
+      "explanation": "Multiomic analyses can yield considerably more value than examinations of a single ome."
+    },
+    {
+      "id": "c33",
+      "hash": "5aef4995927fd1a3",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Training-induced change in muscle fuel oxidation.",
+      "label": "DATA",
+      "explanation": "[A muscle metabolomic study paired with transcriptomics] found that aerobic training, resistance training, or both over six months raised acylcarnitines in muscle; this rise correlated with higher expression of fatty acid metabolism genes, pointing to greater fatty acid oxidation after training."
+    },
+    {
+      "id": "c34",
+      "hash": "2266a52d16bcd68d",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Comparison of training modalities by magnitude of molecular response.",
+      "label": "DATA",
+      "explanation": "HIIT produced the largest transcriptional training response in younger and older adults alike."
+    },
+    {
+      "id": "c35",
+      "hash": "7f62a271c6a51b31",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) A methodological principle the paper raises about sampling timing in exercise studies.",
+      "label": "STATEMENT",
+      "explanation": "When samples are taken after exercise may partly account for the weak agreement between changes in different omes, because different molecular changes follow different time courses."
+    },
+    {
+      "id": "c36",
+      "hash": "c71425f81cd0674b",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Relation between molecular response and physiological adaptation across exercise types.",
+      "label": "DATA",
+      "explanation": "Across exercise types, [the multiomic training study's] data showed that molecular responses to RT and HIIT had little in common, even though some physiological adaptations were shared, for example more muscle mass and better insulin sensitivity with both."
+    },
+    {
+      "id": "c37",
+      "hash": "33a40bf5b99f25ed",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) An exercise-released circulating lipid signal.",
+      "label": "DATA",
+      "explanation": "Plasma lipidomic profiling uncovered a new adipokine, 12,13-diHOME, released after a session of moderate-intensity exercise."
+    },
+    {
+      "id": "c38",
+      "hash": "3a0fd864eb77ab2a",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Effect of training status on the acute exercise response.",
+      "label": "DATA",
+      "explanation": "After training, acute exercise produced transcriptomic responses that were smaller in size, as had been shown earlier in skeletal muscle."
+    },
+    {
+      "id": "c39",
+      "hash": "b17664941fdee3ac",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) The paper's caution about tissue-of-origin when interpreting blood profiles.",
+      "label": "STATEMENT",
+      "explanation": "Second, plasma in circulation is an excellent place to find exerkines, but profiling by itself does not show where those molecular features come from, as 12,13-diHOME illustrates."
+    },
+    {
+      "id": "c40",
+      "hash": "76f4e66521537f6d",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) The paper's caution about confounding in blood-based exercise studies.",
+      "label": "STATEMENT",
+      "explanation": "Lastly, blood profiles are swayed by environmental factors such as diet, circadian effects, phase of the menstrual cycle, and stress levels more easily than those of adipose, muscle, or other tissues."
+    },
+    {
+      "id": "c41",
+      "hash": "8d5f2b52633a18e6",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Characterizes a standard exercise testing protocol as a distinct stimulus.",
+      "label": "DEFINITION",
+      "explanation": "The exercise used in [the Framingham Heart Study analysis], as in some other papers, was a CPET (cardiopulmonary exercise test): a brief, maximal-effort burst, which makes it an unusual stimulus."
+    },
+    {
+      "id": "c42",
+      "hash": "b386147174c7b418",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Circulating metabolic response to exercise and its recovery time course.",
+      "label": "DATA",
+      "explanation": "A systematic review covering 24 studies of how the plasma metabolome responds to exercise, mostly in men and mostly with fewer than 40 participants, indicated that exercise commonly altered lipid species despite the varied cohorts and modalities, and that these level changes settle after only 1 day of rest."
+    },
+    {
+      "id": "c43",
+      "hash": "58401148e11ec896",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) An exercise-induced metabolite named by the paper as a novel mediator.",
+      "label": "DATA",
+      "explanation": "A screen of metabolites in exercising mice found that the newly described metabolite Lac-Phe (lactate-phenylalanine) was the one induced most strongly."
+    },
+    {
+      "id": "c44",
+      "hash": "a81059a6795e3eca",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Temporal ordering of systemic responses to an exercise bout.",
+      "label": "DATA",
+      "explanation": "[The blood multiomic time series study] points to many temporal signatures in the multiomic response: features tied to inflammation, immunity, and oxidative stress peak early, and metabolic responses peak later."
+    },
+    {
+      "id": "c45",
+      "hash": "7dc3e05a49a1b936",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) The paper's rationale for multitissue study design.",
+      "label": "STATEMENT",
+      "explanation": "Studying several tissues at once adds complexity, yet it also makes it possible to search for coordination and cross talk between tissues during the exercise response."
+    },
+    {
+      "id": "c46",
+      "hash": "7fe654bbfc99bea7",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Tissue-specific direction of metabolic adaptation to endurance training.",
+      "label": "DATA",
+      "explanation": "Following 8 weeks of training, mitochondrial metabolic pathways went up in tissues such as liver, white adipose, heart, and skeletal muscle, but went down in the adrenal glands and brown adipose."
+    },
+    {
+      "id": "c47",
+      "hash": "d99c32b511809ee1",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) A synthesis conclusion the paper draws from the multiomic literature.",
+      "label": "STATEMENT",
+      "explanation": "Broadly, energy metabolism and inflammatory responses seem to be affected consistently, whatever the stimulus or tissue."
+    },
+    {
+      "id": "c48",
+      "hash": "14592d7b76993b06",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Introduces the paper's critique of the existing literature.",
+      "label": "STATEMENT",
+      "explanation": "What the multiomics exercise literature lacks may be more remarkable than what it contains."
+    },
+    {
+      "id": "c49",
+      "hash": "647607d9a36772ed",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) A design limitation the paper identifies in prior exercise omic studies.",
+      "label": "STATEMENT",
+      "explanation": "Hardly any [of the multiomic exercise studies] are genuine randomized controlled trials with non-exercising controls, and hardly any are designed as multitissue or multiomic."
+    },
+    {
+      "id": "c50",
+      "hash": "321788f4df28ad21",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) The paper's central interpretive concern about cross-study comparison.",
+      "label": "STATEMENT",
+      "explanation": "Most importantly, it is hard to tell whether differences from study to study reflect real biology, such as sex or resistance versus endurance training, or are just noise."
+    },
+    {
+      "id": "c51",
+      "hash": "25bc1dbb9e4df72d",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) The paper's claim about untapped findings in existing data.",
+      "label": "STATEMENT",
+      "explanation": "Existing studies have probably already picked up many new molecular mediators of exercise that still await validation and more detailed experiments."
+    },
+    {
+      "id": "c52",
+      "hash": "d0b88b14084d4e50",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Ties the paper's proposed study design to the acute-to-chronic question.",
+      "label": "STATEMENT",
+      "explanation": "By assessing acute and chronic exercise in the same person, [the MoTrPAC human study] offers a new chance to examine how acute responses may causally feed into training adaptation, a link that until now has rested mostly on speculation and circumstantial evidence."
+    },
+    {
+      "id": "c53",
+      "hash": "666dd6ba0b958b90",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Whole-body stress-protein response to endurance training.",
+      "label": "DATA",
+      "explanation": "In the MoTrPAC animal study, for instance, endurance training triggered a heat shock protein response across tissues: white adipose, skeletal muscle, lung, liver, kidney, heart, and cortex."
+    },
+    {
+      "id": "c54",
+      "hash": "f45d8626787d0ec8",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Inter-individual variability in training response.",
+      "label": "STATEMENT",
+      "explanation": "People vary widely in how strongly they respond to exercise, and different individuals probably react in different ways to different forms of exercise."
+    },
+    {
+      "id": "c55",
+      "hash": "ddb993852d589d0d",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Time efficiency of adaptation across training modalities.",
+      "label": "DATA",
+      "explanation": "Resistance and endurance exercise are widespread modalities, but sprint interval training and high-intensity interval training have produced adaptations in less time than classic endurance training."
+    },
+    {
+      "id": "c56",
+      "hash": "29d2f7afa76cfa53",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Exercise timing as a modifier of metabolic adaptation.",
+      "label": "STATEMENT",
+      "explanation": "How much metabolic health improves also depends on the time of day of exercise, which is of special interest for those who have metabolic disease."
+    },
+    {
+      "id": "c57",
+      "hash": "e0cffc51eb8621c3",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) The paper's stated requirement for moving from description to causation.",
+      "label": "STATEMENT",
+      "explanation": "To establish which transducers causally matter most for healthy adaptation, targeted intervention studies are required together with follow-up work in cells and animals."
+    },
+    {
+      "id": "c58",
+      "hash": "d343d96d67cf172b",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) A methodological limitation the paper identifies for bulk tissue analysis.",
+      "label": "STATEMENT",
+      "explanation": "A major weakness of conventional multiomic assessment of tissue is that the biopsy is often homogenized before analysis."
+    },
+    {
+      "id": "c59",
+      "hash": "f9245f8773dcdd1b",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) The paper's forward-looking thesis on combining exercise and pharmacology.",
+      "label": "STATEMENT",
+      "explanation": "Combining exercise with particular drug treatments offers unmatched promise for targeted therapy in a range of disease populations."
+    },
+    {
+      "id": "u01",
+      "hash": "759078c0f4c712b7",
+      "pick_tag": null,
+      "pick_reason": "Evolutionary background claim; unclear whether it counts as exercise physiology data or as a principle the paper itself establishes.",
+      "label": "STATEMENT",
+      "explanation": "Humans probably evolved toward endurance-style physical performance because it helped with persistence hunting."
+    },
+    {
+      "id": "u02",
+      "hash": "95c76d0356651701",
+      "pick_tag": null,
+      "pick_reason": "Microbiome finding on performance; unclear whether it falls within exercise physiology data as intended by the task.",
+      "label": "DATA",
+      "explanation": "In mice, raising gut levels of Veillonella boosts capacity for endurance exercise."
+    },
+    {
+      "id": "u03",
+      "hash": "057d797872f2afc6",
+      "pick_tag": null,
+      "pick_reason": "Epidemiological association of a training-related protein; the link to exercise physiology is not carried by the sentence itself.",
+      "label": "DATA",
+      "explanation": "In addition, FAP was linked to death from any cause in three independent cohorts."
+    },
+    {
+      "id": "u04",
+      "hash": "8c2667f38a3a0427",
+      "pick_tag": null,
+      "pick_reason": "Illustrative therapeutic example; unclear whether it is a principle of the paper or exercise physiology data.",
+      "label": "STATEMENT",
+      "explanation": "In obesity, for instance, pairing exercise with GLP-1 (glucagon-like peptide 1) agonists may benefit both and also avert the muscle loss that comes when GLP-1 agonists are used by themselves."
+    }
+  ]
+}
