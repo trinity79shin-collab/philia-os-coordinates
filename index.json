@@ -175,6 +175,29 @@
           "bytes": 30736
         }
       }
+    },
+    {
+      "doi": "10.1152/physiol.00024.2024",
+      "title": "Charting the Molecular Terrain of Exercise: Energetics, Exerkines, and the Future of Multiomic Mapping",
+      "author": "Daniel H. Katz, Maléne E. Lindholm, Euan A. Ashley",
+      "published_print": "2025-03-01",
+      "worker": "claude-fable-5-1",
+      "run_date": "2026-11-09",
+      "items": 63,
+      "pdf_sha256_16": "f1fa392dbbcedc7d",
+      "copyright": "under copyright: sentence text withheld (first and last word kept); explanations in the interpretation file",
+      "files": {
+        "coordinates": {
+          "path": "data/katz2025-molecular-response__10.1152-physiol.00024.2024__coordinates__fable5.1-20261109.json",
+          "sha256": "a0dc5ec8e6d5342a16cb331f522d9755cddafe47975ab05f61db00731f351fcb",
+          "bytes": 63483
+        },
+        "interpretation": {
+          "path": "data/katz2025-molecular-response__10.1152-physiol.00024.2024__interpretation__fable5.1-20261109.json",
+          "sha256": "d16f4ec5b7a77c7b2f7b6b75e4f180099b2f2fd6371fe73ae4476d90e8d977cc",
+          "bytes": 34042
+        }
+      }
     }
   ],
   "file_naming": "<author+year>-<keyword>__<DOI with / as ->__<layer>__<worker>-<run date>.json",
