@@ -198,6 +198,29 @@
           "bytes": 34042
         }
       }
+    },
+    {
+      "doi": "10.1152/ajpheart.00414.2009",
+      "title": "Senescence, apoptosis, and stem cell biology: the rationale for an expanded view of intracrine action",
+      "author": "Richard N. Re, Julia L. Cook",
+      "published_print": "2009-09",
+      "worker": "gpt-6",
+      "run_date": "2026-11-10",
+      "items": 48,
+      "pdf_sha256_16": "4d1cd01c0b72cd56",
+      "copyright": "under copyright: sentence text withheld (first and last word kept); explanations in the interpretation file",
+      "files": {
+        "coordinates": {
+          "path": "data/re2009-intracrine__10.1152-ajpheart.00414.2009__coordinates__gpt-6-20261110.json",
+          "sha256": "28f0443e8cb1574c8748171eb6ecd00f19960c4d3a06b8829a57143c4b0d8acc",
+          "bytes": 43523
+        },
+        "interpretation": {
+          "path": "data/re2009-intracrine__10.1152-ajpheart.00414.2009__interpretation__gpt-6-20261110.json",
+          "sha256": "f4cfbc3b7cd442ac5e197532a408e1c59b94c7ca33d055de3aae67ba85b0ba79",
+          "bytes": 28074
+        }
+      }
     }
   ],
   "file_naming": "<author+year>-<keyword>__<DOI with / as ->__<layer>__<worker>-<run date>.json",
