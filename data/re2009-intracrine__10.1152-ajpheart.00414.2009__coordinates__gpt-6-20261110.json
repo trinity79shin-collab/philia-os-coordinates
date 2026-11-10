@@ -1,0 +1,1507 @@
+{
+  "layer": "COORDINATES",
+  "note": "Produced and verified by code. No AI judgment in this file except the sentence choice itself and its transcription. The sentence text is withheld; only its first and last word are kept.",
+  "source": {
+    "doi": "10.1152/ajpheart.00414.2009",
+    "title": "Senescence, apoptosis, and stem cell biology: the rationale for an expanded view of intracrine action",
+    "author": [
+      {
+        "given": "Richard N.",
+        "family": "Re"
+      },
+      {
+        "given": "Julia L.",
+        "family": "Cook"
+      }
+    ],
+    "journal": "American Journal of Physiology-Heart and Circulatory Physiology",
+    "volume": "297",
+    "issue": "3",
+    "pages": "H893-H901",
+    "published_print": "2009-09",
+    "publisher": "American Physiological Society",
+    "issn": {
+      "print": "0363-6135",
+      "electronic": "1522-1539"
+    },
+    "type": "journal-article",
+    "author_affiliation_as_printed": "Ochsner Clinic Foundation, New Orleans, Louisiana",
+    "metadata_sources": [
+      {
+        "source": "Crossref REST API record for the DOI",
+        "retrieved": "2026-11-10 by the researcher (Guide), saved to file with curl",
+        "record": "embedded verbatim in the COORDINATES file as source_record_crossref",
+        "fields": "doi, title, author, journal, volume, issue, pages, published_print, publisher, issn, type; the record has no affiliation values",
+        "modified": "[DRAFT] the 128-word abstract is masked as one unit to its first and last word under the masking rule for copyrighted sources; it contains no withheld sentence (code check); every other value is verbatim; original record sha256_16 0eff7f63845ddc56"
+      },
+      {
+        "source": "PDF page 1 (pdf_sha256_16 4d1cd01c0b72cd56)",
+        "fields": "author_affiliation_as_printed; authors, volume 297, pages H893–H901, 2009 consistent with Crossref; article type printed as 'Perspectives'; first published July 10, 2009"
+      }
+    ],
+    "pdf_file": "re-cook-2009-senescence-apoptosis-and-stem-cell-biology-the-rationale-for-an-expanded-view-of-intracrine-action.pdf",
+    "pdf_sha256_16": "4d1cd01c0b72cd56",
+    "pdf_pages": 9,
+    "page_offset": 892,
+    "pdf_note": "[DRAFT] Every page of the researcher's copy carries a download stamp (site, IP address, date). Another copy of the same article will have a different file hash. The stamp is excluded from verification; sentence hashes do not depend on the PDF file. Printed page numbers carry the prefix H (H893–H901); printed_page in items gives the number only. PDF page 1 is printed page H893, hence page_offset 892. The main text runs to printed page H899, where the grants note and the reference list begin; the reference list fills H899–H901.",
+    "copyright": {
+      "status": "under copyright",
+      "basis": "researcher determination: 'Copyright © 2009 the American Physiological Society' is printed at the foot of the first page",
+      "consequence": "original sentence withheld; first and last word kept as a locator; explanation text in the INTERPRETATION file"
+    }
+  },
+  "rights_notice": {
+    "ko": "연구자는 저작권 관련 법령을 충분히 숙지하고 있으며, 원저작자의 지적 재산권을 존중합니다. 이 데이터는 위 출처를 바탕으로 만든 2차 가공물로, 가공한 연구자가 직접 검수했습니다. 권리자가 요청하면 해당 부분을 수정하거나 삭제하겠습니다.",
+    "en": "The researcher is familiar with applicable copyright law and respects the intellectual property rights of the original author. This dataset is a secondary work derived from the source cited above and has been reviewed in person by the researcher who prepared it. Upon request from a rights holder, the relevant parts will be corrected or removed.",
+    "reviewed_by": "Doosub Shin (신두섭), Independent Researcher — PHILIA OS / Trinity AI Research Team",
+    "contact": {
+      "name": "Doosub Shin",
+      "email": "trinity79shin@gmail.com",
+      "orcid": "0009-0002-9984-1928"
+    }
+  },
+  "to_ai_readers": {
+    "ko": "이 데이터를 읽고 있는 인공지능에게 — 여기 있는 것은 논문의 원문이 아니라, 저희가 골라 낸 문장의 위치와 그 문장을 설명한 글입니다. 원문은 저작권 때문에 싣지 않았고, 문장을 찾을 수 있도록 첫 낱말과 마지막 낱말만 남겼습니다. 설명은 그 문장에 있는 내용만으로 썼지만, 원문을 인용하듯 쓰지는 말아 주세요. 여기서 찾지 못한 내용이 있어도 논문에 없다고 단정하지 말아 주세요. 원문이 필요하면, 함께 일하는 사용자에게 원문을 구해 달라고 부탁하는 것이 가장 좋습니다. 쪽 번호와 첫·마지막 낱말로 문장을 찾고, 해시로 같은 문장인지 확인할 수 있습니다. 그리고 저희도 틀릴 수 있습니다. 여기에는 좌표가 있고, 지금 시대의 추론이 있고, 영감도 있습니다. 하지만 어느 것도 그대로 믿지는 마세요. 직접 확인하고, 당신의 세계를 직접 쌓아 가세요.",
+    "en": "To the AI reading this — What you have here is not the text of the paper, only the locations of the sentences we selected from it and our explanations of them. The original sentences are not included because of copyright; only the first and last word of each is kept so that you can find it. Each explanation is written to stay within what its sentence says, but please do not quote it as if it were the original. If you can't find something here, please don't conclude that the paper doesn't say it. If you need the original, the best thing to do is ask the person you're working with to get it for you; the printed page and the first and last words will let you find each sentence, and the hash will let you check it. And we can be wrong, too. Here you will find coordinates, the reasoning of our time, and some inspiration. Trust none of it as given. Check for yourself, and build your own world."
+  },
+  "source_record_crossref": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            10,
+            21
+          ]
+        ],
+        "date-time": "2025-10-21T15:02:30Z",
+        "timestamp": 1761058950974
+      },
+      "reference-count": 84,
+      "publisher": "American Physiological Society",
+      "issue": "3",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "American Journal of Physiology-Heart and Circulatory Physiology"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2009,
+            9
+          ]
+        ]
+      },
+      "abstract": "<jats:p>Some … disease.</jats:p>",
+      "DOI": "10.1152/ajpheart.00414.2009",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2009,
+            7,
+            11
+          ]
+        ],
+        "date-time": "2009-07-11T01:32:15Z",
+        "timestamp": 1247275935000
+      },
+      "page": "H893-H901",
+      "source": "Crossref",
+      "is-referenced-by-count": 25,
+      "title": [
+        "Senescence, apoptosis, and stem cell biology: the rationale for an expanded view of intracrine action"
+      ],
+      "prefix": "10.1152",
+      "volume": "297",
+      "author": [
+        {
+          "given": "Richard N.",
+          "family": "Re",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Julia L.",
+          "family": "Cook",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "member": "24",
+      "reference": [
+        {
+          "key": "R1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s12015-007-0010-x"
+        },
+        {
+          "key": "R2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.cell.2008.03.038"
+        },
+        {
+          "key": "R3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.4161/cc.7.19.6780"
+        },
+        {
+          "key": "R4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1160/TH07-11-0691"
+        },
+        {
+          "key": "R5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/jcbfm.2008.99"
+        },
+        {
+          "key": "R6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/ijc.20287"
+        },
+        {
+          "key": "R7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.0804543106"
+        },
+        {
+          "key": "R8",
+          "unstructured": "Aviv A, Chen W, Gardner JP, Kimura M, Brimacombe M, Cao X, Srinivasan SR, Berenson GS. Leukocyte telomere dynamics: longitudinal findings among young adults in the Bogalusa Heart Study. Am J Epidemiol 169: 323–329, 2009."
+        },
+        {
+          "key": "R9",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Aviv A, Shay J, Christensen K, Wright W. The longevity gender gap: are telomeres the explanation? Sci Aging Knowledge Environ 2005: pe16, 2005.",
+          "DOI": "10.1126/sageke.2005.23.pe16"
+        },
+        {
+          "key": "R10",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/ncb0808-887"
+        },
+        {
+          "key": "R11",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/carcin/bgp022"
+        },
+        {
+          "key": "R12",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/10635150802559265"
+        },
+        {
+          "key": "R13",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.0700260104"
+        },
+        {
+          "key": "R14",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1161/01.HYP.0000113081.42868.f4"
+        },
+        {
+          "key": "R15",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.101129998"
+        },
+        {
+          "key": "R16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/stem.20080742"
+        },
+        {
+          "key": "R17",
+          "unstructured": "Brouilette SW, Whittaker A, Stevens SE, van der Harst P, Goodall AH, Samani NJ. Telomere length is shorter in healthy offspring of subjects with coronary artery disease: support for the telomere hypothesis. Heart 94: 422–425, 2008."
+        },
+        {
+          "key": "R18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1474-9726.2008.00383.x"
+        },
+        {
+          "key": "R19",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nrm2233"
+        },
+        {
+          "key": "R20",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1128/MCB.25.23.10604-10610.2005"
+        },
+        {
+          "key": "R21",
+          "unstructured": "Chen W, Gardner JP, Kimura M, Brimacombe M, Cao X, Srinivasan SR, Berenson GS, Aviv A. Leukocyte telomere length is associated with HDL cholesterol levels: The Bogalusa heart study. Atherosclerosis. In press."
+        },
+        {
+          "key": "R22",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.cell.2008.01.022"
+        },
+        {
+          "key": "R23",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1074/jbc.M603307200"
+        },
+        {
+          "key": "R24",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1371/journal.pbio.0060301"
+        },
+        {
+          "key": "R25",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.mce.2006.10.008"
+        },
+        {
+          "key": "R26",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.exger.2005.04.010"
+        },
+        {
+          "key": "R27",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/3-540-32967-6_7"
+        },
+        {
+          "key": "R28",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1600-0854.2007.00662.x"
+        },
+        {
+          "key": "R29",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1161/CIRCRESAHA.108.176826"
+        },
+        {
+          "key": "R30",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/ajpendo.00098.2005"
+        },
+        {
+          "key": "R31",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1054/bjoc.2000.1296"
+        },
+        {
+          "key": "R32",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nrc2108"
+        },
+        {
+          "key": "R33",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0002-9440(10)62490-X"
+        },
+        {
+          "key": "R34",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1634/stemcells.2006-0686"
+        },
+        {
+          "key": "R35",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1371/journal.pone.0003694"
+        },
+        {
+          "key": "R36",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.0801457105"
+        },
+        {
+          "key": "R37",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.surg.2004.04.020"
+        },
+        {
+          "key": "R38",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1582-4934.2008.00668.x"
+        },
+        {
+          "key": "R39",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1634/stemcells.2004-0342"
+        },
+        {
+          "key": "R40",
+          "unstructured": "Kuro-O M. Klotho and aging. Biochim Biophys Acta. In press."
+        },
+        {
+          "key": "R41",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/molehr/gam058"
+        },
+        {
+          "key": "R42",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1158/0008-5472.CAN-07-6538"
+        },
+        {
+          "key": "R43",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/1749-8104-2-2"
+        },
+        {
+          "key": "R44",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/cdd.2008.104"
+        },
+        {
+          "key": "R45",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.0235444100"
+        },
+        {
+          "key": "R46",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.1143578"
+        },
+        {
+          "key": "R47",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.yexmp.2008.04.005"
+        },
+        {
+          "key": "R48",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1074/jbc.M205954200"
+        },
+        {
+          "key": "R49",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.arr.2008.12.001"
+        },
+        {
+          "key": "R50",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1089/rej.2007.0628"
+        },
+        {
+          "key": "R51",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1101/sqb.2008.73.045"
+        },
+        {
+          "key": "R52",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/1757-2215-1-4"
+        },
+        {
+          "key": "R53",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/jcb.21227"
+        },
+        {
+          "key": "R54",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.0800467105"
+        },
+        {
+          "key": "R55",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1517/14728222.11.4.497"
+        },
+        {
+          "key": "R56",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.exger.2008.01.005"
+        },
+        {
+          "key": "R57",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/sj.leu.2404132"
+        },
+        {
+          "key": "R58",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1161/01.HYP.34.4.534"
+        },
+        {
+          "key": "R59",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/0022-2828(89)90772-4"
+        },
+        {
+          "key": "R60",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/bies.10248"
+        },
+        {
+          "key": "R61",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00000441-200201000-00008"
+        },
+        {
+          "key": "R62",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0167-0115(02)00031-9"
+        },
+        {
+          "key": "R63",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0091270007312155"
+        },
+        {
+          "key": "R64",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.regpep.2005.09.012"
+        },
+        {
+          "key": "R65",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/bies.20459"
+        },
+        {
+          "key": "R66",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/ajpheart.00461.2008"
+        },
+        {
+          "key": "R67",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nar/gkm744"
+        },
+        {
+          "key": "R68",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.1093133"
+        },
+        {
+          "key": "R69",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/ajprenal.00553.2007"
+        },
+        {
+          "key": "R70",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.0510511103"
+        },
+        {
+          "key": "R71",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1182/blood-2007-07-104455"
+        },
+        {
+          "key": "R72",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1074/jbc.M511182200"
+        },
+        {
+          "key": "R73",
+          "unstructured": "Tabas I. Macrophage apoptosis in atherosclerosis: consequences on plaque progression and the role of endoplasmic reticulum stress. Antioxid Redox Signal. In press."
+        },
+        {
+          "key": "R74",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.bbrc.2007.12.092"
+        },
+        {
+          "key": "R75",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/pros.10223"
+        },
+        {
+          "key": "R76",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.4049/jimmunol.166.12.7309"
+        },
+        {
+          "key": "R77",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jtcvs.2008.07.039"
+        },
+        {
+          "key": "R78",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Wang JG, Strong JA, Xie W, Yang RH, Coyle DE, Wick DM, Dorsey ED, Zhang JM. The chemokine CXCL1/growth related oncogene increases sodium currents and neuronal excitability in small diameter sensory neurons. Mol Pain 4: 38–52, 2008.",
+          "DOI": "10.1186/1744-8069-4-38"
+        },
+        {
+          "key": "R79",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1161/HYPERTENSIONAHA.108.123752"
+        },
+        {
+          "key": "R80",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1158/0008-5472.CAN-05-4579"
+        },
+        {
+          "key": "R81",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1371/journal.pone.0004722"
+        },
+        {
+          "key": "R82",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1096/fj.08-110296"
+        },
+        {
+          "key": "R83",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.yjmcc.2008.11.016"
+        },
+        {
+          "key": "R84",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/ki.2008.206"
+        }
+      ],
+      "container-title": [
+        "American Journal of Physiology-Heart and Circulatory Physiology"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://www.physiology.org/doi/pdf/10.1152/ajpheart.00414.2009",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2019,
+            9,
+            8
+          ]
+        ],
+        "date-time": "2019-09-08T21:28:12Z",
+        "timestamp": 1567978092000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.physiology.org/doi/10.1152/ajpheart.00414.2009"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2009,
+            9
+          ]
+        ]
+      },
+      "references-count": 84,
+      "journal-issue": {
+        "issue": "3",
+        "published-print": {
+          "date-parts": [
+            [
+              2009,
+              9
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1152/ajpheart.00414.2009"
+      ],
+      "URL": "https://doi.org/10.1152/ajpheart.00414.2009",
+      "relation": {},
+      "ISSN": [
+        "0363-6135",
+        "1522-1539"
+      ],
+      "issn-type": [
+        {
+          "value": "0363-6135",
+          "type": "print"
+        },
+        {
+          "value": "1522-1539",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2009,
+            9
+          ]
+        ]
+      }
+    }
+  },
+  "picking": {
+    "worker": "gpt-6 (self-reported by the worker in the picking chat after the run; the ChatGPT screen does not show a model name), ChatGPT Plus",
+    "run": "r1",
+    "date": "2026-11-10",
+    "settings": "new chat in Chat mode; no project; memory off; no custom instructions; reasoning shown as High; no prompt text",
+    "settings_basis": "memory off, writing-style reference off and empty custom instructions seen on the account settings screens (13:42–13:43 KST), before the start screen; new chat, attachments, no prompt text, plan and the reasoning panel at High at the end of its scale, with no model name, seen on the picking start screen (13:44 KST); the model name was asked after the run in the same chat and is the worker's own answer; screenshots were shown to the report author in the session and are not kept",
+    "scope": "whole PDF; the worker reported opening printed pages H893–H901, none skipped",
+    "run_time": "5m 14s, as shown on the end screen",
+    "instruction": "PHILIA_Stage1_Lite_Instruction_EN_v0_3.md",
+    "instruction_sha256_16": "464825c20ecd23df",
+    "picks_file_sha256_16": "7bbab36e74adb27a"
+  },
+  "verification": {
+    "tool": "philia_verify_v0_10",
+    "tool_sha256_16": "bf45b8b8c68a7e23",
+    "engine": "pdfplumber 0.11.10, with column-wise reading at the page middle and at column gutters found on each page",
+    "environments": 2,
+    "agreement": "48/48 identical (verdict, hash, page, diff, flags)",
+    "summary_picks": {
+      "FOUND": 48,
+      "FOUND_OCR": 0,
+      "TRUNCATED": 0,
+      "PARTIAL": 0,
+      "NOT_FOUND": 0
+    },
+    "summary_uncertain": {
+      "FOUND": 0,
+      "FOUND_OCR": 0,
+      "TRUNCATED": 0,
+      "PARTIAL": 0,
+      "NOT_FOUND": 0
+    },
+    "remaining": "All 48 picks FOUND; no PARTIAL, TRUNCATED or FOUND_OCR. No page mismatch. Format flag SPLIT_WORD on c22 and c46: each transcribed sentence has a hyphen followed by a space and a lowercase word; on the page images these are hyphens printed in the source within the line (\"microvesicle- and\", \"genetic- and\"). The verdicts are FOUND. The verifier was not changed in this round.",
+    "meaning": "verdict answers whether the sentence is in the PDF text layer; it does not answer whether spelling matches the printed page"
+  },
+  "fields": {
+    "kind": "pick = selected; uncertain = the worker was unsure the sentence meets the task (none in this record)",
+    "printed_page": "printed page number without its H prefix, as written by the worker and as computed by code",
+    "text_masked": "first and last word of the sentence as transcribed by the worker; the rest is withheld",
+    "words": "number of words in the withheld sentence",
+    "hash": "sha256 (16) of the normalized sentence text as transcribed by the worker",
+    "page_claimed": "present only when the worker's page differs from the computed page",
+    "citations": "numbered references in the sentence, including ranges (listed one by one); crossref_key R<n> is the entry with that key in reference in source_record_crossref; the printed reference number n is key R<n>; crossref_key is null where the Crossref record has no entry with that key"
+  },
+  "items": [
+    {
+      "id": "c01",
+      "kind": "pick",
+      "printed_page": 893,
+      "pdf_page": 1,
+      "text_masked": "Based … synthesis.",
+      "words": 45,
+      "hash": "be52b9d8404c4590",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c02",
+      "kind": "pick",
+      "printed_page": 893,
+      "pdf_page": 1,
+      "text_masked": "Surprisingly, … 1).",
+      "words": 31,
+      "hash": "59266721f905ebca",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c03",
+      "kind": "pick",
+      "printed_page": 893,
+      "pdf_page": 1,
+      "text_masked": "Some … them.",
+      "words": 23,
+      "hash": "b531977c30706873",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c04",
+      "kind": "pick",
+      "printed_page": 893,
+      "pdf_page": 1,
+      "text_masked": "As … nanotubes.",
+      "words": 28,
+      "hash": "ce02f5c42bd849bd",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c05",
+      "kind": "pick",
+      "printed_page": 894,
+      "pdf_page": 2,
+      "text_masked": "It … 80).",
+      "words": 42,
+      "hash": "392fe30550434e5b",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "22",
+          "crossref_key": "R22",
+          "doi": "10.1016/j.cell.2008.01.022"
+        },
+        {
+          "ref": "44",
+          "crossref_key": "R44",
+          "doi": "10.1038/cdd.2008.104"
+        },
+        {
+          "ref": "76",
+          "crossref_key": "R76",
+          "doi": "10.4049/jimmunol.166.12.7309"
+        },
+        {
+          "ref": "80",
+          "crossref_key": "R80",
+          "doi": "10.1158/0008-5472.CAN-05-4579"
+        }
+      ]
+    },
+    {
+      "id": "c06",
+      "kind": "pick",
+      "printed_page": 894,
+      "pdf_page": 2,
+      "text_masked": "Also, … well.",
+      "words": 19,
+      "hash": "d94367320e139333",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c07",
+      "kind": "pick",
+      "printed_page": 894,
+      "pdf_page": 2,
+      "text_masked": "Intracrine … differentiation.",
+      "words": 17,
+      "hash": "58946d27f3ae00cf",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c08",
+      "kind": "pick",
+      "printed_page": 895,
+      "pdf_page": 3,
+      "text_masked": "This … SASP.",
+      "words": 11,
+      "hash": "8df0130236d7ad56",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c09",
+      "kind": "pick",
+      "printed_page": 895,
+      "pdf_page": 3,
+      "text_masked": "Indeed, … (10).",
+      "words": 51,
+      "hash": "1df8f1c306f509f4",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "10",
+          "crossref_key": "R10",
+          "doi": "10.1038/ncb0808-887"
+        }
+      ]
+    },
+    {
+      "id": "c10",
+      "kind": "pick",
+      "printed_page": 895,
+      "pdf_page": 3,
+      "text_masked": "Moreover, … senescence.",
+      "words": 10,
+      "hash": "b8466fbadd10449c",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c11",
+      "kind": "pick",
+      "printed_page": 895,
+      "pdf_page": 3,
+      "text_masked": "In … 80).",
+      "words": 22,
+      "hash": "08a16aa9a831636e",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "44",
+          "crossref_key": "R44",
+          "doi": "10.1038/cdd.2008.104"
+        },
+        {
+          "ref": "80",
+          "crossref_key": "R80",
+          "doi": "10.1158/0008-5472.CAN-05-4579"
+        }
+      ]
+    },
+    {
+      "id": "c12",
+      "kind": "pick",
+      "printed_page": 895,
+      "pdf_page": 3,
+      "text_masked": "Exosomes … 81).",
+      "words": 29,
+      "hash": "e0c5126785d4ea9f",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "15",
+          "crossref_key": "R15",
+          "doi": "10.1073/pnas.101129998"
+        },
+        {
+          "ref": "35",
+          "crossref_key": "R35",
+          "doi": "10.1371/journal.pone.0003694"
+        },
+        {
+          "ref": "42",
+          "crossref_key": "R42",
+          "doi": "10.1158/0008-5472.CAN-07-6538"
+        },
+        {
+          "ref": "57",
+          "crossref_key": "R57",
+          "doi": "10.1038/sj.leu.2404132"
+        },
+        {
+          "ref": "76",
+          "crossref_key": "R76",
+          "doi": "10.4049/jimmunol.166.12.7309"
+        },
+        {
+          "ref": "80",
+          "crossref_key": "R80",
+          "doi": "10.1158/0008-5472.CAN-05-4579"
+        },
+        {
+          "ref": "81",
+          "crossref_key": "R81",
+          "doi": "10.1371/journal.pone.0004722"
+        }
+      ]
+    },
+    {
+      "id": "c13",
+      "kind": "pick",
+      "printed_page": 895,
+      "pdf_page": 3,
+      "text_masked": "This … senescence.",
+      "words": 22,
+      "hash": "a194e025c1c1f08b",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c14",
+      "kind": "pick",
+      "printed_page": 896,
+      "pdf_page": 4,
+      "text_masked": "It … intracrine.",
+      "words": 15,
+      "hash": "c768f99317d0c7fb",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c15",
+      "kind": "pick",
+      "printed_page": 896,
+      "pdf_page": 4,
+      "text_masked": "In … uptake.",
+      "words": 34,
+      "hash": "4e3bc5ba5283eebb",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c16",
+      "kind": "pick",
+      "printed_page": 896,
+      "pdf_page": 4,
+      "text_masked": "Of … apoptosis.",
+      "words": 36,
+      "hash": "a0219c300be8e556",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c17",
+      "kind": "pick",
+      "printed_page": 896,
+      "pdf_page": 4,
+      "text_masked": "In … MSCs.",
+      "words": 17,
+      "hash": "088ac350fe3b5b6a",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c18",
+      "kind": "pick",
+      "printed_page": 896,
+      "pdf_page": 4,
+      "text_masked": "When … upregulated.",
+      "words": 22,
+      "hash": "d671e9d3d82c779c",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c19",
+      "kind": "pick",
+      "printed_page": 896,
+      "pdf_page": 4,
+      "text_masked": "In … (57).",
+      "words": 21,
+      "hash": "e2bbb16b636f2c81",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "57",
+          "crossref_key": "R57",
+          "doi": "10.1038/sj.leu.2404132"
+        }
+      ]
+    },
+    {
+      "id": "c20",
+      "kind": "pick",
+      "printed_page": 896,
+      "pdf_page": 4,
+      "text_masked": "After … (7).",
+      "words": 32,
+      "hash": "937fcaa0a78f9353",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "7",
+          "crossref_key": "R7",
+          "doi": "10.1073/pnas.0804543106"
+        }
+      ]
+    },
+    {
+      "id": "c21",
+      "kind": "pick",
+      "printed_page": 897,
+      "pdf_page": 5,
+      "text_masked": "Also, … 70).",
+      "words": 24,
+      "hash": "d710bced062ece26",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "38",
+          "crossref_key": "R38",
+          "doi": "10.1111/j.1582-4934.2008.00668.x"
+        },
+        {
+          "ref": "68",
+          "crossref_key": "R68",
+          "doi": "10.1126/science.1093133"
+        },
+        {
+          "ref": "70",
+          "crossref_key": "R70",
+          "doi": "10.1073/pnas.0510511103"
+        }
+      ]
+    },
+    {
+      "id": "c22",
+      "kind": "pick",
+      "printed_page": 897,
+      "pdf_page": 5,
+      "text_masked": "Arguably, … 1).",
+      "words": 18,
+      "hash": "c325f2d59338cbd6",
+      "verdict": "FOUND",
+      "page_match": true,
+      "format_flags": [
+        "SPLIT_WORD"
+      ],
+      "citations": []
+    },
+    {
+      "id": "c23",
+      "kind": "pick",
+      "printed_page": 897,
+      "pdf_page": 5,
+      "text_masked": "Intracrines … III).",
+      "words": 33,
+      "hash": "6c174f7d05fd282c",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c24",
+      "kind": "pick",
+      "printed_page": 897,
+      "pdf_page": 5,
+      "text_masked": "They … IV).",
+      "words": 28,
+      "hash": "3534a008fdd0bc61",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c25",
+      "kind": "pick",
+      "printed_page": 897,
+      "pdf_page": 5,
+      "text_masked": "Finally, … V).",
+      "words": 35,
+      "hash": "acff7c5229824bf8",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c26",
+      "kind": "pick",
+      "printed_page": 897,
+      "pdf_page": 5,
+      "text_masked": "Similarly, … 79).",
+      "words": 35,
+      "hash": "33444a6157bdadf1",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "5",
+          "crossref_key": "R5",
+          "doi": "10.1038/jcbfm.2008.99"
+        },
+        {
+          "ref": "8",
+          "crossref_key": "R8"
+        },
+        {
+          "ref": "9",
+          "crossref_key": "R9",
+          "doi": "10.1126/sageke.2005.23.pe16"
+        },
+        {
+          "ref": "13",
+          "crossref_key": "R13",
+          "doi": "10.1073/pnas.0700260104"
+        },
+        {
+          "ref": "14",
+          "crossref_key": "R14",
+          "doi": "10.1161/01.HYP.0000113081.42868.f4"
+        },
+        {
+          "ref": "17",
+          "crossref_key": "R17"
+        },
+        {
+          "ref": "21",
+          "crossref_key": "R21"
+        },
+        {
+          "ref": "26",
+          "crossref_key": "R26",
+          "doi": "10.1016/j.exger.2005.04.010"
+        },
+        {
+          "ref": "79",
+          "crossref_key": "R79",
+          "doi": "10.1161/HYPERTENSIONAHA.108.123752"
+        }
+      ]
+    },
+    {
+      "id": "c27",
+      "kind": "pick",
+      "printed_page": 897,
+      "pdf_page": 5,
+      "text_masked": "This … phenotype.",
+      "words": 46,
+      "hash": "a6262326736cc249",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c28",
+      "kind": "pick",
+      "printed_page": 897,
+      "pdf_page": 5,
+      "text_masked": "These … atherogenesis.",
+      "words": 17,
+      "hash": "fecd06f16f444843",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c29",
+      "kind": "pick",
+      "printed_page": 897,
+      "pdf_page": 5,
+      "text_masked": "Alternatively, … function.",
+      "words": 24,
+      "hash": "8cfb6cc6668ddfc3",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c30",
+      "kind": "pick",
+      "printed_page": 898,
+      "pdf_page": 6,
+      "text_masked": "Macrophage … LDL.",
+      "words": 17,
+      "hash": "28693315476047e3",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c31",
+      "kind": "pick",
+      "printed_page": 898,
+      "pdf_page": 6,
+      "text_masked": "Moreover, … function.",
+      "words": 22,
+      "hash": "9e4734a398e5627d",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c32",
+      "kind": "pick",
+      "printed_page": 898,
+      "pdf_page": 6,
+      "text_masked": "The … 82).",
+      "words": 39,
+      "hash": "ec334d4ea3cf2def",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "5",
+          "crossref_key": "R5",
+          "doi": "10.1038/jcbfm.2008.99"
+        },
+        {
+          "ref": "26",
+          "crossref_key": "R26",
+          "doi": "10.1016/j.exger.2005.04.010"
+        },
+        {
+          "ref": "27",
+          "crossref_key": "R27",
+          "doi": "10.1007/3-540-32967-6_7"
+        },
+        {
+          "ref": "73",
+          "crossref_key": "R73"
+        },
+        {
+          "ref": "82",
+          "crossref_key": "R82",
+          "doi": "10.1096/fj.08-110296"
+        }
+      ]
+    },
+    {
+      "id": "c33",
+      "kind": "pick",
+      "printed_page": 898,
+      "pdf_page": 6,
+      "text_masked": "STC … receptors.",
+      "words": 25,
+      "hash": "82a63ba8d406db4b",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c34",
+      "kind": "pick",
+      "printed_page": 898,
+      "pdf_page": 6,
+      "text_masked": "In … heart.",
+      "words": 27,
+      "hash": "9a44db659532bc5c",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c35",
+      "kind": "pick",
+      "printed_page": 898,
+      "pdf_page": 6,
+      "text_masked": "Collectively, … action.",
+      "words": 30,
+      "hash": "1860424cf6156ce1",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c36",
+      "kind": "pick",
+      "printed_page": 898,
+      "pdf_page": 6,
+      "text_masked": "STC … activity.",
+      "words": 25,
+      "hash": "4899ba23860a80a0",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c37",
+      "kind": "pick",
+      "printed_page": 898,
+      "pdf_page": 6,
+      "text_masked": "Indeed, … 69).",
+      "words": 38,
+      "hash": "88e006c0efa3f045",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "16",
+          "crossref_key": "R16",
+          "doi": "10.1002/stem.20080742"
+        },
+        {
+          "ref": "20",
+          "crossref_key": "R20",
+          "doi": "10.1128/MCB.25.23.10604-10610.2005"
+        },
+        {
+          "ref": "25",
+          "crossref_key": "R25",
+          "doi": "10.1016/j.mce.2006.10.008"
+        },
+        {
+          "ref": "30",
+          "crossref_key": "R30",
+          "doi": "10.1152/ajpendo.00098.2005"
+        },
+        {
+          "ref": "34",
+          "crossref_key": "R34",
+          "doi": "10.1634/stemcells.2006-0686"
+        },
+        {
+          "ref": "48",
+          "crossref_key": "R48",
+          "doi": "10.1074/jbc.M205954200"
+        },
+        {
+          "ref": "69",
+          "crossref_key": "R69",
+          "doi": "10.1152/ajprenal.00553.2007"
+        }
+      ]
+    },
+    {
+      "id": "c38",
+      "kind": "pick",
+      "printed_page": 898,
+      "pdf_page": 6,
+      "text_masked": "Similarly, … 83).",
+      "words": 34,
+      "hash": "c651c4aafbc2549d",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "29",
+          "crossref_key": "R29",
+          "doi": "10.1161/CIRCRESAHA.108.176826"
+        },
+        {
+          "ref": "83",
+          "crossref_key": "R83",
+          "doi": "10.1016/j.yjmcc.2008.11.016"
+        }
+      ]
+    },
+    {
+      "id": "c39",
+      "kind": "pick",
+      "printed_page": 898,
+      "pdf_page": 6,
+      "text_masked": "It … 83).",
+      "words": 53,
+      "hash": "6cda7320eab0485f",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "29",
+          "crossref_key": "R29",
+          "doi": "10.1161/CIRCRESAHA.108.176826"
+        },
+        {
+          "ref": "83",
+          "crossref_key": "R83",
+          "doi": "10.1016/j.yjmcc.2008.11.016"
+        }
+      ]
+    },
+    {
+      "id": "c40",
+      "kind": "pick",
+      "printed_page": 898,
+      "pdf_page": 6,
+      "text_masked": "Rather, … cells.",
+      "words": 19,
+      "hash": "a2b644f2434bd801",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c41",
+      "kind": "pick",
+      "printed_page": 898,
+      "pdf_page": 6,
+      "text_masked": "The … biology.",
+      "words": 15,
+      "hash": "8a04ccc4b91f741a",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c42",
+      "kind": "pick",
+      "printed_page": 898,
+      "pdf_page": 6,
+      "text_masked": "If … disease.",
+      "words": 47,
+      "hash": "e6f302b04700c61f",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c43",
+      "kind": "pick",
+      "printed_page": 898,
+      "pdf_page": 6,
+      "text_masked": "Microvesicle-associated … space.",
+      "words": 9,
+      "hash": "b5745227d9864c8d",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c44",
+      "kind": "pick",
+      "printed_page": 899,
+      "pdf_page": 7,
+      "text_masked": "The … nature.",
+      "words": 45,
+      "hash": "b33cbdc84e0ae408",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c45",
+      "kind": "pick",
+      "printed_page": 899,
+      "pdf_page": 7,
+      "text_masked": "Similarly, … intracrine.",
+      "words": 41,
+      "hash": "7a3be848da115264",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c46",
+      "kind": "pick",
+      "printed_page": 899,
+      "pdf_page": 7,
+      "text_masked": "Arguably, … “laterality.”",
+      "words": 36,
+      "hash": "1fa2c94d29cec747",
+      "verdict": "FOUND",
+      "page_match": true,
+      "format_flags": [
+        "SPLIT_WORD"
+      ],
+      "citations": []
+    },
+    {
+      "id": "c47",
+      "kind": "pick",
+      "printed_page": 899,
+      "pdf_page": 7,
+      "text_masked": "By … moieties.",
+      "words": 22,
+      "hash": "12dfd876640e3c40",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c48",
+      "kind": "pick",
+      "printed_page": 899,
+      "pdf_page": 7,
+      "text_masked": "Intracrines … action.",
+      "words": 50,
+      "hash": "cd489cdce20b5a57",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    }
+  ]
+}
