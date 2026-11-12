@@ -221,6 +221,29 @@
           "bytes": 28074
         }
       }
+    },
+    {
+      "doi": "10.1152/physrev.00005.2017",
+      "title": "Notch Signaling in Development, Tissue Homeostasis, and Disease",
+      "author": "Chris Siebel, Urban Lendahl",
+      "published_print": "2017-10-01",
+      "worker": "claude-fable-5-1",
+      "run_date": "2026-11-12",
+      "items": 56,
+      "pdf_sha256_16": "a028b9dab0820915",
+      "copyright": "under copyright: sentence text withheld (first and last word kept); explanations in the interpretation file",
+      "files": {
+        "coordinates": {
+          "path": "data/siebel2017-notch-signaling__10.1152-physrev.00005.2017__coordinates__fable5.1-20261112.json",
+          "sha256": "690274d03c441e971da4cdc3c69484831b7823c204a48a9f7fa688a80e0990a7",
+          "bytes": 148083
+        },
+        "interpretation": {
+          "path": "data/siebel2017-notch-signaling__10.1152-physrev.00005.2017__interpretation__fable5.1-20261112.json",
+          "sha256": "684b22c3a913d3f80141dcb1dcdf0e16995b31a2e79493bdf39e6b2685f74214",
+          "bytes": 32234
+        }
+      }
     }
   ],
   "file_naming": "<author+year>-<keyword>__<DOI with / as ->__<layer>__<worker>-<run date>.json",
