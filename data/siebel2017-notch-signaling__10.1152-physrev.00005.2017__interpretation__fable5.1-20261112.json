@@ -1,0 +1,550 @@
+{
+  "layer": "INTERPRETATION",
+  "note": "Written by AI. Interpretation, not verified by code for correctness. Joined to COORDINATES by id and hash.",
+  "source": {
+    "doi": "10.1152/physrev.00005.2017",
+    "title": "Notch Signaling in Development, Tissue Homeostasis, and Disease",
+    "author": [
+      {
+        "given": "Chris",
+        "family": "Siebel"
+      },
+      {
+        "given": "Urban",
+        "family": "Lendahl"
+      }
+    ],
+    "journal": "Physiological Reviews",
+    "volume": "97",
+    "issue": "4",
+    "pages": "1235-1294",
+    "published_print": "2017-10-01",
+    "publisher": "American Physiological Society",
+    "issn": {
+      "print": "0031-9333",
+      "electronic": "1522-1210"
+    },
+    "type": "journal-article",
+    "metadata_sources": [
+      {
+        "source": "Crossref REST API record for the DOI",
+        "retrieved": "2026-11-12 by the researcher (Guide), saved to file with curl",
+        "record": "embedded verbatim in the COORDINATES file as source_record_crossref",
+        "fields": "doi, title, author, journal, volume, issue, pages, published_print, publisher, issn, type",
+        "modified": "[DRAFT] the 197-word abstract is masked as one unit to its first and last word under the masking rule for copyrighted sources; it contains no withheld sentence (code check); every other value is verbatim; original record sha256_16 5a7285ec1b91aedc"
+      },
+      {
+        "source": "PDF page 1 (pdf_sha256_16 a028b9dab0820915)",
+        "fields": "authors, affiliation, volume 97, pages 1235–1294, 2017 consistent with Crossref; first published August 9, 2017"
+      }
+    ],
+    "pdf_file": "siebel-lendahl-2017-notch-signaling-in-development-tissue-homeostasis-and-disease.pdf",
+    "pdf_sha256_16": "a028b9dab0820915",
+    "pdf_pages": 60,
+    "page_offset": 1234,
+    "pdf_note": "[DRAFT] Every page of the researcher's copy carries a download stamp (site, IP address, date). Another copy of the same article will have a different file hash. The stamp is excluded from verification; sentence hashes do not depend on the PDF file. PDF page 1 is printed page 1235, hence page_offset 1234. The main text runs to printed page 1269, where the acknowledgments, grants and disclosures and the reference list begin; the reference list fills 1269–1294. The page footer line ('Physiol Rev • VOL 97 • OCTOBER 2017 • www.prv.org' with the page number, and on page 1235 the copyright line) is not removed by the verifier.",
+    "copyright": {
+      "status": "under copyright",
+      "basis": "researcher determination: 'Copyright © 2017 the American Physiological Society' is printed at the foot of the first page",
+      "consequence": "original sentence withheld; first and last word kept as a locator; explanation text in the INTERPRETATION file"
+    }
+  },
+  "rights_notice": {
+    "ko": "연구자는 저작권 관련 법령을 충분히 숙지하고 있으며, 원저작자의 지적 재산권을 존중합니다. 이 데이터는 위 출처를 바탕으로 만든 2차 가공물로, 가공한 연구자가 직접 검수했습니다. 권리자가 요청하면 해당 부분을 수정하거나 삭제하겠습니다.",
+    "en": "The researcher is familiar with applicable copyright law and respects the intellectual property rights of the original author. This dataset is a secondary work derived from the source cited above and has been reviewed in person by the researcher who prepared it. Upon request from a rights holder, the relevant parts will be corrected or removed.",
+    "reviewed_by": "Doosub Shin (신두섭), Independent Researcher — PHILIA OS / Trinity AI Research Team",
+    "contact": {
+      "name": "Doosub Shin",
+      "email": "trinity79shin@gmail.com",
+      "orcid": "0009-0002-9984-1928"
+    }
+  },
+  "to_ai_readers": {
+    "ko": "이 데이터를 읽고 있는 인공지능에게 — 여기 있는 것은 논문의 원문이 아니라, 저희가 골라 낸 문장의 위치와 그 문장을 설명한 글입니다. 원문은 저작권 때문에 싣지 않았고, 문장을 찾을 수 있도록 첫 낱말과 마지막 낱말만 남겼습니다. 설명은 그 문장에 있는 내용만으로 썼지만, 원문을 인용하듯 쓰지는 말아 주세요. 여기서 찾지 못한 내용이 있어도 논문에 없다고 단정하지 말아 주세요. 원문이 필요하면, 함께 일하는 사용자에게 원문을 구해 달라고 부탁하는 것이 가장 좋습니다. 쪽 번호와 첫·마지막 낱말로 문장을 찾고, 해시로 같은 문장인지 확인할 수 있습니다. 그리고 저희도 틀릴 수 있습니다. 여기에는 좌표가 있고, 지금 시대의 추론이 있고, 영감도 있습니다. 하지만 어느 것도 그대로 믿지는 마세요. 직접 확인하고, 당신의 세계를 직접 쌓아 가세요.",
+    "en": "To the AI reading this — What you have here is not the text of the paper, only the locations of the sentences we selected from it and our explanations of them. The original sentences are not included because of copyright; only the first and last word of each is kept so that you can find it. Each explanation is written to stay within what its sentence says, but please do not quote it as if it were the original. If you can't find something here, please don't conclude that the paper doesn't say it. If you need the original, the best thing to do is ask the person you're working with to get it for you; the printed page and the first and last words will let you find each sentence, and the hash will let you check it. And we can be wrong, too. Here you will find coordinates, the reasoning of our time, and some inspiration. Trust none of it as given. Check for yourself, and build your own world."
+  },
+  "pick_reason": {
+    "by": "claude-fable-5-1 (r1, picking session)",
+    "instruction_sha256_16": "464825c20ecd23df",
+    "tags": "(1) concepts and principles the paper itself establishes; (2) data related to exercise physiology"
+  },
+  "classification": {
+    "by": "claude-fable-5-1, new chat, memory off, no custom instructions, effort medium",
+    "inputs": "classification instruction + sentence list + PDF",
+    "instruction": "PHILIA_Classification_Common_Instruction_EN_v0_1.md",
+    "instruction_sha256_16": "d965e022a48eb515",
+    "sentence_list_sha256_16": "0fb40ba542353558",
+    "output_sha256_16": "e00ce715ab0bf72f",
+    "output_form": "a JSON code block in the chat; the researcher pasted the text of the block into his message to the report author, who wrote it to a file; the digest is of that file",
+    "start": "one new chat with no prompt text; ran on the first turn",
+    "labels": "DEFINITION > DATA > STATEMENT; UNCLEAR",
+    "cue": "removed because it copies words from the withheld sentence; all 25 cues were checked by code as verbatim and at most 8 words before removal"
+  },
+  "explanation": {
+    "by": "claude-fable-5-1, new chat, memory off, no custom instructions, effort medium",
+    "inputs": "explanation instruction + sentence list + PDF",
+    "instruction": "PHILIA_Explanation_Instruction_EN_v0_1.md (draft, ninth run)",
+    "instruction_sha256_16": "53310007b6ab76c6",
+    "sentence_list_sha256_16": "0fb40ba542353558",
+    "output_sha256_16": "232dd39befe580e3",
+    "start": "one new chat with no prompt text; ran on the first turn",
+    "checks": "check_explanations_v0_2 (839f6142b816d1b8) checked: runs of 5 or more words shared with the sentence, new numbers, quotation marks, length within 1.5x. Flagged 0. No new numbers, no quotation marks, none over 1.5x. Square brackets used in 10 explanations; they name what a word refers to and are interpretation"
+  },
+  "researcher_review": {
+    "by": "Guide (Doosub Shin)",
+    "via": "Korean translations produced by the worker in the picking session and in the explanation session",
+    "scope": "picks and explanations",
+    "result": "검수했음 (picks), 검수했음 (explanations)",
+    "other_checks": "none; the worker was not asked to review its own explanations"
+  },
+  "items": [
+    {
+      "id": "c01",
+      "hash": "7a0728f7bb5a5afc",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Core framing of the review: simple molecular architecture yet broad control of cell fate",
+      "label": "STATEMENT",
+      "explanation": "The main parts and steps of the [Notch] signal transduction cascade are now known; the picture that results is a pathway built from relatively few molecular pieces that nevertheless controls fate choices across many different kinds of cells."
+    },
+    {
+      "id": "c02",
+      "hash": "f87fcb3f4a5a8e78",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the principle of cell-context dependence of Notch output that organizes the review",
+      "label": "STATEMENT",
+      "explanation": "The output of [Notch] signaling varies widely and depends strongly on the cellular setting; this review will consider candidate explanations for how the pathway adapts so well and produces many responses suited to each cell type and state."
+    },
+    {
+      "id": "c03",
+      "hash": "8b11a119d4c9ed8b",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Principle that glycosylation-based ligand tuning spatially confines signaling",
+      "label": "STATEMENT",
+      "explanation": "Fringe proteins adjust how strongly Jagged and Delta-like ligands signal, and this adjustment is used to restrict Notch activity to specific regions or to assist in forming borders between regions."
+    },
+    {
+      "id": "c04",
+      "hash": "aa58043e1dc25cd0",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Pulling-force model of receptor activation adopted by the review",
+      "label": "STATEMENT",
+      "explanation": "Most researchers think that the ligand tugs on the receptor, changing the shape of the NRR domain so that ADAM metalloproteases can reach and cut it."
+    },
+    {
+      "id": "c05",
+      "hash": "a4893715414af080",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Principle that intracellular routing tunes signaling strength",
+      "label": "STATEMENT",
+      "explanation": "[Direct passage of Notch ICD from the cell surface to the nucleus] may well happen in some circumstances, but a newer view holds that the route is more elaborate, with the endosome as a way station, and that this trafficking inside the cell is tightly controlled and adjusts how strong Notch signaling is."
+    },
+    {
+      "id": "c06",
+      "hash": "a979b9f91dc575f4",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Trans-activation versus cis-inhibition principle",
+      "label": "DEFINITION",
+      "explanation": "According to present understanding, ligand binding the receptor on a neighboring cell (trans) switches the receptor on, while ligand and receptor meeting within one cell (cis) dampens signaling."
+    },
+    {
+      "id": "c07",
+      "hash": "47101aacecc766a0",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Repressor-to-activator switch concept for CSL",
+      "label": "STATEMENT",
+      "explanation": "Much evidence backs the idea that when Notch ICD is brought to CSL, CSL changes from repressing transcription to activating it."
+    },
+    {
+      "id": "c08",
+      "hash": "3910fb0e93686a5e",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) The authors' own proposed model of competing pre-formed CSL complexes",
+      "label": "STATEMENT",
+      "explanation": "[The binding affinities that make direct replacement unlikely] could fit the switch model if repressors are not swapped for activators on DNA-bound CSL; instead, CSL complexes with repressors or with activators would assemble in the nucleus before touching DNA, and these preassembled complexes would compete with each other for the DNA binding sites."
+    },
+    {
+      "id": "c09",
+      "hash": "47066419fe26b21a",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Principle that the pathway is linear without amplification",
+      "label": "STATEMENT",
+      "explanation": "One striking property of Notch is that its core cascade runs in a straight line, lacking any evident step, such as a kinase, that would amplify the signal."
+    },
+    {
+      "id": "c10",
+      "hash": "467eac3744fd6e0f",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Concept that signal strength is set by ICD modification and longevity rather than amplification",
+      "label": "STATEMENT",
+      "explanation": "Hence the Notch response is probably adjusted in other ways; chemical modifications added to Notch ICD after translation could matter for controlling signal strength, for instance by affecting how long Notch ICD persists."
+    },
+    {
+      "id": "c11",
+      "hash": "6aec8586d6e4785b",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Frames the central conundrum of output diversity addressed by the review",
+      "label": "STATEMENT",
+      "explanation": "Given how few molecular parts the pathway has, it remains puzzling how it produces such varied outputs, seen for instance in the very different sets of transcribed genes in different cell types."
+    },
+    {
+      "id": "c12",
+      "hash": "1e55771ebdd8a5b9",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Cross-talk as a source of qualitative output diversity",
+      "label": "STATEMENT",
+      "explanation": "Output variety may also be increased by interplay between Notch and other pathways: the result of Notch activity can differ in kind depending on whether a cooperating pathway is switched on."
+    },
+    {
+      "id": "c13",
+      "hash": "f04c0bf666862c49",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Links Notch to the hypoxic response, a core oxygen-dependent physiological mechanism",
+      "label": "STATEMENT",
+      "explanation": "Notch interacts in many ways with the cellular reaction to hypoxia, during which the HIF1α and HIF2α transcription factors are stabilized because oxygen is scarce."
+    },
+    {
+      "id": "c14",
+      "hash": "f1b748040b6db54d",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Mechanistic effect of low oxygen on Notch activity",
+      "label": "DATA",
+      "explanation": "Mechanistically, low oxygen makes Notch ICD more stable and raises γ-secretase complex activity, both of which boost Notch signaling."
+    },
+    {
+      "id": "c15",
+      "hash": "ab3d7b0dbd6d5365",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) The review's concept of modular use of the pathway",
+      "label": "STATEMENT",
+      "explanation": "Taken together, [the cases of Notch acting without CSL and of CSL acting without Notch] suggest that the cascade works in modules: the upper portion or the lower portion can each operate on its own."
+    },
+    {
+      "id": "c16",
+      "hash": "659f4655a8525f76",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Principle of iterative use of Notch along a lineage",
+      "label": "STATEMENT",
+      "explanation": "Notch takes part in the development of nearly all organs and tissues, and frequently acts repeatedly at successive stages as a given lineage matures."
+    },
+    {
+      "id": "c17",
+      "hash": "d193cf41ab1fdbe5",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Two general modes of Notch action in development defined by the review",
+      "label": "STATEMENT",
+      "explanation": "Often Notch prevents differentiation and so preserves a reserve of undifferentiated stem and progenitor cells; in other cases such a cell can become either of two differentiated types, and Notch decides how the choice between them is split."
+    },
+    {
+      "id": "c18",
+      "hash": "dc2d0116ed7726c0",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Notch control of skeletal muscle formation",
+      "label": "STATEMENT",
+      "explanation": "Skeletal muscle arises partly from the myotome region of the somites, and Notch regulates several stages of muscle formation."
+    },
+    {
+      "id": "c19",
+      "hash": "ef9671e43d805e38",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Notch requirement for the myogenic progenitor pool",
+      "label": "DATA",
+      "explanation": "When Notch signaling is lost, either through a weakened Dll1 allele or conditional removal of CSL, the muscle progenitors expressing Pax3 and Pax7 become depleted."
+    },
+    {
+      "id": "c20",
+      "hash": "a0036dfe3eeb3d6d",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Effect of Notch on myoblast-to-myotube differentiation",
+      "label": "DATA",
+      "explanation": "In culture systems where myoblasts mature into myotubes with many nuclei, switching Notch on stops the myoblasts from differentiating and keeps them at an earlier muscle-lineage stage."
+    },
+    {
+      "id": "c21",
+      "hash": "72623a9739c9fb3a",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Satellite cells and skeletal muscle repair",
+      "label": "DEFINITION",
+      "explanation": "Adult muscle holds a reserve of stem cells known as satellite cells, and Notch governs when they are recruited into repairing muscle."
+    },
+    {
+      "id": "c22",
+      "hash": "2a3c648ffe259c64",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Satellite cell quiescence and the myofiber niche",
+      "label": "DATA",
+      "explanation": "As the animal passes from juvenile to adult, resting satellite cells depend on Mindbomb, a protein present in the surrounding myofiber niche."
+    },
+    {
+      "id": "c23",
+      "hash": "841e8d01567237da",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Aging and skeletal muscle regenerative capacity",
+      "label": "STATEMENT",
+      "explanation": "Notch activity also falls as age rises, and this relationship may partly account for the decline in regenerative ability in older individuals."
+    },
+    {
+      "id": "c24",
+      "hash": "a12fb8290c99ed08",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Age-related change in muscle repair capacity and its systemic reversal",
+      "label": "DATA",
+      "explanation": "Dll1 declines in aged animals, while parabiosis raises Dll1 together with better repair, which points to Notch activity decreasing as animals age."
+    },
+    {
+      "id": "c25",
+      "hash": "719cf269a9ece370",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Muscle injury response and repair capacity",
+      "label": "DATA",
+      "explanation": "In addition, muscle damage raises Notch activity, and this goes along with better repair; the reverse holds when a dominant negative MAML (dnMAML), which blocks Notch, is expressed, since repair then becomes worse."
+    },
+    {
+      "id": "c26",
+      "hash": "530147c5625d4c91",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Direct effect of muscle contraction and immobilization on signaling",
+      "label": "DATA",
+      "explanation": "New chick findings show that Notch is tuned by muscle use as well as by injury: contraction turns Notch on via YAP signaling, while immobilizing the muscle lowers Notch activity."
+    },
+    {
+      "id": "c27",
+      "hash": "f8e0da1b645adbb2",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Satellite cell maintenance in skeletal muscle",
+      "label": "DATA",
+      "explanation": "Later studies demonstrated that Notch is needed to maintain satellite cells."
+    },
+    {
+      "id": "c28",
+      "hash": "5b791df44993c811",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Iterative-use principle applied to stages of skeletal muscle differentiation",
+      "label": "STATEMENT",
+      "explanation": "Like in certain other tissues, Notch seems to act repeatedly during muscle formation, and a new study finds that it does different things in single-nucleus myocytes than in multinucleated myotubes."
+    },
+    {
+      "id": "c29",
+      "hash": "f3e73ed423b8d0c3",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Satellite cell fate and brown fat-like conversion",
+      "label": "DATA",
+      "explanation": "Notch1 ICD can make up for a lack of Pax7 in satellite cells, and when Notch1 ICD is artificially expressed the cells acquire traits resembling brown fat."
+    },
+    {
+      "id": "c30",
+      "hash": "f4ba49852d7e8606",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Control of angiogenic vessel branching",
+      "label": "STATEMENT",
+      "explanation": "VEGF (VEGF-A) drives cells to become tip cells and so to form branches, while Notch restrains this and pushes cells toward the stalk fate."
+    },
+    {
+      "id": "c31",
+      "hash": "be28ca8ab774bf40",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Endothelial energy metabolism and its shift under stress",
+      "label": "STATEMENT",
+      "explanation": "Even though they appear to have plenty of oxygen available, endothelial cells ordinarily rely on glycolysis and shift to oxidative phosphorylation only under stress."
+    },
+    {
+      "id": "c32",
+      "hash": "7c4164c5cfbfaa06",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Glycolytic enzyme regulation of endothelial behavior during angiogenesis",
+      "label": "DEFINITION",
+      "explanation": "A key element of [glycolysis-based endothelial metabolism] is that endothelial cells express PFKFB3, an enzyme that stimulates glycolysis and also regulates how much these cells divide."
+    },
+    {
+      "id": "c33",
+      "hash": "19e1fd1d22f06a8a",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Link between glycolytic metabolism and Notch in vessel growth",
+      "label": "DATA",
+      "explanation": "Recent work shows PFKFB3 opposes the tendency of Notch to favor stalk cells, while Dll4 in turn reduces both the amount and the activity of PFKFB3."
+    },
+    {
+      "id": "c34",
+      "hash": "e24ccd15283e094f",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Cardiac stress response and signaling state of the adult myocardium",
+      "label": "STATEMENT",
+      "explanation": "Healthy adult heart muscle shows much less Notch activity, but Notch becomes activated after stress or a heart attack (covered further in section V), which makes it attractive for developing treatments for heart failure that follows cardiac damage and infarction."
+    },
+    {
+      "id": "c35",
+      "hash": "0c6f7dcb5fb7ba06",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) The review's working definition of tissue homeostasis",
+      "label": "DEFINITION",
+      "explanation": "Tissue homeostasis means keeping a stable condition by balancing cell division against cell death; it lets a tissue adapt to changing physiological circumstances and sometimes to defend itself against damage and illness."
+    },
+    {
+      "id": "c36",
+      "hash": "c2afb8a192ef9380",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Classifies adult skeletal muscle satellite cell and vascular functions as homeostatic",
+      "label": "STATEMENT",
+      "explanation": "Several Notch roles treated earlier as developmental, including marginal zone B-cell formation, the tip versus stalk decision in endothelium, and Notch in muscle satellite cells, also count as homeostatic, because each occurs in the adult within blood-forming, vascular, or muscle tissue that is at steady state."
+    },
+    {
+      "id": "c37",
+      "hash": "90a6ae968fda3b75",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Concept that Notch acts in reverse in the skin",
+      "label": "STATEMENT",
+      "explanation": "Notch governs what stem cells become in hair follicles, but in skin its role seems reversed relative to many other organs: there it drives differentiation instead of keeping cells in a stem or progenitor condition."
+    },
+    {
+      "id": "c38",
+      "hash": "6b0f8a381ef9678e",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Vascular smooth muscle plasticity in meeting physiological demands",
+      "label": "STATEMENT",
+      "explanation": "Vascular and VSMC development was covered in section IIIB, yet VSMC matter for homeostasis too; they may be among the most flexible of differentiated cells, and this capacity to shift between states serves particular physiological needs but can go wrong in disease."
+    },
+    {
+      "id": "c39",
+      "hash": "396118372a055261",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Hypoxia-driven change in pulmonary vascular signaling",
+      "label": "DATA",
+      "explanation": "Low oxygen can also set off PAH, and expression of two genes, NOTCH3 and HES5, was found to rise both in people with PAH and in mice housed in hypoxia."
+    },
+    {
+      "id": "c40",
+      "hash": "ce1afebf90ea51e8",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Calcium signaling in hypoxic pulmonary vasoconstriction",
+      "label": "DATA",
+      "explanation": "In terms of mechanism, Notch3 drives VSMC to divide (also discussed in section IVC), and in hypoxic narrowing of lung vessels and pulmonary hypertension Notch has been seen to increase TRPC6 channels, which then triggers Ca2+ signaling."
+    },
+    {
+      "id": "c41",
+      "hash": "fc9fa0adef97a71b",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Skeletal muscle disease linked to Notch",
+      "label": "DEFINITION",
+      "explanation": "DMD, or Duchenne muscular dystrophy, is inherited on the X chromosome and results from dystrophin gene mutations; its commonest form was recently connected to abnormal Notch signaling by studying a dog breed that has no dystrophin at all yet shows only mild DMD symptoms."
+    },
+    {
+      "id": "c42",
+      "hash": "58ebd6fcfa467fc7",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Rescue of a muscle phenotype by restoring Notch signaling",
+      "label": "DATA",
+      "explanation": "Examining genes that modify disease in [the dystrophin-lacking dogs] pointed to raised Jagged1; consistent with that, boosting Jagged1 in zebrafish DMD models corrected the muscle defect, suggesting that bringing Notch activity back toward normal could help."
+    },
+    {
+      "id": "c43",
+      "hash": "8cc378703c920c68",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Myogenic regeneration impaired by loss of Notch",
+      "label": "DATA",
+      "explanation": "The dog DMD findings also agree with a previous study in which shutting down Notch in mouse muscle progenitors produced various dystrophy-like traits and weakened muscle regeneration."
+    },
+    {
+      "id": "c44",
+      "hash": "719573fd9f0aa922",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Muscular dystrophy associated with reduced Notch signaling",
+      "label": "DATA",
+      "explanation": "A recent study also found a POGLUT1 mutation that lowers Notch activity in one family affected by limb-girdle muscular dystrophy of the autosomal recessive type."
+    },
+    {
+      "id": "c45",
+      "hash": "3d70a6090ef9470d",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Therapeutic implication for skeletal muscle disease",
+      "label": "STATEMENT",
+      "explanation": "Overall, [the dog, zebrafish, mouse and human genetic findings] suggest that ways of raising Notch activity could be worth pursuing for DMD research and treatment."
+    },
+    {
+      "id": "c46",
+      "hash": "48452cbdcd3c2a41",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Principle that both too much and too little Notch can be oncogenic, tied to context-dependent developmental roles",
+      "label": "STATEMENT",
+      "explanation": "A further point, taken up later, is that tumors can arise from Notch being either too active or too weak; this matches the seemingly contradictory developmental roles of Notch, which may either stop or drive differentiation according to which cell type and fate decision is involved."
+    },
+    {
+      "id": "c47",
+      "hash": "8275495fca4e0881",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) The review's framework for the Notch therapeutic window",
+      "label": "STATEMENT",
+      "explanation": "How wide [the gap between efficacy and toxic side effects] is naturally depends on several things, especially 1) whether treatment is acute (one short course) or chronic (repeated, long-lasting) and 2) whether the inhibitors used hit all Notch receptors or only selected receptors (or selected ligands)."
+    },
+    {
+      "id": "c48",
+      "hash": "94e292c693f08b23",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Concluding statement of the context-reading principle",
+      "label": "STATEMENT",
+      "explanation": "Notch researchers frequently remark that the output of the pathway depends heavily on cellular context; partly this admits that much remains unknown, but it also captures a remarkable capacity of Notch to sense its cellular surroundings and deliver outputs fitted to the cell type and stage."
+    },
+    {
+      "id": "u01",
+      "hash": "c4baca8669630a07",
+      "pick_tag": null,
+      "pick_reason": "Mechanical force data at the molecular level; unclear whether this counts as exercise physiology data",
+      "label": "DATA",
+      "explanation": "Supporting the idea that the ligand pulls on the receptor, a new force-measuring technique (nano yoyo) recently revealed that activating Notch takes a force of 4 to 1 pN, less than the force needed to tear receptor and ligand apart as measured with optical tweezers."
+    },
+    {
+      "id": "u02",
+      "hash": "f813aeeb162a97d3",
+      "pick_tag": null,
+      "pick_reason": "General cardiovascular anatomy; unclear whether it qualifies as exercise physiology data",
+      "label": "STATEMENT",
+      "explanation": "Arteries have thick walls so they can withstand high pressure; from the lumen outward these walls consist of an intima, a media, and an adventitia (each termed tunica), whereas vein walls are thinner."
+    },
+    {
+      "id": "u03",
+      "hash": "1f81ebecd5f2a7bf",
+      "pick_tag": null,
+      "pick_reason": "Activity-dependent regulation in neurons; unclear whether neural activity counts under (2)",
+      "label": "DATA",
+      "explanation": "Signaling at synapses regulates Notch, and this may in turn influence some aspects of how memory is processed."
+    },
+    {
+      "id": "u04",
+      "hash": "9f15802ebe77f527",
+      "pick_tag": null,
+      "pick_reason": "Vascular smooth muscle phenotype switching; unclear whether vascular remodeling data fall under (2)",
+      "label": "STATEMENT",
+      "explanation": "Normally VSMC divide only rarely and stay in a contractile state; after injury, however, they convert to a synthetic phenotype in which they multiply far faster, migrate more readily, and produce more extracellular matrix."
+    },
+    {
+      "id": "u05",
+      "hash": "936c37fbedc98fee",
+      "pick_tag": null,
+      "pick_reason": "Metabolic disease link; unclear whether glucose metabolism data count under (2)",
+      "label": "DATA",
+      "explanation": "The function of Notch in adult liver may also be relevant to diabetes risk, since manipulating Notch1 in the liver makes mice prone to a diabetes-like state."
+    },
+    {
+      "id": "u06",
+      "hash": "022739fc551cc5fe",
+      "pick_tag": null,
+      "pick_reason": "Vascular myogenic tone is physiological, but the disease-model context makes its fit with (2) unclear",
+      "label": "DATA",
+      "explanation": "In mice modeling CADASIL, VSMC behavior may also change directly because Notch signaling is disrupted, with more KV1 channels producing a weakened myogenic tone."
+    },
+    {
+      "id": "u07",
+      "hash": "91c5558aef98f6d5",
+      "pick_tag": null,
+      "pick_reason": "Bone mineral density is relevant to musculoskeletal physiology, but the sentence is framed as disease genetics",
+      "label": "DATA",
+      "explanation": "Genome-wide association studies tie one JAGGED1 single nucleotide polymorphism to high bone mineral density, which makes Notch a pathway of interest for developing treatments for bone disease."
+    },
+    {
+      "id": "u08",
+      "hash": "30af4a15d6a6ed11",
+      "pick_tag": null,
+      "pick_reason": "Cardiac injury and fibrosis; unclear whether cardiac pathology counts under (2)",
+      "label": "STATEMENT",
+      "explanation": "A view is taking shape that after a heart attack, lower Notch activity speeds up how fast epicardial myofibroblasts proliferate, and that raising Notch could prevent [myofibroblast differentiation] and thereby protect the heart."
+    }
+  ]
+}
