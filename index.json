@@ -244,6 +244,29 @@
           "bytes": 32234
         }
       }
+    },
+    {
+      "doi": "10.1152/ajpregu.00396.2018",
+      "title": "How does homeostasis happen? Integrative physiological, systems biological, and evolutionary perspectives",
+      "author": "David S. Goldstein",
+      "published_print": "2019-04-01",
+      "worker": "gpt-6",
+      "run_date": "2026-11-14",
+      "items": 41,
+      "pdf_sha256_16": "cee538cb8eeecfc2",
+      "copyright": "under copyright: sentence text withheld (first and last word kept); explanations in the interpretation file",
+      "files": {
+        "coordinates": {
+          "path": "data/goldstein2019-systems-biology__10.1152-ajpregu.00396.2018__coordinates__gpt-6-20261114.json",
+          "sha256": "24bc7761bfd7b881fb5a442ef0ad673992ef215b17436ab946e343021bf536f2",
+          "bytes": 52033
+        },
+        "interpretation": {
+          "path": "data/goldstein2019-systems-biology__10.1152-ajpregu.00396.2018__interpretation__gpt-6-20261114.json",
+          "sha256": "1730f016b0855bb6dcd55356256309877a0424d09c8dbdbba5837ef00ea62bc1",
+          "bytes": 25503
+        }
+      }
     }
   ],
   "file_naming": "<author+year>-<keyword>__<DOI with / as ->__<layer>__<worker>-<run date>.json",
