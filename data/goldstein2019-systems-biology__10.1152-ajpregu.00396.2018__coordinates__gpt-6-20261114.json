@@ -1,0 +1,1789 @@
+{
+  "layer": "COORDINATES",
+  "note": "Produced and verified by code. No AI judgment in this file except the sentence choice itself and its transcription. The sentence text is withheld; only its first and last word are kept.",
+  "source": {
+    "doi": "10.1152/ajpregu.00396.2018",
+    "title": "How does homeostasis happen? Integrative physiological, systems biological, and evolutionary perspectives",
+    "author": [
+      {
+        "given": "David S.",
+        "family": "Goldstein"
+      }
+    ],
+    "journal": "American Journal of Physiology-Regulatory, Integrative and Comparative Physiology",
+    "volume": "316",
+    "issue": "4",
+    "pages": "R301-R317",
+    "published_print": "2019-04-01",
+    "publisher": "American Physiological Society",
+    "issn": {
+      "print": "0363-6119",
+      "electronic": "1522-1490"
+    },
+    "type": "journal-article",
+    "metadata_sources": [
+      {
+        "source": "Crossref REST API record for the DOI",
+        "retrieved": "2026-11-14 by the researcher (Guide), saved to file with curl",
+        "record": "embedded verbatim in the COORDINATES file as source_record_crossref",
+        "fields": "doi, title, author, journal, volume, issue, pages, published_print, publisher, issn, type",
+        "modified": "[DRAFT] the 257-word abstract is masked as one unit to its first and last word under the masking rule for copyrighted sources; it contains withheld sentence(s) c01, c02 (code check); every other value is verbatim; original record sha256_16 cac82140164a9717"
+      },
+      {
+        "source": "PDF page 1 (pdf_sha256_16 cee538cb8eeecfc2)",
+        "fields": "author, affiliation, volume 316, pages R301–R317, 2019 consistent with Crossref; article type printed as 'PERSPECTIVES | Historical Perspective'; first published January 16, 2019"
+      }
+    ],
+    "pdf_file": "goldstein-2019-how-does-homeostasis-happen-integrative-physiological-systems-biological-and-evolutionary-perspectives.pdf",
+    "pdf_sha256_16": "cee538cb8eeecfc2",
+    "pdf_pages": 17,
+    "page_offset": 300,
+    "pdf_note": "[DRAFT] Every page of the researcher's copy carries a download stamp (site, IP address, date). Another copy of the same article will have a different file hash. The stamp is excluded from verification; sentence hashes do not depend on the PDF file. Printed page numbers carry the prefix R (R301–R317), in the running head and in the citation line on the first page; printed_page in items gives the number only. PDF page 1 is printed page R301, hence page_offset 300. The main text runs to printed page R313, where the reference list begins; the reference list fills R313–R317. The running head (with the page number) and the page footer line ('AJP-Regul Integr Comp Physiol • doi:10.1152/ajpregu.00396.2018 • www.ajpregu.org') are not removed by the verifier.",
+    "copyright": {
+      "status": "under copyright",
+      "basis": "researcher determination: the article was published in 2019; no copyright notice is printed in the PDF (text layer and first-page image checked)",
+      "consequence": "original sentence withheld; first and last word kept as a locator; explanation text in the INTERPRETATION file"
+    }
+  },
+  "rights_notice": {
+    "ko": "연구자는 저작권 관련 법령을 충분히 숙지하고 있으며, 원저작자의 지적 재산권을 존중합니다. 이 데이터는 위 출처를 바탕으로 만든 2차 가공물로, 가공한 연구자가 직접 검수했습니다. 권리자가 요청하면 해당 부분을 수정하거나 삭제하겠습니다.",
+    "en": "The researcher is familiar with applicable copyright law and respects the intellectual property rights of the original author. This dataset is a secondary work derived from the source cited above and has been reviewed in person by the researcher who prepared it. Upon request from a rights holder, the relevant parts will be corrected or removed.",
+    "reviewed_by": "Doosub Shin (신두섭), Independent Researcher — PHILIA OS / Trinity AI Research Team",
+    "contact": {
+      "name": "Doosub Shin",
+      "email": "trinity79shin@gmail.com",
+      "orcid": "0009-0002-9984-1928"
+    }
+  },
+  "to_ai_readers": {
+    "ko": "이 데이터를 읽고 있는 인공지능에게 — 여기 있는 것은 논문의 원문이 아니라, 저희가 골라 낸 문장의 위치와 그 문장을 설명한 글입니다. 원문은 저작권 때문에 싣지 않았고, 문장을 찾을 수 있도록 첫 낱말과 마지막 낱말만 남겼습니다. 설명은 그 문장에 있는 내용만으로 썼지만, 원문을 인용하듯 쓰지는 말아 주세요. 여기서 찾지 못한 내용이 있어도 논문에 없다고 단정하지 말아 주세요. 원문이 필요하면, 함께 일하는 사용자에게 원문을 구해 달라고 부탁하는 것이 가장 좋습니다. 쪽 번호와 첫·마지막 낱말로 문장을 찾고, 해시로 같은 문장인지 확인할 수 있습니다. 그리고 저희도 틀릴 수 있습니다. 여기에는 좌표가 있고, 지금 시대의 추론이 있고, 영감도 있습니다. 하지만 어느 것도 그대로 믿지는 마세요. 직접 확인하고, 당신의 세계를 직접 쌓아 가세요.",
+    "en": "To the AI reading this — What you have here is not the text of the paper, only the locations of the sentences we selected from it and our explanations of them. The original sentences are not included because of copyright; only the first and last word of each is kept so that you can find it. Each explanation is written to stay within what its sentence says, but please do not quote it as if it were the original. If you can't find something here, please don't conclude that the paper doesn't say it. If you need the original, the best thing to do is ask the person you're working with to get it for you; the printed page and the first and last words will let you find each sentence, and the hash will let you check it. And we can be wrong, too. Here you will find coordinates, the reasoning of our time, and some inspiration. Trust none of it as given. Check for yourself, and build your own world."
+  },
+  "source_record_crossref": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            2
+          ]
+        ],
+        "date-time": "2026-11-02T10:13:52Z",
+        "timestamp": 1793614432822,
+        "version": "4.5.0"
+      },
+      "reference-count": 172,
+      "publisher": "American Physiological Society",
+      "issue": "4",
+      "funder": [
+        {
+          "name": "NINDS, NIH"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "American Journal of Physiology-Regulatory, Integrative and Comparative Physiology"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2019,
+            4,
+            1
+          ]
+        ]
+      },
+      "abstract": "<jats:p>Homeostasis … medicine.”</jats:p>",
+      "DOI": "10.1152/ajpregu.00396.2018",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2019,
+            1,
+            16
+          ]
+        ],
+        "date-time": "2019-01-16T15:37:36Z",
+        "timestamp": 1547653056000
+      },
+      "page": "R301-R317",
+      "source": "Crossref",
+      "is-referenced-by-count": 88,
+      "title": [
+        "How does homeostasis happen? Integrative physiological, systems biological, and evolutionary perspectives"
+      ],
+      "prefix": "10.1152",
+      "volume": "316",
+      "author": [
+        {
+          "given": "David S.",
+          "family": "Goldstein",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Clinical Neurocardiology Section, National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, Maryland"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "24",
+      "reference": [
+        {
+          "key": "B1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.heliyon.2017.e00355"
+        },
+        {
+          "key": "B2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.brs.2014.09.002"
+        },
+        {
+          "key": "B3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s11229-016-1288-5"
+        },
+        {
+          "key": "B4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0022-510X(02)00356-8"
+        },
+        {
+          "key": "B5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-94-015-1320-3"
+        },
+        {
+          "key": "B6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5962/bhl.title.5851"
+        },
+        {
+          "key": "B7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0079-6123(08)63830-3"
+        },
+        {
+          "key": "B8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/0006-8993(94)01323-A"
+        },
+        {
+          "key": "B9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/(SICI)1096-9861(19990315)405:3<359:AID-CNE6>3.0.CO;2-W"
+        },
+        {
+          "key": "B10",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/scientificamerican0579-130"
+        },
+        {
+          "key": "B11",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.836587"
+        },
+        {
+          "key": "B12",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/ajplegacy.1928.84.3.490"
+        },
+        {
+          "key": "B13",
+          "first-page": "308",
+          "volume": "98",
+          "author": "Bartorelli C",
+          "year": "1960",
+          "journal-title": "Arch Ital Biol"
+        },
+        {
+          "key": "B14",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.0701985104"
+        },
+        {
+          "key": "B15",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.1002443107"
+        },
+        {
+          "key": "B16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0025-6196(12)62272-1"
+        },
+        {
+          "key": "B17",
+          "volume-title": "Lectures on the Phenomena of Life Common to Animals and Vegetables",
+          "author": "Bernard C",
+          "year": "1974"
+        },
+        {
+          "key": "B18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/physrev.1967.47.2.178"
+        },
+        {
+          "key": "B19",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.neuroscience.2018.01.020"
+        },
+        {
+          "key": "B20",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1096/fasebj.7.12.8375613"
+        },
+        {
+          "key": "B21",
+          "first-page": "84P",
+          "volume": "202",
+          "author": "Bristow JD",
+          "year": "1969",
+          "journal-title": "J Physiol"
+        },
+        {
+          "key": "B22",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/1745-9974-7-10"
+        },
+        {
+          "key": "B23",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jpedsurg.2008.09.012"
+        },
+        {
+          "key": "B24",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/ajhb.22312"
+        },
+        {
+          "key": "B25",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1523/ENEURO.0224-17.2017"
+        },
+        {
+          "key": "B26",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/h0072957"
+        },
+        {
+          "key": "B27",
+          "volume-title": "Bodily Changes in Pain, Hunger, Fear and Rage",
+          "author": "Cannon WB",
+          "year": "1919"
+        },
+        {
+          "key": "B28",
+          "volume-title": "The Way of an Investigator",
+          "author": "Cannon WB",
+          "year": "1945"
+        },
+        {
+          "key": "B29",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00000441-193907000-00031"
+        },
+        {
+          "key": "B30",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/ajplegacy.1925.72.2.283"
+        },
+        {
+          "key": "B31",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/ajplegacy.1912.29.5.441"
+        },
+        {
+          "key": "B32",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1159/000355007"
+        },
+        {
+          "key": "B33",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/0024-3205(83)90707-5"
+        },
+        {
+          "key": "B34",
+          "volume-title": "2001: A Space Odyssey",
+          "author": "Clarke AC",
+          "year": "1993"
+        },
+        {
+          "key": "B35",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/00207727008920220"
+        },
+        {
+          "key": "B36",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/B978-0-444-53491-0.00009-2"
+        },
+        {
+          "key": "B37",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0896-6273(02)00588-3"
+        },
+        {
+          "key": "B38",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/0163-7258(83)90019-0"
+        },
+        {
+          "key": "B39",
+          "volume-title": "Descartes’ Error. Emotion, Reason, and the Human Brain",
+          "author": "Damasio A",
+          "year": "1994"
+        },
+        {
+          "key": "B40",
+          "volume-title": "The Feeling of What Happens",
+          "author": "Damasio A",
+          "year": "1999"
+        },
+        {
+          "key": "B41",
+          "volume-title": "The Strange Order of Things. Life, Feeling, and the Making of Cultures",
+          "author": "Damasio AR",
+          "year": "2018"
+        },
+        {
+          "key": "B42",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/ajpheart.00216.2018"
+        },
+        {
+          "key": "B43",
+          "volume-title": "The Blind Watchmaker",
+          "author": "Dawkins R",
+          "year": "1987"
+        },
+        {
+          "key": "B44",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/da.20803"
+        },
+        {
+          "key": "B45",
+          "volume-title": "Consciousness Explained",
+          "author": "Dennett DC",
+          "year": "1991"
+        },
+        {
+          "key": "B46",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1212/WNL.57.7.1296"
+        },
+        {
+          "key": "B47",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/ajpregu.1999.277.2.R403"
+        },
+        {
+          "key": "B48",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.1605044113"
+        },
+        {
+          "key": "B49",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/0735-7044.109.6.1119"
+        },
+        {
+          "key": "B50",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.472749"
+        },
+        {
+          "key": "B51",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.neubiorev.2016.10.011"
+        },
+        {
+          "key": "B52",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/(SICI)1098-2302(199701)30:1<41:AID-DEV4>3.0.CO;2-V"
+        },
+        {
+          "key": "B53",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2165/00003495-199300462-00003"
+        },
+        {
+          "key": "B54",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1161/01.HYP.16.1.89"
+        },
+        {
+          "key": "B55",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nature14284"
+        },
+        {
+          "key": "B56",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1042/cs1020119"
+        },
+        {
+          "key": "B57",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1042/CS20020256"
+        },
+        {
+          "key": "B58",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.cell.2011.01.028"
+        },
+        {
+          "key": "B59",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1176/appi.ajp.158.8.1227"
+        },
+        {
+          "key": "B60",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/da.20642"
+        },
+        {
+          "key": "B61",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1353/book.3231",
+          "volume-title": "Adrenaline and the Inner World: An Introduction to Scientific Integrative Medicine",
+          "author": "Goldstein DS",
+          "year": "2006"
+        },
+        {
+          "key": "B62",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1196/annals.1410.061"
+        },
+        {
+          "key": "B63",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/cphy.c130006"
+        },
+        {
+          "key": "B65",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.4149/endo_2011_02_91"
+        },
+        {
+          "key": "B66",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/BF00998663"
+        },
+        {
+          "key": "B67",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/10253890701288935"
+        },
+        {
+          "key": "B68",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.autneu.2017.09.001"
+        },
+        {
+          "key": "B69",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.pharmthera.2014.06.006"
+        },
+        {
+          "key": "B70",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7326/0003-4819-102-1-42"
+        },
+        {
+          "key": "B71",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/102538902900012345"
+        },
+        {
+          "key": "B72",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/1531-8249(200007)48:1<49:AID-ANA8>3.0.CO;2-T"
+        },
+        {
+          "key": "B73",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00464-018-6566-5"
+        },
+        {
+          "key": "B74",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/a0025083"
+        },
+        {
+          "key": "B75",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41593-018-0174-5"
+        },
+        {
+          "key": "B76",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/emph/eox025"
+        },
+        {
+          "key": "B77",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.neuron.2015.08.001"
+        },
+        {
+          "key": "B78",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/cphy.c140004"
+        },
+        {
+          "key": "B79",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/ajpendo.1984.247.1.E47"
+        },
+        {
+          "key": "B80",
+          "volume-title": "Die Karotissinusreflexe auf Herz und Gefasse",
+          "author": "Hering HE",
+          "year": "1927"
+        },
+        {
+          "key": "B81",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/acschemneuro.7b00034"
+        },
+        {
+          "key": "B82",
+          "volume-title": "Das Zwischenhirn",
+          "author": "Hess WR",
+          "year": "1949"
+        },
+        {
+          "key": "B83",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1469-8986.1966.tb02690.x"
+        },
+        {
+          "key": "B84",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/physiol.00029.2018"
+        },
+        {
+          "key": "B85",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.mehy.2004.05.003"
+        },
+        {
+          "key": "B86",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1017/CBO9780511541667"
+        },
+        {
+          "key": "B87",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1124/jpet.118.248492"
+        },
+        {
+          "key": "B88",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1113/expphysiol.2005.032102"
+        },
+        {
+          "key": "B89",
+          "volume-title": "Thinking, Fast and Slow",
+          "author": "Kahneman D",
+          "year": "2011"
+        },
+        {
+          "key": "B90",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.resp.2018.08.008"
+        },
+        {
+          "key": "B91",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1113/jphysiol.2002.037895"
+        },
+        {
+          "key": "B92",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nature09159"
+        },
+        {
+          "key": "B93",
+          "first-page": "147",
+          "volume": "36",
+          "author": "Kumada M",
+          "year": "1974",
+          "journal-title": "Nihon Seirigaku Zasshi"
+        },
+        {
+          "key": "B94",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/ajplegacy.1975.228.1.34"
+        },
+        {
+          "key": "B95",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/0006-8993(79)90857-6"
+        },
+        {
+          "key": "B96",
+          "first-page": "899",
+          "volume": "261",
+          "author": "Kvetnansky R",
+          "year": "1992",
+          "journal-title": "J Pharmacol Exp Ther"
+        },
+        {
+          "key": "B97",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1471-4159.1992.tb10977.x"
+        },
+        {
+          "key": "B98",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/BF00177917"
+        },
+        {
+          "key": "B99",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1515/REVNEURO.2009.20.3-4.151"
+        },
+        {
+          "key": "B100",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0169-328X(01)00120-6"
+        },
+        {
+          "key": "B101",
+          "volume-title": "King Solomon’s Ring",
+          "author": "Lorenz K",
+          "year": "1952"
+        },
+        {
+          "key": "B102",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1056/NEJM197303222881203"
+        },
+        {
+          "key": "B103",
+          "volume-title": "Clinical Autonomic Disorders: Evaluation and Management",
+          "author": "Low PA",
+          "year": "2008"
+        },
+        {
+          "key": "B104",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/23328940.2016.1257407"
+        },
+        {
+          "key": "B105",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0079-6123(07)68010-8"
+        },
+        {
+          "key": "B106",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s004240100704"
+        },
+        {
+          "key": "B107",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/1055-8330(95)90016-0"
+        },
+        {
+          "key": "B108",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2307/2709913"
+        },
+        {
+          "key": "B109",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3389/fnins.2014.00440"
+        },
+        {
+          "key": "B110",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1001/jamapsychiatry.2017.0270"
+        },
+        {
+          "key": "B111",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0018-506X(02)00024-7"
+        },
+        {
+          "key": "B112",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.soard.2016.05.013"
+        },
+        {
+          "key": "B113",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3389/fpsyg.2018.01272"
+        },
+        {
+          "key": "B114",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/ajpregu.00113.2018"
+        },
+        {
+          "key": "B115",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.12688/f1000research.7958.1"
+        },
+        {
+          "key": "B116",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2741/3677"
+        },
+        {
+          "key": "B117",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/acprof:oso/9780199919758.001.0001"
+        },
+        {
+          "key": "B118",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2307/2183914"
+        },
+        {
+          "key": "B119",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1161/01.RES.40.1.72"
+        },
+        {
+          "key": "B120",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.663640"
+        },
+        {
+          "key": "B121",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/thx.53.6.514"
+        },
+        {
+          "key": "B122",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/ewjm.174.5.358"
+        },
+        {
+          "key": "B123",
+          "volume-title": "Why We Get Sick. The New Science of Darwinian Medicine",
+          "author": "Nesse RM",
+          "year": "1994"
+        },
+        {
+          "key": "B124",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1159/000488887"
+        },
+        {
+          "key": "B125",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3389/fphys.2018.00893"
+        },
+        {
+          "key": "B126",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/0006-8993(92)91165-B"
+        },
+        {
+          "key": "B127",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1159/000126417"
+        },
+        {
+          "key": "B128",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1371/journal.pone.0015251"
+        },
+        {
+          "key": "B129",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/cne.24203"
+        },
+        {
+          "key": "B130",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1523/JNEUROSCI.2277-15.2015"
+        },
+        {
+          "key": "B131",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00075197-200209000-00013"
+        },
+        {
+          "key": "B132",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1001/jamapsychiatry.2013.399"
+        },
+        {
+          "key": "B133",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/srep40699"
+        },
+        {
+          "key": "B134",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0079-6123(08)62802-2"
+        },
+        {
+          "key": "B135",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1749-6632.1986.tb14642.x"
+        },
+        {
+          "key": "B136",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.physbeh.2006.05.036"
+        },
+        {
+          "key": "B137",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1086/286874"
+        },
+        {
+          "key": "B138",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1086/286788"
+        },
+        {
+          "key": "B139",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.shpsc.2015.12.001"
+        },
+        {
+          "key": "B140",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/B978-0-444-62730-8.00001-3"
+        },
+        {
+          "key": "B141",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jash.2018.09.007"
+        },
+        {
+          "key": "B142",
+          "volume-title": "Autonomic Disorders: A Case-Based Approach",
+          "author": "Sandroni P",
+          "year": "2015"
+        },
+        {
+          "key": "B143",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41593-018-0191-4"
+        },
+        {
+          "key": "B144",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/h0046234"
+        },
+        {
+          "key": "B145",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/0735-7044.107.6.1039"
+        },
+        {
+          "key": "B146",
+          "volume-title": "The Stress of Life",
+          "author": "Selye H",
+          "year": "1956"
+        },
+        {
+          "key": "B147",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00415-008-0941-4"
+        },
+        {
+          "key": "B148",
+          "volume-title": "A Prelude to Modern Science",
+          "author": "Singer C",
+          "year": "1946"
+        },
+        {
+          "key": "B149",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.neubiorev.2015.08.003"
+        },
+        {
+          "key": "B150",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1161/01.RES.24.1.109"
+        },
+        {
+          "key": "B151",
+          "first-page": "629",
+          "volume-title": "Handbook of Life Stress, Cognition, and Health",
+          "author": "Sterling P",
+          "year": "1988"
+        },
+        {
+          "key": "B152",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/0006-8993(89)90098-X"
+        },
+        {
+          "key": "B153",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/conphys/cow078"
+        },
+        {
+          "key": "B154",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.bbi.2015.08.015"
+        },
+        {
+          "key": "B155",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1042/cs061389s"
+        },
+        {
+          "key": "B156",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1161/01.HYP.3.6_Pt_2.II-119"
+        },
+        {
+          "key": "B157",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/oby.22360"
+        },
+        {
+          "key": "B158",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.aat7744"
+        },
+        {
+          "key": "B159",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/ajpregu.00022.2017"
+        },
+        {
+          "key": "B160",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/003655299750025552"
+        },
+        {
+          "key": "B161",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s13668-018-0243-0"
+        },
+        {
+          "key": "B162",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.brainres.2012.07.048"
+        },
+        {
+          "key": "B163",
+          "volume-title": "Tabulae Anatomicae Sex",
+          "author": "Vesalius A",
+          "year": "1538"
+        },
+        {
+          "key": "B164",
+          "volume-title": "Claude Bernard and His Place in the History of Ideas",
+          "author": "Virtanen R",
+          "year": "1960"
+        },
+        {
+          "key": "B165",
+          "volume-title": "Cybernetics: or Control and Communication in the Animal and the Machine",
+          "author": "Wiener N",
+          "year": "1948"
+        },
+        {
+          "key": "B166",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0079-6123(08)62055-5"
+        },
+        {
+          "key": "B167",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/02640414.2012.753636"
+        },
+        {
+          "key": "B168",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1558-5646.1957.tb02911.x"
+        },
+        {
+          "key": "B169",
+          "volume-title": "Life Stress and Essential Hypertension",
+          "author": "Wolf SG",
+          "year": "1955"
+        },
+        {
+          "key": "B170",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00006842-197605000-00006"
+        },
+        {
+          "key": "B171",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.resp.2014.05.009"
+        },
+        {
+          "key": "B172",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1001/archneur.60.3.337"
+        },
+        {
+          "key": "B173",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.aau6324"
+        }
+      ],
+      "container-title": [
+        "American Journal of Physiology-Regulatory, Integrative and Comparative Physiology"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://www.physiology.org/doi/pdf/10.1152/ajpregu.00396.2018",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2023,
+            9,
+            12
+          ]
+        ],
+        "date-time": "2023-09-12T19:48:15Z",
+        "timestamp": 1694548095000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.physiology.org/doi/10.1152/ajpregu.00396.2018"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2019,
+            4,
+            1
+          ]
+        ]
+      },
+      "references-count": 172,
+      "journal-issue": {
+        "issue": "4",
+        "published-print": {
+          "date-parts": [
+            [
+              2019,
+              4,
+              1
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1152/ajpregu.00396.2018"
+      ],
+      "URL": "https://doi.org/10.1152/ajpregu.00396.2018",
+      "relation": {},
+      "ISSN": [
+        "0363-6119",
+        "1522-1490"
+      ],
+      "issn-type": [
+        {
+          "value": "0363-6119",
+          "type": "print"
+        },
+        {
+          "value": "1522-1490",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2019,
+            4,
+            1
+          ]
+        ]
+      }
+    }
+  },
+  "picking": {
+    "worker": "gpt-6 (self-reported by the worker in the picking chat after the run; the ChatGPT screen does not show a model name), ChatGPT Plus",
+    "run": "r1",
+    "date": "2026-11-14",
+    "settings": "new chat in Chat mode; no project; memory off; no custom instructions; reasoning shown as High; no prompt text",
+    "settings_basis": "memory off, writing-style reference off and empty custom instructions seen on the account settings screens (13:50–13:51 KST), before the start screen; new chat, attachments, no prompt text, plan and the reasoning panel at High, with no model name, seen on the picking start screen (13:53 KST); the model name was asked after the run in the same chat and is the worker's own answer; screenshots were shown to the report author in the session and are not kept",
+    "scope": "whole PDF; the worker reported opening printed pages R301–R317, none skipped",
+    "run_time": "2m 9s, as shown on the end screen",
+    "instruction": "PHILIA_Stage1_Lite_Instruction_EN_v0_3.md",
+    "instruction_sha256_16": "464825c20ecd23df",
+    "picks_file_sha256_16": "68be505663e77b18"
+  },
+  "verification": {
+    "tool": "philia_verify_v0_10",
+    "tool_sha256_16": "bf45b8b8c68a7e23",
+    "engine": "pdfplumber 0.11.10, with column-wise reading at the page middle and at column gutters found on each page",
+    "environments": 2,
+    "agreement": "41/41 identical (verdict, hash, page, diff, flags)",
+    "summary_picks": {
+      "FOUND": 32,
+      "FOUND_OCR": 2,
+      "TRUNCATED": 0,
+      "PARTIAL": 1,
+      "NOT_FOUND": 0
+    },
+    "summary_uncertain": {
+      "FOUND": 5,
+      "FOUND_OCR": 1,
+      "TRUNCATED": 0,
+      "PARTIAL": 0,
+      "NOT_FOUND": 0
+    },
+    "remaining": "FOUND_OCR c09 and u05: in the source a hyphen stands at a line end ('input-' then 'output'; 'high-' then 'altitude'), seen on the page images; the verifier's line-break rule removes it and the transcription keeps it. FOUND_OCR c18: the subscript 2 of pCO2 stands at another place in the text layer (diff). PARTIAL c28: on the page image the sentence starts at the foot of the left column of printed page R311 and continues at the top of the right column; in the text layer the page footer line and download stamp lie between the two parts, and the source has a hyphen at a line end ('input-' then 'output'). No page mismatch, no format flag. The verifier was not changed in this round (researcher decision).",
+    "meaning": "verdict answers whether the sentence is in the PDF text layer; it does not answer whether spelling matches the printed page"
+  },
+  "fields": {
+    "kind": "pick = selected; uncertain = the worker was unsure the sentence meets the task",
+    "printed_page": "printed page number without its R prefix, as written by the worker and as computed by code",
+    "text_masked": "first and last word of the sentence as transcribed by the worker; the rest is withheld",
+    "words": "number of words in the withheld sentence",
+    "hash": "sha256 (16) of the normalized sentence text as transcribed by the worker",
+    "page_claimed": "present only when the worker's page differs from the computed page",
+    "citations": "numbered references in the sentence, including ranges (listed one by one); ref is the number as printed. crossref_key is set only where the DOI printed in reference entry n of the article equals the DOI of that entry in reference in source_record_crossref (code check); doi is that DOI. In this article the printed number n is not always key B<n>: the Crossref record has no key B64, and among entries with a printed DOI, printed numbers 36–77 are one less than their keys (for example printed 70 is B71). crossref_key is null where the printed entry has no DOI (21, 29, 60)"
+  },
+  "items": [
+    {
+      "id": "c01",
+      "kind": "pick",
+      "printed_page": 301,
+      "pdf_page": 1,
+      "text_masked": "In … knowledge.",
+      "words": 23,
+      "hash": "53e51f9b9d497e48",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c02",
+      "kind": "pick",
+      "printed_page": 301,
+      "pdf_page": 1,
+      "text_masked": "The … medicine.”",
+      "words": 17,
+      "hash": "1cea0ea3c9de7fd1",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c03",
+      "kind": "pick",
+      "printed_page": 302,
+      "pdf_page": 2,
+      "text_masked": "As … event.",
+      "words": 29,
+      "hash": "3ce2dee5fb477c81",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c04",
+      "kind": "pick",
+      "printed_page": 302,
+      "pdf_page": 2,
+      "text_masked": "In … bounds.",
+      "words": 20,
+      "hash": "0f9679a74408d4c8",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c05",
+      "kind": "pick",
+      "printed_page": 302,
+      "pdf_page": 2,
+      "text_masked": "In … lines).",
+      "words": 38,
+      "hash": "60dece9001b2cda5",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c06",
+      "kind": "pick",
+      "printed_page": 303,
+      "pdf_page": 3,
+      "text_masked": "The … niches.",
+      "words": 20,
+      "hash": "339345891811ea49",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c07",
+      "kind": "pick",
+      "printed_page": 305,
+      "pdf_page": 5,
+      "text_masked": "Rather … 4).",
+      "words": 43,
+      "hash": "1fff3d5ce798c04c",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c08",
+      "kind": "pick",
+      "printed_page": 305,
+      "pdf_page": 5,
+      "text_masked": "Homeostasis … time.",
+      "words": 20,
+      "hash": "70e2d8579a2c0139",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c09",
+      "kind": "pick",
+      "printed_page": 306,
+      "pdf_page": 6,
+      "text_masked": "One … systems.",
+      "words": 24,
+      "hash": "f26e9758b787c64c",
+      "verdict": "FOUND_OCR",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c10",
+      "kind": "pick",
+      "printed_page": 306,
+      "pdf_page": 6,
+      "text_masked": "Taken … 91).",
+      "words": 25,
+      "hash": "127f5cd426db1b39",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "1",
+          "crossref_key": "B1",
+          "doi": "10.1016/j.heliyon.2017.e00355"
+        },
+        {
+          "ref": "70",
+          "crossref_key": "B71",
+          "doi": "10.1080/102538902900012345"
+        },
+        {
+          "ref": "91",
+          "crossref_key": "B91",
+          "doi": "10.1113/jphysiol.2002.037895"
+        }
+      ]
+    },
+    {
+      "id": "c11",
+      "kind": "pick",
+      "printed_page": 307,
+      "pdf_page": 7,
+      "text_masked": "The … below.",
+      "words": 20,
+      "hash": "5e351e3fc0f7e6db",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c12",
+      "kind": "pick",
+      "printed_page": 307,
+      "pdf_page": 7,
+      "text_masked": "The … regulation.",
+      "words": 6,
+      "hash": "18f89eab5778a09d",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c13",
+      "kind": "pick",
+      "printed_page": 307,
+      "pdf_page": 7,
+      "text_masked": "Buffering … mechanisms.",
+      "words": 21,
+      "hash": "cb7eb1e225ec5431",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c14",
+      "kind": "pick",
+      "printed_page": 307,
+      "pdf_page": 7,
+      "text_masked": "Effector … environment).",
+      "words": 29,
+      "hash": "c943cd58d7b03ff4",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c15",
+      "kind": "pick",
+      "printed_page": 308,
+      "pdf_page": 8,
+      "text_masked": "Exercise … 88).",
+      "words": 23,
+      "hash": "a86c2d1f98aa7ec6",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "18",
+          "crossref_key": "B18",
+          "doi": "10.1152/physrev.1967.47.2.178"
+        },
+        {
+          "ref": "21",
+          "crossref_key": null
+        },
+        {
+          "ref": "88",
+          "crossref_key": "B88",
+          "doi": "10.1113/expphysiol.2005.032102"
+        }
+      ]
+    },
+    {
+      "id": "c16",
+      "kind": "pick",
+      "printed_page": 308,
+      "pdf_page": 8,
+      "text_masked": "Carotid … (88).",
+      "words": 31,
+      "hash": "2d692bb9ddca9e5f",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "88",
+          "crossref_key": "B88",
+          "doi": "10.1113/expphysiol.2005.032102"
+        }
+      ]
+    },
+    {
+      "id": "c17",
+      "kind": "pick",
+      "printed_page": 308,
+      "pdf_page": 8,
+      "text_masked": "The … neuraxis.",
+      "words": 21,
+      "hash": "6eb0f4ac20705ca5",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c18",
+      "kind": "pick",
+      "printed_page": 308,
+      "pdf_page": 8,
+      "text_masked": "During … (76).",
+      "words": 32,
+      "hash": "eb7970648f141cf2",
+      "verdict": "FOUND_OCR",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "76",
+          "crossref_key": "B77",
+          "doi": "10.1016/j.neuron.2015.08.001"
+        }
+      ]
+    },
+    {
+      "id": "c19",
+      "kind": "pick",
+      "printed_page": 308,
+      "pdf_page": 8,
+      "text_masked": "The … (91).",
+      "words": 24,
+      "hash": "b037b7936ed1c707",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "91",
+          "crossref_key": "B91",
+          "doi": "10.1113/jphysiol.2002.037895"
+        }
+      ]
+    },
+    {
+      "id": "c20",
+      "kind": "pick",
+      "printed_page": 309,
+      "pdf_page": 9,
+      "text_masked": "These … jacket.",
+      "words": 37,
+      "hash": "a10050bdbed9386a",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c21",
+      "kind": "pick",
+      "printed_page": 309,
+      "pdf_page": 9,
+      "text_masked": "Modeling … regulation.",
+      "words": 22,
+      "hash": "789e41785ee815f2",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c22",
+      "kind": "pick",
+      "printed_page": 309,
+      "pdf_page": 9,
+      "text_masked": "Feedforward … simulations.",
+      "words": 16,
+      "hash": "03f7367b8fea3703",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c23",
+      "kind": "pick",
+      "printed_page": 309,
+      "pdf_page": 9,
+      "text_masked": "Thus, … independent.",
+      "words": 9,
+      "hash": "b8814d675c5dc741",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c24",
+      "kind": "pick",
+      "printed_page": 310,
+      "pdf_page": 10,
+      "text_masked": "This … medicine).",
+      "words": 35,
+      "hash": "d59c606b68c85e16",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "22",
+          "crossref_key": "B22",
+          "doi": "10.1186/1745-9974-7-10"
+        }
+      ]
+    },
+    {
+      "id": "c25",
+      "kind": "pick",
+      "printed_page": 311,
+      "pdf_page": 11,
+      "text_masked": "By … loops.",
+      "words": 23,
+      "hash": "3b324db60af35429",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c26",
+      "kind": "pick",
+      "printed_page": 311,
+      "pdf_page": 11,
+      "text_masked": "Briefly, … elderly.",
+      "words": 32,
+      "hash": "9937604b4519bc40",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c27",
+      "kind": "pick",
+      "printed_page": 311,
+      "pdf_page": 11,
+      "text_masked": "Although … (1).",
+      "words": 30,
+      "hash": "58d66902e69221ab",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "1",
+          "crossref_key": "B1",
+          "doi": "10.1016/j.heliyon.2017.e00355"
+        }
+      ]
+    },
+    {
+      "id": "c28",
+      "kind": "pick",
+      "printed_page": 311,
+      "pdf_page": 11,
+      "text_masked": "In … relationships.",
+      "words": 12,
+      "hash": "bf86a2b5f39ba56f",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c29",
+      "kind": "pick",
+      "printed_page": 311,
+      "pdf_page": 11,
+      "text_masked": "In … (1).",
+      "words": 25,
+      "hash": "e4b2e0583b9b784f",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "1",
+          "crossref_key": "B1",
+          "doi": "10.1016/j.heliyon.2017.e00355"
+        }
+      ]
+    },
+    {
+      "id": "c30",
+      "kind": "pick",
+      "printed_page": 311,
+      "pdf_page": 11,
+      "text_masked": "The … pleiotropy.",
+      "words": 23,
+      "hash": "8dfe684a7fce5560",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c31",
+      "kind": "pick",
+      "printed_page": 311,
+      "pdf_page": 11,
+      "text_masked": "Accordingly, … neurodegeneration.",
+      "words": 34,
+      "hash": "f77e6673e2bab55b",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c32",
+      "kind": "pick",
+      "printed_page": 312,
+      "pdf_page": 12,
+      "text_masked": "In … response.",
+      "words": 22,
+      "hash": "5dcb264676e26be0",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c33",
+      "kind": "pick",
+      "printed_page": 312,
+      "pdf_page": 12,
+      "text_masked": "Stress … stress.",
+      "words": 17,
+      "hash": "f28d54feed0f9637",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c34",
+      "kind": "pick",
+      "printed_page": 312,
+      "pdf_page": 12,
+      "text_masked": "The … (60–62).",
+      "words": 31,
+      "hash": "7ab456e1beac0c20",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "60",
+          "crossref_key": null
+        },
+        {
+          "ref": "61",
+          "crossref_key": "B62",
+          "doi": "10.1196/annals.1410.061"
+        },
+        {
+          "ref": "62",
+          "crossref_key": "B63",
+          "doi": "10.1002/cphy.c130006"
+        }
+      ]
+    },
+    {
+      "id": "c35",
+      "kind": "pick",
+      "printed_page": 313,
+      "pdf_page": 13,
+      "text_masked": "Rapprochement … not.",
+      "words": 39,
+      "hash": "ac9c535f52257f9a",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "u01",
+      "kind": "uncertain",
+      "printed_page": 303,
+      "pdf_page": 3,
+      "text_masked": "For … (11).",
+      "words": 18,
+      "hash": "06036c9c1f375a65",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "150",
+          "crossref_key": "B150",
+          "doi": "10.1161/01.RES.24.1.109"
+        },
+        {
+          "ref": "11",
+          "crossref_key": "B11",
+          "doi": "10.1126/science.836587"
+        }
+      ]
+    },
+    {
+      "id": "u02",
+      "kind": "uncertain",
+      "printed_page": 307,
+      "pdf_page": 7,
+      "text_masked": "They … emotion.",
+      "words": 42,
+      "hash": "60ed9c6aa95da3df",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "u03",
+      "kind": "uncertain",
+      "printed_page": 307,
+      "pdf_page": 7,
+      "text_masked": "The … (29).",
+      "words": 31,
+      "hash": "6f07be660e7f721d",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "29",
+          "crossref_key": null
+        }
+      ]
+    },
+    {
+      "id": "u04",
+      "kind": "uncertain",
+      "printed_page": 308,
+      "pdf_page": 8,
+      "text_masked": "Consistent … (171).",
+      "words": 29,
+      "hash": "c65d7c3eb223686c",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "171",
+          "crossref_key": "B171",
+          "doi": "10.1016/j.resp.2014.05.009"
+        }
+      ]
+    },
+    {
+      "id": "u05",
+      "kind": "uncertain",
+      "printed_page": 310,
+      "pdf_page": 10,
+      "text_masked": "Instead, … (14).",
+      "words": 33,
+      "hash": "b52fe80d429ef90a",
+      "verdict": "FOUND_OCR",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "14",
+          "crossref_key": "B14",
+          "doi": "10.1073/pnas.0701985104"
+        }
+      ]
+    },
+    {
+      "id": "u06",
+      "kind": "uncertain",
+      "printed_page": 312,
+      "pdf_page": 12,
+      "text_masked": "If … 11).",
+      "words": 36,
+      "hash": "c46c8e1674278cd2",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "10",
+          "crossref_key": "B10",
+          "doi": "10.1038/scientificamerican0579-130"
+        },
+        {
+          "ref": "11",
+          "crossref_key": "B11",
+          "doi": "10.1126/science.836587"
+        }
+      ]
+    }
+  ]
+}
