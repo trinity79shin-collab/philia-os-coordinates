@@ -267,6 +267,29 @@
           "bytes": 25503
         }
       }
+    },
+    {
+      "doi": "10.1152/advances.2001.25.4.213",
+      "title": "ENDOCRINOLOGY CONCEPTS FOR MEDICAL STUDENTS",
+      "author": "H. Maurice Goodman",
+      "published_print": "2001-12",
+      "worker": "claude-fable-5-1",
+      "run_date": "2026-11-15",
+      "items": 43,
+      "pdf_sha256_16": "913b7e96e9e0d5d5",
+      "copyright": "under copyright: sentence text withheld (first and last word kept); explanations in the interpretation file",
+      "files": {
+        "coordinates": {
+          "path": "data/goodman2001-hormone-feedback__10.1152-advances.2001.25.4.213__coordinates__fable5.1-20261115.json",
+          "sha256": "1e56c988f096bdd8b661ca2da3e90b1f4ef3185cc16936b218221b00760f5312",
+          "bytes": 24673
+        },
+        "interpretation": {
+          "path": "data/goodman2001-hormone-feedback__10.1152-advances.2001.25.4.213__interpretation__fable5.1-20261115.json",
+          "sha256": "d0873609c1084baddc8dfb449a49c9d9072d323c4055ee71f21b216838bab009",
+          "bytes": 31976
+        }
+      }
     }
   ],
   "file_naming": "<author+year>-<keyword>__<DOI with / as ->__<layer>__<worker>-<run date>.json",
