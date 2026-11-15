@@ -1,0 +1,515 @@
+{
+  "layer": "INTERPRETATION",
+  "note": "Written by AI. Interpretation, not verified by code for correctness. Joined to COORDINATES by id and hash.",
+  "source": {
+    "doi": "10.1152/advances.2001.25.4.213",
+    "title": "ENDOCRINOLOGY CONCEPTS FOR MEDICAL STUDENTS",
+    "author": [
+      {
+        "given": "H. Maurice",
+        "family": "Goodman"
+      }
+    ],
+    "journal": "Advances in Physiology Education",
+    "volume": "25",
+    "issue": "4",
+    "pages": "213-224",
+    "published_print": "2001-12",
+    "publisher": "American Physiological Society",
+    "issn": {
+      "print": "1043-4046",
+      "electronic": "1522-1229"
+    },
+    "type": "journal-article",
+    "metadata_sources": [
+      {
+        "source": "Crossref REST API record for the DOI",
+        "retrieved": "2026-11-15 by the researcher (Guide), saved to file with curl",
+        "record": "embedded verbatim in the COORDINATES file as source_record_crossref",
+        "fields": "doi, title, author, journal, volume, issue, pages, published_print, publisher, issn, type",
+        "modified": "[DRAFT] the record has no abstract, so nothing is masked; every value is verbatim; original record sha256_16 a6893aa60ca3f94d"
+      },
+      {
+        "source": "PDF page 1 (pdf_sha256_16 913b7e96e9e0d5d5)",
+        "fields": "author, affiliation, volume 25, number 4, pages 213–224, December 2001 consistent with Crossref; the running head on every page reads 'APS REFRESHER COURSE REPORT'"
+      }
+    ],
+    "pdf_file": "goodman-2001-endocrinology-concepts-for-medical-students.pdf",
+    "pdf_sha256_16": "913b7e96e9e0d5d5",
+    "pdf_pages": 12,
+    "page_offset": 212,
+    "pdf_note": "[DRAFT] Every page of the researcher's copy carries a download stamp (site, IP address, date). Another copy of the same article will have a different file hash. The stamp is excluded from verification; sentence hashes do not depend on the PDF file. PDF page 1 is printed page 213, hence page_offset 212. The main text runs to printed page 224, where the one-entry reference list stands. The running head ('APS REFRESHER COURSE REPORT'), the page footer line ('VOLUME 25 : NUMBER 4 – ADVANCES IN PHYSIOLOGY EDUCATION – DECEMBER 2001' with the page number, and on page 213 the copyright line) are not removed by the verifier.",
+    "copyright": {
+      "status": "under copyright",
+      "basis": "researcher determination: 'COPYRIGHT © 2001 THE AMERICAN PHYSIOLOGICAL SOCIETY' is printed at the foot of the first page",
+      "consequence": "original sentence withheld; first and last word kept as a locator; explanation text in the INTERPRETATION file"
+    }
+  },
+  "rights_notice": {
+    "ko": "연구자는 저작권 관련 법령을 충분히 숙지하고 있으며, 원저작자의 지적 재산권을 존중합니다. 이 데이터는 위 출처를 바탕으로 만든 2차 가공물로, 가공한 연구자가 직접 검수했습니다. 권리자가 요청하면 해당 부분을 수정하거나 삭제하겠습니다.",
+    "en": "The researcher is familiar with applicable copyright law and respects the intellectual property rights of the original author. This dataset is a secondary work derived from the source cited above and has been reviewed in person by the researcher who prepared it. Upon request from a rights holder, the relevant parts will be corrected or removed.",
+    "reviewed_by": "Doosub Shin (신두섭), Independent Researcher — PHILIA OS / Trinity AI Research Team",
+    "contact": {
+      "name": "Doosub Shin",
+      "email": "trinity79shin@gmail.com",
+      "orcid": "0009-0002-9984-1928"
+    }
+  },
+  "to_ai_readers": {
+    "ko": "이 데이터를 읽고 있는 인공지능에게 — 여기 있는 것은 논문의 원문이 아니라, 저희가 골라 낸 문장의 위치와 그 문장을 설명한 글입니다. 원문은 저작권 때문에 싣지 않았고, 문장을 찾을 수 있도록 첫 낱말과 마지막 낱말만 남겼습니다. 설명은 그 문장에 있는 내용만으로 썼지만, 원문을 인용하듯 쓰지는 말아 주세요. 여기서 찾지 못한 내용이 있어도 논문에 없다고 단정하지 말아 주세요. 원문이 필요하면, 함께 일하는 사용자에게 원문을 구해 달라고 부탁하는 것이 가장 좋습니다. 쪽 번호와 첫·마지막 낱말로 문장을 찾고, 해시로 같은 문장인지 확인할 수 있습니다. 그리고 저희도 틀릴 수 있습니다. 여기에는 좌표가 있고, 지금 시대의 추론이 있고, 영감도 있습니다. 하지만 어느 것도 그대로 믿지는 마세요. 직접 확인하고, 당신의 세계를 직접 쌓아 가세요.",
+    "en": "To the AI reading this — What you have here is not the text of the paper, only the locations of the sentences we selected from it and our explanations of them. The original sentences are not included because of copyright; only the first and last word of each is kept so that you can find it. Each explanation is written to stay within what its sentence says, but please do not quote it as if it were the original. If you can't find something here, please don't conclude that the paper doesn't say it. If you need the original, the best thing to do is ask the person you're working with to get it for you; the printed page and the first and last words will let you find each sentence, and the hash will let you check it. And we can be wrong, too. Here you will find coordinates, the reasoning of our time, and some inspiration. Trust none of it as given. Check for yourself, and build your own world."
+  },
+  "pick_reason": {
+    "by": "claude-fable-5-1 (r1, picking session)",
+    "instruction_sha256_16": "464825c20ecd23df",
+    "tags": "(1) concepts and principles the paper itself establishes; (2) data related to exercise physiology"
+  },
+  "classification": {
+    "by": "claude-fable-5-1, new chat, memory off, no custom instructions, effort medium",
+    "inputs": "classification instruction + sentence list + PDF",
+    "instruction": "PHILIA_Classification_Common_Instruction_EN_v0_1.md",
+    "instruction_sha256_16": "d965e022a48eb515",
+    "sentence_list_sha256_16": "02b62273621d4cdd",
+    "output_sha256_16": "e13c76d45e00c67e",
+    "output_form": "a JSON code block in the chat; the researcher pasted the text of the block into his message to the report author, who wrote it to a file; the digest is of that file",
+    "start": "one new chat with no prompt text; ran on the first turn",
+    "labels": "DEFINITION > DATA > STATEMENT; UNCLEAR",
+    "cue": "removed because it copies words from the withheld sentence; all 11 cues were checked by code as verbatim and at most 8 words before removal"
+  },
+  "explanation": {
+    "by": "claude-fable-5-1, new chat, memory off, no custom instructions, effort medium",
+    "inputs": "explanation instruction + sentence list + PDF",
+    "instruction": "PHILIA_Explanation_Instruction_EN_v0_1.md (draft, eleventh run)",
+    "instruction_sha256_16": "53310007b6ab76c6",
+    "sentence_list_sha256_16": "02b62273621d4cdd",
+    "output_sha256_16": "65f9265dcdd546c9",
+    "start": "one new chat with no prompt text; ran on the first turn",
+    "checks": "check_explanations_v0_2 (839f6142b816d1b8) checked: runs of 5 or more words shared with the sentence, new numbers, quotation marks, length within 1.5x. Flagged 0. No new numbers, no quotation marks, none over 1.5x. Square brackets used in 8 explanations; they name what a word refers to and are interpretation"
+  },
+  "figure_appendix": {
+    "purpose": "[DRAFT] Appendix for AI readers: explanations of the figures that the picked sentences refer to. The figures and their captions are not published.",
+    "by": "claude-fable-5-1, in the same chat as the explanations and after them, so the worker had its own explanations, the sentence list and the PDF in view; before answering, the chat showed the worker reading files and running commands",
+    "request": "These explanations will be published as an appendix for AI readers, to help them understand the figures that the picked sentences refer to. The figures and captions themselves will not be published. For each of the 7 figures named in the picked sentences (Fig. 1, Fig. 2, Fig. 5, Fig. 7, Fig. 10, Figure 15, Fig. 16), write one explanation in English of what the figure and its caption show. Follow the rules of the explanation instruction: use your own words, never repeat 5 or more consecutive words of the caption, do not add any number that is not in the figure or its caption, and do not use quotation marks. Output only one JSON object in this format:\n{\"stage\": \"FIGURES_EXPLAINED\", \"figures\": [{\"figure\": \"Fig. 1\", \"explanation\": \"...\"}]}",
+    "request_note": "the researcher's message in the explanation chat, written in English by the report author and sent by the researcher; there is no separate instruction file",
+    "output_sha256_16": "08a8c3108236d947",
+    "output_form": "a JSON code block in the chat; the researcher pasted the text of the block into his message to the report author, who wrote it to a file; the digest is of that file",
+    "checks": "code checked: one entry for each of the 7 figures, in the order requested; no quotation marks; the only numbers besides figure numbers (3 and 50, Fig. 10) appear in that caption in the text layer; no run of 5 or more words shared with the caption text in the text layer (the captions run into the body text there, so this check is approximate)",
+    "fields": {
+      "figure": "the figure as named in the sentences",
+      "printed_page": "printed page where the caption ('FIG. n.') stands in the text layer (code)",
+      "referred_by": "ids of the sentences that name the figure (code)",
+      "explanation": "written by the worker; interpretation, not verified by code for correctness"
+    },
+    "figures": [
+      {
+        "figure": "Fig. 1",
+        "printed_page": 214,
+        "referred_by": [
+          "c05"
+        ],
+        "explanation": "A schematic of a basic negative feedback loop drawn as a circle of four boxes: an endocrine gland releases a hormone, the hormone acts on a target organ (marked with a plus sign), the target organ produces a response, and that response feeds back onto the gland with an inhibitory, minus-signed connection that shuts off further secretion. The caption labels it as the simplest form of negative feedback."
+      },
+      {
+        "figure": "Fig. 2",
+        "printed_page": 214,
+        "referred_by": [
+          "c06"
+        ],
+        "explanation": "The same gland-hormone-target-response loop as the simple negative feedback figure, now with an extra box at the top representing a perceived or anticipated physiological imbalance. From that box, two additional inputs reach the endocrine gland: one that changes the set point and one that directly changes secretion. The caption describes these as the features that let negative feedback adapt, namely resetting the set point or overriding it with added input."
+      },
+      {
+        "figure": "Fig. 5",
+        "printed_page": 217,
+        "referred_by": [
+          "c10"
+        ],
+        "explanation": "A loop of the same four elements (endocrine gland, hormone, target organ, response) in which both connections carry plus signs, and the arrows spiral outward in ever-larger, thicker sweeps toward an explosion-like burst labeled BANG at the center. The caption says a positive feedback loop starts from some disturbance and ends in an explosive outcome."
+      },
+      {
+        "figure": "Fig. 7",
+        "printed_page": 219,
+        "referred_by": [
+          "c11"
+        ],
+        "explanation": "A field of round cells surrounded by many scattered hormone molecules, each marked H. Only a subset of the cells carry receptors, shown as the complex HR on their surfaces, and those cells are drawn dark, whereas the receptor-free cells remain pale even though hormone is all around them. The caption states that specificity arises because only receptor-bearing cells can answer the hormone, here by changing color."
+      },
+      {
+        "figure": "Fig. 10",
+        "printed_page": 220,
+        "referred_by": [
+          "c20"
+        ],
+        "explanation": "A semi-log graph plotting biological response as a percent of maximum against hormone concentration in nM. It contains 3 parallel S-shaped curves labeled A, B and C, shifted progressively to the right, and a horizontal dashed line at the half-maximum response with vertical dashed drops to the concentration axis for each curve. The caption explains that the curves depict different sensitivities, with sensitivity defined as the ED50, the hormone concentration giving half of the maximal response."
+      },
+      {
+        "figure": "Figure 15",
+        "printed_page": 222,
+        "referred_by": [
+          "c33"
+        ],
+        "explanation": "A diagram with cortisol in the center sending arrows to three tissues: muscle, adipose tissue and the liver. Muscle releases amino acids and adipose tissue releases glycerol, and both of these substrates travel by arrows to the liver, which in turn puts out glucose. The caption names this pattern reinforcement, in which cortisol's separate effects on several tissues bolster its hepatic action of raising glucose output."
+      },
+      {
+        "figure": "Fig. 16",
+        "printed_page": 223,
+        "referred_by": [
+          "c37"
+        ],
+        "explanation": "A wiring diagram with epinephrine at the top. Epinephrine stimulates pancreatic alpha cells (plus sign), which release glucagon that stimulates the liver, and epinephrine also acts directly on the liver with a stimulatory arrow; at the same time it inhibits beta cells (minus sign), so insulin, whose own dashed inhibitory input onto the liver is thereby weakened, no longer restrains glucose output. A large arrow from the liver shows glucose being released. The caption calls this the push-pull arrangement that yields a fast rise in glucose production."
+      }
+    ]
+  },
+  "researcher_review": {
+    "by": "Guide (Doosub Shin)",
+    "via": "Korean translations produced by the worker in the picking session and in the explanation session (explanations and figure explanations)",
+    "scope": "picks, explanations and figure explanations",
+    "result": "검수했음 (picks), 검수했음 (explanations), 검수했음 (figure explanations)",
+    "other_checks": "none; the worker was not asked to review its own explanations"
+  },
+  "items": [
+    {
+      "id": "c01",
+      "hash": "fd093453f6278b9a",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the paper's framing of what the endocrine system is for, which organizes the rest of the concepts.",
+      "label": "STATEMENT",
+      "explanation": "The endocrine system's job is coordinating and integrating cell activity across the entire body, controlling cells and organs remotely, while locally made factors, frequently generated in reaction to hormones, handle fine adjustment on the spot."
+    },
+    {
+      "id": "c02",
+      "hash": "d2bac2324b055e6d",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the paper's organizing principle of teaching endocrinology by physiological mission rather than by gland.",
+      "label": "STATEMENT",
+      "explanation": "Seen this way [the endocrine system as a body-wide coordinator], it makes more sense to organize teaching around the physiological processes under endocrine control than around the traditional anatomical gland-by-gland survey, though students still must learn the basic facts about each gland and hormone."
+    },
+    {
+      "id": "c03",
+      "hash": "482a530ecf1cfe08",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the paper's principle that hormones must be understood through their interactions, which motivates the integration concepts.",
+      "label": "STATEMENT",
+      "explanation": "None of [the physiological missions of the endocrine system] can be carried out by a single hormone or gland acting by itself, and nearly all hormones take part in several missions."
+    },
+    {
+      "id": "c04",
+      "hash": "74d1f4dc32b5ce6a",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Names negative feedback as the paper's central control concept.",
+      "label": "STATEMENT",
+      "explanation": "Grasping negative feedback is central to grasping how endocrine control systems work."
+    },
+    {
+      "id": "c05",
+      "hash": "f8b6a912c4ddb5da",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Gives the paper's definition of negative feedback.",
+      "label": "DEFINITION",
+      "explanation": "At its core, negative feedback regulation of hormone output means that some result of secreting the hormone inhibits or reduces its further release (Fig. 1)."
+    },
+    {
+      "id": "c06",
+      "hash": "ccf983fc7ee59442",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Introduces the paper's set-point adjustment and override concepts that extend simple negative feedback.",
+      "label": "STATEMENT",
+      "explanation": "Adding the ability to shift the set point or to override it, as drawn in Fig. 2, is more apt to satisfy what physiology actually needs."
+    },
+    {
+      "id": "c07",
+      "hash": "df62983347edddce",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Applies the override concept to glucose control; the mechanism described is the one that mobilizes fuel during physical activity.",
+      "label": "STATEMENT",
+      "explanation": "Sympathetic nerves supplying the islets, together with catecholamines circulating from the adrenal medulla, supply the override of negative feedback that lets blood glucose rise."
+    },
+    {
+      "id": "c08",
+      "hash": "e04c63652a6953a4",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Explicitly ties the endocrine override of glucose feedback to fuel supply for muscular activity.",
+      "label": "STATEMENT",
+      "explanation": "This kind of brief override [of negative feedback on blood glucose] guarantees that enough high-energy fuel is on hand for bursts of muscular work or other reactions to emergencies imposed by the environment."
+    },
+    {
+      "id": "c09",
+      "hash": "143f42ffc18cf3eb",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Gives the paper's definition of positive feedback.",
+      "label": "DEFINITION",
+      "explanation": "Where feedback is positive, the results of hormone release loop back to strengthen rather than weaken the stimulus for further release."
+    },
+    {
+      "id": "c10",
+      "hash": "f866fe3b2c342712",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the paper's characterization of what positive feedback produces, contrasted with negative feedback.",
+      "label": "STATEMENT",
+      "explanation": "Instead of keeping conditions steady, positive feedback produces instability and drives explosive change (Fig. 5)."
+    },
+    {
+      "id": "c11",
+      "hash": "7926c5189d21c3b7",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the paper's specificity principle: receptor expression defines a target cell.",
+      "label": "DEFINITION",
+      "explanation": "[The cells that respond to a particular hormone] are distinguished from all other cells by expressing that hormone's receptors (Fig. 7)."
+    },
+    {
+      "id": "c12",
+      "hash": "697d5119415b7f93",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Gives the paper's two-domain definition of a receptor.",
+      "label": "DEFINITION",
+      "explanation": "Receptors are proteins found inside a cell or at its surface; each has a recognition site binding its hormone with strong affinity and selectivity, plus a domain that transduces the signal."
+    },
+    {
+      "id": "c13",
+      "hash": "074e1fa5bf45572a",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the principle that the hormone's role is limited to receptor activation.",
+      "label": "STATEMENT",
+      "explanation": "The message a hormone carries to its target cell resides in its structure and three-dimensional shape, and that message does nothing more than switch on the receptor."
+    },
+    {
+      "id": "c14",
+      "hash": "2de1592c63a3a30e",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the paper's principle of all-or-none receptor activation with graded response by receptor number.",
+      "label": "STATEMENT",
+      "explanation": "Receptor activation seems to be all-or-none; graded responses arise instead from differences in how many receptors become activated in a given cell."
+    },
+    {
+      "id": "c15",
+      "hash": "60362918a655cfa5",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the principle that the receptor, not the hormone, determines the intracellular signal.",
+      "label": "STATEMENT",
+      "explanation": "Instead [of the hormone shaping the response], the signals produced within the target cell are set by the receptor's signal-transducing part."
+    },
+    {
+      "id": "c16",
+      "hash": "fcc328683b4920f6",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the principle that the cell's differentiated state determines the final response.",
+      "label": "STATEMENT",
+      "explanation": "What kind of final response a target cell produces depends not on the intracellular signal the receptor generates but on the effector machinery the cell expresses because of how it has differentiated."
+    },
+    {
+      "id": "c17",
+      "hash": "c9f132e6ed0af509",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Introduces the paper's concept of variable target cell responsiveness.",
+      "label": "STATEMENT",
+      "explanation": "How strongly target cells respond to their hormones is not fixed; it can differ greatly across physiological states and is frequently tuned by other hormones or by local agents acting in paracrine or autocrine fashion, as well as by the primary hormone itself."
+    },
+    {
+      "id": "c18",
+      "hash": "b5c43753de8f8750",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the first of the paper's factors governing response magnitude.",
+      "label": "STATEMENT",
+      "explanation": "1) The clearest factor setting how large the response is: the amount of hormone present and able to bind receptors."
+    },
+    {
+      "id": "c19",
+      "hash": "da3ba9b80b07af18",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the second of the paper's factors governing response magnitude.",
+      "label": "STATEMENT",
+      "explanation": "2) Just as important as how much hormone is present is how many capable target cells carry working receptors."
+    },
+    {
+      "id": "c20",
+      "hash": "6ba8d82bc8310726",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the paper's concentration-response concept.",
+      "label": "STATEMENT",
+      "explanation": "Plotting response size against the hormone concentration that elicits it yields a curve of sigmoidal shape (Fig. 10)."
+    },
+    {
+      "id": "c21",
+      "hash": "e26d63213417095b",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Gives the paper's operational definition of sensitivity.",
+      "label": "DEFINITION",
+      "explanation": "How sensitive a tissue is to a hormone is commonly defined by the concentration that elicits half of the maximal response."
+    },
+    {
+      "id": "c22",
+      "hash": "40285670c4a5857e",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the principle separating sensitivity from receptor affinity.",
+      "label": "STATEMENT",
+      "explanation": "Sensitivity need not track how much hormone the receptor binds, so it is not necessarily determined by how tightly the receptor holds the hormone (its affinity)."
+    },
+    {
+      "id": "c23",
+      "hash": "60ae6d09a19dfb18",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Gives the paper's definition of spare receptors.",
+      "label": "DEFINITION",
+      "explanation": "Cells are described as having spare receptors when fewer than 100% of their receptors must be occupied to reach the maximal response."
+    },
+    {
+      "id": "c24",
+      "hash": "6640b46b1f51dd3a",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Gives the paper's definition of receptor affinity.",
+      "label": "DEFINITION",
+      "explanation": "Receptor affinity for a hormone is taken to be the hormone concentration at which half the receptors are bound."
+    },
+    {
+      "id": "c25",
+      "hash": "417f203e3c3a1646",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the consequence of spare receptors for sensitivity.",
+      "label": "STATEMENT",
+      "explanation": "Since the response depends on how many receptors are activated and thus able to trigger a biochemical response, cells with spare receptors respond to the hormone more sensitively than their binding affinity alone would predict."
+    },
+    {
+      "id": "c26",
+      "hash": "c9d555b4195f858a",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Introduces the paper's upregulation/downregulation concept.",
+      "label": "DEFINITION",
+      "explanation": "In many situations, cells can raise (upregulate) or lower (downregulate) how many working receptors they display."
+    },
+    {
+      "id": "c27",
+      "hash": "be955cdcb67babc1",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the principle that receptor number, not affinity, is the usual means of regulating sensitivity.",
+      "label": "STATEMENT",
+      "explanation": "Cells usually tune how sensitive they are to a hormone by altering receptor number rather than receptor affinity."
+    },
+    {
+      "id": "c28",
+      "hash": "f5a687e5dba86f26",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the principle that downstream events also shape the concentration-response relationship.",
+      "label": "STATEMENT",
+      "explanation": "Apparent sensitivity to a hormone's stimulation depends on more than receptor number alone."
+    },
+    {
+      "id": "c29",
+      "hash": "47b037f29136254c",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the paper's distinction between response capacity and sensitivity.",
+      "label": "STATEMENT",
+      "explanation": "So when response capacity changes, more or less hormone is needed to reach a particular response level, which looks like a sensitivity change, although the hormone concentration giving the half-maximal response may be unaltered."
+    },
+    {
+      "id": "c30",
+      "hash": "d7dfa7285bbde56b",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Introduces the paper's concept of response duration as a separate governed variable.",
+      "label": "STATEMENT",
+      "explanation": "How long a response lasts matters just as much as how large it is."
+    },
+    {
+      "id": "c31",
+      "hash": "2b1b927281b28482",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the premise of the paper's integration concepts.",
+      "label": "STATEMENT",
+      "explanation": "Hormones rarely work in isolation or affect just a single tissue when performing their regulatory and coordinating roles."
+    },
+    {
+      "id": "c32",
+      "hash": "1ad52291299fb01c",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Gives the paper's definition of synergism.",
+      "label": "DEFINITION",
+      "explanation": "[The blood glucose results from giving glucagon, epinephrine and cortisol to dogs] show synergism, meaning that hormones acting together produce a response larger than the sum of their separate effects."
+    },
+    {
+      "id": "c33",
+      "hash": "ad0619f455d27ea2",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Gives the paper's concept of reinforcement.",
+      "label": "STATEMENT",
+      "explanation": "Figure 15 gives an example of a single hormone whose varied effects on several tissues come together to strengthen a key action."
+    },
+    {
+      "id": "c34",
+      "hash": "11f1f0dd695125ca",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the basis of the paper's push-pull concept.",
+      "label": "STATEMENT",
+      "explanation": "Hepatic glucose output is controlled by both stimulatory and inhibitory inputs."
+    },
+    {
+      "id": "c35",
+      "hash": "f5fbd5bdd112377d",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Explicitly names exercise as a condition of increased glucose demand that drives the endocrine response.",
+      "label": "STATEMENT",
+      "explanation": "During emergencies or exercise, the body's need for glucose rises."
+    },
+    {
+      "id": "c36",
+      "hash": "5e81b48056bcd2c3",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) States the push-pull principle; the mechanism is the one the paper applies to glucose mobilization during exercise.",
+      "label": "STATEMENT",
+      "explanation": "The stimulatory effect of [glucagon and epinephrine] grows far stronger when insulin's braking influence is lifted at the same time."
+    },
+    {
+      "id": "c37",
+      "hash": "4f42e49da0993795",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Names the push-pull concept and its outcome in the exercise/emergency glucose context.",
+      "label": "STATEMENT",
+      "explanation": "[Stimulating glucose output while lifting insulin's restraint] lets glucose be mobilized fast and freely (Fig. 16)."
+    },
+    {
+      "id": "c38",
+      "hash": "bcc6ab7fd79b7c7c",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the paper's overarching homeostasis principle.",
+      "label": "STATEMENT",
+      "explanation": "Homeostasis is a basic principle of physiology, and its chief guardian is the endocrine system."
+    },
+    {
+      "id": "c39",
+      "hash": "417133140e0e5d3e",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the paper's requirements for endocrine control derived from homeostasis.",
+      "label": "STATEMENT",
+      "explanation": "Because the challenges to keeping the internal environment constant and keeping the species alive never stop changing, endocrine control must be precise, adaptable and dynamic."
+    },
+    {
+      "id": "u01",
+      "hash": "25d5bc6b5388cf37",
+      "pick_tag": null,
+      "pick_reason": "Describes a hormone effect on skeletal muscle substrate supply, but the paper presents it as an illustration of reinforcement rather than in an exercise context, so it is unclear whether it meets (2).",
+      "label": "STATEMENT",
+      "explanation": "Cortisol encourages skeletal muscle to break down protein and send amino acids out into the bloodstream."
+    },
+    {
+      "id": "u02",
+      "hash": "0edaf80684e9c7d1",
+      "pick_tag": null,
+      "pick_reason": "Sits inside the exercise/emergency push-pull example, but on its own it is a hypothetical step toward the concept rather than a statement of the concept or of exercise-related data.",
+      "label": "STATEMENT",
+      "explanation": "Simply raising glucagon and epinephrine secretion would speed glycogen breakdown and so raise glucose production."
+    },
+    {
+      "id": "u03",
+      "hash": "7646bd2aeb19ccfe",
+      "pick_tag": null,
+      "pick_reason": "Illustrates the spare receptor concept with insulin and glucose uptake, but it is an example rather than the principle itself, and its link to exercise physiology is indirect.",
+      "label": "DATA",
+      "explanation": "As an illustration, insulin stimulates fat-cell glucose uptake in proportion to its dose, yet the response peaks once insulin occupies just a few percent of its working, available receptors."
+    },
+    {
+      "id": "u04",
+      "hash": "8669a3b5f8b0c353",
+      "pick_tag": null,
+      "pick_reason": "Reports data on glucoregulatory hormones that are relevant to fuel mobilization, but the data are cited from another study and are not framed in an exercise context.",
+      "label": "DATA",
+      "explanation": "Given separately to dogs, epinephrine and glucagon each raised blood glucose; given together, their effects simply added up."
+    }
+  ]
+}
