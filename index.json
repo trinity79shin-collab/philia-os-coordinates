@@ -13,6 +13,11 @@
     "coordinates": "produced and verified by code; stands alone",
     "interpretation": "written by AI (pick reasons, labels; explanations for sources under copyright); joined to coordinates by id and hash; optional"
   },
+  "floors": {
+    "floor_0": "a textbook chapter used by the researcher to choose sources: Rosie K. Lanphere, The Physiology of Exercise, 3rd edition (2025), chapter 2, Control of the Internal Environment; https://saalck.pressbooks.pub/physioex/; licensed CC BY-NC 4.0",
+    "floor_1": "sources chosen one by one to give each concept of the chapter a source in the literature; their order follows the order in which the chapter presents its concepts, except in the last part on cellular adaptation, where Henstridge et al. 2016 (stress proteins) comes before Katz et al. 2025, Re & Cook 2009 and Siebel & Lendahl 2017 (cell signaling), because there a paper was chosen first and the concept it filled was named after it",
+    "floor_2": "sources chosen to connect two neighbouring floor-1 records, that is, two neighbouring concepts of the chapter; the connection is a conceptual one read by the researcher, not a citation link"
+  },
   "file_hashes": "sha256 of the file bytes as stored in this repository",
   "base_url": "https://trinity79shin-collab.github.io/philia-os-coordinates/",
   "records": [
@@ -25,6 +30,7 @@
       "run_date": "2026-10-31",
       "items": 75,
       "pdf_sha256_16": "6336c587f63eaf61",
+      "floor": 1,
       "files": {
         "coordinates": {
           "path": "data/cannon1929-homeostasis__10.1152-physrev.1929.9.3.399__coordinates__fable5.1-20261031.json",
@@ -48,6 +54,7 @@
       "items": 51,
       "pdf_sha256_16": "6ee637e64bf77314",
       "copyright": "under copyright: sentence text withheld (first and last word kept); explanations in the interpretation file",
+      "floor": 1,
       "files": {
         "coordinates": {
           "path": "data/modell2015-feedback__10.1152-advan.00107.2015__coordinates__gpt-6-20261102.json",
@@ -71,6 +78,7 @@
       "items": 33,
       "pdf_sha256_16": "88c4d7e5ebe6f4e7",
       "copyright": "under copyright: sentence text withheld (first and last word kept); explanations in the interpretation file",
+      "floor": 1,
       "files": {
         "coordinates": {
           "path": "data/peters2007-cortisol__10.1152-ajpregu.00907.2006__coordinates__fable5.1-20261103.json",
@@ -94,6 +102,7 @@
       "items": 52,
       "pdf_sha256_16": "13b57de421644f9b",
       "copyright": "under copyright: sentence text withheld (first and last word kept); explanations in the interpretation file",
+      "floor": 1,
       "files": {
         "coordinates": {
           "path": "data/carpenter2004-control__10.1152-advan.00012.2004__coordinates__gpt-6-20261104.json",
@@ -117,6 +126,7 @@
       "items": 103,
       "pdf_sha256_16": "dc2c2d083ecc2115",
       "copyright": "under copyright: sentence text withheld (first and last word kept); explanations in the interpretation file",
+      "floor": 1,
       "files": {
         "coordinates": {
           "path": "data/egan2023-molecular__10.1152-physrev.00054.2021__coordinates__fable5.1-20261105.json",
@@ -140,6 +150,7 @@
       "items": 192,
       "pdf_sha256_16": "573eeb1cacd749fe",
       "copyright": "under copyright: sentence text withheld (first and last word kept); explanations in the interpretation file",
+      "floor": 1,
       "files": {
         "coordinates": {
           "path": "data/cramer2022-thermoregulation__10.1152-physrev.00047.2021__coordinates__gpt-6-20261107.json",
@@ -163,6 +174,7 @@
       "items": 55,
       "pdf_sha256_16": "073a33bc167180aa",
       "copyright": "under copyright: sentence text withheld (first and last word kept); explanations in the interpretation file",
+      "floor": 1,
       "files": {
         "coordinates": {
           "path": "data/henstridge2016-heat-shock-proteins__10.1152-japplphysiol.00811.2015__coordinates__fable5.1-20261108.json",
@@ -186,6 +198,7 @@
       "items": 63,
       "pdf_sha256_16": "f1fa392dbbcedc7d",
       "copyright": "under copyright: sentence text withheld (first and last word kept); explanations in the interpretation file",
+      "floor": 1,
       "files": {
         "coordinates": {
           "path": "data/katz2025-molecular-response__10.1152-physiol.00024.2024__coordinates__fable5.1-20261109.json",
@@ -209,6 +222,7 @@
       "items": 48,
       "pdf_sha256_16": "4d1cd01c0b72cd56",
       "copyright": "under copyright: sentence text withheld (first and last word kept); explanations in the interpretation file",
+      "floor": 1,
       "files": {
         "coordinates": {
           "path": "data/re2009-intracrine__10.1152-ajpheart.00414.2009__coordinates__gpt-6-20261110.json",
@@ -232,6 +246,7 @@
       "items": 56,
       "pdf_sha256_16": "a028b9dab0820915",
       "copyright": "under copyright: sentence text withheld (first and last word kept); explanations in the interpretation file",
+      "floor": 1,
       "files": {
         "coordinates": {
           "path": "data/siebel2017-notch-signaling__10.1152-physrev.00005.2017__coordinates__fable5.1-20261112.json",
@@ -255,6 +270,11 @@
       "items": 41,
       "pdf_sha256_16": "cee538cb8eeecfc2",
       "copyright": "under copyright: sentence text withheld (first and last word kept); explanations in the interpretation file",
+      "floor": 2,
+      "connects": [
+        "10.1152/physrev.1929.9.3.399",
+        "10.1152/advan.00107.2015"
+      ],
       "files": {
         "coordinates": {
           "path": "data/goldstein2019-systems-biology__10.1152-ajpregu.00396.2018__coordinates__gpt-6-20261114.json",
@@ -278,6 +298,11 @@
       "items": 43,
       "pdf_sha256_16": "913b7e96e9e0d5d5",
       "copyright": "under copyright: sentence text withheld (first and last word kept); explanations in the interpretation file",
+      "floor": 2,
+      "connects": [
+        "10.1152/advan.00107.2015",
+        "10.1152/ajpregu.00907.2006"
+      ],
       "files": {
         "coordinates": {
           "path": "data/goodman2001-hormone-feedback__10.1152-advances.2001.25.4.213__coordinates__fable5.1-20261115.json",
@@ -288,6 +313,34 @@
           "path": "data/goodman2001-hormone-feedback__10.1152-advances.2001.25.4.213__interpretation__fable5.1-20261115.json",
           "sha256": "d0873609c1084baddc8dfb449a49c9d9072d323c4055ee71f21b216838bab009",
           "bytes": 31976
+        }
+      }
+    },
+    {
+      "doi": "10.1152/ajpcell.00470.2024",
+      "title": "Homeostatic regulation of brain activity: from endogenous mechanisms to homeostatic nanomachines",
+      "author": "Caterina Michetti, Fabio Benfenati",
+      "published_print": "2024-12-01",
+      "worker": "gpt-6",
+      "run_date": "2026-11-17",
+      "items": 29,
+      "pdf_sha256_16": "b2af780892855c26",
+      "copyright": "under copyright: sentence text withheld (first and last word kept); explanations in the interpretation file",
+      "floor": 2,
+      "connects": [
+        "10.1152/ajpregu.00907.2006",
+        "10.1152/advan.00012.2004"
+      ],
+      "files": {
+        "coordinates": {
+          "path": "data/michetti2024-homeostatic-plasticity__10.1152-ajpcell.00470.2024__coordinates__gpt-6-20261117.json",
+          "sha256": "fcfcb8d78f9b38789455ea1d62df37edd3f5b8ce201abe5e05b1b967af947e22",
+          "bytes": 49113
+        },
+        "interpretation": {
+          "path": "data/michetti2024-homeostatic-plasticity__10.1152-ajpcell.00470.2024__interpretation__gpt-6-20261117.json",
+          "sha256": "caf4b61e838fcbedaa59be9a76517243fe0b426520c9b1850eff6f33477be124",
+          "bytes": 24894
         }
       }
     }
