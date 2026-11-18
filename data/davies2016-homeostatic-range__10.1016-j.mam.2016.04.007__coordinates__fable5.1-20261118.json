@@ -1,0 +1,1260 @@
+{
+  "layer": "COORDINATES",
+  "note": "Produced and verified by code. No AI judgment in this file except the sentence choice itself and its transcription. The sentence text is withheld; only its first and last word are kept.",
+  "source": {
+    "doi": "10.1016/j.mam.2016.04.007",
+    "title": "Adaptive homeostasis",
+    "author": [
+      {
+        "given": "Kelvin J.A.",
+        "family": "Davies"
+      }
+    ],
+    "journal": "Molecular Aspects of Medicine",
+    "volume": "49",
+    "issue": null,
+    "pages": "1-7",
+    "published_print": "2016-06",
+    "publisher": "Elsevier BV",
+    "issn": {
+      "print": "0098-2997"
+    },
+    "type": "journal-article",
+    "author_affiliation_as_printed": "a Leonard Davis School of Gerontology of the Ethel Percy Andrus Gerontology Center, The University of Southern California, Los Angeles, CA 90089-0191, USA; b Division of Molecular and Computational Biology, Department of Biological Sciences, Dornsife College of Letters, Arts, & Sciences, The University of Southern California, Los Angeles, CA 90089-0191, USA",
+    "metadata_sources": [
+      {
+        "source": "Crossref REST API record for the DOI",
+        "retrieved": "2026-11-18 by the researcher (Guide), saved to file with curl",
+        "record": "embedded verbatim in the COORDINATES file as source_record_crossref",
+        "fields": "doi, title, author, journal, volume, pages, published_print, publisher, issn, type; the record has no issue value (issue is null) and no affiliation values",
+        "modified": "[DRAFT] the record has no abstract, so nothing is masked; every value is verbatim; original record sha256_16 01ff33469a386201"
+      },
+      {
+        "source": "PDF page 1 (pdf_sha256_16 4d2aff079d852efe)",
+        "fields": "author_affiliation_as_printed; author, volume 49, pages 1–7, 2016 consistent with Crossref; article type printed as 'Review'; received 15 April 2016, accepted 15 April 2016, available online 22 April 2016"
+      }
+    ],
+    "pdf_file": "Davies_2016_Adaptive_Homeostasis__Mol_Aspects_Med_491_7.pdf",
+    "pdf_sha256_16": "4d2aff079d852efe",
+    "pdf_pages": 7,
+    "page_offset": 0,
+    "pdf_note": "[DRAFT] The researcher's copy carries no download stamp. PDF page n is printed page n, hence page_offset 0. The main text runs to printed page 6, where the reference list begins; the reference list fills pages 6–7. The journal header on page 1 ('Molecular Aspects of Medicine 49 (2016) 1–7', 'Contents lists available at ScienceDirect', the journal homepage line), the licence and DOI lines at the foot of page 1, and the running head on pages 2–7 ('K.J.A. Davies / Molecular Aspects of Medicine 49 (2016) 1–7' with the page number) are not removed by the verifier. In the pdfplumber text layer many lines lose the spaces between words; the verifier removes all spaces before matching.",
+    "copyright": {
+      "status": "under copyright",
+      "basis": "researcher determination: '© 2016 The Author. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/)' is printed on the first page (end of the abstract and foot of the page); the Crossref record registers CC BY-NC-ND 4.0 for the version of record",
+      "consequence": "original sentence withheld; first and last word kept as a locator; explanation text in the INTERPRETATION file"
+    }
+  },
+  "rights_notice": {
+    "ko": "연구자는 저작권 관련 법령을 충분히 숙지하고 있으며, 원저작자의 지적 재산권을 존중합니다. 이 데이터는 위 출처를 바탕으로 만든 2차 가공물로, 가공한 연구자가 직접 검수했습니다. 권리자가 요청하면 해당 부분을 수정하거나 삭제하겠습니다.",
+    "en": "The researcher is familiar with applicable copyright law and respects the intellectual property rights of the original author. This dataset is a secondary work derived from the source cited above and has been reviewed in person by the researcher who prepared it. Upon request from a rights holder, the relevant parts will be corrected or removed.",
+    "reviewed_by": "Doosub Shin (신두섭), Independent Researcher — PHILIA OS / Trinity AI Research Team",
+    "contact": {
+      "name": "Doosub Shin",
+      "email": "trinity79shin@gmail.com",
+      "orcid": "0009-0002-9984-1928"
+    }
+  },
+  "to_ai_readers": {
+    "ko": "이 데이터를 읽고 있는 인공지능에게 — 여기 있는 것은 논문의 원문이 아니라, 저희가 골라 낸 문장의 위치와 그 문장을 설명한 글입니다. 원문은 저작권 때문에 싣지 않았고, 문장을 찾을 수 있도록 첫 낱말과 마지막 낱말만 남겼습니다. 설명은 그 문장에 있는 내용만으로 썼지만, 원문을 인용하듯 쓰지는 말아 주세요. 여기서 찾지 못한 내용이 있어도 논문에 없다고 단정하지 말아 주세요. 원문이 필요하면, 함께 일하는 사용자에게 원문을 구해 달라고 부탁하는 것이 가장 좋습니다. 쪽 번호와 첫·마지막 낱말로 문장을 찾고, 해시로 같은 문장인지 확인할 수 있습니다. 그리고 저희도 틀릴 수 있습니다. 여기에는 좌표가 있고, 지금 시대의 추론이 있고, 영감도 있습니다. 하지만 어느 것도 그대로 믿지는 마세요. 직접 확인하고, 당신의 세계를 직접 쌓아 가세요.",
+    "en": "To the AI reading this — What you have here is not the text of the paper, only the locations of the sentences we selected from it and our explanations of them. The original sentences are not included because of copyright; only the first and last word of each is kept so that you can find it. Each explanation is written to stay within what its sentence says, but please do not quote it as if it were the original. If you can't find something here, please don't conclude that the paper doesn't say it. If you need the original, the best thing to do is ask the person you're working with to get it for you; the printed page and the first and last words will let you find each sentence, and the hash will let you check it. And we can be wrong, too. Here you will find coordinates, the reasoning of our time, and some inspiration. Trust none of it as given. Check for yourself, and build your own world."
+  },
+  "source_record_crossref": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            14
+          ]
+        ],
+        "date-time": "2026-11-14T05:28:51Z",
+        "timestamp": 1794634131224,
+        "version": "4.9.1"
+      },
+      "reference-count": 58,
+      "publisher": "Elsevier BV",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2016,
+                6,
+                1
+              ]
+            ],
+            "date-time": "2016-06-01T00:00:00Z",
+            "timestamp": 1464739200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2016,
+                4,
+                27
+              ]
+            ],
+            "date-time": "2016-04-27T00:00:00Z",
+            "timestamp": 1461715200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/100000066",
+          "name": "National Institute of Environmental Health Sciences",
+          "doi-asserted-by": "publisher",
+          "id": [
+            {
+              "id": "10.13039/100000066",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Molecular Aspects of Medicine"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2016,
+            6
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.mam.2016.04.007",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2016,
+            4,
+            29
+          ]
+        ],
+        "date-time": "2016-04-29T12:40:41Z",
+        "timestamp": 1461933641000
+      },
+      "page": "1-7",
+      "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 328,
+      "special_numbering": "C",
+      "title": [
+        "Adaptive homeostasis"
+      ],
+      "prefix": "10.1016",
+      "volume": "49",
+      "author": [
+        {
+          "given": "Kelvin J.A.",
+          "family": "Davies",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0010",
+          "doi-asserted-by": "crossref",
+          "first-page": "589",
+          "DOI": "10.1161/CIRCRESAHA.107.164970",
+          "article-title": "Ambient particulate pollutants in the ultrafine range promote early atherosclerosis and systemic oxidative stress",
+          "volume": "102",
+          "author": "Araujo",
+          "year": "2008",
+          "journal-title": "Circ. Res"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0015",
+          "doi-asserted-by": "crossref",
+          "first-page": "335",
+          "DOI": "10.1179/oeh.2004.10.3.335",
+          "article-title": "Hormesis – an inappropriate extrapolation from the specific to the universal",
+          "volume": "10",
+          "author": "Axelrod",
+          "year": "2004",
+          "journal-title": "Int. J. Occup. Environ. Health"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0020",
+          "series-title": "An Introduction to the Study of Experimental Medicine (originally published in 1865",
+          "author": "Bernard",
+          "year": "1865"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0025",
+          "series-title": "Lectures on the Phenomena Common to Animals and Plants",
+          "isbn-type": "print",
+          "author": "Bernard",
+          "year": "1974",
+          "ISBN": "https://id.crossref.org/isbn/9780398028572"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0030",
+          "series-title": "Lectures on the Phenomena of Life Common to Animals and Plants",
+          "isbn-type": "print",
+          "first-page": "84",
+          "author": "Bernard",
+          "year": "1974",
+          "ISBN": "https://id.crossref.org/isbn/0398028575"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0035",
+          "doi-asserted-by": "crossref",
+          "first-page": "433",
+          "DOI": "10.1038/35044005",
+          "article-title": "The DNA damage response: putting checkpoints in perspective",
+          "volume": "408",
+          "author": "Bin-Bing",
+          "year": "2000",
+          "journal-title": "Nature"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0040",
+          "doi-asserted-by": "crossref",
+          "first-page": "674",
+          "DOI": "10.1038/ncb836",
+          "article-title": "Lon protease preferentially degrades oxidized mitochondrial aconitase by an ATP-stimulated mechanism",
+          "volume": "4",
+          "author": "Bota",
+          "year": "2002",
+          "journal-title": "Nat. Cell Biol"
+        },
+        {
+          "issue": "Suppl. 1",
+          "key": "10.1016/j.mam.2016.04.007_bib0045",
+          "first-page": "S37",
+          "article-title": "Hormesis: a revolution in toxicology, risk assessment and medicine",
+          "volume": "5",
+          "author": "Calabrese",
+          "year": "2004",
+          "journal-title": "EMBO Rep"
+        },
+        {
+          "issue": "6924",
+          "key": "10.1016/j.mam.2016.04.007_bib0050",
+          "doi-asserted-by": "crossref",
+          "first-page": "691",
+          "DOI": "10.1038/421691a",
+          "article-title": "Toxicology rethinks its central belief – hormesis demands a reappraisal of the way risks are assessed",
+          "volume": "421",
+          "author": "Calabrese",
+          "year": "2003",
+          "journal-title": "Nature"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0055",
+          "series-title": "Bodily Changes in Pain, Hunger, Fear and Rage: An Account of Recent Researches into the Function of Emotional Excitement",
+          "first-page": "1",
+          "author": "Cannon",
+          "year": "1915"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0060",
+          "series-title": "A Charles Richet: ses amis, ses collègues, ses élèves",
+          "first-page": "91",
+          "article-title": "Physiological regulation of normal states: some tentative postulates concerning biological homeostatics",
+          "author": "Cannon",
+          "year": "1926"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0065",
+          "series-title": "The Wisdom of the Body",
+          "first-page": "177",
+          "author": "Cannon",
+          "year": "1932"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0070",
+          "doi-asserted-by": "crossref",
+          "first-page": "905",
+          "DOI": "10.1016/j.yjmcc.2004.06.020",
+          "article-title": "Molecular determinants of the physiological adaptation to stress in the cardiomyocyte: a focus on AKT",
+          "volume": "37",
+          "author": "Cecia",
+          "year": "2004",
+          "journal-title": "J. Mol. Cell. Cardiol"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0075",
+          "doi-asserted-by": "crossref",
+          "first-page": "419",
+          "DOI": "10.1016/j.appet.2008.06.005",
+          "article-title": "From Claude Bernard to Walter Cannon. Emergence of the concept of homeostasis",
+          "volume": "51",
+          "author": "Cooper",
+          "year": "2008",
+          "journal-title": "Appetite"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0080",
+          "doi-asserted-by": "crossref",
+          "first-page": "833",
+          "DOI": "10.1038/nrg3055",
+          "article-title": "Controlling gene expression in response to stress",
+          "volume": "12",
+          "author": "de Nadal",
+          "year": "2011",
+          "journal-title": "Nat. Rev. Genet"
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.mam.2016.04.007_bib0085",
+          "doi-asserted-by": "crossref",
+          "first-page": "1195",
+          "DOI": "10.1016/j.pnpbp.2005.08.005",
+          "article-title": "Defining stress as a prelude to mapping its neurocircuitry: no help from allostasis",
+          "volume": "29",
+          "author": "Day",
+          "year": "2005",
+          "journal-title": "Prog. Neuropsychopharmacol Biol. Psychiatry",
+          "ISSN": "https://id.crossref.org/issn/0278-5846",
+          "issn-type": "print"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0090",
+          "doi-asserted-by": "crossref",
+          "first-page": "94",
+          "DOI": "10.1016/j.exger.2012.02.005",
+          "article-title": "Establishing cellular stress response profiles as biomarkers of homeodynamics, health and hormesis",
+          "volume": "48",
+          "author": "Demirovic",
+          "year": "2013",
+          "journal-title": "Exp. Gerontol"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0095",
+          "doi-asserted-by": "crossref",
+          "first-page": "302",
+          "DOI": "10.1038/nature14190",
+          "article-title": "Nutrient-sensing mechanisms and pathways",
+          "volume": "517",
+          "author": "Efeyan",
+          "year": "2015",
+          "journal-title": "Nature"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0100",
+          "doi-asserted-by": "crossref",
+          "first-page": "2375",
+          "DOI": "10.1016/j.bbagen.2012.06.005",
+          "article-title": "Signal transduction pathways, intrinsic regulators, and the control of cell fate choice",
+          "volume": "1830",
+          "author": "Fossett",
+          "year": "2013",
+          "journal-title": "Biochim. Biophys. Acta"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0105",
+          "doi-asserted-by": "crossref",
+          "first-page": "380",
+          "DOI": "10.1177/107385849800400520",
+          "article-title": "Claude Bernard and the constancy of the internal environment",
+          "volume": "4",
+          "author": "Gross",
+          "year": "1998",
+          "journal-title": "Neuroscientist"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0110",
+          "series-title": "Textbook of Medical Physiology",
+          "isbn-type": "print",
+          "author": "Guyton",
+          "year": "1991",
+          "ISBN": "https://id.crossref.org/isbn/0721639941"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0115",
+          "doi-asserted-by": "crossref",
+          "first-page": "300",
+          "DOI": "10.1128/MMBR.66.2.300-372.2002",
+          "article-title": "Osmotic stress signaling and osmoadaptation in yeasts",
+          "volume": "66",
+          "author": "Hohmann",
+          "year": "2002",
+          "journal-title": "Microbiol. Mol. Biol. Rev"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0120",
+          "doi-asserted-by": "crossref",
+          "first-page": "411",
+          "DOI": "10.1038/nrm3801",
+          "article-title": "Cellular mechanisms and physiological consequences of redox-dependent signalling",
+          "volume": "15",
+          "author": "Holmstrom",
+          "year": "2014",
+          "journal-title": "Nat. Rev. Mol. Cell Biol"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0125",
+          "doi-asserted-by": "crossref",
+          "first-page": "969",
+          "DOI": "10.1007/s11033-011-0823-1",
+          "article-title": "Signal transduction during cold, salt, and drought stresses in plants",
+          "volume": "39",
+          "author": "Huang",
+          "year": "2012",
+          "journal-title": "Mol. Biol. Rep"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0130",
+          "doi-asserted-by": "crossref",
+          "first-page": "376",
+          "DOI": "10.1126/science.302.5644.376",
+          "article-title": "HORMESIS sipping from a poisoned chalice",
+          "volume": "302",
+          "author": "Kaiser",
+          "year": "2003",
+          "journal-title": "Science"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0135",
+          "doi-asserted-by": "crossref",
+          "first-page": "89",
+          "DOI": "10.1146/annurev.pharmtox.46.120604.141046",
+          "article-title": "Cell survival responses to environmental stresses via the Keap1-Nrf2-ARE pathway",
+          "volume": "47",
+          "author": "Kensler",
+          "year": "2007",
+          "journal-title": "Annu. Rev. Pharmacol. Toxicol"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0140",
+          "doi-asserted-by": "crossref",
+          "first-page": "225",
+          "DOI": "10.1146/annurev.physiol.67.040403.103635",
+          "article-title": "Molecular and evolutionary basis of the cellular stress response",
+          "volume": "67",
+          "author": "Kültz",
+          "year": "2005",
+          "journal-title": "Annu. Rev. Physiol"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0145",
+          "doi-asserted-by": "crossref",
+          "first-page": "504",
+          "DOI": "10.1016/S0968-0004(01)01908-9",
+          "article-title": "The glucose-regulated proteins: stress induction and clinical applications",
+          "volume": "26",
+          "author": "Lee",
+          "year": "2001",
+          "journal-title": "Trends Biochem. Sci"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0150",
+          "doi-asserted-by": "crossref",
+          "first-page": "513",
+          "DOI": "10.1007/s00244-007-0030-1",
+          "article-title": "Production of ozone and reactive oxygen species after welding",
+          "volume": "53",
+          "author": "Liu",
+          "year": "2007",
+          "journal-title": "Arch. Environ. Contam. Toxicol"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0155",
+          "doi-asserted-by": "crossref",
+          "first-page": "1194",
+          "DOI": "10.1016/j.cell.2013.08.053",
+          "article-title": "The regulation of cell size",
+          "volume": "154",
+          "author": "Lloyd",
+          "year": "2013",
+          "journal-title": "Cell"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0160",
+          "doi-asserted-by": "crossref",
+          "first-page": "17363",
+          "DOI": "10.1074/jbc.M611540200",
+          "article-title": "Roles for the human ATP-dependent Lon protease in mitochondrial DNA maintenance",
+          "volume": "282",
+          "author": "Lu",
+          "year": "2007",
+          "journal-title": "J. Biol. Chem"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0165",
+          "doi-asserted-by": "crossref",
+          "first-page": "401",
+          "DOI": "10.1146/annurev-pharmtox-011112-140320",
+          "article-title": "Role of Nrf2 in oxidative stress and toxicity",
+          "volume": "53",
+          "author": "Ma",
+          "year": "2013",
+          "journal-title": "Annu. Rev. Pharmacol. Toxicol"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0170",
+          "doi-asserted-by": "crossref",
+          "first-page": "18410",
+          "DOI": "10.1073/pnas.1008924107",
+          "article-title": "Mitochondrial Lon protease regulates mitochondrial DNA copy number and transcription by selective degradation of mitochondrial transcription factor A (TFAM)",
+          "volume": "107",
+          "author": "Matsushimaa",
+          "year": "2010",
+          "journal-title": "Proc. Natl. Acad. Sci. U.S.A."
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0180",
+          "series-title": "Hormesis: A Revolution in Biology, Toxicology and Medicine",
+          "first-page": "1",
+          "article-title": "Hormesis: what it is and why it matters",
+          "author": "Mattson",
+          "year": "2014"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0175",
+          "doi-asserted-by": "crossref",
+          "first-page": "171",
+          "DOI": "10.1056/NEJM199801153380307",
+          "article-title": "Protective and damaging effects of stress mediators",
+          "volume": "338",
+          "author": "McEwen",
+          "year": "1998",
+          "journal-title": "N. Engl. J. Med"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0185",
+          "doi-asserted-by": "crossref",
+          "first-page": "1135",
+          "DOI": "10.1152/physrev.1991.71.4.1135",
+          "article-title": "Physiological adaptation to high altitude: oxygen transport in mammals and birds",
+          "volume": "71",
+          "author": "Monge",
+          "year": "1991",
+          "journal-title": "Physiol. Rev"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0190",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1038/msb.2009.83",
+          "article-title": "Strategies for cellular decision-making",
+          "volume": "5",
+          "author": "Perkins",
+          "year": "2009",
+          "journal-title": "Mol. Syst. Biol"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0195",
+          "doi-asserted-by": "crossref",
+          "first-page": "585",
+          "DOI": "10.1042/BJ20100878",
+          "article-title": "The immunoproteasome, the 20S proteasome and the PA28 proteasome regulator are oxidative-stress-adaptive proteolytic complexes",
+          "volume": "432",
+          "author": "Pickering",
+          "year": "2010",
+          "journal-title": "Biochem. J."
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0200",
+          "doi-asserted-by": "crossref",
+          "first-page": "10021",
+          "DOI": "10.1074/jbc.M111.277145",
+          "article-title": "Nrf2 dependent induction of proteasome and Pa28αβ regulator is required for adaptation to oxidative stress",
+          "volume": "287",
+          "author": "Pickering",
+          "year": "2012",
+          "journal-title": "J. Biol. Chem"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0205",
+          "doi-asserted-by": "crossref",
+          "first-page": "543",
+          "DOI": "10.1242/jeb.074757",
+          "article-title": "A conserved role for the 20S proteasome and Nrf2 transcription factor in oxidative-stress adaptation in mammals, C. elegans and D. melanogaster",
+          "volume": "216",
+          "author": "Pickering",
+          "year": "2013",
+          "journal-title": "J. Exp. Biol"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0210",
+          "doi-asserted-by": "crossref",
+          "first-page": "1021",
+          "DOI": "10.1126/science.1170007",
+          "article-title": "Stress response and aging",
+          "volume": "323",
+          "author": "Saunders",
+          "year": "2009",
+          "journal-title": "Science"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0215",
+          "series-title": "The Vanishing Physician-Scientist",
+          "first-page": "29",
+          "author": "Schafer",
+          "year": "2009"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0220",
+          "series-title": "The Stress of Life",
+          "author": "Selye",
+          "year": "1956"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0225",
+          "series-title": "Trauma: Clinical and Biological Aspects",
+          "first-page": "25",
+          "article-title": "Homeostssis and heterostasis",
+          "author": "Selye",
+          "year": "1975"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0230",
+          "series-title": "Hearts and Heart-like Organs",
+          "first-page": "302",
+          "article-title": "The nature of stress and its relation to cardiovascular disease",
+          "author": "Selye",
+          "year": "1980"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0235",
+          "doi-asserted-by": "crossref",
+          "first-page": "560",
+          "DOI": "10.1016/j.cell.2015.10.001",
+          "article-title": "Mitochondrial ROS signaling in organismal homeostasis",
+          "volume": "163",
+          "author": "Shadel",
+          "year": "2015",
+          "journal-title": "Cell"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0240",
+          "first-page": "517",
+          "article-title": "Effects of extract of western red-cedar heartwood on certain wood-decaying fungi in culture",
+          "volume": "33",
+          "author": "Southam",
+          "year": "1943",
+          "journal-title": "Phytopathology"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0245",
+          "series-title": "Handbook of Life Stress, Cognition, and Health",
+          "first-page": "629",
+          "article-title": "Allostasis: A new paradigm to explain arousal pathology",
+          "author": "Sterling",
+          "year": "1988"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0250",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1186/s12929-016-0220-0",
+          "article-title": "Hypoxemic reperfusion of ischemic states: an alternative approach for the attenuation of oxidative stress mediated reperfusion injury",
+          "volume": "23",
+          "author": "Tasoulis",
+          "year": "2016",
+          "journal-title": "J. Biomed. Sci"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0255",
+          "series-title": "Stress, Adaptation, Longévité",
+          "author": "Timiras",
+          "year": "2004"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0260",
+          "doi-asserted-by": "crossref",
+          "first-page": "6223",
+          "DOI": "10.1073/pnas.96.11.6223",
+          "article-title": "Poly-ADP-ribose-polymerase activates nuclear proteasome to degrade oxidatively damaged histones",
+          "volume": "96",
+          "author": "Ullrich",
+          "year": "1999",
+          "journal-title": "Proc. Natl. Acad. Sci. U.S.A."
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0265",
+          "doi-asserted-by": "crossref",
+          "first-page": "737",
+          "DOI": "10.1038/171737a0",
+          "article-title": "A structure for deoxyribose nucleic acid",
+          "volume": "171",
+          "author": "Watson",
+          "year": "1953",
+          "journal-title": "Nature"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0270",
+          "doi-asserted-by": "crossref",
+          "first-page": "1063",
+          "DOI": "10.1152/physrev.1992.72.4.1063",
+          "article-title": "Mammalian stress response: cell physiology, structure/function of stress proteins, and implications for medicine and disease",
+          "volume": "72",
+          "author": "Welch",
+          "year": "1992",
+          "journal-title": "Physiol. Rev"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0275",
+          "doi-asserted-by": "crossref",
+          "first-page": "231",
+          "DOI": "10.1006/abbi.1995.1225",
+          "article-title": "Transient adaptation to oxidative stress in mammalian cells",
+          "volume": "318",
+          "author": "Wiese",
+          "year": "1995",
+          "journal-title": "Arch. Biochem. Biophys"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.mam.2016.04.007_bib0280",
+          "doi-asserted-by": "crossref",
+          "first-page": "807",
+          "DOI": "10.1006/anbe.2003.2298",
+          "article-title": "Control of behavioural strategies for capricious environments",
+          "volume": "66",
+          "author": "Wingfield",
+          "year": "2003",
+          "journal-title": "Anim. Behav"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0285",
+          "doi-asserted-by": "crossref",
+          "first-page": "769",
+          "DOI": "10.1080/03602530600971974",
+          "article-title": "Mechanistic studies of the Nrf2-Keap1 signaling pathway",
+          "volume": "38",
+          "author": "Zhang",
+          "year": "2006",
+          "journal-title": "Drug Metab. Rev"
+        },
+        {
+          "key": "10.1016/j.mam.2016.04.007_bib0290",
+          "doi-asserted-by": "crossref",
+          "first-page": "2038",
+          "DOI": "10.1016/j.freeradbiomed.2012.02.042",
+          "article-title": "Nrf2-regulated phase II enzymes are induced by chronic ambient nanoparticle exposure in young mice with age-related impairments",
+          "volume": "52",
+          "author": "Zhang",
+          "year": "2012",
+          "journal-title": "Free Radic. Biol. Med"
+        },
+        {
+          "issue": "Pt B",
+          "key": "10.1016/j.mam.2016.04.007_bib0295",
+          "doi-asserted-by": "crossref",
+          "first-page": "314",
+          "DOI": "10.1016/j.freeradbiomed.2015.05.036",
+          "article-title": "Oxidative stress response and Nrf2 signaling in aging",
+          "volume": "88",
+          "author": "Zhang",
+          "year": "2015",
+          "journal-title": "Free Radic. Biol. Med"
+        }
+      ],
+      "container-title": [
+        "Molecular Aspects of Medicine"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0098299716300231?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0098299716300231?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2021,
+            5,
+            12
+          ]
+        ],
+        "date-time": "2021-05-12T16:02:27Z",
+        "timestamp": 1620835347000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0098299716300231"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2016,
+            6
+          ]
+        ]
+      },
+      "references-count": 58,
+      "alternative-id": [
+        "S0098299716300231"
+      ],
+      "URL": "https://doi.org/10.1016/j.mam.2016.04.007",
+      "relation": {},
+      "ISSN": [
+        "0098-2997"
+      ],
+      "issn-type": [
+        {
+          "value": "0098-2997",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2016,
+            6
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Adaptive homeostasis",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Molecular Aspects of Medicine",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.mam.2016.04.007",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2016 The Author. Published by Elsevier Ltd.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ]
+    }
+  },
+  "picking": {
+    "worker": "claude-fable-5-1 (Fable 5.1 shown beside the input box on the picking start screen, Claude Max)",
+    "run": "r1",
+    "date": "2026-11-18",
+    "settings": "new chat; no project; memory off; no custom instructions; effort shown as 중간 (medium), with 수동 (manual) shown beside it; no prompt text",
+    "settings_basis": "memory off (chat search and reference off; memory generation off) and empty Claude instructions seen on the account settings screens (12:46 and 12:47 KST), before the start screen; new chat, attachments (instruction shown as 69 lines, PDF), no prompt text, model, effort and plan seen on the picking start screen (12:49 KST); screenshots were shown to the report author in the session and are not kept",
+    "scope": "whole PDF; the worker reported opening printed pages 1–7, none skipped",
+    "run_time": "not shown on screen; start screen 12:49 KST, end screen 12:51 KST",
+    "instruction": "PHILIA_Stage1_Lite_Instruction_EN_v0_3.md",
+    "instruction_sha256_16": "464825c20ecd23df",
+    "picks_file_sha256_16": "c9d92f5b483d0af7"
+  },
+  "verification": {
+    "tool": "philia_verify_v0_10",
+    "tool_sha256_16": "bf45b8b8c68a7e23",
+    "engine": "pdfplumber 0.11.10, with column-wise reading at the page middle and at column gutters found on each page",
+    "environments": 2,
+    "agreement": "26/26 identical (verdict, hash, page, diff, flags)",
+    "summary_picks": {
+      "FOUND": 19,
+      "FOUND_OCR": 3,
+      "TRUNCATED": 0,
+      "PARTIAL": 1,
+      "NOT_FOUND": 0
+    },
+    "summary_uncertain": {
+      "FOUND": 3,
+      "FOUND_OCR": 0,
+      "TRUNCATED": 0,
+      "PARTIAL": 0,
+      "NOT_FOUND": 0
+    },
+    "remaining": "FOUND_OCR c01, c11, c15: on the page images a hyphen stands at a line end in the source ('short-' then 'term' on printed page 1; 'post-' then 'translational' and 'non-' then 'damaging' on printed page 5); in the text layer the hyphen is missing and the transcription keeps it. PARTIAL c10: on the page images the sentence starts at the foot of the right column of printed page 4 and continues at the top of the left column of page 5; in the text layer the running head of page 5 lies between the two parts; the computed page is the start page, equal to the worker's. No page mismatch, no format flag. The verifier was not changed in this round (researcher decision).",
+    "meaning": "verdict answers whether the sentence is in the PDF text layer; it does not answer whether spelling matches the printed page"
+  },
+  "fields": {
+    "kind": "pick = selected; uncertain = the worker was unsure the sentence meets the task",
+    "text_masked": "first and last word of the sentence as transcribed by the worker; the rest is withheld",
+    "words": "number of words in the withheld sentence",
+    "hash": "sha256 (16) of the normalized sentence text as transcribed by the worker",
+    "page_claimed": "present only when the worker's page differs from the computed page",
+    "citations": "author–year references in the sentence, one entry per reference; ref is the reference as printed in the sentence. This article cites by author and year, and its printed reference list carries no DOIs. crossref_key is set only where the first author's surname and the year match exactly one entry in reference in source_record_crossref and that entry's article title appears in the printed reference list (code check); doi is the DOI of that entry. Otherwise crossref_key and doi are null. Only c04 carries references in this record; all four are keyed"
+  },
+  "items": [
+    {
+      "id": "c01",
+      "kind": "pick",
+      "printed_page": 1,
+      "pdf_page": 1,
+      "text_masked": "Nevertheless, … capacity.",
+      "words": 46,
+      "hash": "8d7f464d16b26830",
+      "verdict": "FOUND_OCR",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c02",
+      "kind": "pick",
+      "printed_page": 1,
+      "pdf_page": 1,
+      "text_masked": "These … descriptors.",
+      "words": 37,
+      "hash": "5ea047a784ec9863",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c03",
+      "kind": "pick",
+      "printed_page": 1,
+      "pdf_page": 1,
+      "text_masked": "Adaptive … events.’",
+      "words": 37,
+      "hash": "2eaf8e6ce9d7ee93",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c04",
+      "kind": "pick",
+      "printed_page": 4,
+      "pdf_page": 4,
+      "text_masked": "Despite … 1992).",
+      "words": 81,
+      "hash": "f379d43afced219d",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "de Nadal et al., 2011",
+          "crossref_key": "10.1016/j.mam.2016.04.007_bib0080",
+          "doi": "10.1038/nrg3055"
+        },
+        {
+          "ref": "Kültz, 2005",
+          "crossref_key": "10.1016/j.mam.2016.04.007_bib0140",
+          "doi": "10.1146/annurev.physiol.67.040403.103635"
+        },
+        {
+          "ref": "Saunders and Verdin, 2009",
+          "crossref_key": "10.1016/j.mam.2016.04.007_bib0210",
+          "doi": "10.1126/science.1170007"
+        },
+        {
+          "ref": "Welch, 1992",
+          "crossref_key": "10.1016/j.mam.2016.04.007_bib0270",
+          "doi": "10.1152/physrev.1992.72.4.1063"
+        }
+      ]
+    },
+    {
+      "id": "c05",
+      "kind": "pick",
+      "printed_page": 4,
+      "pdf_page": 4,
+      "text_masked": "Similarly, … homeostasis.",
+      "words": 14,
+      "hash": "17d4d46e9d9fa26e",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c06",
+      "kind": "pick",
+      "printed_page": 4,
+      "pdf_page": 4,
+      "text_masked": "Instead, … section.",
+      "words": 40,
+      "hash": "4b22f9442443aa52",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c07",
+      "kind": "pick",
+      "printed_page": 4,
+      "pdf_page": 4,
+      "text_masked": "In … organisms.",
+      "words": 25,
+      "hash": "9252e36547a6a587",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c08",
+      "kind": "pick",
+      "printed_page": 4,
+      "pdf_page": 4,
+      "text_masked": "Indeed, … etc.",
+      "words": 23,
+      "hash": "e5a9778a8cca5f22",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c09",
+      "kind": "pick",
+      "printed_page": 4,
+      "pdf_page": 4,
+      "text_masked": "Since … hormesis.",
+      "words": 30,
+      "hash": "0010b4466d195813",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c10",
+      "kind": "pick",
+      "printed_page": 4,
+      "pdf_page": 4,
+      "text_masked": "It … exercise.",
+      "words": 31,
+      "hash": "8a7a8838f040472c",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c11",
+      "kind": "pick",
+      "printed_page": 5,
+      "pdf_page": 5,
+      "text_masked": "These … expression.",
+      "words": 20,
+      "hash": "571e6aaca0c551d7",
+      "verdict": "FOUND_OCR",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c12",
+      "kind": "pick",
+      "printed_page": 5,
+      "pdf_page": 5,
+      "text_masked": "Essentially, … necessary.",
+      "words": 27,
+      "hash": "47e40ede9a3ee3b1",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c13",
+      "kind": "pick",
+      "printed_page": 5,
+      "pdf_page": 5,
+      "text_masked": "Thus, … hormesis.",
+      "words": 34,
+      "hash": "56adb2d961088064",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c14",
+      "kind": "pick",
+      "printed_page": 5,
+      "pdf_page": 5,
+      "text_masked": "I … capability.",
+      "words": 16,
+      "hash": "c5cc6fc854725f24",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c15",
+      "kind": "pick",
+      "printed_page": 5,
+      "pdf_page": 5,
+      "text_masked": "I … events.’",
+      "words": 39,
+      "hash": "6758db5e6cf241ea",
+      "verdict": "FOUND_OCR",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c16",
+      "kind": "pick",
+      "printed_page": 5,
+      "pdf_page": 5,
+      "text_masked": "This … Homeostasis.",
+      "words": 40,
+      "hash": "875f120caed14c93",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c17",
+      "kind": "pick",
+      "printed_page": 5,
+      "pdf_page": 5,
+      "text_masked": "Similarly, … agent.",
+      "words": 32,
+      "hash": "9e5c98dc8b004075",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c18",
+      "kind": "pick",
+      "printed_page": 5,
+      "pdf_page": 5,
+      "text_masked": "Negative … event.",
+      "words": 22,
+      "hash": "5736637c546e4ec7",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c19",
+      "kind": "pick",
+      "printed_page": 5,
+      "pdf_page": 5,
+      "text_masked": "In … Homeostasis.",
+      "words": 44,
+      "hash": "403e1f8e755b9f4c",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c20",
+      "kind": "pick",
+      "printed_page": 6,
+      "pdf_page": 6,
+      "text_masked": "Therefore, … 4).",
+      "words": 46,
+      "hash": "54b552458a113fbd",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c21",
+      "kind": "pick",
+      "printed_page": 6,
+      "pdf_page": 6,
+      "text_masked": "Positive … condition.",
+      "words": 23,
+      "hash": "247fad7eb5805c72",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c22",
+      "kind": "pick",
+      "printed_page": 6,
+      "pdf_page": 6,
+      "text_masked": "Negative … condition.",
+      "words": 25,
+      "hash": "79bc5ef22b2c63f0",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c23",
+      "kind": "pick",
+      "printed_page": 6,
+      "pdf_page": 6,
+      "text_masked": "Negative … conditions.",
+      "words": 21,
+      "hash": "abece41488d95fc8",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "u01",
+      "kind": "uncertain",
+      "printed_page": 3,
+      "pdf_page": 3,
+      "text_masked": "The … systems.",
+      "words": 48,
+      "hash": "05469e81c2431177",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "u02",
+      "kind": "uncertain",
+      "printed_page": 3,
+      "pdf_page": 3,
+      "text_masked": "The … 3).",
+      "words": 19,
+      "hash": "fef30f02b0208003",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "u03",
+      "kind": "uncertain",
+      "printed_page": 5,
+      "pdf_page": 5,
+      "text_masked": "Thus, … proteome.",
+      "words": 41,
+      "hash": "c698aa668eaa3511",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    }
+  ]
+}

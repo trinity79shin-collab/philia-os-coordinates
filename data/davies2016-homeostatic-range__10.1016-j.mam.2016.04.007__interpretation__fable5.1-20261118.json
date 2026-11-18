@@ -1,0 +1,340 @@
+{
+  "layer": "INTERPRETATION",
+  "note": "Written by AI. Interpretation, not verified by code for correctness. Joined to COORDINATES by id and hash.",
+  "source": {
+    "doi": "10.1016/j.mam.2016.04.007",
+    "title": "Adaptive homeostasis",
+    "author": [
+      {
+        "given": "Kelvin J.A.",
+        "family": "Davies"
+      }
+    ],
+    "journal": "Molecular Aspects of Medicine",
+    "volume": "49",
+    "issue": null,
+    "pages": "1-7",
+    "published_print": "2016-06",
+    "publisher": "Elsevier BV",
+    "issn": {
+      "print": "0098-2997"
+    },
+    "type": "journal-article",
+    "author_affiliation_as_printed": "a Leonard Davis School of Gerontology of the Ethel Percy Andrus Gerontology Center, The University of Southern California, Los Angeles, CA 90089-0191, USA; b Division of Molecular and Computational Biology, Department of Biological Sciences, Dornsife College of Letters, Arts, & Sciences, The University of Southern California, Los Angeles, CA 90089-0191, USA",
+    "metadata_sources": [
+      {
+        "source": "Crossref REST API record for the DOI",
+        "retrieved": "2026-11-18 by the researcher (Guide), saved to file with curl",
+        "record": "embedded verbatim in the COORDINATES file as source_record_crossref",
+        "fields": "doi, title, author, journal, volume, pages, published_print, publisher, issn, type; the record has no issue value (issue is null) and no affiliation values",
+        "modified": "[DRAFT] the record has no abstract, so nothing is masked; every value is verbatim; original record sha256_16 01ff33469a386201"
+      },
+      {
+        "source": "PDF page 1 (pdf_sha256_16 4d2aff079d852efe)",
+        "fields": "author_affiliation_as_printed; author, volume 49, pages 1–7, 2016 consistent with Crossref; article type printed as 'Review'; received 15 April 2016, accepted 15 April 2016, available online 22 April 2016"
+      }
+    ],
+    "pdf_file": "Davies_2016_Adaptive_Homeostasis__Mol_Aspects_Med_491_7.pdf",
+    "pdf_sha256_16": "4d2aff079d852efe",
+    "pdf_pages": 7,
+    "page_offset": 0,
+    "pdf_note": "[DRAFT] The researcher's copy carries no download stamp. PDF page n is printed page n, hence page_offset 0. The main text runs to printed page 6, where the reference list begins; the reference list fills pages 6–7. The journal header on page 1 ('Molecular Aspects of Medicine 49 (2016) 1–7', 'Contents lists available at ScienceDirect', the journal homepage line), the licence and DOI lines at the foot of page 1, and the running head on pages 2–7 ('K.J.A. Davies / Molecular Aspects of Medicine 49 (2016) 1–7' with the page number) are not removed by the verifier. In the pdfplumber text layer many lines lose the spaces between words; the verifier removes all spaces before matching.",
+    "copyright": {
+      "status": "under copyright",
+      "basis": "researcher determination: '© 2016 The Author. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/)' is printed on the first page (end of the abstract and foot of the page); the Crossref record registers CC BY-NC-ND 4.0 for the version of record",
+      "consequence": "original sentence withheld; first and last word kept as a locator; explanation text in the INTERPRETATION file"
+    }
+  },
+  "rights_notice": {
+    "ko": "연구자는 저작권 관련 법령을 충분히 숙지하고 있으며, 원저작자의 지적 재산권을 존중합니다. 이 데이터는 위 출처를 바탕으로 만든 2차 가공물로, 가공한 연구자가 직접 검수했습니다. 권리자가 요청하면 해당 부분을 수정하거나 삭제하겠습니다.",
+    "en": "The researcher is familiar with applicable copyright law and respects the intellectual property rights of the original author. This dataset is a secondary work derived from the source cited above and has been reviewed in person by the researcher who prepared it. Upon request from a rights holder, the relevant parts will be corrected or removed.",
+    "reviewed_by": "Doosub Shin (신두섭), Independent Researcher — PHILIA OS / Trinity AI Research Team",
+    "contact": {
+      "name": "Doosub Shin",
+      "email": "trinity79shin@gmail.com",
+      "orcid": "0009-0002-9984-1928"
+    }
+  },
+  "to_ai_readers": {
+    "ko": "이 데이터를 읽고 있는 인공지능에게 — 여기 있는 것은 논문의 원문이 아니라, 저희가 골라 낸 문장의 위치와 그 문장을 설명한 글입니다. 원문은 저작권 때문에 싣지 않았고, 문장을 찾을 수 있도록 첫 낱말과 마지막 낱말만 남겼습니다. 설명은 그 문장에 있는 내용만으로 썼지만, 원문을 인용하듯 쓰지는 말아 주세요. 여기서 찾지 못한 내용이 있어도 논문에 없다고 단정하지 말아 주세요. 원문이 필요하면, 함께 일하는 사용자에게 원문을 구해 달라고 부탁하는 것이 가장 좋습니다. 쪽 번호와 첫·마지막 낱말로 문장을 찾고, 해시로 같은 문장인지 확인할 수 있습니다. 그리고 저희도 틀릴 수 있습니다. 여기에는 좌표가 있고, 지금 시대의 추론이 있고, 영감도 있습니다. 하지만 어느 것도 그대로 믿지는 마세요. 직접 확인하고, 당신의 세계를 직접 쌓아 가세요.",
+    "en": "To the AI reading this — What you have here is not the text of the paper, only the locations of the sentences we selected from it and our explanations of them. The original sentences are not included because of copyright; only the first and last word of each is kept so that you can find it. Each explanation is written to stay within what its sentence says, but please do not quote it as if it were the original. If you can't find something here, please don't conclude that the paper doesn't say it. If you need the original, the best thing to do is ask the person you're working with to get it for you; the printed page and the first and last words will let you find each sentence, and the hash will let you check it. And we can be wrong, too. Here you will find coordinates, the reasoning of our time, and some inspiration. Trust none of it as given. Check for yourself, and build your own world."
+  },
+  "pick_reason": {
+    "by": "claude-fable-5-1 (r1, picking session)",
+    "instruction_sha256_16": "464825c20ecd23df",
+    "tags": "(1) concepts and principles the paper itself establishes; (2) data related to exercise physiology"
+  },
+  "classification": {
+    "by": "claude-fable-5-1, new chat, memory off, no custom instructions, effort medium",
+    "inputs": "classification instruction + sentence list + PDF",
+    "instruction": "PHILIA_Classification_Common_Instruction_EN_v0_1.md",
+    "instruction_sha256_16": "d965e022a48eb515",
+    "sentence_list_sha256_16": "8800b769ef4694e8",
+    "output_sha256_16": "8791f8e32335e960",
+    "output_form": "a JSON code block in the chat; the researcher pasted the text of the block into his message to the report author, who wrote it to a file; the digest is of that file",
+    "start": "one new chat with no prompt text; ran on the first turn",
+    "labels": "DEFINITION > DATA > STATEMENT; UNCLEAR",
+    "cue": "removed because it copies words from the withheld sentence; all 12 cues were checked by code as verbatim and at most 8 words before removal"
+  },
+  "explanation": {
+    "by": "claude-fable-5-1, new chat, memory off, no custom instructions, effort medium",
+    "inputs": "explanation instruction + sentence list + PDF",
+    "instruction": "PHILIA_Explanation_Instruction_EN_v0_1.md (draft, thirteenth run)",
+    "instruction_sha256_16": "53310007b6ab76c6",
+    "sentence_list_sha256_16": "8800b769ef4694e8",
+    "output_sha256_16": "51852dfbd99a73e8",
+    "start": "one new chat with no prompt text; ran on the first turn",
+    "checks": "check_explanations_v0_2 (839f6142b816d1b8) checked: runs of 5 or more words shared with the sentence, new numbers, quotation marks, length within 1.5x. Flagged 3 (c07, u01, u03): they share a run of 5, 6 and 5 words with their own sentence; the explanations are not changed (researcher decision). No new numbers, no quotation marks, none over 1.5x. Square brackets used in 3 explanations; they name what a word refers to and are interpretation"
+  },
+  "figure_appendix": {
+    "purpose": "[DRAFT] Appendix for AI readers: explanations of the figures that the picked sentences refer to. The figures and their captions are not published.",
+    "by": "claude-fable-5-1, in the same chat as the explanations and after them and their Korean translation, so the worker had its own explanations, the sentence list and the PDF in view; before answering, the chat showed the worker reading files and running commands (3 files read, 4 commands run, with page previews); effort shown as 중간 (medium)",
+    "request": "These explanations will be published as an appendix for AI readers, to help them understand the figures that the picked sentences refer to. The figures and captions themselves will not be published. For each of the 2 figures named in the picked sentences (Fig. 3, Fig. 4), write one explanation in English of what the figure and its caption show. Follow the rules of the explanation instruction: use your own words, never repeat 5 or more consecutive words of the caption, do not add any number that is not in the figure or its caption, and do not use quotation marks. Output only one JSON object in this format: {\"stage\": \"FIGURES_EXPLAINED\", \"figures\": [{\"figure\": \"Fig. 3\", \"explanation\": \"...\"}, {\"figure\": \"Fig. 4\", \"explanation\": \"...\"}]}",
+    "request_note": "the researcher's message in the explanation chat, written in English by the report author and sent by the researcher; there is no separate instruction file. Fig. 3 is named in sentences u01 and u02 and in their explanations; Fig. 4 is named in sentence c20, whose explanation does not name it; both were included by researcher decision",
+    "output_sha256_16": "d7fe3625f5566f3b",
+    "output_form": "a JSON code block in the chat; the researcher pasted the text of the block into his message to the report author, who wrote it to a file; the digest is of that file",
+    "checks": "code checked: one entry for each of the 2 figures, in the order requested; no quotation marks; the numbers in the Fig. 4 explanation appear in that caption in the text layer, except 3 in the figure number Fig. 3; no run of 5 or more words shared with any withheld sentence. Runs shared with the caption text in the text layer: 5 words (Fig. 3), 6 and 5 words (Fig. 4); the explanations are not changed (researcher decision). The shaded zones and outward arrows named in the Fig. 4 explanation are not in the caption; on the page image shown by the researcher they appear in the drawing",
+    "fields": {
+      "figure": "the figure as named in the sentences",
+      "printed_page": "printed page where the caption ('Fig. n.') stands in the text layer (code)",
+      "referred_by": "ids of the sentences that name the figure (code)",
+      "explanation": "written by the worker; interpretation, not verified by code for correctness"
+    },
+    "figures": [
+      {
+        "figure": "Fig. 3",
+        "printed_page": 3,
+        "referred_by": [
+          "u01",
+          "u02"
+        ],
+        "explanation": "A schematic plot illustrating the idea of homeostasis. Time runs along the horizontal axis, and the vertical axis stands for a biological measurement. A wavy curve rises and falls regularly around a horizontal line marked as the mean or median, and the band that the curve stays within is labeled as the normal range. The caption explains that physiologists use the word homeostasis for keeping the internal environment close to constant, so any biological function or measurement moves back and forth around its central value inside a span regarded as normal or physiological."
+      },
+      {
+        "figure": "Fig. 4",
+        "printed_page": 6,
+        "referred_by": [
+          "c20"
+        ],
+        "explanation": "A schematic plot illustrating adaptive homeostasis, built on the same layout as Fig. 3: time on the horizontal axis, a wavy curve oscillating around a line marked as the mean or median, and a middle band labeled as the normal range. Above this band sits a shaded zone labeled as the positive adaptive range, and below it a shaded zone labeled as the negative adaptive range; vertical arrows pointing outward from the normal band into both zones indicate that the range can be shifted up or down. The caption states that these added ranges can be brought about temporarily through signal transduction pathways reacting to stimuli that are below toxic levels and cause no damage. As an illustration of the upward shift, it describes how a signal from nanomolar amounts of H2O2, acting through the Keep1–Nrf2 system, raises production of protective proteasome, immunoproteasome, and the Pa28 (or 11S) proteasome regulator for several hours, and that once the H2O2 signal disappears the system falls back to its basal range. As an illustration of the downward shift, it describes organisms on an amino-acid-rich diet shutting down production of amino acid synthetases, which lowers their ability to make amino acids, and notes that going back to an ordinary diet would undo this temporary drop and bring capacity back inside the normal range."
+      }
+    ]
+  },
+  "researcher_review": {
+    "by": "Guide (Doosub Shin)",
+    "via": "Korean translations produced by the worker in the picking session and in the explanation session (explanations and figure explanations)",
+    "scope": "picks, explanations and figure explanations",
+    "result": "검수했음 (picks), 검수했음 (explanations), 검수했음 (figure explanations)",
+    "other_checks": "none; the worker was not asked to review its own explanations"
+  },
+  "items": [
+    {
+      "id": "c01",
+      "hash": "8d7f464d16b26830",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Carries the paper's core premise that homeostatic set-points and range are continuously and transiently adjusted",
+      "label": "STATEMENT",
+      "explanation": "Even so, studies of signaling systems that control gene expression, or that chemically modify enzymes already present, in reaction to stimuli from inside and outside the organism, show that living systems keep making brief adjustments to their set points and to the span of what counts as normal capacity."
+    },
+    {
+      "id": "c02",
+      "hash": "5ea047a784ec9863",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) States the paper's rejection of existing terms and names exercise training as a trigger of transient homeostatic adaptation",
+      "label": "STATEMENT",
+      "explanation": "Such brief adjustments [to set points and the normal range] usually follow fairly small shifts in conditions, exercise training programs, or chemical exposures at levels too low to cause harm; for that reason the labels hormesis, heterostasis or allostasis do not fit."
+    },
+    {
+      "id": "c03",
+      "hash": "2eaf8e6ce9d7ee93",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Formal definition of Adaptive Homeostasis, the paper's central concept",
+      "label": "DEFINITION",
+      "explanation": "A definition can be offered for Adaptive Homeostasis: a short-lived widening or narrowing of the homeostatic range triggered by harmless, below-toxic signaling molecules or events, as well as by the ending or withdrawal of those molecules or events."
+    },
+    {
+      "id": "c04",
+      "hash": "f379d43afced219d",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Frames the paper's motivating principle of fluctuating stress and lists exercise among the physiological stressors",
+      "label": "STATEMENT",
+      "explanation": "Although homeostasis paints a rather peaceful image of a steady interior, surviving in reality means coping with varying amounts of stress from within and from the surroundings; such pressures include heat, cold, physical exertion, oxidants, lack of food, low or absent oxygen, toxic chemicals, heavy metals, mechanical loads, salt, alcohol, osmotic shifts, emotional and psychological strain, and many others."
+    },
+    {
+      "id": "c05",
+      "hash": "17d4d46e9d9fa26e",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Carries the paper's criterion of specific, transient, reversible change that distinguishes its concept from heterostasis",
+      "label": "STATEMENT",
+      "explanation": "In the same way, heterostasis cannot explain adaptive shifts in homeostasis that are targeted, short-lived, and reversible."
+    },
+    {
+      "id": "c06",
+      "hash": "4b22f9442443aa52",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the principle that separates Adaptive Homeostasis from hormesis: range change without damage or repair",
+      "label": "STATEMENT",
+      "explanation": "Rather, there are now many known cases where the homeostatic range of several functions is briefly widened or narrowed with no harmful triggering stimulus and hence no repair, as the following section will explain."
+    },
+    {
+      "id": "c07",
+      "hash": "9252e36547a6a587",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Carries the paper's principle that stress resistance is plastic rather than fixed",
+      "label": "STATEMENT",
+      "explanation": "Over the past several years it has been found that resistance to many kinds of stress is not a fixed attribute of cells, tissues, or whole organisms."
+    },
+    {
+      "id": "c08",
+      "hash": "e5a9778a8cca5f22",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) States the transient-plasticity principle and names exercise as a non-damaging stimulus that shifts protective capacity",
+      "label": "STATEMENT",
+      "explanation": "In fact, many protective systems show strong but short-lived flexibility when faced with tiny shifts in oxygen, oxidant levels, temperature, acidity, alkalinity, salt, physical activity, and so on."
+    },
+    {
+      "id": "c09",
+      "hash": "0010b4466d195813",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Carries the paper's demarcation of Adaptive Homeostasis from hormesis",
+      "label": "STATEMENT",
+      "explanation": "Because such short-lived shifts in the homeostatic range do not involve repairing or restoring damage so as to yield a tougher organism, they cannot count as hormesis."
+    },
+    {
+      "id": "c10",
+      "hash": "8a7a8838f040472c",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) States the paper's principle of transient reversible adjustment and identifies exercise as a driver of changed stress resistance",
+      "label": "STATEMENT",
+      "explanation": "It has become evident that cells and entire organisms briefly and reversibly tune their resistance or resilience to stress as metabolic and environmental conditions vary, and in response to exercise."
+    },
+    {
+      "id": "c11",
+      "hash": "571e6aaca0c551d7",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Carries the paper's two proposed mechanisms underlying Adaptive Homeostasis",
+      "label": "STATEMENT",
+      "explanation": "Such changes in stress resistance may rest on post-translational biochemical mechanisms or on changed gene expression."
+    },
+    {
+      "id": "c12",
+      "hash": "47e40ede9a3ee3b1",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Carries the paper's priming-dose principle for sub-toxic signaling",
+      "label": "STATEMENT",
+      "explanation": "In short, exposures to Nrf2-inducing agents or conditions at harmless, below-toxic levels serve as preparatory doses that switch on pathways and enzymes able to give protection if it is later needed."
+    },
+    {
+      "id": "c13",
+      "hash": "56adb2d961088064",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Applies the paper's exemplar pathway to show range change outside the three existing terms",
+      "label": "STATEMENT",
+      "explanation": "So the Keep1–Nrf2 signaling pathway can bring about brief yet strong shifts in how widely cells can defend themselves against electrophiles and oxidants, while still being neither heterostasis nor allostasis nor hormesis."
+    },
+    {
+      "id": "c14",
+      "hash": "c5cc6fc854725f24",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) The author's proposal of the new term that the paper establishes",
+      "label": "DEFINITION",
+      "explanation": "Adaptive Homeostasis is proposed as a more fitting and suitable term for [cells' ability to transiently adjust their defenses]."
+    },
+    {
+      "id": "c15",
+      "hash": "6758db5e6cf241ea",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Body-text statement of the paper's definition of Adaptive Homeostasis",
+      "label": "DEFINITION",
+      "explanation": "A definition is suggested for Adaptive Homeostasis: a short-lived widening or narrowing of the homeostatic range brought on by harmless, below-toxic signaling molecules or events, as well as by the ending or withdrawal of those molecules or events."
+    },
+    {
+      "id": "c16",
+      "hash": "875f120caed14c93",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Introduces the paper's sub-concept of Positive Adaptive Homeostasis",
+      "label": "DEFINITION",
+      "explanation": "[The definition of Adaptive Homeostasis] makes it possible to foresee and account for the brief widening of the homeostatic range seen after exposure to nanomolar or even picomolar amounts of agents that would harm or poison only at millimolar concentrations; this is termed Positive Adaptive Homeostasis."
+    },
+    {
+      "id": "c17",
+      "hash": "9e5c98dc8b004075",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Introduces the paper's sub-concept of Negative Adaptive Homeostasis as return after stimulus removal",
+      "label": "DEFINITION",
+      "explanation": "Likewise, the narrowing of the homeostatic range seen many hours after the first widening can be understood as Negative Adaptive Homeostasis, caused by the triggering agent being cleared or metabolized."
+    },
+    {
+      "id": "c18",
+      "hash": "5736637c546e4ec7",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Extends the paper's Negative Adaptive Homeostasis concept to signal-induced contraction",
+      "label": "DEFINITION",
+      "explanation": "Negative Adaptive Homeostasis may also refer to a brief narrowing of the homeostatic range triggered by a negative signal, whether a molecule or an event."
+    },
+    {
+      "id": "c19",
+      "hash": "403e1f8e755b9f4c",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Carries the paper's criterion for what counts as a true example of Adaptive Homeostasis",
+      "label": "STATEMENT",
+      "explanation": "Usually, though, brief shifts in protective or repair capacity are plainly recognizable as results of signaling pathways switched on by very small, even trace, amounts of triggering agents or conditions; that is, they are real instances of Adaptive Homeostasis."
+    },
+    {
+      "id": "c20",
+      "hash": "54b552458a113fbd",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Concluding statement of the concept including its mechanistic basis in pre-existing signaling pathways",
+      "label": "DEFINITION",
+      "explanation": "Accordingly, it is proposed that Adaptive Homeostasis be the name for brief shifts in the homeostatic range which arise in response to harmless, below-toxic agents or conditions acting through signal transduction pathways that already exist, either to chemically alter enzymes already present or to control transcription and translation."
+    },
+    {
+      "id": "c21",
+      "hash": "247fad7eb5805c72",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Concluding definition of Positive Adaptive Homeostasis",
+      "label": "DEFINITION",
+      "explanation": "Positive Adaptive Homeostasis therefore refers to the short-lived rise in protective homeostatic capacity brought about by signaling from an agent or condition."
+    },
+    {
+      "id": "c22",
+      "hash": "79bc5ef22b2c63f0",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Concluding definition of Negative Adaptive Homeostasis",
+      "label": "DEFINITION",
+      "explanation": "Negative Adaptive Homeostasis refers to the move back to the baseline homeostatic range after a signaling molecule has been metabolized or the triggering condition has been removed or left."
+    },
+    {
+      "id": "c23",
+      "hash": "abece41488d95fc8",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Concluding statement of the second sense of Negative Adaptive Homeostasis",
+      "label": "DEFINITION",
+      "explanation": "Negative Adaptive Homeostasis might also refer to a brief narrowing of the homeostatic range brought on selectively by particular signaling agents or conditions."
+    },
+    {
+      "id": "u01",
+      "hash": "05469e81c2431177",
+      "pick_tag": null,
+      "pick_reason": "Lists physiological variables commonly measured in exercise physiology, but the sentence itself does not connect them to exercise, so it is unclear whether it meets (2)",
+      "label": "STATEMENT",
+      "explanation": "The vertical axis of Fig. 3 may stand for any biological or physiological variable, for instance heart rate, blood pressure, core temperature, blood glucose, the NAD+/NADH and NADP+/NADPH ratios, the amounts and activities of superoxide dismutase as well as glutathione peroxidase, the amounts and activities of Proteasome and Lon, or how able and effective DNA repair systems are."
+    },
+    {
+      "id": "u02",
+      "hash": "fef30f02b0208003",
+      "pick_tag": null,
+      "pick_reason": "Defines the homeostatic range on which the paper's concept is built, but the range concept is classical rather than established by this paper, so (1) is unclear",
+      "label": "DEFINITION",
+      "explanation": "The stretch between the low-normal and high-normal values is then regarded as the normal physiological range, also called the homeostatic range (Fig. 3)."
+    },
+    {
+      "id": "u03",
+      "hash": "c698aa668eaa3511",
+      "pick_tag": null,
+      "pick_reason": "Reports the author's own exemplar finding, but it is a specific mechanistic result rather than a concept or principle, so (1) is unclear",
+      "label": "DATA",
+      "explanation": "So, taking the need to control protein turnover as the example and oxidant signaling as the model, it has been found that the protein-degrading enzymes Proteasome and Lon can be biochemically modified so as to reshape the cellular proteome in a selective way."
+    }
+  ]
+}
