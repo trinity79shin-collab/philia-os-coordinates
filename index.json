@@ -343,6 +343,34 @@
           "bytes": 24894
         }
       }
+    },
+    {
+      "doi": "10.1016/j.mam.2016.04.007",
+      "title": "Adaptive homeostasis",
+      "author": "Kelvin J.A. Davies",
+      "published_print": "2016-06",
+      "worker": "claude-fable-5-1",
+      "run_date": "2026-11-18",
+      "items": 26,
+      "pdf_sha256_16": "4d2aff079d852efe",
+      "copyright": "under copyright: sentence text withheld (first and last word kept); explanations in the interpretation file",
+      "floor": 2,
+      "connects": [
+        "10.1152/advan.00012.2004",
+        "10.1152/physrev.00054.2021"
+      ],
+      "files": {
+        "coordinates": {
+          "path": "data/davies2016-homeostatic-range__10.1016-j.mam.2016.04.007__coordinates__fable5.1-20261118.json",
+          "sha256": "b1b7e216f472bc10131cfdb5728885585c845c5cfa05457984c764e95cd3b9be",
+          "bytes": 46134
+        },
+        "interpretation": {
+          "path": "data/davies2016-homeostatic-range__10.1016-j.mam.2016.04.007__interpretation__fable5.1-20261118.json",
+          "sha256": "b1b528b977f95c1102515475bf84183c6c885a358d45e2d73aa35f4fd0a3cf14",
+          "bytes": 26674
+        }
+      }
     }
   ],
   "file_naming": "<author+year>-<keyword>__<DOI with / as ->__<layer>__<worker>-<run date>.json",
