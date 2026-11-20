@@ -1,0 +1,1652 @@
+{
+  "layer": "COORDINATES",
+  "note": "Produced and verified by code. No AI judgment in this file except the sentence choice itself and its transcription. The sentence text is withheld; only its first and last word are kept.",
+  "source": {
+    "doi": "10.1152/japplphysiol.00495.2010",
+    "title": "Heat acclimation improves exercise performance",
+    "author": [
+      {
+        "given": "Santiago",
+        "family": "Lorenzo"
+      },
+      {
+        "given": "John R.",
+        "family": "Halliwill"
+      },
+      {
+        "given": "Michael N.",
+        "family": "Sawka"
+      },
+      {
+        "given": "Christopher T.",
+        "family": "Minson"
+      }
+    ],
+    "journal": "Journal of Applied Physiology",
+    "volume": "109",
+    "issue": "4",
+    "pages": "1140-1147",
+    "published_print": "2010-10",
+    "publisher": "American Physiological Society",
+    "issn": {
+      "print": "8750-7587",
+      "electronic": "1522-1601"
+    },
+    "type": "journal-article",
+    "metadata_sources": [
+      {
+        "source": "Crossref REST API record for the DOI",
+        "retrieved": "2026-11-20 by the researcher (Guide), saved to file with curl",
+        "record": "embedded verbatim in the COORDINATES file as source_record_crossref",
+        "fields": "doi, title, author, journal, volume, issue, pages, published_print, publisher, issn, type",
+        "modified": "[DRAFT] the 311-word abstract is masked as one unit to its first and last word under the masking rule for copyrighted sources; it contains withheld sentences c02, c04, c05, c06 whole and long runs of c01, c03 and c17 (code check); every other value is verbatim; original record sha256_16 71542f17beb674aa"
+      },
+      {
+        "source": "PDF page 1 (pdf_sha256_16 34dbe83c117216a8)",
+        "fields": "authors, affiliations, volume 109, pages 1140–1147, 2010 consistent with Crossref; first published August 19, 2010; submitted 6 May 2010, accepted in final form 18 August 2010"
+      }
+    ],
+    "pdf_file": "lorenzo-et-al-2010-heat-acclimation-improves-exercise-performance.pdf",
+    "pdf_sha256_16": "34dbe83c117216a8",
+    "pdf_pages": 8,
+    "page_offset": 1139,
+    "pdf_note": "[DRAFT] Every page of the researcher's copy carries a download stamp (site, IP address, date). Another copy of the same article will have a different file hash. The stamp is excluded from verification; sentence hashes do not depend on the PDF file. PDF page 1 is printed page 1140, hence page_offset 1139. The main text runs to printed page 1147, where the reference list begins and fills the page. The running head ('HEAT ACCLIMATION IMPROVES EXERCISE PERFORMANCE' with the page number) and the page footer line ('J Appl Physiol • VOL 109 • OCTOBER 2010 • www.jap.org'; on page 1140 the page number and 'http://www.jap.org') are not removed by the verifier. In the pdfplumber text layer the signs ±, =, <, > and the minus sign appear as (cid:n) codes.",
+    "copyright": {
+      "status": "under copyright",
+      "basis": "researcher determination: the article was published in 2010; no copyright notice is printed in the PDF (text layer and first-page image checked); the Crossref record carries no license",
+      "consequence": "original sentence withheld; first and last word kept as a locator; explanation text in the INTERPRETATION file"
+    }
+  },
+  "rights_notice": {
+    "ko": "연구자는 저작권 관련 법령을 충분히 숙지하고 있으며, 원저작자의 지적 재산권을 존중합니다. 이 데이터는 위 출처를 바탕으로 만든 2차 가공물로, 가공한 연구자가 직접 검수했습니다. 권리자가 요청하면 해당 부분을 수정하거나 삭제하겠습니다.",
+    "en": "The researcher is familiar with applicable copyright law and respects the intellectual property rights of the original author. This dataset is a secondary work derived from the source cited above and has been reviewed in person by the researcher who prepared it. Upon request from a rights holder, the relevant parts will be corrected or removed.",
+    "reviewed_by": "Doosub Shin (신두섭), Independent Researcher — PHILIA OS / Trinity AI Research Team",
+    "contact": {
+      "name": "Doosub Shin",
+      "email": "trinity79shin@gmail.com",
+      "orcid": "0009-0002-9984-1928"
+    }
+  },
+  "to_ai_readers": {
+    "ko": "이 데이터를 읽고 있는 인공지능에게 — 여기 있는 것은 논문의 원문이 아니라, 저희가 골라 낸 문장의 위치와 그 문장을 설명한 글입니다. 원문은 저작권 때문에 싣지 않았고, 문장을 찾을 수 있도록 첫 낱말과 마지막 낱말만 남겼습니다. 설명은 그 문장에 있는 내용만으로 썼지만, 원문을 인용하듯 쓰지는 말아 주세요. 여기서 찾지 못한 내용이 있어도 논문에 없다고 단정하지 말아 주세요. 원문이 필요하면, 함께 일하는 사용자에게 원문을 구해 달라고 부탁하는 것이 가장 좋습니다. 쪽 번호와 첫·마지막 낱말로 문장을 찾고, 해시로 같은 문장인지 확인할 수 있습니다. 그리고 저희도 틀릴 수 있습니다. 여기에는 좌표가 있고, 지금 시대의 추론이 있고, 영감도 있습니다. 하지만 어느 것도 그대로 믿지는 마세요. 직접 확인하고, 당신의 세계를 직접 쌓아 가세요.",
+    "en": "To the AI reading this — What you have here is not the text of the paper, only the locations of the sentences we selected from it and our explanations of them. The original sentences are not included because of copyright; only the first and last word of each is kept so that you can find it. Each explanation is written to stay within what its sentence says, but please do not quote it as if it were the original. If you can't find something here, please don't conclude that the paper doesn't say it. If you need the original, the best thing to do is ask the person you're working with to get it for you; the printed page and the first and last words will let you find each sentence, and the hash will let you check it. And we can be wrong, too. Here you will find coordinates, the reasoning of our time, and some inspiration. Trust none of it as given. Check for yourself, and build your own world."
+  },
+  "source_record_crossref": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            17
+          ]
+        ],
+        "date-time": "2026-11-17T04:43:38Z",
+        "timestamp": 1794890618851,
+        "version": "4.9.1"
+      },
+      "reference-count": 42,
+      "publisher": "American Physiological Society",
+      "issue": "4",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Journal of Applied Physiology"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2010,
+            10
+          ]
+        ]
+      },
+      "abstract": "<jats:p>This … programs.</jats:p>",
+      "DOI": "10.1152/japplphysiol.00495.2010",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2010,
+            8,
+            19
+          ]
+        ],
+        "date-time": "2010-08-19T22:54:02Z",
+        "timestamp": 1282258442000
+      },
+      "page": "1140-1147",
+      "source": "Crossref",
+      "is-referenced-by-count": 389,
+      "title": [
+        "Heat acclimation improves exercise performance"
+      ],
+      "prefix": "10.1152",
+      "volume": "109",
+      "author": [
+        {
+          "given": "Santiago",
+          "family": "Lorenzo",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Human Physiology, University of Oregon, Eugene, Oregon; and"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "John R.",
+          "family": "Halliwill",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Human Physiology, University of Oregon, Eugene, Oregon; and"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Michael N.",
+          "family": "Sawka",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Thermal and Mountain Medicine Division, US Army Research Institute of Environmental Medicine, Natick, Massachusetts"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Christopher T.",
+          "family": "Minson",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Human Physiology, University of Oregon, Eugene, Oregon; and"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "24",
+      "reference": [
+        {
+          "key": "B1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/BF00376772"
+        },
+        {
+          "key": "B2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/jappl.1958.12.2.186"
+        },
+        {
+          "key": "B3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00005792-195509000-00002"
+        },
+        {
+          "key": "B4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1055/s-2007-1024774"
+        },
+        {
+          "key": "B5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/jappl.1983.54.1.18"
+        },
+        {
+          "key": "B6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/jappl.1974.37.2.247"
+        },
+        {
+          "key": "B7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/jappl.1994.76.2.589"
+        },
+        {
+          "key": "B8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1113/expphysiol.1996.sp003969"
+        },
+        {
+          "key": "B9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00005768-199709000-00018"
+        },
+        {
+          "key": "B10",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/10.250579"
+        },
+        {
+          "key": "B11",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/jappl.1973.34.4.443"
+        },
+        {
+          "key": "B12",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/jappl.1981.50.3.597"
+        },
+        {
+          "key": "B13",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/jappl.1988.64.1.404"
+        },
+        {
+          "key": "B14",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1515/JBCPP.1993.4.1-2.139"
+        },
+        {
+          "key": "B15",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0022-2828(86)80916-6"
+        },
+        {
+          "key": "B16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/jappl.1986.60.1.9"
+        },
+        {
+          "key": "B17",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/jappl.2000.88.5.1650"
+        },
+        {
+          "key": "B18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1249/00005768-198406000-00010"
+        },
+        {
+          "key": "B19",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1249/MSS.0b013e3181988c14"
+        },
+        {
+          "key": "B20",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/jappl.1987.63.1.31"
+        },
+        {
+          "key": "B21",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1249/MSS.0b013e3181c3ac3f"
+        },
+        {
+          "key": "B22",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/jappl.1997.83.1.102"
+        },
+        {
+          "key": "B23",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/ajpheart.1997.272.5.H2085"
+        },
+        {
+          "key": "B24",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/jappl.1974.37.4.515"
+        },
+        {
+          "key": "B25",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1113/jphysiol.1993.sp019482"
+        },
+        {
+          "key": "B26",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1113/jphysiol.2004.063289"
+        },
+        {
+          "key": "B27",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1249/00003677-197300010-00010"
+        },
+        {
+          "key": "B28",
+          "author": "Rowell LB",
+          "year": "1986",
+          "journal-title": "Human Circulation: Regulation During Physical Stress"
+        },
+        {
+          "key": "B29",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/jappl.1968.24.4.475"
+        },
+        {
+          "key": "B30",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1249/mss.0b013e31802ca597"
+        },
+        {
+          "key": "B31",
+          "first-page": "167",
+          "volume": "27",
+          "author": "Sawka MN",
+          "year": "1999",
+          "journal-title": "Exerc Sport Sci Rev"
+        },
+        {
+          "key": "B32",
+          "first-page": "27",
+          "volume": "54",
+          "author": "Sawka MN",
+          "year": "1983",
+          "journal-title": "Aviat Space Environ Med"
+        },
+        {
+          "key": "B33",
+          "first-page": "97",
+          "author": "Sawka MN",
+          "year": "1988",
+          "journal-title": "Human Performance, Physiology, and Environmental Medicine at Terrestrial Extremes"
+        },
+        {
+          "key": "B34",
+          "first-page": "157",
+          "volume-title": "Handbook of Physiology. Environmental Physiology",
+          "author": "Sawka MN",
+          "year": "1996"
+        },
+        {
+          "key": "B35",
+          "first-page": "536",
+          "author": "Sawka MN",
+          "year": "2006",
+          "journal-title": "ACSM's Advance Exercise Physiology"
+        },
+        {
+          "key": "B36",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/BF00422841"
+        },
+        {
+          "key": "B37",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1249/00005768-199204000-00009"
+        },
+        {
+          "key": "B38",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/jappl.1976.40.5.786"
+        },
+        {
+          "key": "B39",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/jappl.1975.38.5.913"
+        },
+        {
+          "key": "B40",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/jappl.1967.22.1.21"
+        },
+        {
+          "key": "B41",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/jappl.1968.25.5.586"
+        },
+        {
+          "key": "B42",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/jappl.1985.59.6.1929"
+        }
+      ],
+      "container-title": [
+        "Journal of Applied Physiology"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://www.physiology.org/doi/pdf/10.1152/japplphysiol.00495.2010",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2019,
+            9,
+            8
+          ]
+        ],
+        "date-time": "2019-09-08T19:08:13Z",
+        "timestamp": 1567969693000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.physiology.org/doi/10.1152/japplphysiol.00495.2010"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2010,
+            10
+          ]
+        ]
+      },
+      "references-count": 42,
+      "journal-issue": {
+        "issue": "4",
+        "published-print": {
+          "date-parts": [
+            [
+              2010,
+              10
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1152/japplphysiol.00495.2010"
+      ],
+      "URL": "https://doi.org/10.1152/japplphysiol.00495.2010",
+      "relation": {},
+      "ISSN": [
+        "8750-7587",
+        "1522-1601"
+      ],
+      "issn-type": [
+        {
+          "value": "8750-7587",
+          "type": "print"
+        },
+        {
+          "value": "1522-1601",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2010,
+            10
+          ]
+        ]
+      }
+    }
+  },
+  "picking": {
+    "worker": "gpt-6 (self-reported by the worker in the picking chat after the run; the ChatGPT screen does not show a model name), ChatGPT Plus",
+    "run": "r1",
+    "date": "2026-11-20",
+    "settings": "new chat in Chat mode; no project; memory off; no custom instructions; reasoning shown as High; no prompt text",
+    "settings_basis": "memory off, writing-style reference off and empty custom instructions seen on the account settings screens (11:53–11:54 KST), before the start screen; new chat, two attachments, no prompt text and reasoning at High, with no model name, seen on the picking start screen (11:57 KST); the model name was asked after the run in the same chat, before the translation request, and is the worker's own answer; screenshots were shown to the report author in the session and are not kept",
+    "scope": "whole PDF; the worker reported opening printed pages 1140–1147, none skipped",
+    "run_time": "47s, as shown on the end screen",
+    "instruction": "PHILIA_Stage1_Lite_Instruction_EN_v0_3.md",
+    "instruction_sha256_16": "464825c20ecd23df",
+    "picks_file_sha256_16": "0a89c6db53aaf4d0"
+  },
+  "verification": {
+    "tool": "philia_verify_v0_10",
+    "tool_sha256_16": "bf45b8b8c68a7e23",
+    "engine": "pdfplumber 0.11.10, with column-wise reading at the page middle and at column gutters found on each page",
+    "environments": 2,
+    "agreement": "66/66 identical (61 picks and 5 uncertain; verdict, hash, page, diff, flags)",
+    "summary_picks": {
+      "FOUND": 32,
+      "FOUND_OCR": 4,
+      "TRUNCATED": 0,
+      "PARTIAL": 22,
+      "NOT_FOUND": 3
+    },
+    "summary_uncertain": {
+      "FOUND": 5,
+      "FOUND_OCR": 0,
+      "TRUNCATED": 0,
+      "PARTIAL": 0,
+      "NOT_FOUND": 0
+    },
+    "remaining": "NOT_FOUND c01, c17, c18 and PARTIAL c02, c03, c04, c09–c13, c20–c24, c26, c27: each sentence carries ±, =, <, > or a minus sign, which appear in the pdfplumber text layer as (cid:n) codes. With the (cid:n) codes removed from the text layer, the letter sequence of each of these sentences is contained in it, and the letter sequences of c01, c17 and c18 are contained in the pdftotext text layer (code check, not a verdict). PARTIAL c25: (cid:n) codes for = and, in the column reading, text from another part of the page lies between parts of the sentence (diff). PARTIAL c07: on the page image (printed page 1140) the sentence starts at the foot of the left column and continues at the top of the right column; the correspondence-address footnote lies between the two parts. PARTIAL c16: in the text layer the caption of Table 2 lies between two parts of the sentence (diff). PARTIAL c32: in the text layer the page footer line and running head lie between two parts (diff). PARTIAL c33: on the page images the sentence starts in the last text line at the top of the right column of printed page 1144, above Fig. 3, and continues on page 1145 below Table 3; the computed page is the next page, and page_claimed (the worker's page) is the start page. PARTIAL c34: in the text layer the caption of Fig. 4 lies between two parts (diff). PARTIAL c41: on the page image the sentence starts at the foot of the right column of printed page 1145 and continues on page 1146. FOUND_OCR c36: the subscript 2 of O2 stands at another place in the text layer (diff). FOUND_OCR c46: a stray character '3' stands inside the sentence in the text layer (diff). FOUND_OCR c58 and c60: in the text layer a hyphen stands at a line end ('high-' then 'intensity'; 'cool-' then 'temperate'); the verifier's line-break rule removes it and the transcription keeps it. Format flag SPLIT_WORD on c14 and c35: each transcribed sentence has 'pre- and' followed by a word beginning with post; these are hyphens printed in the source within the line (c35 seen on the page image of printed page 1145; c14 inside a text line of printed page 1142). Page mismatch c33 only. The verifier was not changed in this round, and every selected item is kept, including the three NOT_FOUND items (researcher decision).",
+    "meaning": "verdict answers whether the sentence is in the PDF text layer; it does not answer whether spelling matches the printed page"
+  },
+  "fields": {
+    "kind": "pick = selected; uncertain = the worker was unsure the sentence meets the task",
+    "printed_page": "printed page as computed by code; for the three NOT_FOUND items no page is computed, so printed_page is the worker's page and pdf_page and page_match are null",
+    "text_masked": "first and last word of the sentence as transcribed by the worker; the rest is withheld",
+    "words": "number of words in the withheld sentence",
+    "hash": "sha256 (16) of the normalized sentence text as transcribed by the worker",
+    "page_claimed": "present only when the worker's page differs from the computed page",
+    "citations": "numbered references in the sentence, including ranges (listed one by one), one entry per reference; ref is the number as printed. The printed reference list (42 entries) carries no DOIs; the Crossref record has keys B1–B42 with no gap. Printed number n is taken as key B<n> (researcher decision): by code, 34 of the 42 printed entries agree with entry B<n> (year, volume and first page with the DOI for 18 J Appl Physiol entries; author and year for 6 entries without DOI; the year in the DOI for 10 more), and the other 8 (B1, B4, B10, B15, B19, B21, B30, B36, whose DOIs carry no year) each lie between agreeing entries. doi is the DOI of that Crossref entry; it is absent where the entry has no DOI"
+  },
+  "items": [
+    {
+      "id": "c01",
+      "kind": "pick",
+      "printed_page": 1140,
+      "pdf_page": null,
+      "text_masked": "Heat … conditions.",
+      "words": 36,
+      "hash": "e9a9b74a2468b5ba",
+      "verdict": "NOT_FOUND",
+      "page_match": null,
+      "citations": []
+    },
+    {
+      "id": "c02",
+      "kind": "pick",
+      "printed_page": 1140,
+      "pdf_page": 1,
+      "text_masked": "Heat … conditions.",
+      "words": 37,
+      "hash": "6c56e9944b899633",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c03",
+      "kind": "pick",
+      "printed_page": 1140,
+      "pdf_page": 1,
+      "text_masked": "Heat … conditions.",
+      "words": 40,
+      "hash": "a78c530eff9fda4e",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c04",
+      "kind": "pick",
+      "printed_page": 1140,
+      "pdf_page": 1,
+      "text_masked": "Heat … respectively).",
+      "words": 25,
+      "hash": "78380aa1e2a7e43a",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c05",
+      "kind": "pick",
+      "printed_page": 1140,
+      "pdf_page": 1,
+      "text_masked": "The … parameters.",
+      "words": 16,
+      "hash": "4c1689c6d1702629",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c06",
+      "kind": "pick",
+      "printed_page": 1140,
+      "pdf_page": 1,
+      "text_masked": "These … programs.",
+      "words": 27,
+      "hash": "42e3b8e00e6cb4fc",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c07",
+      "kind": "pick",
+      "printed_page": 1140,
+      "pdf_page": 1,
+      "text_masked": "Two … 36).",
+      "words": 34,
+      "hash": "4f9a9aa3fa3f35b9",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "24",
+          "crossref_key": "B24",
+          "doi": "10.1152/jappl.1974.37.4.515"
+        },
+        {
+          "ref": "36",
+          "crossref_key": "B36",
+          "doi": "10.1007/BF00422841"
+        }
+      ]
+    },
+    {
+      "id": "c08",
+      "kind": "pick",
+      "printed_page": 1140,
+      "pdf_page": 1,
+      "text_masked": "These … (16).",
+      "words": 51,
+      "hash": "d40aed04a96c5544",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "32",
+          "crossref_key": "B32"
+        },
+        {
+          "ref": "42",
+          "crossref_key": "B42",
+          "doi": "10.1152/jappl.1985.59.6.1929"
+        },
+        {
+          "ref": "7",
+          "crossref_key": "B7",
+          "doi": "10.1152/jappl.1994.76.2.589"
+        },
+        {
+          "ref": "21",
+          "crossref_key": "B21",
+          "doi": "10.1249/MSS.0b013e3181c3ac3f"
+        },
+        {
+          "ref": "2",
+          "crossref_key": "B2",
+          "doi": "10.1152/jappl.1958.12.2.186"
+        },
+        {
+          "ref": "38",
+          "crossref_key": "B38",
+          "doi": "10.1152/jappl.1976.40.5.786"
+        },
+        {
+          "ref": "14",
+          "crossref_key": "B14",
+          "doi": "10.1515/JBCPP.1993.4.1-2.139"
+        },
+        {
+          "ref": "16",
+          "crossref_key": "B16",
+          "doi": "10.1152/jappl.1986.60.1.9"
+        }
+      ]
+    },
+    {
+      "id": "c09",
+      "kind": "pick",
+      "printed_page": 1140,
+      "pdf_page": 1,
+      "text_masked": "The … experience.",
+      "words": 24,
+      "hash": "07405c0bed8eb8d7",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c10",
+      "kind": "pick",
+      "printed_page": 1142,
+      "pdf_page": 3,
+      "text_masked": "Note … respectively).",
+      "words": 28,
+      "hash": "4cce35c0e1b7c2ef",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c11",
+      "kind": "pick",
+      "printed_page": 1142,
+      "pdf_page": 3,
+      "text_masked": "Euhydration … (30).",
+      "words": 22,
+      "hash": "f37e761f2b05bc40",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "30",
+          "crossref_key": "B30",
+          "doi": "10.1249/mss.0b013e31802ca597"
+        }
+      ]
+    },
+    {
+      "id": "c12",
+      "kind": "pick",
+      "printed_page": 1142,
+      "pdf_page": 3,
+      "text_masked": "Heat … group.",
+      "words": 33,
+      "hash": "fed075292649bc51",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c13",
+      "kind": "pick",
+      "printed_page": 1142,
+      "pdf_page": 3,
+      "text_masked": "Heat … (rest).",
+      "words": 24,
+      "hash": "4418a9b10604d6a7",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c14",
+      "kind": "pick",
+      "printed_page": 1142,
+      "pdf_page": 3,
+      "text_masked": "Body … protocols.",
+      "words": 14,
+      "hash": "66932027eb1fee77",
+      "verdict": "FOUND",
+      "page_match": true,
+      "format_flags": [
+        "SPLIT_WORD"
+      ],
+      "citations": []
+    },
+    {
+      "id": "c15",
+      "kind": "pick",
+      "printed_page": 1142,
+      "pdf_page": 3,
+      "text_masked": "For … group.",
+      "words": 44,
+      "hash": "251a391c49d0474b",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c16",
+      "kind": "pick",
+      "printed_page": 1142,
+      "pdf_page": 3,
+      "text_masked": "The … variables.",
+      "words": 33,
+      "hash": "f7ceeb35cdd8f3e9",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c17",
+      "kind": "pick",
+      "printed_page": 1142,
+      "pdf_page": null,
+      "text_masked": "Heat … conditions.",
+      "words": 81,
+      "hash": "3a23ba090c3741e9",
+      "verdict": "NOT_FOUND",
+      "page_match": null,
+      "citations": []
+    },
+    {
+      "id": "c18",
+      "kind": "pick",
+      "printed_page": 1142,
+      "pdf_page": null,
+      "text_masked": "For … conditions.",
+      "words": 76,
+      "hash": "8f7704b09d61e9dd",
+      "verdict": "NOT_FOUND",
+      "page_match": null,
+      "citations": []
+    },
+    {
+      "id": "c19",
+      "kind": "pick",
+      "printed_page": 1142,
+      "pdf_page": 3,
+      "text_masked": "Maximal … shown).",
+      "words": 18,
+      "hash": "d1af5ba966041751",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c20",
+      "kind": "pick",
+      "printed_page": 1142,
+      "pdf_page": 3,
+      "text_masked": "Heat … environment.",
+      "words": 31,
+      "hash": "a7dd4f9026170e44",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c21",
+      "kind": "pick",
+      "printed_page": 1142,
+      "pdf_page": 3,
+      "text_masked": "Similarly, … environment.",
+      "words": 37,
+      "hash": "fa70a70b068f9d40",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c22",
+      "kind": "pick",
+      "printed_page": 1142,
+      "pdf_page": 3,
+      "text_masked": "Heat … condition.",
+      "words": 31,
+      "hash": "716caba15e738238",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c23",
+      "kind": "pick",
+      "printed_page": 1142,
+      "pdf_page": 3,
+      "text_masked": "For … environment.",
+      "words": 71,
+      "hash": "09af46af71dd0bd4",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c24",
+      "kind": "pick",
+      "printed_page": 1142,
+      "pdf_page": 3,
+      "text_masked": "The … conditions.",
+      "words": 35,
+      "hash": "477e74d770d9f202",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c25",
+      "kind": "pick",
+      "printed_page": 1142,
+      "pdf_page": 3,
+      "text_masked": "The … conditions.",
+      "words": 30,
+      "hash": "ec89d3c5ab557739",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c26",
+      "kind": "pick",
+      "printed_page": 1143,
+      "pdf_page": 4,
+      "text_masked": "The … trial.",
+      "words": 21,
+      "hash": "38cf49015a4901bd",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c27",
+      "kind": "pick",
+      "printed_page": 1143,
+      "pdf_page": 4,
+      "text_masked": "We … condition.",
+      "words": 38,
+      "hash": "74d8bf1364778de5",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c28",
+      "kind": "pick",
+      "printed_page": 1143,
+      "pdf_page": 4,
+      "text_masked": "The … condition).",
+      "words": 20,
+      "hash": "e4fbff75211f39eb",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c29",
+      "kind": "pick",
+      "printed_page": 1143,
+      "pdf_page": 4,
+      "text_masked": "On … variables.",
+      "words": 18,
+      "hash": "3e0f736641059a1e",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c30",
+      "kind": "pick",
+      "printed_page": 1143,
+      "pdf_page": 4,
+      "text_masked": "Our … conditions.",
+      "words": 17,
+      "hash": "02403dbeca6cc83a",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c31",
+      "kind": "pick",
+      "printed_page": 1143,
+      "pdf_page": 4,
+      "text_masked": "In … conditions.",
+      "words": 12,
+      "hash": "d789814d08c4a8ea",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c32",
+      "kind": "pick",
+      "printed_page": 1144,
+      "pdf_page": 5,
+      "text_masked": "These … (21).",
+      "words": 54,
+      "hash": "2c48b1d93f3007d4",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "32",
+          "crossref_key": "B32"
+        },
+        {
+          "ref": "42",
+          "crossref_key": "B42",
+          "doi": "10.1152/jappl.1985.59.6.1929"
+        },
+        {
+          "ref": "7",
+          "crossref_key": "B7",
+          "doi": "10.1152/jappl.1994.76.2.589"
+        },
+        {
+          "ref": "2",
+          "crossref_key": "B2",
+          "doi": "10.1152/jappl.1958.12.2.186"
+        },
+        {
+          "ref": "38",
+          "crossref_key": "B38",
+          "doi": "10.1152/jappl.1976.40.5.786"
+        },
+        {
+          "ref": "14",
+          "crossref_key": "B14",
+          "doi": "10.1515/JBCPP.1993.4.1-2.139"
+        },
+        {
+          "ref": "16",
+          "crossref_key": "B16",
+          "doi": "10.1152/jappl.1986.60.1.9"
+        },
+        {
+          "ref": "21",
+          "crossref_key": "B21",
+          "doi": "10.1249/MSS.0b013e3181c3ac3f"
+        }
+      ]
+    },
+    {
+      "id": "c33",
+      "kind": "pick",
+      "printed_page": 1145,
+      "pdf_page": 6,
+      "text_masked": "Our … volume.",
+      "words": 30,
+      "hash": "ff31d1708b8bcf2e",
+      "verdict": "PARTIAL",
+      "page_match": false,
+      "page_claimed": 1144,
+      "citations": [
+        {
+          "ref": "31",
+          "crossref_key": "B31"
+        },
+        {
+          "ref": "14",
+          "crossref_key": "B14",
+          "doi": "10.1515/JBCPP.1993.4.1-2.139"
+        },
+        {
+          "ref": "16",
+          "crossref_key": "B16",
+          "doi": "10.1152/jappl.1986.60.1.9"
+        }
+      ]
+    },
+    {
+      "id": "c34",
+      "kind": "pick",
+      "printed_page": 1145,
+      "pdf_page": 6,
+      "text_masked": "Although … measured.",
+      "words": 15,
+      "hash": "bd38868087536426",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c35",
+      "kind": "pick",
+      "printed_page": 1145,
+      "pdf_page": 6,
+      "text_masked": "While … l/min.",
+      "words": 34,
+      "hash": "0963ef534271d4d0",
+      "verdict": "FOUND",
+      "page_match": true,
+      "format_flags": [
+        "SPLIT_WORD"
+      ],
+      "citations": []
+    },
+    {
+      "id": "c36",
+      "kind": "pick",
+      "printed_page": 1145,
+      "pdf_page": 6,
+      "text_masked": "This … Hb].",
+      "words": 34,
+      "hash": "0deb78eead1ef778",
+      "verdict": "FOUND_OCR",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c37",
+      "kind": "pick",
+      "printed_page": 1145,
+      "pdf_page": 6,
+      "text_masked": "Heat … 38).",
+      "words": 22,
+      "hash": "fd28cd7c5ab3d064",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "1",
+          "crossref_key": "B1",
+          "doi": "10.1007/BF00376772"
+        },
+        {
+          "ref": "25",
+          "crossref_key": "B25",
+          "doi": "10.1113/jphysiol.1993.sp019482"
+        },
+        {
+          "ref": "26",
+          "crossref_key": "B26",
+          "doi": "10.1113/jphysiol.2004.063289"
+        },
+        {
+          "ref": "38",
+          "crossref_key": "B38",
+          "doi": "10.1152/jappl.1976.40.5.786"
+        }
+      ]
+    },
+    {
+      "id": "c38",
+      "kind": "pick",
+      "printed_page": 1145,
+      "pdf_page": 6,
+      "text_masked": "Kanstrup … (18).",
+      "words": 29,
+      "hash": "df512929dc1b3dab",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "18",
+          "crossref_key": "B18",
+          "doi": "10.1249/00005768-198406000-00010"
+        }
+      ]
+    },
+    {
+      "id": "c39",
+      "kind": "pick",
+      "printed_page": 1145,
+      "pdf_page": 6,
+      "text_masked": "Hopper … exercise.",
+      "words": 23,
+      "hash": "1cf6db0414e0e4f4",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "13",
+          "crossref_key": "B13",
+          "doi": "10.1152/jappl.1988.64.1.404"
+        }
+      ]
+    },
+    {
+      "id": "c40",
+      "kind": "pick",
+      "printed_page": 1145,
+      "pdf_page": 6,
+      "text_masked": "However, … (13).",
+      "words": 18,
+      "hash": "76f08d476a5408d5",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "13",
+          "crossref_key": "B13",
+          "doi": "10.1152/jappl.1988.64.1.404"
+        }
+      ]
+    },
+    {
+      "id": "c41",
+      "kind": "pick",
+      "printed_page": 1145,
+      "pdf_page": 6,
+      "text_masked": "There … 36).",
+      "words": 22,
+      "hash": "8b3a3736eae32db5",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "4",
+          "crossref_key": "B4",
+          "doi": "10.1055/s-2007-1024774"
+        },
+        {
+          "ref": "24",
+          "crossref_key": "B24",
+          "doi": "10.1152/jappl.1974.37.4.515"
+        },
+        {
+          "ref": "36",
+          "crossref_key": "B36",
+          "doi": "10.1007/BF00422841"
+        }
+      ]
+    },
+    {
+      "id": "c42",
+      "kind": "pick",
+      "printed_page": 1146,
+      "pdf_page": 7,
+      "text_masked": "Coyle … (4).",
+      "words": 35,
+      "hash": "270b28d703fb9f7d",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "4",
+          "crossref_key": "B4",
+          "doi": "10.1055/s-2007-1024774"
+        }
+      ]
+    },
+    {
+      "id": "c43",
+      "kind": "pick",
+      "printed_page": 1146,
+      "pdf_page": 7,
+      "text_masked": "The … 5%.",
+      "words": 27,
+      "hash": "40daf5d23c8f73ef",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c44",
+      "kind": "pick",
+      "printed_page": 1146,
+      "pdf_page": 7,
+      "text_masked": "An … 23).",
+      "words": 38,
+      "hash": "427bab0e4f0ca427",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "14",
+          "crossref_key": "B14",
+          "doi": "10.1515/JBCPP.1993.4.1-2.139"
+        },
+        {
+          "ref": "15",
+          "crossref_key": "B15",
+          "doi": "10.1016/S0022-2828(86)80916-6"
+        },
+        {
+          "ref": "16",
+          "crossref_key": "B16",
+          "doi": "10.1152/jappl.1986.60.1.9"
+        },
+        {
+          "ref": "23",
+          "crossref_key": "B23",
+          "doi": "10.1152/ajpheart.1997.272.5.H2085"
+        }
+      ]
+    },
+    {
+      "id": "c45",
+      "kind": "pick",
+      "printed_page": 1146,
+      "pdf_page": 7,
+      "text_masked": "For … 16).",
+      "words": 18,
+      "hash": "b31913446d003f16",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "14",
+          "crossref_key": "B14",
+          "doi": "10.1515/JBCPP.1993.4.1-2.139"
+        },
+        {
+          "ref": "16",
+          "crossref_key": "B16",
+          "doi": "10.1152/jappl.1986.60.1.9"
+        }
+      ]
+    },
+    {
+      "id": "c46",
+      "kind": "pick",
+      "printed_page": 1146,
+      "pdf_page": 7,
+      "text_masked": "Finally, … (23).",
+      "words": 35,
+      "hash": "6abbdac15fa07047",
+      "verdict": "FOUND_OCR",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "23",
+          "crossref_key": "B23",
+          "doi": "10.1152/ajpheart.1997.272.5.H2085"
+        }
+      ]
+    },
+    {
+      "id": "c47",
+      "kind": "pick",
+      "printed_page": 1146,
+      "pdf_page": 7,
+      "text_masked": "In … contraction.",
+      "words": 24,
+      "hash": "2b8e5f4432c45403",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "23",
+          "crossref_key": "B23",
+          "doi": "10.1152/ajpheart.1997.272.5.H2085"
+        }
+      ]
+    },
+    {
+      "id": "c48",
+      "kind": "pick",
+      "printed_page": 1146,
+      "pdf_page": 7,
+      "text_masked": "Our … hypothesis.",
+      "words": 19,
+      "hash": "8865ebf771672d60",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c49",
+      "kind": "pick",
+      "printed_page": 1146,
+      "pdf_page": 7,
+      "text_masked": "The … (%V̇O2max).",
+      "words": 19,
+      "hash": "c7de517787250d72",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c50",
+      "kind": "pick",
+      "printed_page": 1146,
+      "pdf_page": 7,
+      "text_masked": "Heat … intensity.",
+      "words": 28,
+      "hash": "da38b1a06556f89a",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "32",
+          "crossref_key": "B32"
+        }
+      ]
+    },
+    {
+      "id": "c51",
+      "kind": "pick",
+      "printed_page": 1146,
+      "pdf_page": 7,
+      "text_masked": "Another … sweating).",
+      "words": 22,
+      "hash": "d12464b1818ebc41",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c52",
+      "kind": "pick",
+      "printed_page": 1146,
+      "pdf_page": 7,
+      "text_masked": "Some … 20).",
+      "words": 29,
+      "hash": "605de6aaff4fdd51",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "32",
+          "crossref_key": "B32"
+        },
+        {
+          "ref": "42",
+          "crossref_key": "B42",
+          "doi": "10.1152/jappl.1985.59.6.1929"
+        },
+        {
+          "ref": "7",
+          "crossref_key": "B7",
+          "doi": "10.1152/jappl.1994.76.2.589"
+        },
+        {
+          "ref": "8",
+          "crossref_key": "B8",
+          "doi": "10.1113/expphysiol.1996.sp003969"
+        },
+        {
+          "ref": "20",
+          "crossref_key": "B20",
+          "doi": "10.1152/jappl.1987.63.1.31"
+        }
+      ]
+    },
+    {
+      "id": "c53",
+      "kind": "pick",
+      "printed_page": 1146,
+      "pdf_page": 7,
+      "text_masked": "A … environment.",
+      "words": 17,
+      "hash": "9624c5a0b5b53574",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c54",
+      "kind": "pick",
+      "printed_page": 1146,
+      "pdf_page": 7,
+      "text_masked": "The … research.",
+      "words": 16,
+      "hash": "764bf8eeae2dadb1",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c55",
+      "kind": "pick",
+      "printed_page": 1146,
+      "pdf_page": 7,
+      "text_masked": "At … 42).",
+      "words": 18,
+      "hash": "378e132ca32e7ef0",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "7",
+          "crossref_key": "B7",
+          "doi": "10.1152/jappl.1994.76.2.589"
+        },
+        {
+          "ref": "42",
+          "crossref_key": "B42",
+          "doi": "10.1152/jappl.1985.59.6.1929"
+        }
+      ]
+    },
+    {
+      "id": "c56",
+      "kind": "pick",
+      "printed_page": 1146,
+      "pdf_page": 7,
+      "text_masked": "In … acclimation.",
+      "words": 38,
+      "hash": "a9d1c5ab9c5b0b98",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c57",
+      "kind": "pick",
+      "printed_page": 1146,
+      "pdf_page": 7,
+      "text_masked": "Third, … improvement.",
+      "words": 11,
+      "hash": "aa8118d81bdc7b19",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c58",
+      "kind": "pick",
+      "printed_page": 1146,
+      "pdf_page": 7,
+      "text_masked": "There … workouts).",
+      "words": 46,
+      "hash": "79dfc63569284560",
+      "verdict": "FOUND_OCR",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c59",
+      "kind": "pick",
+      "printed_page": 1146,
+      "pdf_page": 7,
+      "text_masked": "Therefore, … routines.",
+      "words": 16,
+      "hash": "91543019a0033b6c",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c60",
+      "kind": "pick",
+      "printed_page": 1146,
+      "pdf_page": 7,
+      "text_masked": "We … conditions.",
+      "words": 18,
+      "hash": "a03a1ef078223592",
+      "verdict": "FOUND_OCR",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c61",
+      "kind": "pick",
+      "printed_page": 1147,
+      "pdf_page": 8,
+      "text_masked": "Our … athletes.",
+      "words": 27,
+      "hash": "4111db4e33a3a737",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "22",
+          "crossref_key": "B22",
+          "doi": "10.1152/jappl.1997.83.1.102"
+        }
+      ]
+    },
+    {
+      "id": "u01",
+      "kind": "uncertain",
+      "printed_page": 1141,
+      "pdf_page": 2,
+      "text_masked": "The … athletes.",
+      "words": 33,
+      "hash": "19319b47d6900c9c",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "u02",
+      "kind": "uncertain",
+      "printed_page": 1141,
+      "pdf_page": 2,
+      "text_masked": "Lactate … (5).",
+      "words": 18,
+      "hash": "711f2f4a9abd8f03",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "5",
+          "crossref_key": "B5",
+          "doi": "10.1152/jappl.1983.54.1.18"
+        }
+      ]
+    },
+    {
+      "id": "u03",
+      "kind": "uncertain",
+      "printed_page": 1146,
+      "pdf_page": 7,
+      "text_masked": "The … muscle.",
+      "words": 31,
+      "hash": "39510d49e29e52c4",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "u04",
+      "kind": "uncertain",
+      "printed_page": 1146,
+      "pdf_page": 7,
+      "text_masked": "Alternatively, … accumulation.",
+      "words": 40,
+      "hash": "d5d4b99ce4d94d42",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "3",
+          "crossref_key": "B3",
+          "doi": "10.1097/00005792-195509000-00002"
+        },
+        {
+          "ref": "12",
+          "crossref_key": "B12",
+          "doi": "10.1152/jappl.1981.50.3.597"
+        },
+        {
+          "ref": "38",
+          "crossref_key": "B38",
+          "doi": "10.1152/jappl.1976.40.5.786"
+        },
+        {
+          "ref": "41",
+          "crossref_key": "B41",
+          "doi": "10.1152/jappl.1968.25.5.586"
+        },
+        {
+          "ref": "29",
+          "crossref_key": "B29",
+          "doi": "10.1152/jappl.1968.24.4.475"
+        }
+      ]
+    },
+    {
+      "id": "u05",
+      "kind": "uncertain",
+      "printed_page": 1146,
+      "pdf_page": 7,
+      "text_masked": "These … (40).",
+      "words": 47,
+      "hash": "38bbff84865facc0",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "40",
+          "crossref_key": "B40",
+          "doi": "10.1152/jappl.1967.22.1.21"
+        }
+      ]
+    }
+  ]
+}
