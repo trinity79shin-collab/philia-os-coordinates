@@ -371,6 +371,34 @@
           "bytes": 26674
         }
       }
+    },
+    {
+      "doi": "10.1152/japplphysiol.00495.2010",
+      "title": "Heat acclimation improves exercise performance",
+      "author": "Santiago Lorenzo, John R. Halliwill, Michael N. Sawka, Christopher T. Minson",
+      "published_print": "2010-10",
+      "worker": "gpt-6",
+      "run_date": "2026-11-20",
+      "items": 66,
+      "pdf_sha256_16": "34dbe83c117216a8",
+      "copyright": "under copyright: sentence text withheld (first and last word kept); explanations in the interpretation file",
+      "floor": 2,
+      "connects": [
+        "10.1152/physrev.00054.2021",
+        "10.1152/physrev.00047.2021"
+      ],
+      "files": {
+        "coordinates": {
+          "path": "data/lorenzo2010-heat-acclimation__10.1152-japplphysiol.00495.2010__coordinates__gpt-6-20261120.json",
+          "sha256": "ca06229dde241d7005a1e98528d65c2ac85c9eec9f13b75f3eb43cfd184c6880",
+          "bytes": 48021
+        },
+        "interpretation": {
+          "path": "data/lorenzo2010-heat-acclimation__10.1152-japplphysiol.00495.2010__interpretation__gpt-6-20261120.json",
+          "sha256": "72f5badf8fd2f8841cafaf052d1c9fe5fb82f825dd48fce8f8f5105dc1e7628f",
+          "bytes": 36829
+        }
+      }
     }
   ],
   "file_naming": "<author+year>-<keyword>__<DOI with / as ->__<layer>__<worker>-<run date>.json",
