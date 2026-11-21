@@ -1,0 +1,1074 @@
+{
+  "layer": "COORDINATES",
+  "note": "Produced and verified by code. No AI judgment in this file except the sentence choice itself and its transcription. The sentence text is withheld; only its first and last word are kept.",
+  "source": {
+    "doi": "10.1152/jappl.1997.83.5.1413",
+    "title": "Heat shock proteins and heat adaptation of the whole organism",
+    "author": [
+      {
+        "given": "Pope L.",
+        "family": "Moseley"
+      }
+    ],
+    "journal": "Journal of Applied Physiology",
+    "volume": "83",
+    "issue": "5",
+    "pages": "1413-1417",
+    "published_print": "1997-11-01",
+    "publisher": "American Physiological Society",
+    "issn": {
+      "print": "8750-7587",
+      "electronic": "1522-1601"
+    },
+    "type": "journal-article",
+    "metadata_sources": [
+      {
+        "source": "Crossref REST API record for the DOI",
+        "retrieved": "2026-11-21 by the researcher (Guide), saved to file with curl",
+        "record": "embedded verbatim in the COORDINATES file as source_record_crossref",
+        "fields": "doi, title, author, journal, volume, issue, pages, published_print, publisher, issn, type",
+        "modified": "[DRAFT] the 91-word abstract is masked as one unit to its first and last word under the masking rule for copyrighted sources; it contains no withheld sentence (code check: its longest shared run with any withheld sentence is 6 words, from the article title it repeats); every other value is verbatim; original record sha256_16 30d470e86118ee70"
+      },
+      {
+        "source": "PDF page 1 (pdf_sha256_16 a1c078ae553e5c5f)",
+        "fields": "author, affiliation, volume 83, issue 5, pages 1413–1417, 1997 consistent with Crossref; article type printed as 'invited review'"
+      }
+    ],
+    "pdf_file": "moseley-1997-heat-shock-proteins-and-heat-adaptation-of-the-whole-organism.pdf",
+    "pdf_sha256_16": "a1c078ae553e5c5f",
+    "pdf_pages": 5,
+    "page_offset": 1412,
+    "pdf_note": "[DRAFT] Every page of the researcher's copy carries a download stamp (site, IP address, date). Another copy of the same article will have a different file hash. The stamp is excluded from verification; sentence hashes do not depend on the PDF file. PDF page 1 is printed page 1413, hence page_offset 1412. The main text runs to printed page 1416, where the reference list begins; it ends on page 1417. The running head ('HSP AND HEAT ADAPTATION' with the page number) and, on page 1413, the footer line ('http://www.jap.org', the ISSN and price line with the copyright notice, and the page number) are not removed by the verifier. In the text layer the copyright sign appears as the letter r.",
+    "copyright": {
+      "status": "under copyright",
+      "basis": "researcher determination: the article was published in 1997; 'Copyright © 1997 the American Physiological Society' is printed on the first page",
+      "consequence": "original sentence withheld; first and last word kept as a locator; explanation text in the INTERPRETATION file"
+    }
+  },
+  "rights_notice": {
+    "ko": "연구자는 저작권 관련 법령을 충분히 숙지하고 있으며, 원저작자의 지적 재산권을 존중합니다. 이 데이터는 위 출처를 바탕으로 만든 2차 가공물로, 가공한 연구자가 직접 검수했습니다. 권리자가 요청하면 해당 부분을 수정하거나 삭제하겠습니다.",
+    "en": "The researcher is familiar with applicable copyright law and respects the intellectual property rights of the original author. This dataset is a secondary work derived from the source cited above and has been reviewed in person by the researcher who prepared it. Upon request from a rights holder, the relevant parts will be corrected or removed.",
+    "reviewed_by": "Doosub Shin (신두섭), Independent Researcher — PHILIA OS / Trinity AI Research Team",
+    "contact": {
+      "name": "Doosub Shin",
+      "email": "trinity79shin@gmail.com",
+      "orcid": "0009-0002-9984-1928"
+    }
+  },
+  "to_ai_readers": {
+    "ko": "이 데이터를 읽고 있는 인공지능에게 — 여기 있는 것은 논문의 원문이 아니라, 저희가 골라 낸 문장의 위치와 그 문장을 설명한 글입니다. 원문은 저작권 때문에 싣지 않았고, 문장을 찾을 수 있도록 첫 낱말과 마지막 낱말만 남겼습니다. 설명은 그 문장에 있는 내용만으로 썼지만, 원문을 인용하듯 쓰지는 말아 주세요. 여기서 찾지 못한 내용이 있어도 논문에 없다고 단정하지 말아 주세요. 원문이 필요하면, 함께 일하는 사용자에게 원문을 구해 달라고 부탁하는 것이 가장 좋습니다. 쪽 번호와 첫·마지막 낱말로 문장을 찾고, 해시로 같은 문장인지 확인할 수 있습니다. 그리고 저희도 틀릴 수 있습니다. 여기에는 좌표가 있고, 지금 시대의 추론이 있고, 영감도 있습니다. 하지만 어느 것도 그대로 믿지는 마세요. 직접 확인하고, 당신의 세계를 직접 쌓아 가세요.",
+    "en": "To the AI reading this — What you have here is not the text of the paper, only the locations of the sentences we selected from it and our explanations of them. The original sentences are not included because of copyright; only the first and last word of each is kept so that you can find it. Each explanation is written to stay within what its sentence says, but please do not quote it as if it were the original. If you can't find something here, please don't conclude that the paper doesn't say it. If you need the original, the best thing to do is ask the person you're working with to get it for you; the printed page and the first and last words will let you find each sentence, and the hash will let you check it. And we can be wrong, too. Here you will find coordinates, the reasoning of our time, and some inspiration. Trust none of it as given. Check for yourself, and build your own world."
+  },
+  "source_record_crossref": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            13
+          ]
+        ],
+        "date-time": "2026-11-13T05:31:03Z",
+        "timestamp": 1794547863784,
+        "version": "4.9.1"
+      },
+      "reference-count": 48,
+      "publisher": "American Physiological Society",
+      "issue": "5",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Journal of Applied Physiology"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            1997,
+            11,
+            1
+          ]
+        ]
+      },
+      "abstract": "<jats:p>Moseley, … reviewed.</jats:p>",
+      "DOI": "10.1152/jappl.1997.83.5.1413",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2017,
+            12,
+            22
+          ]
+        ],
+        "date-time": "2017-12-22T17:53:22Z",
+        "timestamp": 1513965202000
+      },
+      "page": "1413-1417",
+      "source": "Crossref",
+      "is-referenced-by-count": 249,
+      "title": [
+        "Heat shock proteins and heat adaptation of the whole organism"
+      ],
+      "prefix": "10.1152",
+      "volume": "83",
+      "author": [
+        {
+          "given": "Pope L.",
+          "family": "Moseley",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Pulmonary, Allergy, and Critical Care Division, Department of Internal Medicine, University of New Mexico Health Sciences Center, Albuquerque, New Mexico 87131-5271"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "24",
+      "reference": [
+        {
+          "key": "B1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.3083508"
+        },
+        {
+          "key": "B2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.3175623"
+        },
+        {
+          "key": "B3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/jappl.1976.40.3.404"
+        },
+        {
+          "key": "B4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.274.5288.782"
+        },
+        {
+          "key": "B6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/jappl.1988.65.1.106"
+        },
+        {
+          "key": "B7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/jappl.1991.70.6.2640"
+        },
+        {
+          "key": "B8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.6836306"
+        },
+        {
+          "key": "B9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/ajpcell.1996.270.4.C1017"
+        },
+        {
+          "key": "B10",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.2799391"
+        },
+        {
+          "key": "B11",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/332805a0"
+        },
+        {
+          "key": "B12",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1139/o83-059"
+        },
+        {
+          "key": "B13",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/332800a0"
+        },
+        {
+          "key": "B14",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/ajpcell.1994.266.4.C967"
+        },
+        {
+          "issue": "37",
+          "key": "B15",
+          "first-page": "R28",
+          "volume": "268",
+          "author": "Flanagan S. W.",
+          "year": "1994",
+          "journal-title": "Am. J. Physiol."
+        },
+        {
+          "key": "B16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/0092-8674(94)90278-X"
+        },
+        {
+          "key": "B17",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/jappl.1983.54.1.249"
+        },
+        {
+          "key": "B18",
+          "first-page": "157",
+          "volume": "23",
+          "author": "Gathiram P.",
+          "year": "1987",
+          "journal-title": "Circ. Shock"
+        },
+        {
+          "key": "B19",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/jcp.40.11.1364"
+        },
+        {
+          "key": "B20",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.92.7.2994"
+        },
+        {
+          "issue": "34",
+          "key": "B21",
+          "first-page": "R1447",
+          "volume": "265",
+          "author": "Hotchkiss R.",
+          "year": "1993",
+          "journal-title": "Am. J. Physiol."
+        },
+        {
+          "key": "B22",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1084/jem.177.1.231"
+        },
+        {
+          "key": "B23",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/j.1460-2075.1992.tb05433.x"
+        },
+        {
+          "key": "B24",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0092-8674(00)81880-2"
+        },
+        {
+          "issue": "42",
+          "key": "B25",
+          "first-page": "R858",
+          "volume": "273",
+          "author": "Kluger M. J.",
+          "year": "1997",
+          "journal-title": "Am. J. Physiol."
+        },
+        {
+          "key": "B26",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1083/jcb.109.1.7"
+        },
+        {
+          "key": "B27",
+          "doi-asserted-by": "crossref",
+          "first-page": "3420",
+          "DOI": "10.1016/S0021-9258(18)53711-X",
+          "volume": "268",
+          "author": "Lavoie J.",
+          "year": "1993",
+          "journal-title": "J. Biol. Chem."
+        },
+        {
+          "key": "B28",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/0360-3016(85)90376-1"
+        },
+        {
+          "key": "B29",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/BF00795385"
+        },
+        {
+          "key": "B30",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.91.26.12492"
+        },
+        {
+          "key": "B31",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1172/JCI117815"
+        },
+        {
+          "key": "B32",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/jappl.1977.42.6.909"
+        },
+        {
+          "key": "B33",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1083/jcb.106.4.1105"
+        },
+        {
+          "key": "B35",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/ajpcell.1994.267.2.C425"
+        },
+        {
+          "key": "B36",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/jappl.1974.37.4.515"
+        },
+        {
+          "key": "B37",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.88.13.5719"
+        },
+        {
+          "key": "B38",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/jappl.1967.23.3.347"
+        },
+        {
+          "key": "B39",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/BF00571547"
+        },
+        {
+          "key": "B40",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/jappl.1991.70.1.466"
+        },
+        {
+          "key": "B41",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/jappl.1992.73.4.1517"
+        },
+        {
+          "key": "B42",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1042/bj2770635"
+        },
+        {
+          "key": "B43",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/jlb.51.2.181"
+        },
+        {
+          "key": "B44",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.89.5.1666"
+        },
+        {
+          "key": "B45",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.274.5288.787"
+        },
+        {
+          "key": "B46",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00003246-199406000-00007"
+        },
+        {
+          "key": "B47",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/jappl.1985.59.2.426"
+        },
+        {
+          "key": "B48",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.274.5288.784"
+        },
+        {
+          "key": "B49",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/physrev.1992.72.4.1063"
+        },
+        {
+          "key": "B50",
+          "first-page": "1347",
+          "volume": "44",
+          "author": "Weshler Z.",
+          "year": "1984",
+          "journal-title": "Cancer Res."
+        }
+      ],
+      "container-title": [
+        "Journal of Applied Physiology"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://www.physiology.org/doi/pdf/10.1152/jappl.1997.83.5.1413",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2022,
+            8,
+            11
+          ]
+        ],
+        "date-time": "2022-08-11T02:53:07Z",
+        "timestamp": 1660186387000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.physiology.org/doi/10.1152/jappl.1997.83.5.1413"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            1997,
+            11,
+            1
+          ]
+        ]
+      },
+      "references-count": 48,
+      "journal-issue": {
+        "issue": "5",
+        "published-print": {
+          "date-parts": [
+            [
+              1997,
+              11,
+              1
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1152/jappl.1997.83.5.1413"
+      ],
+      "URL": "https://doi.org/10.1152/jappl.1997.83.5.1413",
+      "relation": {},
+      "ISSN": [
+        "8750-7587",
+        "1522-1601"
+      ],
+      "issn-type": [
+        {
+          "value": "8750-7587",
+          "type": "print"
+        },
+        {
+          "value": "1522-1601",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            1997,
+            11,
+            1
+          ]
+        ]
+      }
+    }
+  },
+  "picking": {
+    "worker": "claude-fable-5-1 (Fable 5.1 shown beside the input box on the picking start screen, Claude Max)",
+    "run": "r1",
+    "date": "2026-11-21",
+    "settings": "new chat; no project; memory off; no custom instructions; effort shown as 중간 (medium), with 수동 (manual) shown beside it; no prompt text",
+    "settings_basis": "memory off (chat search and reference off; memory generation off) and empty Claude instructions seen on the account settings screen (11:59 KST), before the start screen; new chat, attachments (instruction shown as 69 lines, PDF), no prompt text, model, effort and plan seen on the picking start screen (12:01 KST); screenshots were shown to the report author in the session and are not kept",
+    "scope": "whole PDF; the worker reported opening printed pages 1413–1417, none skipped",
+    "run_time": "not shown on screen; start screen 12:01 KST, end screen 12:05 KST",
+    "instruction": "PHILIA_Stage1_Lite_Instruction_EN_v0_3.md",
+    "instruction_sha256_16": "464825c20ecd23df",
+    "picks_file_sha256_16": "bfe6c13d029365f2"
+  },
+  "verification": {
+    "tool": "philia_verify_v0_10",
+    "tool_sha256_16": "bf45b8b8c68a7e23",
+    "engine": "pdfplumber 0.11.10, with column-wise reading at the page middle and at column gutters found on each page",
+    "environments": 2,
+    "agreement": "36/36 identical (32 picks and 4 uncertain; verdict, hash, page, diff, flags)",
+    "summary_picks": {
+      "FOUND": 27,
+      "FOUND_OCR": 2,
+      "TRUNCATED": 0,
+      "PARTIAL": 3,
+      "NOT_FOUND": 0
+    },
+    "summary_uncertain": {
+      "FOUND": 4,
+      "FOUND_OCR": 0,
+      "TRUNCATED": 0,
+      "PARTIAL": 0,
+      "NOT_FOUND": 0
+    },
+    "remaining": "PARTIAL c05: on the page image (printed page 1413) the sentence starts at the foot of the left column and continues at the top of the right column; the page footer line lies between the two parts in the column reading. PARTIAL c10: on the page image (printed page 1414) the sentence starts at the foot of the left column, below which Table 2 stands, and continues at the top of the right column; the table lies between the two parts in the column reading. PARTIAL c20: on the page image the sentence starts at the foot of the right column of printed page 1414 and continues on page 1415; the download stamp and the running head lie between the two parts (diff). FOUND_OCR c22 and c29: in the text layer a hyphen stands at a line end ('high-' then 'temperature'; 'HSP-' then 'associated'); the verifier's line-break rule removes it and the transcription keeps it. No page mismatch and no format flags. The verifier was not changed in this round (researcher decision).",
+    "meaning": "verdict answers whether the sentence is in the PDF text layer; it does not answer whether spelling matches the printed page"
+  },
+  "fields": {
+    "kind": "pick = selected; uncertain = the worker was unsure the sentence meets the task",
+    "printed_page": "printed page as computed by code",
+    "text_masked": "first and last word of the sentence as transcribed by the worker; the rest is withheld",
+    "words": "number of words in the withheld sentence",
+    "hash": "sha256 (16) of the normalized sentence text as transcribed by the worker",
+    "page_claimed": "present only when the worker's page differs from the computed page",
+    "citations": "numbered references in the sentence, including ranges (listed one by one), one entry per reference; ref is the number as printed. The printed reference list (50 entries) carries no DOIs; the Crossref record has 48 entries, keys B1–B50 with B5 and B34 absent, which are the places of printed entries 5 (a book chapter) and 34 (a book). Printed number n is taken as key B<n> (researcher decision): by code, 36 of the 48 entries with a key agree with printed entry n (the printed first page or year in the DOI for 30; author, year and first page in the Crossref entry for 6), and the other 12 (B1, B2, B8, B10, B12, B16, B24, B26, B28, B29, B31, B39, whose DOIs carry no year or page) each lie between agreeing entries. doi is the DOI of that Crossref entry; it is absent where the entry has no DOI"
+  },
+  "items": [
+    {
+      "id": "c01",
+      "kind": "pick",
+      "printed_page": 1413,
+      "pdf_page": 1,
+      "text_masked": "Heat … acclimatization.",
+      "words": 8,
+      "hash": "4ed459f851ce6543",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c02",
+      "kind": "pick",
+      "printed_page": 1413,
+      "pdf_page": 1,
+      "text_masked": "Thermotolerance … stress.",
+      "words": 27,
+      "hash": "920d270f314e10c1",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c03",
+      "kind": "pick",
+      "printed_page": 1413,
+      "pdf_page": 1,
+      "text_masked": "In … 1).",
+      "words": 31,
+      "hash": "848c0c9dc7cef300",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c04",
+      "kind": "pick",
+      "printed_page": 1413,
+      "pdf_page": 1,
+      "text_masked": "Central … (HSPs).",
+      "words": 20,
+      "hash": "18d3dbd77c169884",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c05",
+      "kind": "pick",
+      "printed_page": 1413,
+      "pdf_page": 1,
+      "text_masked": "The … tolerance.",
+      "words": 38,
+      "hash": "4b2d31a404820446",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c06",
+      "kind": "pick",
+      "printed_page": 1413,
+      "pdf_page": 1,
+      "text_masked": "This … functions.",
+      "words": 40,
+      "hash": "46919d79898bb3f8",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c07",
+      "kind": "pick",
+      "printed_page": 1414,
+      "pdf_page": 2,
+      "text_masked": "Given … pathways.",
+      "words": 59,
+      "hash": "2b1b9786fe969819",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c08",
+      "kind": "pick",
+      "printed_page": 1414,
+      "pdf_page": 2,
+      "text_masked": "Furthermore, … conditions.",
+      "words": 45,
+      "hash": "dab5ec053aa9f4a5",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "39",
+          "crossref_key": "B39",
+          "doi": "10.1007/BF00571547"
+        },
+        {
+          "ref": "40",
+          "crossref_key": "B40",
+          "doi": "10.1152/jappl.1991.70.1.466"
+        },
+        {
+          "ref": "12",
+          "crossref_key": "B12",
+          "doi": "10.1139/o83-059"
+        },
+        {
+          "ref": "15",
+          "crossref_key": "B15"
+        }
+      ]
+    },
+    {
+      "id": "c09",
+      "kind": "pick",
+      "printed_page": 1414,
+      "pdf_page": 2,
+      "text_masked": "Thermotolerance … HSPs.",
+      "words": 26,
+      "hash": "df12a52a64cf9e32",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c10",
+      "kind": "pick",
+      "printed_page": 1414,
+      "pdf_page": 2,
+      "text_masked": "Regardless … HSPs.",
+      "words": 55,
+      "hash": "163f6a58ea0eb6f1",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c11",
+      "kind": "pick",
+      "printed_page": 1414,
+      "pdf_page": 2,
+      "text_masked": "In … 1).",
+      "words": 33,
+      "hash": "af5b0aa7c1f45100",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c12",
+      "kind": "pick",
+      "printed_page": 1414,
+      "pdf_page": 2,
+      "text_masked": "Unlike … heat.",
+      "words": 38,
+      "hash": "f5c5669a97d73779",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c13",
+      "kind": "pick",
+      "printed_page": 1414,
+      "pdf_page": 2,
+      "text_masked": "In … 17).",
+      "words": 22,
+      "hash": "3c1fa8bf5984c375",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "3",
+          "crossref_key": "B3",
+          "doi": "10.1152/jappl.1976.40.3.404"
+        },
+        {
+          "ref": "17",
+          "crossref_key": "B17",
+          "doi": "10.1152/jappl.1983.54.1.249"
+        }
+      ]
+    },
+    {
+      "id": "c14",
+      "kind": "pick",
+      "printed_page": 1414,
+      "pdf_page": 2,
+      "text_masked": "Passive … acclimatization.",
+      "words": 9,
+      "hash": "009daa1137ccb235",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c15",
+      "kind": "pick",
+      "printed_page": 1414,
+      "pdf_page": 2,
+      "text_masked": "Unlike … temperature.",
+      "words": 34,
+      "hash": "404d853a23adaca5",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c16",
+      "kind": "pick",
+      "printed_page": 1414,
+      "pdf_page": 2,
+      "text_masked": "Finally, … acclimatization.",
+      "words": 9,
+      "hash": "dd2691047dc24167",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c17",
+      "kind": "pick",
+      "printed_page": 1414,
+      "pdf_page": 2,
+      "text_masked": "Heat … temperature.",
+      "words": 31,
+      "hash": "0882c75b77abd8ed",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c18",
+      "kind": "pick",
+      "printed_page": 1414,
+      "pdf_page": 2,
+      "text_masked": "Increased … 36).",
+      "words": 41,
+      "hash": "b8fa732cf980e1b3",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "3",
+          "crossref_key": "B3",
+          "doi": "10.1152/jappl.1976.40.3.404"
+        },
+        {
+          "ref": "17",
+          "crossref_key": "B17",
+          "doi": "10.1152/jappl.1983.54.1.249"
+        },
+        {
+          "ref": "36",
+          "crossref_key": "B36",
+          "doi": "10.1152/jappl.1974.37.4.515"
+        }
+      ]
+    },
+    {
+      "id": "c19",
+      "kind": "pick",
+      "printed_page": 1414,
+      "pdf_page": 2,
+      "text_masked": "The … work.",
+      "words": 39,
+      "hash": "46b78080a82c6253",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "17",
+          "crossref_key": "B17",
+          "doi": "10.1152/jappl.1983.54.1.249"
+        },
+        {
+          "ref": "32",
+          "crossref_key": "B32",
+          "doi": "10.1152/jappl.1977.42.6.909"
+        },
+        {
+          "ref": "38",
+          "crossref_key": "B38",
+          "doi": "10.1152/jappl.1967.23.3.347"
+        }
+      ]
+    },
+    {
+      "id": "c20",
+      "kind": "pick",
+      "printed_page": 1414,
+      "pdf_page": 2,
+      "text_masked": "These … environment.",
+      "words": 44,
+      "hash": "24680efd44f0a5da",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c21",
+      "kind": "pick",
+      "printed_page": 1415,
+      "pdf_page": 3,
+      "text_masked": "This … synthesis.",
+      "words": 61,
+      "hash": "893f0d9306f8ac57",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c22",
+      "kind": "pick",
+      "printed_page": 1415,
+      "pdf_page": 3,
+      "text_masked": "However, … environments.",
+      "words": 33,
+      "hash": "5d3987f77d4d1049",
+      "verdict": "FOUND_OCR",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c23",
+      "kind": "pick",
+      "printed_page": 1415,
+      "pdf_page": 3,
+      "text_masked": "A … stroke.",
+      "words": 25,
+      "hash": "4029f27160277bcf",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "6",
+          "crossref_key": "B6",
+          "doi": "10.1152/jappl.1988.65.1.106"
+        },
+        {
+          "ref": "7",
+          "crossref_key": "B7",
+          "doi": "10.1152/jappl.1991.70.6.2640"
+        }
+      ]
+    },
+    {
+      "id": "c24",
+      "kind": "pick",
+      "printed_page": 1415,
+      "pdf_page": 3,
+      "text_masked": "Strenuous … 46).",
+      "words": 13,
+      "hash": "d744934f58e023cc",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "8",
+          "crossref_key": "B8",
+          "doi": "10.1126/science.6836306"
+        },
+        {
+          "ref": "46",
+          "crossref_key": "B46",
+          "doi": "10.1097/00003246-199406000-00007"
+        }
+      ]
+    },
+    {
+      "id": "c25",
+      "kind": "pick",
+      "printed_page": 1415,
+      "pdf_page": 3,
+      "text_masked": "Prophylactic … temperatures.",
+      "words": 18,
+      "hash": "4cc7654c657f881d",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "19",
+          "crossref_key": "B19",
+          "doi": "10.1136/jcp.40.11.1364"
+        },
+        {
+          "ref": "18",
+          "crossref_key": "B18"
+        }
+      ]
+    },
+    {
+      "id": "c26",
+      "kind": "pick",
+      "printed_page": 1415,
+      "pdf_page": 3,
+      "text_masked": "Thus … exposure.",
+      "words": 46,
+      "hash": "eec3089a6c791d50",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c27",
+      "kind": "pick",
+      "printed_page": 1415,
+      "pdf_page": 3,
+      "text_masked": "Thus … thermotolerance.",
+      "words": 33,
+      "hash": "d5d6d4b54ddf080f",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c28",
+      "kind": "pick",
+      "printed_page": 1415,
+      "pdf_page": 3,
+      "text_masked": "Thus, … temperatures.",
+      "words": 36,
+      "hash": "cf69b7e6e0487fdd",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c29",
+      "kind": "pick",
+      "printed_page": 1415,
+      "pdf_page": 3,
+      "text_masked": "In … tolerance.",
+      "words": 14,
+      "hash": "e7afe92dfc91e09d",
+      "verdict": "FOUND_OCR",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c30",
+      "kind": "pick",
+      "printed_page": 1416,
+      "pdf_page": 4,
+      "text_masked": "Such … sensitivity.",
+      "words": 22,
+      "hash": "88f3d0164ce802c6",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c31",
+      "kind": "pick",
+      "printed_page": 1416,
+      "pdf_page": 4,
+      "text_masked": "Viewed … cells.",
+      "words": 59,
+      "hash": "ed48eb2f26585d4e",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c32",
+      "kind": "pick",
+      "printed_page": 1416,
+      "pdf_page": 4,
+      "text_masked": "Whereas … physiology.",
+      "words": 52,
+      "hash": "62d06624bce3256b",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "u01",
+      "kind": "uncertain",
+      "printed_page": 1413,
+      "pdf_page": 1,
+      "text_masked": "One … heat.",
+      "words": 33,
+      "hash": "15513720ff9f5e3b",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "u02",
+      "kind": "uncertain",
+      "printed_page": 1415,
+      "pdf_page": 3,
+      "text_masked": "C. … 45°C.",
+      "words": 27,
+      "hash": "56b6468383128e23",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "u03",
+      "kind": "uncertain",
+      "printed_page": 1415,
+      "pdf_page": 3,
+      "text_masked": "Skin … (30).",
+      "words": 41,
+      "hash": "1242c1bd2d5ae733",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "30",
+          "crossref_key": "B30",
+          "doi": "10.1073/pnas.91.26.12492"
+        }
+      ]
+    },
+    {
+      "id": "u04",
+      "kind": "uncertain",
+      "printed_page": 1415,
+      "pdf_page": 3,
+      "text_masked": "Elevations … (35).",
+      "words": 17,
+      "hash": "37e991ee5ba385cb",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "35",
+          "crossref_key": "B35",
+          "doi": "10.1152/ajpcell.1994.267.2.C425"
+        }
+      ]
+    }
+  ]
+}

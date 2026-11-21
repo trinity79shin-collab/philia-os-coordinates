@@ -1,0 +1,386 @@
+{
+  "layer": "INTERPRETATION",
+  "note": "Written by AI. Interpretation, not verified by code for correctness. Joined to COORDINATES by id and hash.",
+  "source": {
+    "doi": "10.1152/jappl.1997.83.5.1413",
+    "title": "Heat shock proteins and heat adaptation of the whole organism",
+    "author": [
+      {
+        "given": "Pope L.",
+        "family": "Moseley"
+      }
+    ],
+    "journal": "Journal of Applied Physiology",
+    "volume": "83",
+    "issue": "5",
+    "pages": "1413-1417",
+    "published_print": "1997-11-01",
+    "publisher": "American Physiological Society",
+    "issn": {
+      "print": "8750-7587",
+      "electronic": "1522-1601"
+    },
+    "type": "journal-article",
+    "metadata_sources": [
+      {
+        "source": "Crossref REST API record for the DOI",
+        "retrieved": "2026-11-21 by the researcher (Guide), saved to file with curl",
+        "record": "embedded verbatim in the COORDINATES file as source_record_crossref",
+        "fields": "doi, title, author, journal, volume, issue, pages, published_print, publisher, issn, type",
+        "modified": "[DRAFT] the 91-word abstract is masked as one unit to its first and last word under the masking rule for copyrighted sources; it contains no withheld sentence (code check: its longest shared run with any withheld sentence is 6 words, from the article title it repeats); every other value is verbatim; original record sha256_16 30d470e86118ee70"
+      },
+      {
+        "source": "PDF page 1 (pdf_sha256_16 a1c078ae553e5c5f)",
+        "fields": "author, affiliation, volume 83, issue 5, pages 1413–1417, 1997 consistent with Crossref; article type printed as 'invited review'"
+      }
+    ],
+    "pdf_file": "moseley-1997-heat-shock-proteins-and-heat-adaptation-of-the-whole-organism.pdf",
+    "pdf_sha256_16": "a1c078ae553e5c5f",
+    "pdf_pages": 5,
+    "page_offset": 1412,
+    "pdf_note": "[DRAFT] Every page of the researcher's copy carries a download stamp (site, IP address, date). Another copy of the same article will have a different file hash. The stamp is excluded from verification; sentence hashes do not depend on the PDF file. PDF page 1 is printed page 1413, hence page_offset 1412. The main text runs to printed page 1416, where the reference list begins; it ends on page 1417. The running head ('HSP AND HEAT ADAPTATION' with the page number) and, on page 1413, the footer line ('http://www.jap.org', the ISSN and price line with the copyright notice, and the page number) are not removed by the verifier. In the text layer the copyright sign appears as the letter r.",
+    "copyright": {
+      "status": "under copyright",
+      "basis": "researcher determination: the article was published in 1997; 'Copyright © 1997 the American Physiological Society' is printed on the first page",
+      "consequence": "original sentence withheld; first and last word kept as a locator; explanation text in the INTERPRETATION file"
+    }
+  },
+  "rights_notice": {
+    "ko": "연구자는 저작권 관련 법령을 충분히 숙지하고 있으며, 원저작자의 지적 재산권을 존중합니다. 이 데이터는 위 출처를 바탕으로 만든 2차 가공물로, 가공한 연구자가 직접 검수했습니다. 권리자가 요청하면 해당 부분을 수정하거나 삭제하겠습니다.",
+    "en": "The researcher is familiar with applicable copyright law and respects the intellectual property rights of the original author. This dataset is a secondary work derived from the source cited above and has been reviewed in person by the researcher who prepared it. Upon request from a rights holder, the relevant parts will be corrected or removed.",
+    "reviewed_by": "Doosub Shin (신두섭), Independent Researcher — PHILIA OS / Trinity AI Research Team",
+    "contact": {
+      "name": "Doosub Shin",
+      "email": "trinity79shin@gmail.com",
+      "orcid": "0009-0002-9984-1928"
+    }
+  },
+  "to_ai_readers": {
+    "ko": "이 데이터를 읽고 있는 인공지능에게 — 여기 있는 것은 논문의 원문이 아니라, 저희가 골라 낸 문장의 위치와 그 문장을 설명한 글입니다. 원문은 저작권 때문에 싣지 않았고, 문장을 찾을 수 있도록 첫 낱말과 마지막 낱말만 남겼습니다. 설명은 그 문장에 있는 내용만으로 썼지만, 원문을 인용하듯 쓰지는 말아 주세요. 여기서 찾지 못한 내용이 있어도 논문에 없다고 단정하지 말아 주세요. 원문이 필요하면, 함께 일하는 사용자에게 원문을 구해 달라고 부탁하는 것이 가장 좋습니다. 쪽 번호와 첫·마지막 낱말로 문장을 찾고, 해시로 같은 문장인지 확인할 수 있습니다. 그리고 저희도 틀릴 수 있습니다. 여기에는 좌표가 있고, 지금 시대의 추론이 있고, 영감도 있습니다. 하지만 어느 것도 그대로 믿지는 마세요. 직접 확인하고, 당신의 세계를 직접 쌓아 가세요.",
+    "en": "To the AI reading this — What you have here is not the text of the paper, only the locations of the sentences we selected from it and our explanations of them. The original sentences are not included because of copyright; only the first and last word of each is kept so that you can find it. Each explanation is written to stay within what its sentence says, but please do not quote it as if it were the original. If you can't find something here, please don't conclude that the paper doesn't say it. If you need the original, the best thing to do is ask the person you're working with to get it for you; the printed page and the first and last words will let you find each sentence, and the hash will let you check it. And we can be wrong, too. Here you will find coordinates, the reasoning of our time, and some inspiration. Trust none of it as given. Check for yourself, and build your own world."
+  },
+  "pick_reason": {
+    "by": "claude-fable-5-1 (r1, picking session)",
+    "instruction_sha256_16": "464825c20ecd23df",
+    "tags": "(1) concepts and principles the paper itself establishes; (2) data related to exercise physiology"
+  },
+  "classification": {
+    "by": "claude-fable-5-1, new chat, memory off, no custom instructions, effort medium",
+    "inputs": "classification instruction + sentence list + PDF",
+    "instruction": "PHILIA_Classification_Common_Instruction_EN_v0_1.md",
+    "instruction_sha256_16": "d965e022a48eb515",
+    "sentence_list_sha256_16": "51f161a280b15236",
+    "output_sha256_16": "bb03e5288742b560",
+    "output_form": "a JSON code block in the chat; the researcher pasted the text of the block into his message to the report author, who wrote it to a file; the digest is of that file",
+    "start": "one new chat with no prompt text; ran on the first turn",
+    "labels": "DEFINITION > DATA > STATEMENT; UNCLEAR",
+    "cue": "removed because it copies words from the withheld sentence; all 13 cues were checked by code as verbatim and at most 8 words before removal"
+  },
+  "explanation": {
+    "by": "claude-fable-5-1, new chat, memory off, no custom instructions, effort medium",
+    "inputs": "explanation instruction + sentence list + PDF",
+    "instruction": "PHILIA_Explanation_Instruction_EN_v0_1.md (draft, fifteenth run)",
+    "instruction_sha256_16": "53310007b6ab76c6",
+    "sentence_list_sha256_16": "51f161a280b15236",
+    "output_sha256_16": "846e8c3458d019a0",
+    "start": "a first new chat with no prompt text gave no output: the worker replied that its draft was stopped by a safety classifier before it finished; a second new chat with no prompt text ran on the first turn; the explanations are from the second chat",
+    "checks": "check_explanations_v0_2 (839f6142b816d1b8) checked: runs of 5 or more words shared with the sentence, new numbers, quotation marks, length within 1.5x. Flagged 5 (c18, c23, u02, u03, u04): they share a run of 5, 5, 6, 5 and 5 words with their own sentence (u02 and u03 with numbers and units kept from the sentence); the explanations are not changed (researcher decision). No new numbers, no quotation marks, none over 1.5x. Square brackets used in 8 explanations; they name what a word refers to and are interpretation"
+  },
+  "researcher_review": {
+    "by": "Guide (Doosub Shin)",
+    "via": "Korean translations produced by the worker in the picking session and in the explanation session",
+    "scope": "picks and explanations",
+    "result": "검수했음 (picks), 검수했음 (explanations)",
+    "other_checks": "none; the worker was not asked to review its own explanations"
+  },
+  "items": [
+    {
+      "id": "c01",
+      "hash": "4ed459f851ce6543",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Establishes the paper's two-part framework of heat adaptation.",
+      "label": "DEFINITION",
+      "explanation": "Adaptation to heat has two forms: thermotolerance and acclimatization."
+    },
+    {
+      "id": "c02",
+      "hash": "920d270f314e10c1",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) The paper's working definition of thermotolerance.",
+      "label": "DEFINITION",
+      "explanation": "Thermotolerance is an adaptation at the cell level, produced by one intense yet survivable exposure to heat, which lets the organism live through a later heat stress that would otherwise kill it."
+    },
+    {
+      "id": "c03",
+      "hash": "848c0c9dc7cef300",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) The paper's working definition of acclimatization, framed in terms of work capacity in the heat.",
+      "label": "DEFINITION",
+      "explanation": "Acclimatization, by contrast, is the capacity of an organism to do more work when hot, owing to better heat loss that develops after repeated small rises in core temperature."
+    },
+    {
+      "id": "c04",
+      "hash": "18d3dbd77c169884",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the paper's central thesis that HSPs link both forms of heat adaptation.",
+      "label": "STATEMENT",
+      "explanation": "Key to understanding thermotolerance, and possibly to whatever part cells play in acclimatization, are the stress proteins, also called heat shock proteins (HSPs)."
+    },
+    {
+      "id": "c05",
+      "hash": "4b2d31a404820446",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) The principle that HSPs are causal agents of stress tolerance, on which the review rests.",
+      "label": "STATEMENT",
+      "explanation": "Two findings strongly favor the idea that HSPs are themselves what makes cells stress tolerant: producing excess amounts of several HSPs gives tolerance without any prior conditioning stress, and preventing HSP build-up with blocking antibodies reduces that tolerance."
+    },
+    {
+      "id": "c06",
+      "hash": "46919d79898bb3f8",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Introduces the paper's concept of HSP-mediated barrier protection as a whole-organism mechanism.",
+      "label": "STATEMENT",
+      "explanation": "[The prevention of actin microfilament disruption by a small HSP] may matter for stress tolerance of single cells by stabilizing the cytoskeleton, and may also be essential to protecting the entire organism by preserving the barrier functions of endothelium and epithelium."
+    },
+    {
+      "id": "c07",
+      "hash": "2b1b9786fe969819",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Extends the HSP concept from lethal cellular stress to physiological thermal challenges of the whole organism.",
+      "label": "STATEMENT",
+      "explanation": "Because HSPs help cells survive heat stress that would otherwise be fatal, by handling denatured proteins, stabilizing the cytoskeleton, moving proteins across membranes, and regulating receptors, it is reasonable to imagine that the cellular stress response also helps the whole organism adapt to milder but still meaningful heat challenges that endanger many pathways that depend on proteins."
+    },
+    {
+      "id": "c08",
+      "hash": "dab5ec053aa9f4a5",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Exercise-induced HSP70 accumulation used as evidence for HSPs in physiological heat adaptation.",
+      "label": "DATA",
+      "explanation": "Further support for HSPs taking part in adaptation to temperatures met under ordinary physiological conditions comes from the observed build-up of HSP70 in human muscle after eccentric exercise and in humans and animals that exercise in hot conditions."
+    },
+    {
+      "id": "c09",
+      "hash": "df12a52a64cf9e32",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Restates the paper's definition of thermotolerance with HSP accumulation as the criterion.",
+      "label": "DEFINITION",
+      "explanation": "Thermotolerance means an organism can survive a heat stress that would otherwise be fatal because an earlier heat exposure was strong enough to make its cells build up HSPs."
+    },
+    {
+      "id": "c10",
+      "hash": "163f6a58ea0eb6f1",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) The paper's three defining hallmarks of thermotolerance.",
+      "label": "DEFINITION",
+      "explanation": "Whatever the stimulus, thermotolerance is marked by three features: 1) the cell or organism lives through a heat stress that would otherwise be fatal; 2) HSPs are synthesized; and 3) the tolerant state lasts only hours to days, tracking the raised cellular HSP levels and fading as they fall."
+    },
+    {
+      "id": "c11",
+      "hash": "af5b0aa7c1f45100",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Defines acclimatization as a work-performance capacity in the heat.",
+      "label": "DEFINITION",
+      "explanation": "Heat acclimatization is very different from thermotolerance: it means an organism can work in hot surroundings and keep working while its core temperature is raised but not to a fatal level."
+    },
+    {
+      "id": "c12",
+      "hash": "f5c5669a97d73779",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Establishes the measurement criterion for acclimatization using an exercise heat-tolerance test.",
+      "label": "STATEMENT",
+      "explanation": "Whereas thermotolerance is measured by whether the cell or organism survives, acclimatization is assessed with a work heat-tolerance test showing that the organism can reach and hold thermal balance at a set work rate in hot conditions."
+    },
+    {
+      "id": "c13",
+      "hash": "3c1fa8bf5984c375",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Exercise in the heat as the stimulus for acclimatization.",
+      "label": "STATEMENT",
+      "explanation": "Heat acclimatization also arises from repeated rises in core temperature that are produced by working in hot conditions."
+    },
+    {
+      "id": "c14",
+      "hash": "009daa1137ccb235",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Contrasts passive heating with exercise-driven acclimatization.",
+      "label": "STATEMENT",
+      "explanation": "Hyperthermia produced passively usually leads to only incomplete acclimatization."
+    },
+    {
+      "id": "c15",
+      "hash": "404d853a23adaca5",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Contrasts the time course of the two adaptations and ties acclimatization maintenance to repeated core temperature elevations.",
+      "label": "STATEMENT",
+      "explanation": "Thermotolerance fades quickly as HSPs decline, but heat acclimatization can persist for a long time provided the organism keeps experiencing periodic rises in core temperature."
+    },
+    {
+      "id": "c16",
+      "hash": "dd2691047dc24167",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States a key gap the paper identifies between cellular and whole-organism adaptation.",
+      "label": "STATEMENT",
+      "explanation": "Lastly, no cell-based model of heat acclimatization exists."
+    },
+    {
+      "id": "c17",
+      "hash": "0882c75b77abd8ed",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Thermoregulatory outcomes of heat acclimatization.",
+      "label": "STATEMENT",
+      "explanation": "Heat acclimatization lowers resting core temperature, increases the transfer of heat to the skin or the capacity to dissipate heat, and additionally lets the organism withstand a higher core temperature."
+    },
+    {
+      "id": "c18",
+      "hash": "b8fa732cf980e1b3",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Sweating and skin blood flow adaptations underlying heat dissipation after acclimatization.",
+      "label": "STATEMENT",
+      "explanation": "Heat is dissipated better because of body-wide changes: sweating begins at a lower threshold, more sweat is produced at any given core temperature, skin vessels dilate at a lower threshold, and skin blood flow is higher at a given core temperature."
+    },
+    {
+      "id": "c19",
+      "hash": "46b78080a82c6253",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Links tolerance of higher core temperature during work to the paper's HSP hypothesis.",
+      "label": "STATEMENT",
+      "explanation": "Yet the capacity, observed in rats and in humans, to keep working while core temperature is higher resembles the thermotolerant state and hints that cellular adaptive mechanisms, for example ones involving HSPs, could be operating."
+    },
+    {
+      "id": "c20",
+      "hash": "24680efd44f0a5da",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) The paper's model of constitutive HSP70 as a basis for whole-organism heat adaptation.",
+      "label": "STATEMENT",
+      "explanation": "[The lizard findings on constitutive HSP70 levels and HSP induction temperatures] fit a model in which the whole organism adapts to heat through HSPs: raised constitutive HSP70 lets a poikilothermic animal cope with sudden core temperature changes that come with fleeing or hunting when the environment is hot."
+    },
+    {
+      "id": "c21",
+      "hash": "893f0d9306f8ac57",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Articulates the concept of constitutive HSP70 as an adaptive rather than injury response.",
+      "label": "STATEMENT",
+      "explanation": "[The raised basal HSP70 in the Saharan ant Cataglyphis bombycina] at lower temperatures, as also reported for lizards living in hot climates, is not an acute reaction to cell injury or protein denaturation; rather it seems to be an adaptation that lets the animal work at high temperatures when the temperature shifts too quickly for newly made HSPs to help."
+    },
+    {
+      "id": "c22",
+      "hash": "5d3987f77d4d1049",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Synthesizing conclusion that HSP differences are part of the adaptive response for work in heat.",
+      "label": "STATEMENT",
+      "explanation": "Nevertheless, [the lizard, ant, and human fibroblast studies] considered together point to differences in HSPs between and within species, and these differences are part of the adaptation that lets an organism live and work in hot environments."
+    },
+    {
+      "id": "c23",
+      "hash": "4029f27160277bcf",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Endotoxin and cytokine responses accompanying exertional heat illness.",
+      "label": "DATA",
+      "explanation": "Several studies have shown that heat exhaustion and heat stroke are accompanied by endotoxin in the bloodstream and raised levels of circulating cytokines."
+    },
+    {
+      "id": "c24",
+      "hash": "d744934f58e023cc",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Cytokine response as a physiological consequence of strenuous exercise.",
+      "label": "DATA",
+      "explanation": "Intense exercise, too, has been found to trigger a cytokine response."
+    },
+    {
+      "id": "c25",
+      "hash": "4cc7654c657f881d",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Experimental manipulation of endotoxin load altering tolerable core temperature.",
+      "label": "DATA",
+      "explanation": "Animals can withstand higher core temperatures if their gut is sterilized beforehand or if they are given antibodies against endotoxin."
+    },
+    {
+      "id": "c26",
+      "hash": "eec3089a6c791d50",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) The paper's proposed multi-component mechanism of heat acclimatization.",
+      "label": "STATEMENT",
+      "explanation": "It is therefore tempting to propose that heat acclimatization reflects both better heat dissipation and an organism's capacity to prevent or withstand the movement of gut endotoxin into the body, to reduce cytokine production, or to become more tolerant of cytokines."
+    },
+    {
+      "id": "c27",
+      "hash": "d5d6d4b54ddf080f",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Proposes HSP-associated barrier integrity as a heat-tolerance mechanism separate from thermotolerance.",
+      "label": "STATEMENT",
+      "explanation": "Because HSP70 build-up is linked with keeping epithelial barriers intact, there appears to be an HSP-related way for a multicellular system to gain heat tolerance that differs from thermotolerance."
+    },
+    {
+      "id": "c28",
+      "hash": "cf69b7e6e0487fdd",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Summarizes the paper's barrier-integrity pathway from conditioning stress to adaptation.",
+      "label": "STATEMENT",
+      "explanation": "Conditioning stresses that lead cells to accumulate HSPs, whether by heating directly or by raising cytokines, may therefore lessen the breakdown of epithelial barriers during later heat exposures and so help the organism adjust to higher temperatures."
+    },
+    {
+      "id": "c29",
+      "hash": "e7afe92dfc91e09d",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Introduces endotoxin tolerance as the second proposed HSP-associated adaptation mechanism.",
+      "label": "STATEMENT",
+      "explanation": "Besides barrier integrity maintained by HSPs, heat adaptation linked to HSPs may also include tolerance to endotoxin."
+    },
+    {
+      "id": "c30",
+      "hash": "88f3d0164ce802c6",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the paper's concept linking the HSP response to endotoxin and cytokine pathways.",
+      "label": "STATEMENT",
+      "explanation": "[Findings on NF-kB signaling and TNF-a sensitivity] back the idea of a link between the HSP response and the cell pathways governing endotoxin tolerance, cytokine output, and sensitivity to cytokines."
+    },
+    {
+      "id": "c31",
+      "hash": "ed48eb2f26585d4e",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) The paper's three summary conclusions on HSP-associated adaptation.",
+      "label": "STATEMENT",
+      "explanation": "Taken as a whole, [the studies on HSPs, epithelial permeability, and endotoxin tolerance] show three things: 1) HSP build-up lessens the reversible rises in epithelial permeability caused by heat; 2) cells and animals gain endotoxin tolerance once HSP70 has accumulated; and 3) that tolerance may involve resistance to endotoxin itself, to cytokine exposure, or reduced cytokine output by inflammatory cells."
+    },
+    {
+      "id": "c32",
+      "hash": "62d06624bce3256b",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Closing principle distinguishing HSP-associated physiological adaptation from thermotolerance.",
+      "label": "STATEMENT",
+      "explanation": "Although [the studies on epithelial permeability and endotoxin tolerance] produced the HSP response with one fairly strong heat exposure, the accompanying cellular changes differed from thermotolerance: instead of letting the organism survive a heat exposure that would otherwise be fatal, they showed changes in how cells function."
+    },
+    {
+      "id": "u01",
+      "hash": "15513720ff9f5e3b",
+      "pick_tag": null,
+      "pick_reason": "Frames the review's question rather than stating a concept or principle the paper establishes; unclear if it meets (1).",
+      "label": "STATEMENT",
+      "explanation": "One of [the fundamental questions about how cellular changes affect an organism's adaptive capabilities] is how the cellular stress response affects the whole organism's adjustment to hot environments and its capacity to work in the heat."
+    },
+    {
+      "id": "u02",
+      "hash": "56b6468383128e23",
+      "pick_tag": null,
+      "pick_reason": "Thermal tolerance data during animal activity; unclear whether this counts as exercise physiology under (2).",
+      "label": "DATA",
+      "explanation": "C. bombycina can forage at midday in the Sahara while withstanding body temperatures of 53–55°C, whereas every other desert ant stops being active once surface temperatures go above 45°C."
+    },
+    {
+      "id": "u03",
+      "hash": "1242c1bd2d5ae733",
+      "pick_tag": null,
+      "pick_reason": "Human population HSP data cited as support, but in cultured cells with no exercise component; unclear if it meets (1) or (2).",
+      "label": "DATA",
+      "explanation": "Skin fibroblasts from Turkmen people of the Central Asian desert, compared with those from European Russians of temperate regions, differ in HSP70 following a 42.5° heat shock: the inducible HSP70 rises more in the Turkmen cells."
+    },
+    {
+      "id": "u04",
+      "hash": "37e991ee5ba385cb",
+      "pick_tag": null,
+      "pick_reason": "Cell-culture finding underpinning the barrier-integrity concept; unclear whether it is the paper's own principle (1) or exercise physiology data (2).",
+      "label": "DATA",
+      "explanation": "Raised HSP70 in cells goes along with a smaller heat-induced increase in the permeability of an epithelial monolayer."
+    }
+  ]
+}
