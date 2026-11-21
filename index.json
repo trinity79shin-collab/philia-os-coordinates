@@ -399,6 +399,34 @@
           "bytes": 36829
         }
       }
+    },
+    {
+      "doi": "10.1152/jappl.1997.83.5.1413",
+      "title": "Heat shock proteins and heat adaptation of the whole organism",
+      "author": "Pope L. Moseley",
+      "published_print": "1997-11-01",
+      "worker": "claude-fable-5-1",
+      "run_date": "2026-11-21",
+      "items": 36,
+      "pdf_sha256_16": "a1c078ae553e5c5f",
+      "copyright": "under copyright: sentence text withheld (first and last word kept); explanations in the interpretation file",
+      "floor": 2,
+      "connects": [
+        "10.1152/physrev.00047.2021",
+        "10.1152/japplphysiol.00811.2015"
+      ],
+      "files": {
+        "coordinates": {
+          "path": "data/moseley1997-thermotolerance-acclimatization__10.1152-jappl.1997.83.5.1413__coordinates__fable5.1-20261121.json",
+          "sha256": "dba8b2433b74ad3e3284f7e42a636a4fcff683635b056c5514e300139b636968",
+          "bytes": 33144
+        },
+        "interpretation": {
+          "path": "data/moseley1997-thermotolerance-acclimatization__10.1152-jappl.1997.83.5.1413__interpretation__fable5.1-20261121.json",
+          "sha256": "8e27820aa7664aaf7f62f35da36943238a082475854a8d1c335acae8ca5f09ba",
+          "bytes": 25509
+        }
+      }
     }
   ],
   "file_naming": "<author+year>-<keyword>__<DOI with / as ->__<layer>__<worker>-<run date>.json",
