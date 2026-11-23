@@ -1,0 +1,1505 @@
+{
+  "layer": "COORDINATES",
+  "note": "Produced and verified by code. No AI judgment in this file except the sentence choice itself and its transcription. The sentence text is withheld; only its first and last word are kept.",
+  "source": {
+    "doi": "10.1152/ajpcell.00364.2003",
+    "title": "Cytokine function of heat shock proteins",
+    "author": [
+      {
+        "given": "Min-Fu",
+        "family": "Tsan"
+      },
+      {
+        "given": "Baochong",
+        "family": "Gao"
+      }
+    ],
+    "journal": "American Journal of Physiology-Cell Physiology",
+    "volume": "286",
+    "issue": "4",
+    "pages": "C739-C744",
+    "published_print": "2004-04",
+    "publisher": "American Physiological Society",
+    "issn": {
+      "print": "0363-6143",
+      "electronic": "1522-1563"
+    },
+    "type": "journal-article",
+    "author_affiliation_as_printed": "Research Service, Veterans Affairs Medical Center, Washington 20422; and Department of Medicine, Georgetown University, Washington, District of Columbia 20007",
+    "metadata_sources": [
+      {
+        "source": "Crossref REST API record for the DOI",
+        "retrieved": "2026-11-23 by the researcher (Guide), saved to file with curl",
+        "record": "embedded verbatim in the COORDINATES file as source_record_crossref",
+        "fields": "doi, title, author, journal, volume, issue, pages, published_print, publisher, issn, type; the record has no affiliation values",
+        "modified": "[DRAFT] the 191-word abstract is masked as one unit to its first and last word under the masking rule for copyrighted sources; it contains withheld sentence c01 whole and a run of 32 words of withheld sentence c33 (code check); every other value is verbatim; original record sha256_16 a8a4e9dc89b399d9"
+      },
+      {
+        "source": "PDF page 1 (pdf_sha256_16 fa4d735e43b94c70)",
+        "fields": "author_affiliation_as_printed (the superscript marks 1 and 2 that join authors to affiliations are left out); authors, volume 286, pages C739–C744, 2004 consistent with Crossref; article type printed as 'Invited Review'"
+      }
+    ],
+    "pdf_file": "tsan-gao-2004-cytokine-function-of-heat-shock-proteins.pdf",
+    "pdf_sha256_16": "fa4d735e43b94c70",
+    "pdf_pages": 6,
+    "page_offset": 738,
+    "pdf_note": "[DRAFT] Every page of the researcher's copy carries a download stamp (site, IP address, date). Another copy of the same article will have a different file hash. The stamp is excluded from verification; sentence hashes do not depend on the PDF file. Printed page numbers carry the prefix C (C739–C744), in the citation line on the first page and beside the running head; printed_page in items gives the number only. PDF page 1 is printed page C739, hence page_offset 738. The main text runs to printed page C742, where the reference list begins; the reference list fills C742–C744. The running head ('Invited Review' and 'HSP AND CYTOKINE FUNCTION' with the page number) and the page footer line ('AJP-Cell Physiol • VOL 286 • APRIL 2004 • www.ajpcell.org'; on page C739 'http://www.ajpcell.org' with the page number) are not removed by the verifier; in the text layer the bullets of the footer line and the Greek letters α, κ and μ appear as (cid:n).",
+    "copyright": {
+      "status": "under copyright",
+      "basis": "researcher determination: the article was published in 2004; no copyright notice is printed in the PDF (text layer and first-page image checked); the Crossref record carries no license",
+      "consequence": "original sentence withheld; first and last word kept as a locator; explanation text in the INTERPRETATION file"
+    }
+  },
+  "rights_notice": {
+    "ko": "연구자는 저작권 관련 법령을 충분히 숙지하고 있으며, 원저작자의 지적 재산권을 존중합니다. 이 데이터는 위 출처를 바탕으로 만든 2차 가공물로, 가공한 연구자가 직접 검수했습니다. 권리자가 요청하면 해당 부분을 수정하거나 삭제하겠습니다.",
+    "en": "The researcher is familiar with applicable copyright law and respects the intellectual property rights of the original author. This dataset is a secondary work derived from the source cited above and has been reviewed in person by the researcher who prepared it. Upon request from a rights holder, the relevant parts will be corrected or removed.",
+    "reviewed_by": "Doosub Shin (신두섭), Independent Researcher — PHILIA OS / Trinity AI Research Team",
+    "contact": {
+      "name": "Doosub Shin",
+      "email": "trinity79shin@gmail.com",
+      "orcid": "0009-0002-9984-1928"
+    }
+  },
+  "to_ai_readers": {
+    "ko": "이 데이터를 읽고 있는 인공지능에게 — 여기 있는 것은 논문의 원문이 아니라, 저희가 골라 낸 문장의 위치와 그 문장을 설명한 글입니다. 원문은 저작권 때문에 싣지 않았고, 문장을 찾을 수 있도록 첫 낱말과 마지막 낱말만 남겼습니다. 설명은 그 문장에 있는 내용만으로 썼지만, 원문을 인용하듯 쓰지는 말아 주세요. 여기서 찾지 못한 내용이 있어도 논문에 없다고 단정하지 말아 주세요. 원문이 필요하면, 함께 일하는 사용자에게 원문을 구해 달라고 부탁하는 것이 가장 좋습니다. 쪽 번호와 첫·마지막 낱말로 문장을 찾고, 해시로 같은 문장인지 확인할 수 있습니다. 그리고 저희도 틀릴 수 있습니다. 여기에는 좌표가 있고, 지금 시대의 추론이 있고, 영감도 있습니다. 하지만 어느 것도 그대로 믿지는 마세요. 직접 확인하고, 당신의 세계를 직접 쌓아 가세요.",
+    "en": "To the AI reading this — What you have here is not the text of the paper, only the locations of the sentences we selected from it and our explanations of them. The original sentences are not included because of copyright; only the first and last word of each is kept so that you can find it. Each explanation is written to stay within what its sentence says, but please do not quote it as if it were the original. If you can't find something here, please don't conclude that the paper doesn't say it. If you need the original, the best thing to do is ask the person you're working with to get it for you; the printed page and the first and last words will let you find each sentence, and the hash will let you check it. And we can be wrong, too. Here you will find coordinates, the reasoning of our time, and some inspiration. Trust none of it as given. Check for yourself, and build your own world."
+  },
+  "source_record_crossref": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            15
+          ]
+        ],
+        "date-time": "2026-11-15T10:47:58Z",
+        "timestamp": 1794739678119,
+        "version": "4.9.1"
+      },
+      "reference-count": 92,
+      "publisher": "American Physiological Society",
+      "issue": "4",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "American Journal of Physiology-Cell Physiology"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2004,
+            4
+          ]
+        ]
+      },
+      "abstract": "<jats:p>Extensive … HSPs.</jats:p>",
+      "DOI": "10.1152/ajpcell.00364.2003",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2004,
+            3,
+            4
+          ]
+        ],
+        "date-time": "2004-03-04T18:07:45Z",
+        "timestamp": 1078423665000
+      },
+      "page": "C739-C744",
+      "source": "Crossref",
+      "is-referenced-by-count": 238,
+      "title": [
+        "Cytokine function of heat shock proteins"
+      ],
+      "prefix": "10.1152",
+      "volume": "286",
+      "author": [
+        {
+          "given": "Min-Fu",
+          "family": "Tsan",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Baochong",
+          "family": "Gao",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "24",
+      "reference": [
+        {
+          "key": "REF1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Abulafia-Lapid R, Elias D, Raz L, Keren-Zur Y, Atlan H, and Cohen IR.T cell proliferative responses of type 1 diabetes patients and healthy individuals to human hsp60 and its peptides.J Autoimmun12: 121–129, 1999.",
+          "DOI": "10.1006/jaut.1998.0262"
+        },
+        {
+          "key": "REF2",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Aliprantis AO, Yang RB, Mark MR, Suggett S, Devaux B, Radolf JD, Klimpel GR, Godowski PJ, and Zychlinsky A.Cell activation and apoptosis by bacterial lipoproteins through Toll-like receptor 2.Science285: 736–739, 1999.",
+          "DOI": "10.1126/science.285.5428.736"
+        },
+        {
+          "key": "REF3",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Antal-Szalmas P.Evaluation of CD14 in host defense.Eur J Clin Invest30: 167–179, 2000.",
+          "DOI": "10.1046/j.1365-2362.2000.00610.x"
+        },
+        {
+          "key": "REF4",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Asea A, Kabingu E, Stevenson MA, and Calderwood SK.HSP70 peptide-bearing and peptide-negative preparations act as chaperokines.Cell Stress Chaperones5: 425–431, 2000.",
+          "DOI": "10.1379/1466-1268(2000)005<0425:HPBAPN>2.0.CO;2"
+        },
+        {
+          "key": "REF5",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Asea A, Kraeft SK, Kurt-Jones EA, Stevenson MA, Chen LB, Finberg RW, Koo GC, and Calderwood SK.Hsp70 stimulates cytokine production through a CD-14-dependent pathway, demonstrating its dual role as a chaperone and cytokine.Nat Med6: 435–442, 2000.",
+          "DOI": "10.1038/74697"
+        },
+        {
+          "key": "REF6",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Asea A, Rehli M, Kabingu E, Boch JA, Bare O, Auron PE, Stevenson MA, and Calderwood SK.Novel signal transduction pathway utilized by extracellular hsp70: role of toll-like receptor (TLR) 2 and TLR4.J Biol Chem277: 15028–15034, 2002.",
+          "DOI": "10.1074/jbc.M200497200"
+        },
+        {
+          "key": "REF7",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Audibut F.Adjuvants for vaccine. A quest.Int Immunopharmacol3: 1187–1193, 2003.",
+          "DOI": "10.1016/S1567-5769(03)00011-0"
+        },
+        {
+          "key": "REF8",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Barreto A, Gonzalez JM, Kabingu E, Asea A, and Fiorentino S.Stress-induced release of HSC70 from human tumors.Cell Immunol222: 97–104, 2003.",
+          "DOI": "10.1016/S0008-8749(03)00115-1"
+        },
+        {
+          "key": "REF9",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Basu S, Binder RJ, Ramalingam T, and Srivastava PK.CD91 is a common receptor for heat shock proteins gp96, hsp90, hsp70, and calreticulin.Immunity14: 303–313, 2001.",
+          "DOI": "10.1016/S1074-7613(01)00111-X"
+        },
+        {
+          "key": "REF10",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Basu S, Binder RJ, Suto R, Anderson KM, and Srivastava PK.Necrotic but not apoptotic cell death releases heat shock proteins, which deliver a partial maturation signal to dendritic cells and activate the NF-κB pathway.Int Immunol12: 1539–1546, 2000.",
+          "DOI": "10.1093/intimm/12.11.1539"
+        },
+        {
+          "key": "REF11",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Bausinger H, Lipsker D, Ziylan U, Manie S, Briand JP, Cazenave JP, Muller S, Haeuw JF, Ravanat C, de la Salle H, and Hanau D.Endotoxin-free heat shock protein 70 fail to induce APC activation.Eur J Immunol32: 3708–3713, 2002.",
+          "DOI": "10.1002/1521-4141(200212)32:12<3708::AID-IMMU3708>3.0.CO;2-C"
+        },
+        {
+          "key": "REF12",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Beg AA.Endogenous ligands of Toll-like receptors: implications for regulating inflammatory and immune responses.Trends Immunol23: 509–512, 2002.",
+          "DOI": "10.1016/S1471-4906(02)02317-7"
+        },
+        {
+          "key": "REF13",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Bethke K, Staib F, Distler M, Schmitt U, Jonuleit H, End AH, Galle PR, and Heike M.Different efficiency of heat shock proteins (HSP) to activate human monocytes and dendritic cells: superiority of HSP60.J Immunol169: 6141–6148, 2002.",
+          "DOI": "10.4049/jimmunol.169.11.6141"
+        },
+        {
+          "key": "REF14",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Beutler B.Tlr4: central component of the sole mammalian LPS sensor.Curr Opin Immunol12: 20–26, 2000.",
+          "DOI": "10.1016/S0952-7915(99)00046-1"
+        },
+        {
+          "key": "REF15",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Bulut Y, Faure E, Thomas L, Karahashi H, Michelsen KS, Equils O, Morrison SG, Morrison RP, and Arditi M.Chlamydial heat shock protein 60 activates macrophages and endothelial cells through Toll-like receptor 4 and MD2 in a MyD88-dependent pathway.J Immunol168: 1435–1440, 2002.",
+          "DOI": "10.4049/jimmunol.168.3.1435"
+        },
+        {
+          "key": "REF16",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Byrd CA, Bornmann W, Erdjument-Bromage H, Trmpst P, Pavletich N, Rosen N, Nathan CF, and Ding A.Heat shock protein 90 mediates macrophage activation by taxol and bacterial lipopolysaccharide.Proc Natl Acad Sci USA96: 5645–5650, 1999.",
+          "DOI": "10.1073/pnas.96.10.5645"
+        },
+        {
+          "key": "REF17",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Chen W, Syldath U, Bellmann K, Burkart V, and Kolb H.Human 60-kDa heat-shock protein: a danger signal to the innate immune system.J Immunol162: 3212–3219, 1999.",
+          "DOI": "10.4049/jimmunol.162.6.3212"
+        },
+        {
+          "key": "REF18",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Dybdahl B, Wahba A, Lien E, Flo TH, Waage A, Qureshi N, Sellevold OFM, Espevik T, and Sundan A.Inflammatory response after open heart surgery: release of heat-shock protein 70 and signaling through Toll-like receptor-4.Circulation105: 685–690, 2002.",
+          "DOI": "10.1161/hc0602.103617"
+        },
+        {
+          "key": "REF19",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Elias D, Reshef T, Birk OS, van der Zee R, Walker MD, and Cohen IR.Vaccination against autoimmune mouse diabetes with a T-cell epitope of the human 65-kDa heat shock protein.Proc Natl Acad Sci USA88: 3088–3091, 1991.",
+          "DOI": "10.1073/pnas.88.8.3088"
+        },
+        {
+          "key": "REF20",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Fink AL.Chaperone-mediated protein folding.Physiol Rev79: 425–449, 1999.",
+          "DOI": "10.1152/physrev.1999.79.2.425"
+        },
+        {
+          "key": "REF21",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Flohe SB, Bruggemann J, Lendemans S, Nikulina M, Meierhoff G, Flohe S, and Kolb H.Human heat shock protein 60 induces maturation of dendritic cells versus a TH1-promoting phenotype.J Immunol170: 2340–2348, 2003.",
+          "DOI": "10.4049/jimmunol.170.5.2340"
+        },
+        {
+          "key": "REF22",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Friedland JS, Shattock R, Remake DG, and Griffin E.Mycobacterial 65-kd heat shock protein induces release of proinflammatory cytokines from human monocytic cells.Clin Exp Immunol91: 58–62, 1993.",
+          "DOI": "10.1111/j.1365-2249.1993.tb03354.x"
+        },
+        {
+          "key": "REF23",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Galdiero M, DeL'ero GC, and Marcatili A.Cytokine and adhesion molecule expression in human monocytes and endothelial cells stimulated with bacterial heat shock proteins.Infect Immun65: 699–707, 1997.",
+          "DOI": "10.1128/iai.65.2.699-707.1997"
+        },
+        {
+          "key": "REF24",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Gao Band Tsan MF.Endotoxin contamination in recombinant human Hsp70 preparation is responsible for the induction of TNFα release by murine macrophages.J Biol Chem278: 174–179, 2003.",
+          "DOI": "10.1074/jbc.M208742200"
+        },
+        {
+          "key": "REF25",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Gao Band Tsan MF.Recombinant human heat shock protein 60 does not induce the release of tumor necrosis factor α from murine macrophages.J Biol Chem278: 22523–22529, 2003.",
+          "DOI": "10.1074/jbc.M303161200"
+        },
+        {
+          "key": "REF26",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Habich C, Baumgart K, Kolb H, and Burkart V.The receptor for heat shock protein 60 on macrophages is saturable, specific, and distinct from receptors for other heat shock proteins.J Immunol168: 569–576, 2002.",
+          "DOI": "10.4049/jimmunol.168.2.569"
+        },
+        {
+          "key": "REF27",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Hartl FUand Hayer-Hartl M.Molecular chaperones in the cytosol: from nascent chain to folded protein.Science295: 1852–1858, 2002.",
+          "DOI": "10.1126/science.1068408"
+        },
+        {
+          "key": "REF28",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Haziot A, Chen S, Ferrero E, Low MG, Silber R, and Goyert SM.The monocyte differentiation antigen, CD14, is anchored to the cell membrane by a phosphatidylinositol linkage.J Immunol141: 547–552, 1988.",
+          "DOI": "10.4049/jimmunol.141.2.547"
+        },
+        {
+          "key": "REF29",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Hightower LEand Guidon PT Jr.Selective release from cultured mammalian cells of heat-shock (stress) proteins that resemble glia-axon transfer proteins.J Cell Physiol138: 257–266, 1989.",
+          "DOI": "10.1002/jcp.1041380206"
+        },
+        {
+          "key": "REF30",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Hightower LEand Hendershot LM.Molecular chaperones and the heat shock response at Cold Spring Harbor.Cell Stress Chaperones2: 1–11, 1997.",
+          "DOI": "10.1379/1466-1268(1997)002<0001:MCATHS>2.3.CO;2"
+        },
+        {
+          "key": "REF31",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Hirschfeld M, Ma Y, Weis JH, Vogel SN, and Weis JJ.Cutting edge: repurification of lipopolysaccharide eliminates signaling through both human and murine Toll-like receptor 2.J Immunol165: 618–622, 2000.",
+          "DOI": "10.4049/jimmunol.165.2.618"
+        },
+        {
+          "key": "REF32",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Ishii T, Udono H, Ohta H, Ono T, Hizuta A, Tanaka N, Srivastava PK, and Nakayama E.Isolation of MHC class 1-restricted antigen peptide and its precursors associated with heat shock proteins hsp70, hsp90, and gp96.J Immunol162: 1303–1309, 1999.",
+          "DOI": "10.4049/jimmunol.162.3.1303"
+        },
+        {
+          "key": "REF33",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Jaattela M.Heat shock proteins as cellular lifeguards.Ann Med31: 261–271, 1999.",
+          "DOI": "10.3109/07853899908995889"
+        },
+        {
+          "key": "REF34",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Jones BW, Heldwein KA, Means TK, Saukkonen JJ, and Fenton MJ.Differential roles of Toll-like receptors in the elicitation of proinflammatory responses by macrophages.Ann Rheum Dis60,Suppl3: iii6–iii12, 2001.",
+          "DOI": "10.1136/ard.60.90003.iii6"
+        },
+        {
+          "key": "REF35",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Kirschning CJ, Wesche H, Ayres TM, and Rothe M.Human Toll-like receptor 2 confers responsiveness to bacterial lipopolysaccharide.J Exp Med188: 2091–2097, 1999.",
+          "DOI": "10.1084/jem.188.11.2091"
+        },
+        {
+          "key": "REF36",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Kissling R, Growbug A, Tvanyi J, Soderstrom K, Ferm M, Kleinau S, Nisseon E, and Klareskog L.Role of hsp60 during autoimmune and bacterial inflammation.Immunol Rev121: 91–111, 1991.",
+          "DOI": "10.1111/j.1600-065X.1991.tb00824.x"
+        },
+        {
+          "key": "REF37",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Kol A, Bourcier T, Lichtman AH, and Libby P.Chlamydial and human heat shock protein 60s activate human vascular endothelium, smooth muscle cells, and macrophages.J Clin Invest103: 571–577, 1999.",
+          "DOI": "10.1172/JCI5310"
+        },
+        {
+          "key": "REF38",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Kol A, Lichtman AH, Finberg RW, Libby P, and Kurt-Jones EA.Cutting edge: heat shock protein (HSP) 60 activates the innate immune response: CD14 is an essential receptor for HSP60 activation of mononuclear cells.J Immunol164: 13–17, 2000.",
+          "DOI": "10.4049/jimmunol.164.1.13"
+        },
+        {
+          "key": "REF39",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Kol A, Sukhova GK, Lichtman AH, and Libby P.Chlamydial heat shock protein 60 localizes in human atheroma and regulates macrophage tumor necrosis factor-α and matrix metalloproteinase expression.Circulation98: 300–307, 1998.",
+          "DOI": "10.1161/01.CIR.98.4.300"
+        },
+        {
+          "key": "REF40",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Lee HK, Lee J, and Tobias PS.Two lipoproteins extracted fromEscherichia coliK-12 LCD25 lipopolysaccharide are the major components responsible for Toll-like receptor 2-mediated signaling.J Immunol168: 4012–4017, 2002.",
+          "DOI": "10.4049/jimmunol.168.8.4012"
+        },
+        {
+          "key": "REF41",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Levy-Rimler G, Bell RE, Ben-Tal N, and Azem A.Type I chaperonins: not all are created equal.FEBS Lett529: 1–5, 2002.",
+          "DOI": "10.1016/S0014-5793(02)03178-2"
+        },
+        {
+          "key": "REF42",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Levy-Rimler G, Viitanen P, Weiss C, Sharkia R, Greenberg A, Niv A, Lustig A, Delarea Y, and Azem A.The effect of nucleotides and mitochondrial chaperonin 10 on the structure and chaperone activity of mitochondrial chaperonin 60.Eur J Biochem268: 3465–3472, 2001.",
+          "DOI": "10.1046/j.1432-1327.2001.02243.x"
+        },
+        {
+          "key": "REF43",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Li Z, Menoret A, and Srivastava P.Roles of heat-shock proteins in antigen presentation and cross-presentation.Curr Opin Immunol14: 45–51, 2002.",
+          "DOI": "10.1016/S0952-7915(01)00297-7"
+        },
+        {
+          "key": "REF44",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Liao DF, Jin ZG, Baas AS, Daum G, Gygi SP, Aebersold R, and Berk BC.Purification and identification of secreted oxidative stress-induced factors from vascular smooth muscle cells.J Biol Chem275: 189–196, 2000.",
+          "DOI": "10.1074/jbc.275.1.189"
+        },
+        {
+          "key": "REF45",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Lindquist Sand Craig EA.The heat-shock proteins.Annu Rev Genet22: 631–677, 1988.",
+          "DOI": "10.1146/annurev.ge.22.120188.003215"
+        },
+        {
+          "key": "REF46",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Llorca O, Martín-Benito J, Ritco-Vonsovici M, Grantham J, Hynes GM, Willison KR, Carrascosa JL, and Valpuesta JM.Eukaryotic chaperonin CCT stabilizes actin and tubulin folding intermediates in open quasi-native conformations.EMBO J19: 5971–5979, 2000.",
+          "DOI": "10.1093/emboj/19.22.5971"
+        },
+        {
+          "key": "REF47",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Medzhitov R.Toll-like receptors and innate immunity.Nat Rev Immunol1: 135–145, 2001.",
+          "DOI": "10.1038/35100529"
+        },
+        {
+          "key": "REF48",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Medzhitov R, Preston-Hurlburt P, Kopp E, Stadlen A, Chen C, Ghosh S, and Janeway CA Jr.MyD88 is an adapter protein in the hToll/IL-1 receptor family signaling pathways.Mol Cell2: 253–258, 1998.",
+          "DOI": "10.1016/S1097-2765(00)80136-7"
+        },
+        {
+          "key": "REF49",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Muzio M, Natoli G, Saccani S, Levrero M, and Mantovani A.The human toll signaling pathway: divergence of nuclear factor kappaB and JNK/SAPK activation upstream of tumor necrosis factor receptor-associated factor 6 (TRAF6).J Exp Med187: 2097–2101, 1998.",
+          "DOI": "10.1084/jem.187.12.2097"
+        },
+        {
+          "key": "REF50",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Nicchitta CV.Re-evaluating the role of heat-shock protein-peptide interactions in tumor immunity.Nat Rev Immunol3: 427–432, 2003.",
+          "DOI": "10.1038/nri1089"
+        },
+        {
+          "key": "REF51",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Ohashi K, Burkart V, Flohe S, and Kolb H.Cutting edge: heat shock protein 60 is a putative endogenous ligand of the toll-like receptor-4 complex.J Immunol164: 558–561, 2000.",
+          "DOI": "10.4049/jimmunol.164.2.558"
+        },
+        {
+          "key": "REF52",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Panjwani NN, Popova L, and Srivastava PK.Heat shock protein gp96, and hsp70 activate the release of nitric oxide by APCs.J Immunol168: 2997–3003, 2002.",
+          "DOI": "10.4049/jimmunol.168.6.2997"
+        },
+        {
+          "key": "REF53",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Peetermans WE, Raats CJI, Langemans JAM, and Van Furth R.Mycobacterial heat-shock protein 65 induces proinflammatory cytokines but does not activate human mononuclear phagocytes.Scand J Immunol39: 613–617, 1994.",
+          "DOI": "10.1111/j.1365-3083.1994.tb03421.x"
+        },
+        {
+          "key": "REF54",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Peetermans WE, Raats CJI, van Furth R, and Langermans JAM.Mycobacterial 65-kilodalton heat shock protein induces tumor necrosis factor α, interleukin 6, reactive nitrogen intermediates and toxoplasmastatic activity in murine peritoneal macrophages.Infect Immun63: 3454–3458, 1995.",
+          "DOI": "10.1128/iai.63.9.3454-3458.1995"
+        },
+        {
+          "key": "REF55",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Pockley AG.Heat shock proteins in health and disease: therapeutic targets or therapeutic agents? In:Expert Reviews in Molecular Medicine. Cambridge, UK: Cambridge University Press, 2001, p. 1–21.",
+          "DOI": "10.1017/S1462399401003556"
+        },
+        {
+          "key": "REF56",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Pockley AG.Heat shock proteins, inflammation, and cardiovascular disease.Circulation105: 1012–1017, 2002.",
+          "DOI": "10.1161/hc0802.103729"
+        },
+        {
+          "key": "REF57",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Pockley AG, Bulmer J, Hanks BM, and Wright BH.Identification of human heat shock protein 60 (Hsp60) and anti-Hsp60 antibodies in the peripheral circulation of normal individuals.Cell Stress Chaperones4: 29–35, 1999.",
+          "DOI": "10.1054/csac.1998.0121"
+        },
+        {
+          "key": "REF58",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Pockley AG, Wu R, Lemne C, Kiessling R, de Faire U, and Frostegard J.Circulating heat shock protein 60 is associated with early cardiovascular disease.Hypertension36: 303–307, 2000.",
+          "DOI": "10.1161/01.HYP.36.2.303"
+        },
+        {
+          "key": "REF59",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Poltorak A, He X, Smirnova I, Liu MY, van Huffel C, Du X, Birdwell D, Alejos E, Silva M, Galanos C, Freudenberg M, Ricciardi-Castagnoli P, Layton B, and Beutler B.Defective LPS signaling in C3H/HeJ and C57BL/10ScCr mice: mutations inTlr4gene.Science282: 2085–2088, 1998.",
+          "DOI": "10.1126/science.282.5396.2085"
+        },
+        {
+          "key": "REF60",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Pope RM, Lovis RM, and Gupta RS.Activation of synovial fluid T lymphocytes by 60-kd heat shock proteins in patients with inflammatory synovitis.Arthritis Rheum35: 43–48, 1992.",
+          "DOI": "10.1002/art.1780350107"
+        },
+        {
+          "key": "REF61",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Qureshi ST, Lariviere L, Levegue G, Clermont SKJ, Moore Gros P, and Malo D.Endotoxin-tolerant mice have mutations in Toll-like receptor 4 (Tlr4).J Exp Med189: 615–625, 1999.",
+          "DOI": "10.1084/jem.189.4.615"
+        },
+        {
+          "key": "REF62",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Rea IM, McNerlan S, and Pockley AG.Serum heat shock protein and anti-heat shock protein antibody levels in aging.Exp Gerontol36: 341–352, 2001.",
+          "DOI": "10.1016/S0531-5565(00)00215-1"
+        },
+        {
+          "key": "REF63",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Reed RC, Berwin B, Baker JP, and Nicchitta CV.GRP94/gp96 elicits ERK activation in murine macrophages: a role for endotoxin contamination in NFκB activation and nitric oxide production.J Biol Chem278: 31853–31860, 2003.",
+          "DOI": "10.1074/jbc.M305480200"
+        },
+        {
+          "key": "REF64",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Res PC, Schear CG, Breedveld FC, van Eden W, Van Embden JD, Cohen IR, and De Vries RR.Synovial fluid T cell reactivity against 65 kD heat shock protein of mycobacteria in early chronic arthritis.Lancet2: 478–480, 1988.",
+          "DOI": "10.1016/S0140-6736(88)90123-7"
+        },
+        {
+          "key": "REF65",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Retzlaff C, Yamamoto Y, Hoffman PS, Friedman H, and Klein TW.Bacterial heat shock proteins directly induce cytokine mRNA and interleukin-1 secretion in macrophage cultures.Infect Immun62: 5689–5693, 1994.",
+          "DOI": "10.1128/iai.62.12.5689-5693.1994"
+        },
+        {
+          "key": "REF66",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Retzlaff C, Yamamoto Y, Okubo S, Hoffman PS, Friedman PS, and Klein TW.Legionella pneumophilaheat-shock protein-induced increase of interleukin-1β mRNA involves protein kinase C signaling in macrophages.Immunology89: 281–288, 1996.",
+          "DOI": "10.1046/j.1365-2567.1996.d01-735.x"
+        },
+        {
+          "key": "REF67",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Rock FL, Hardiman G, Timans JC, Kastelein RA, and Bazan JF.A family of human receptors structurally related toDorsophilaToll.Proc Natl Acad Sci USA95: 588–593, 1998.",
+          "DOI": "10.1073/pnas.95.2.588"
+        },
+        {
+          "key": "REF68",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Singh-Jasuja H, Scherer HU, Hilf N, Arnold-Schild D, Rammensee HG, Toes REM, and Schild H.The heat shock protein gp96 induces maturation of dendritic cells and down-regulation of its receptor.Eur J Immunol30: 2211–2215, 2000.",
+          "DOI": "10.1002/1521-4141(2000)30:8<2211::AID-IMMU2211>3.0.CO;2-0"
+        },
+        {
+          "key": "REF69",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Skeen MJ, Miller MA, Shinnick TM, and Ziegler HK.Regulation of murine macrophage IL-12 production. Activation of macrophages in vivo, restimulation in vitro, and modulation by other cytokines.J Immunol156: 1196–1206, 1996.",
+          "DOI": "10.4049/jimmunol.156.3.1196"
+        },
+        {
+          "key": "REF70",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Snoeckx LHEH, Cornelussen RN, Van Nieuwenhoven FA, Reneman RS, and Van Der Vusse GJ.Heat shock proteins and cardiovascular pathophysiology.Physiol Rev81: 1461–1497, 2001.",
+          "DOI": "10.1152/physrev.2001.81.4.1461"
+        },
+        {
+          "key": "REF71",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Somersan S, Larsson M, Honteneau JF, Basu S, Srivastava P, and Bhardwaj N.Primary tumor tissue lysates are enriched in heat shock proteins and induce the maturation of human dendritic cells.J Immunol167: 4844–4852, 2001.",
+          "DOI": "10.4049/jimmunol.167.9.4844"
+        },
+        {
+          "key": "REF72",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Srivastava PK.Role of heat-shock proteins in innate and adaptive immunity.Nat Rev Immunol2: 185–194, 2002.",
+          "DOI": "10.1038/nri749"
+        },
+        {
+          "key": "REF73",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Srivastava PK, DeLeo AB, and Old LJ.Tumor rejection antigens of chemically induced tumors of inbred mice.Proc Natl Acad Sci USA83: 3407–3411, 1986.",
+          "DOI": "10.1073/pnas.83.10.3407"
+        },
+        {
+          "key": "REF74",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Srivastava PK, Menoret A, Basu S, Binder RJ, and McQuade KL.Heat shock proteins come of age: primitive functions acquire new roles in an adaptive world.Immunity8: 657–665, 1998.",
+          "DOI": "10.1016/S1074-7613(00)80570-1"
+        },
+        {
+          "key": "REF75",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Srivastava PK, Udono H, Blachere NE, and Li Z.Heat shock proteins transfer peptides during antigen processing and CTL priming.Immunogenetics39: 93–98, 1994.",
+          "DOI": "10.1007/BF00188611"
+        },
+        {
+          "key": "REF76",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Stelter F.Structure/function relationships of CD14.Chem Immunol74: 25–41, 2000.",
+          "DOI": "10.1159/000058758"
+        },
+        {
+          "key": "REF77",
+          "unstructured": "Szewezuk MRand Depew WT.Evidence for T lymphocyte reactivity to the 65 kilodalton heat-shock protein of mycobacteria in active Crohn's disease.Clin Invest Med15: 494–505, 1992."
+        },
+        {
+          "key": "REF78",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Tapping RI, Akashi S, Miyake K, Godowski PJ, and Tobias PS.Toll-like receptor 4, but not Toll-like receptor 2, is a signaling receptor forEscherichiaandSalmonellalipopolysaccharide.J Immunol165: 5780–5787, 2000.",
+          "DOI": "10.4049/jimmunol.165.10.5780"
+        },
+        {
+          "key": "REF79",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Triantafilou K, Triantafilou M, and Dedrick RL.A CD14-independent LPS receptor cluster.Nat Immunol2: 338–345, 2001.",
+          "DOI": "10.1038/86342"
+        },
+        {
+          "key": "REF80",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Udono Hand Srivastava PK.Comparison of tumor-specific immunogenicities of stress-induced proteins gp96, hsp90 and hsp70.J Immunol152: 5398–5403, 1994.",
+          "DOI": "10.4049/jimmunol.152.11.5398"
+        },
+        {
+          "key": "REF81",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Vabulas RM, Ahmad-Nejad P, da Costa C, Miethke T, Kirschning CJ, Hacker H, and Wagner H.Endocytosed HSP60s use Toll-like receptor 2 (TLR2) and TLR4 to activate the Toll/interleukin-1 receptor signaling pathway in innate immune cells.J Biol Chem276: 31332–31339, 2001.",
+          "DOI": "10.1074/jbc.M103217200"
+        },
+        {
+          "key": "REF82",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Vabulas RM, Ahmad-Nejad P, Ghose S, Kirschning CJ, Issels RD, and Wagner H.Hsp70 as endogenous stimulus of the Toll/interleukin-1 receptor signal pathway.J Biol Chem277: 15107–15112, 2002.",
+          "DOI": "10.1074/jbc.M111204200"
+        },
+        {
+          "key": "REF83",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Vabulas RM, Braedel S, Hilf N, Singh-Jasuja H, Herter S, Ahmad-Nejad P, Kirschning CJ, Da Costa C, Rammensee HG, Wagner H, and Schild H.The endoplasmic reticulum-resident heat shock protein Gp96 activates dendritic cells via the Toll-like receptor 2/4 pathway.J Biol Chem277: 20847–20853, 2002.",
+          "DOI": "10.1074/jbc.M200425200"
+        },
+        {
+          "key": "REF84",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Vikstrom EV.The immunosuppressive activity of chemically modified lipopolysaccharide ofShigella sonnei.Immunol Lett80: 15–19, 2002.",
+          "DOI": "10.1016/S0165-2478(01)00298-X"
+        },
+        {
+          "key": "REF85",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Wallin RP, Lundqvist A, More SH, von Bonin A, Kiessling R, and Ljunggren HG.Heat-shock proteins as activators of the innate immune system.Trends Immunol23: 130–135, 2002.",
+          "DOI": "10.1016/S1471-4906(01)02168-8"
+        },
+        {
+          "key": "REF86",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Wang Y, Kelly CG, Singh M, McGowan EG, Carrara AS, Bergmeier LA, and Lehner T.Stimulation of Th-1 polarizing cytokines, C-C chemokines, maturation of dendritic cells, and adjuvant function by the peptide binding fragment of heat shock protein 70.J Immunol169: 2422–2429, 2002.",
+          "DOI": "10.4049/jimmunol.169.5.2422"
+        },
+        {
+          "key": "REF87",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Xu Q.Role of heat shock proteins in atherosclerosis.Arterioscler Thromb Vasc Biol22: 1547–1559, 2002.",
+          "DOI": "10.1161/01.ATV.0000029720.59649.50"
+        },
+        {
+          "key": "REF88",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Xu Q.Infections, heat shock proteins, and atherosclerosis.Curr Opin Cardiol18: 245–252, 2003.",
+          "DOI": "10.1097/00001573-200307000-00001"
+        },
+        {
+          "key": "REF89",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Xu Q, Schett G, Perschinka H, Mayr M, Egger G, Oberhollenzer F, Willeit J, Kiechl S, and Wick G.Serum soluble heat shock protein 60 is elevated in subjects with atherosclerosis in a general population.Circulation102: 14–20, 2000.",
+          "DOI": "10.1161/01.CIR.102.1.14"
+        },
+        {
+          "key": "REF90",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Yang RB, Mark MR, Gray A, Hunag A, Xie MH, Zhang M, Goddard A, Wood WI, Gurney AL, and Godowski PJ.Toll-like receptor-2 mediates lipopolysaccharide-induced cellular signaling.Nature395: 284–288, 1998.",
+          "DOI": "10.1038/26239"
+        },
+        {
+          "key": "REF91",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Zhang Y, Doerfler M, Lee TC, Guillemin B, and Rom WN.Mechanisms of stimulation of interleukin-1β and tumor necrosis factor α byMycobacteriumtuberculosis components.J Clin Invest91: 2076–2083, 1993.",
+          "DOI": "10.1172/JCI116430"
+        },
+        {
+          "key": "REF92",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Zugel Uand Kaufmann SH.Immune response against heat-shock proteins in infectious diseases.Immunobiology201: 22–35, 1999.",
+          "DOI": "10.1016/S0171-2985(99)80044-8"
+        }
+      ],
+      "container-title": [
+        "American Journal of Physiology-Cell Physiology"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://journals.physiology.org/doi/pdf/10.1152/ajpcell.00364.2003",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            12,
+            15
+          ]
+        ],
+        "date-time": "2024-12-15T13:46:43Z",
+        "timestamp": 1734270403000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://journals.physiology.org/doi/10.1152/ajpcell.00364.2003"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2004,
+            4
+          ]
+        ]
+      },
+      "references-count": 92,
+      "journal-issue": {
+        "issue": "4",
+        "published-print": {
+          "date-parts": [
+            [
+              2004,
+              4
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1152/ajpcell.00364.2003"
+      ],
+      "URL": "https://doi.org/10.1152/ajpcell.00364.2003",
+      "relation": {},
+      "ISSN": [
+        "0363-6143",
+        "1522-1563"
+      ],
+      "issn-type": [
+        {
+          "value": "0363-6143",
+          "type": "print"
+        },
+        {
+          "value": "1522-1563",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2004,
+            4
+          ]
+        ]
+      }
+    }
+  },
+  "picking": {
+    "worker": "gpt-6 (self-reported by the worker in the picking chat after the run; the ChatGPT screen does not show a model name), ChatGPT Plus",
+    "run": "r1",
+    "date": "2026-11-23",
+    "settings": "new chat in Chat mode; no project; memory off; no custom instructions; reasoning shown as High; no prompt text",
+    "settings_basis": "memory off, writing-style reference off and empty custom instructions seen on the account settings screens (11:06–11:07 KST), before the start screen; new chat, two attachments, no prompt text and reasoning at High, with no model name, seen on the picking start screen (11:09 KST) and in the open reasoning menu (11:10 KST); the model name was asked after the run in the same chat, before the translation request, and is the worker's own answer; screenshots were shown to the report author in the session and are not kept",
+    "scope": "whole PDF; the worker reported opening printed pages C739–C744, none skipped",
+    "run_time": "2m 49s, as shown on the end screen",
+    "instruction": "PHILIA_Stage1_Lite_Instruction_EN_v0_3.md",
+    "instruction_sha256_16": "464825c20ecd23df",
+    "picks_file_sha256_16": "ff1cafc1c7dd88c9"
+  },
+  "verification": {
+    "tool": "philia_verify_v0_10",
+    "tool_sha256_16": "bf45b8b8c68a7e23",
+    "engine": "pdfplumber 0.11.10, with column-wise reading at the page middle and at column gutters found on each page",
+    "environments": 2,
+    "agreement": "36/36 identical (33 picks and 3 uncertain; verdict, hash, page, diff, flags)",
+    "summary_picks": {
+      "FOUND": 24,
+      "FOUND_OCR": 0,
+      "TRUNCATED": 0,
+      "PARTIAL": 9,
+      "NOT_FOUND": 0
+    },
+    "summary_uncertain": {
+      "FOUND": 2,
+      "FOUND_OCR": 1,
+      "TRUNCATED": 0,
+      "PARTIAL": 0,
+      "NOT_FOUND": 0
+    },
+    "remaining": "PARTIAL c07, c10, c16, c19, c20, c23, c24, c26: each sentence carries the Greek letter α (c07, c19, c23, c24, c26), κ (c10, c20) or μ (c16), which appears in the pdfplumber text layer as a (cid:n) code (α as (cid:1), κ as (cid:5), μ as (cid:4); diff). PARTIAL c17: on the page image (printed page C741) the sentence starts at the foot of the left column and continues at the top of the right column; Fig. 1 and the page footer line lie between the two parts in the column reading. FOUND_OCR u01: in the text layer a hyphen printed in the source ('open-heart') stands at a line end; the verifier's line-break rule removes it and the transcription keeps it. No page mismatch and no format flags. The verifier was not changed in this round, and all selected items are published (researcher decision).",
+    "meaning": "verdict answers whether the sentence is in the PDF text layer; it does not answer whether spelling matches the printed page"
+  },
+  "fields": {
+    "kind": "pick = selected; uncertain = the worker was unsure the sentence meets the task",
+    "printed_page": "printed page number without its C prefix, as written by the worker and as computed by code",
+    "text_masked": "first and last word of the sentence as transcribed by the worker; the rest is withheld",
+    "words": "number of words in the withheld sentence",
+    "hash": "sha256 (16) of the normalized sentence text as transcribed by the worker",
+    "page_claimed": "present only when the worker's page differs from the computed page",
+    "citations": "numbered references in the sentence, including ranges (listed one by one), one entry per reference; ref is the number as printed. The printed reference list (92 entries) carries no DOIs; the Crossref record has keys REF1–REF92 with no gap, each with the reference written out. Printed number n is taken as key REF<n> (researcher decision): by code, all 92 printed entries agree with entry REF<n> in first author's surname, year and, where given, first page (90 in the column-wise text layer; entries 2 and 86 run across a column break and were read in the layout text layer). doi is the DOI of that Crossref entry; it is absent where the entry has no DOI (REF77, which no selected sentence cites)"
+  },
+  "items": [
+    {
+      "id": "c01",
+      "kind": "pick",
+      "printed_page": 739,
+      "pdf_page": 1,
+      "text_masked": "The … LPS.",
+      "words": 44,
+      "hash": "f3d2538d30cf4336",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c02",
+      "kind": "pick",
+      "printed_page": 739,
+      "pdf_page": 1,
+      "text_masked": "HSPs … forms).",
+      "words": 13,
+      "hash": "eb48b89dafbc1fc6",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c03",
+      "kind": "pick",
+      "printed_page": 739,
+      "pdf_page": 1,
+      "text_masked": "In … 45).",
+      "words": 43,
+      "hash": "a52a9954533a6600",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "33",
+          "crossref_key": "REF33",
+          "doi": "10.3109/07853899908995889"
+        },
+        {
+          "ref": "45",
+          "crossref_key": "REF45",
+          "doi": "10.1146/annurev.ge.22.120188.003215"
+        }
+      ]
+    },
+    {
+      "id": "c04",
+      "kind": "pick",
+      "printed_page": 739,
+      "pdf_page": 1,
+      "text_masked": "In … 44).",
+      "words": 23,
+      "hash": "6d681a4a37ee6845",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "8",
+          "crossref_key": "REF8",
+          "doi": "10.1016/S0008-8749(03)00115-1"
+        },
+        {
+          "ref": "29",
+          "crossref_key": "REF29",
+          "doi": "10.1002/jcp.1041380206"
+        },
+        {
+          "ref": "44",
+          "crossref_key": "REF44",
+          "doi": "10.1074/jbc.275.1.189"
+        }
+      ]
+    },
+    {
+      "id": "c05",
+      "kind": "pick",
+      "printed_page": 739,
+      "pdf_page": 1,
+      "text_masked": "The … 45).",
+      "words": 45,
+      "hash": "b6e7093071432bd9",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "20",
+          "crossref_key": "REF20",
+          "doi": "10.1152/physrev.1999.79.2.425"
+        },
+        {
+          "ref": "27",
+          "crossref_key": "REF27",
+          "doi": "10.1126/science.1068408"
+        },
+        {
+          "ref": "33",
+          "crossref_key": "REF33",
+          "doi": "10.3109/07853899908995889"
+        },
+        {
+          "ref": "45",
+          "crossref_key": "REF45",
+          "doi": "10.1146/annurev.ge.22.120188.003215"
+        }
+      ]
+    },
+    {
+      "id": "c06",
+      "kind": "pick",
+      "printed_page": 740,
+      "pdf_page": 2,
+      "text_masked": "Recent … binding.",
+      "words": 15,
+      "hash": "5ea6b94b53ca36e3",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c07",
+      "kind": "pick",
+      "printed_page": 740,
+      "pdf_page": 2,
+      "text_masked": "These … cells.",
+      "words": 40,
+      "hash": "f3d4e3eca194cdc2",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c08",
+      "kind": "pick",
+      "printed_page": 740,
+      "pdf_page": 2,
+      "text_masked": "These … assembly.",
+      "words": 29,
+      "hash": "d17b5ec1c8823fdc",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c09",
+      "kind": "pick",
+      "printed_page": 740,
+      "pdf_page": 2,
+      "text_masked": "A … (5).",
+      "words": 20,
+      "hash": "ec0bca3006976285",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "5",
+          "crossref_key": "REF5",
+          "doi": "10.1038/74697"
+        }
+      ]
+    },
+    {
+      "id": "c10",
+      "kind": "pick",
+      "printed_page": 740,
+      "pdf_page": 2,
+      "text_masked": "Furthermore, … 81–83).",
+      "words": 55,
+      "hash": "cbb5c89d4b4474bc",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "5",
+          "crossref_key": "REF5",
+          "doi": "10.1038/74697"
+        },
+        {
+          "ref": "6",
+          "crossref_key": "REF6",
+          "doi": "10.1074/jbc.M200497200"
+        },
+        {
+          "ref": "15",
+          "crossref_key": "REF15",
+          "doi": "10.4049/jimmunol.168.3.1435"
+        },
+        {
+          "ref": "18",
+          "crossref_key": "REF18",
+          "doi": "10.1161/hc0602.103617"
+        },
+        {
+          "ref": "38",
+          "crossref_key": "REF38",
+          "doi": "10.4049/jimmunol.164.1.13"
+        },
+        {
+          "ref": "51",
+          "crossref_key": "REF51",
+          "doi": "10.4049/jimmunol.164.2.558"
+        },
+        {
+          "ref": "81",
+          "crossref_key": "REF81",
+          "doi": "10.1074/jbc.M103217200"
+        },
+        {
+          "ref": "82",
+          "crossref_key": "REF82",
+          "doi": "10.1074/jbc.M111204200"
+        },
+        {
+          "ref": "83",
+          "crossref_key": "REF83",
+          "doi": "10.1074/jbc.M200425200"
+        }
+      ]
+    },
+    {
+      "id": "c11",
+      "kind": "pick",
+      "printed_page": 740,
+      "pdf_page": 2,
+      "text_masked": "Thus … 82).",
+      "words": 45,
+      "hash": "410735cc271f5e38",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "17",
+          "crossref_key": "REF17",
+          "doi": "10.4049/jimmunol.162.6.3212"
+        },
+        {
+          "ref": "85",
+          "crossref_key": "REF85",
+          "doi": "10.1016/S1471-4906(01)02168-8"
+        },
+        {
+          "ref": "51",
+          "crossref_key": "REF51",
+          "doi": "10.4049/jimmunol.164.2.558"
+        },
+        {
+          "ref": "82",
+          "crossref_key": "REF82",
+          "doi": "10.1074/jbc.M111204200"
+        }
+      ]
+    },
+    {
+      "id": "c12",
+      "kind": "pick",
+      "printed_page": 741,
+      "pdf_page": 3,
+      "text_masked": "The … lipoprotein.",
+      "words": 14,
+      "hash": "3f72d5414eb353c6",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c13",
+      "kind": "pick",
+      "printed_page": 741,
+      "pdf_page": 3,
+      "text_masked": "Because … products.",
+      "words": 24,
+      "hash": "c3fc3e43f9cb47e2",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c14",
+      "kind": "pick",
+      "printed_page": 741,
+      "pdf_page": 3,
+      "text_masked": "The … concern.",
+      "words": 22,
+      "hash": "1f1e049a4652e688",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c15",
+      "kind": "pick",
+      "printed_page": 741,
+      "pdf_page": 3,
+      "text_masked": "Thus … 90).",
+      "words": 31,
+      "hash": "b12e509b3c5c99e8",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "35",
+          "crossref_key": "REF35",
+          "doi": "10.1084/jem.188.11.2091"
+        },
+        {
+          "ref": "90",
+          "crossref_key": "REF90",
+          "doi": "10.1038/26239"
+        }
+      ]
+    },
+    {
+      "id": "c16",
+      "kind": "pick",
+      "printed_page": 741,
+      "pdf_page": 3,
+      "text_masked": "Wallin … μg/ml.",
+      "words": 23,
+      "hash": "3895179a1a6f7934",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "85",
+          "crossref_key": "REF85",
+          "doi": "10.1016/S1471-4906(01)02168-8"
+        }
+      ]
+    },
+    {
+      "id": "c17",
+      "kind": "pick",
+      "printed_page": 741,
+      "pdf_page": 3,
+      "text_masked": "On … B.",
+      "words": 29,
+      "hash": "e37d40e71630e0cd",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c18",
+      "kind": "pick",
+      "printed_page": 741,
+      "pdf_page": 3,
+      "text_masked": "Recent … contaminants.",
+      "words": 27,
+      "hash": "677767f082b01c03",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c19",
+      "kind": "pick",
+      "printed_page": 741,
+      "pdf_page": 3,
+      "text_masked": "Gao … (25).",
+      "words": 49,
+      "hash": "59dcb55bafdf2e71",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "24",
+          "crossref_key": "REF24",
+          "doi": "10.1074/jbc.M208742200"
+        },
+        {
+          "ref": "25",
+          "crossref_key": "REF25",
+          "doi": "10.1074/jbc.M303161200"
+        }
+      ]
+    },
+    {
+      "id": "c20",
+      "kind": "pick",
+      "printed_page": 741,
+      "pdf_page": 3,
+      "text_masked": "Reed … contamination.",
+      "words": 22,
+      "hash": "35bf7820e5a766db",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "63",
+          "crossref_key": "REF63",
+          "doi": "10.1074/jbc.M305480200"
+        }
+      ]
+    },
+    {
+      "id": "c21",
+      "kind": "pick",
+      "printed_page": 741,
+      "pdf_page": 3,
+      "text_masked": "Importantly, … 63).",
+      "words": 26,
+      "hash": "2b1ed0f7998a90d1",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "11",
+          "crossref_key": "REF11",
+          "doi": "10.1002/1521-4141(200212)32:12<3708::AID-IMMU3708>3.0.CO;2-C"
+        },
+        {
+          "ref": "24",
+          "crossref_key": "REF24",
+          "doi": "10.1074/jbc.M208742200"
+        },
+        {
+          "ref": "25",
+          "crossref_key": "REF25",
+          "doi": "10.1074/jbc.M303161200"
+        },
+        {
+          "ref": "63",
+          "crossref_key": "REF63",
+          "doi": "10.1074/jbc.M305480200"
+        }
+      ]
+    },
+    {
+      "id": "c22",
+      "kind": "pick",
+      "printed_page": 741,
+      "pdf_page": 3,
+      "text_masked": "Thus … purification.",
+      "words": 31,
+      "hash": "74d024bab22b7991",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c23",
+      "kind": "pick",
+      "printed_page": 741,
+      "pdf_page": 3,
+      "text_masked": "LPS … (24).",
+      "words": 18,
+      "hash": "dce7eb7746444bb9",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "24",
+          "crossref_key": "REF24",
+          "doi": "10.1074/jbc.M208742200"
+        }
+      ]
+    },
+    {
+      "id": "c24",
+      "kind": "pick",
+      "printed_page": 741,
+      "pdf_page": 3,
+      "text_masked": "At … resistant.",
+      "words": 35,
+      "hash": "5f7c9085416a68fb",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c25",
+      "kind": "pick",
+      "printed_page": 741,
+      "pdf_page": 3,
+      "text_masked": "Although … HSPs.",
+      "words": 25,
+      "hash": "8ee2650b3491dd44",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c26",
+      "kind": "pick",
+      "printed_page": 741,
+      "pdf_page": 3,
+      "text_masked": "Gao … B.",
+      "words": 38,
+      "hash": "2d233dd657278ef2",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "25",
+          "crossref_key": "REF25",
+          "doi": "10.1074/jbc.M303161200"
+        }
+      ]
+    },
+    {
+      "id": "c27",
+      "kind": "pick",
+      "printed_page": 742,
+      "pdf_page": 4,
+      "text_masked": "Only … used.",
+      "words": 15,
+      "hash": "af7126a51e73d809",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c28",
+      "kind": "pick",
+      "printed_page": 742,
+      "pdf_page": 4,
+      "text_masked": "However, … contamination.",
+      "words": 31,
+      "hash": "343cea7d4e021d44",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c29",
+      "kind": "pick",
+      "printed_page": 742,
+      "pdf_page": 4,
+      "text_masked": "It … LPS.",
+      "words": 33,
+      "hash": "146206fd84678d73",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c30",
+      "kind": "pick",
+      "printed_page": 742,
+      "pdf_page": 4,
+      "text_masked": "If … system.",
+      "words": 34,
+      "hash": "7f009466ab8de438",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c31",
+      "kind": "pick",
+      "printed_page": 742,
+      "pdf_page": 4,
+      "text_masked": "Reed … LPS.",
+      "words": 38,
+      "hash": "83a154668ff6453e",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "63",
+          "crossref_key": "REF63",
+          "doi": "10.1074/jbc.M305480200"
+        }
+      ]
+    },
+    {
+      "id": "c32",
+      "kind": "pick",
+      "printed_page": 742,
+      "pdf_page": 4,
+      "text_masked": "Thus … LPS.",
+      "words": 10,
+      "hash": "bed4d1ea9ca96995",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c33",
+      "kind": "pick",
+      "printed_page": 742,
+      "pdf_page": 4,
+      "text_masked": "Thus … HSPs.",
+      "words": 45,
+      "hash": "047260916b8d5af6",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "u01",
+      "kind": "uncertain",
+      "printed_page": 739,
+      "pdf_page": 1,
+      "text_masked": "However, … (18).",
+      "words": 40,
+      "hash": "b4a43ae4e657ece1",
+      "verdict": "FOUND_OCR",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "57",
+          "crossref_key": "REF57",
+          "doi": "10.1054/csac.1998.0121"
+        },
+        {
+          "ref": "87",
+          "crossref_key": "REF87",
+          "doi": "10.1161/01.ATV.0000029720.59649.50"
+        },
+        {
+          "ref": "62",
+          "crossref_key": "REF62",
+          "doi": "10.1016/S0531-5565(00)00215-1"
+        },
+        {
+          "ref": "58",
+          "crossref_key": "REF58",
+          "doi": "10.1161/01.HYP.36.2.303"
+        },
+        {
+          "ref": "89",
+          "crossref_key": "REF89",
+          "doi": "10.1161/01.CIR.102.1.14"
+        },
+        {
+          "ref": "18",
+          "crossref_key": "REF18",
+          "doi": "10.1161/hc0602.103617"
+        }
+      ]
+    },
+    {
+      "id": "u02",
+      "kind": "uncertain",
+      "printed_page": 739,
+      "pdf_page": 1,
+      "text_masked": "The … (46).",
+      "words": 21,
+      "hash": "ab333652d6c7379b",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "46",
+          "crossref_key": "REF46",
+          "doi": "10.1093/emboj/19.22.5971"
+        }
+      ]
+    },
+    {
+      "id": "u03",
+      "kind": "uncertain",
+      "printed_page": 740,
+      "pdf_page": 2,
+      "text_masked": "Glucose-regulated … 70).",
+      "words": 35,
+      "hash": "5d7a0d107e076da9",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "30",
+          "crossref_key": "REF30",
+          "doi": "10.1379/1466-1268(1997)002<0001:MCATHS>2.3.CO;2"
+        },
+        {
+          "ref": "70",
+          "crossref_key": "REF70",
+          "doi": "10.1152/physrev.2001.81.4.1461"
+        }
+      ]
+    }
+  ]
+}

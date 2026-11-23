@@ -1,0 +1,416 @@
+{
+  "layer": "INTERPRETATION",
+  "note": "Written by AI. Interpretation, not verified by code for correctness. Joined to COORDINATES by id and hash.",
+  "source": {
+    "doi": "10.1152/ajpcell.00364.2003",
+    "title": "Cytokine function of heat shock proteins",
+    "author": [
+      {
+        "given": "Min-Fu",
+        "family": "Tsan"
+      },
+      {
+        "given": "Baochong",
+        "family": "Gao"
+      }
+    ],
+    "journal": "American Journal of Physiology-Cell Physiology",
+    "volume": "286",
+    "issue": "4",
+    "pages": "C739-C744",
+    "published_print": "2004-04",
+    "publisher": "American Physiological Society",
+    "issn": {
+      "print": "0363-6143",
+      "electronic": "1522-1563"
+    },
+    "type": "journal-article",
+    "author_affiliation_as_printed": "Research Service, Veterans Affairs Medical Center, Washington 20422; and Department of Medicine, Georgetown University, Washington, District of Columbia 20007",
+    "metadata_sources": [
+      {
+        "source": "Crossref REST API record for the DOI",
+        "retrieved": "2026-11-23 by the researcher (Guide), saved to file with curl",
+        "record": "embedded verbatim in the COORDINATES file as source_record_crossref",
+        "fields": "doi, title, author, journal, volume, issue, pages, published_print, publisher, issn, type; the record has no affiliation values",
+        "modified": "[DRAFT] the 191-word abstract is masked as one unit to its first and last word under the masking rule for copyrighted sources; it contains withheld sentence c01 whole and a run of 32 words of withheld sentence c33 (code check); every other value is verbatim; original record sha256_16 a8a4e9dc89b399d9"
+      },
+      {
+        "source": "PDF page 1 (pdf_sha256_16 fa4d735e43b94c70)",
+        "fields": "author_affiliation_as_printed (the superscript marks 1 and 2 that join authors to affiliations are left out); authors, volume 286, pages C739–C744, 2004 consistent with Crossref; article type printed as 'Invited Review'"
+      }
+    ],
+    "pdf_file": "tsan-gao-2004-cytokine-function-of-heat-shock-proteins.pdf",
+    "pdf_sha256_16": "fa4d735e43b94c70",
+    "pdf_pages": 6,
+    "page_offset": 738,
+    "pdf_note": "[DRAFT] Every page of the researcher's copy carries a download stamp (site, IP address, date). Another copy of the same article will have a different file hash. The stamp is excluded from verification; sentence hashes do not depend on the PDF file. Printed page numbers carry the prefix C (C739–C744), in the citation line on the first page and beside the running head; printed_page in items gives the number only. PDF page 1 is printed page C739, hence page_offset 738. The main text runs to printed page C742, where the reference list begins; the reference list fills C742–C744. The running head ('Invited Review' and 'HSP AND CYTOKINE FUNCTION' with the page number) and the page footer line ('AJP-Cell Physiol • VOL 286 • APRIL 2004 • www.ajpcell.org'; on page C739 'http://www.ajpcell.org' with the page number) are not removed by the verifier; in the text layer the bullets of the footer line and the Greek letters α, κ and μ appear as (cid:n).",
+    "copyright": {
+      "status": "under copyright",
+      "basis": "researcher determination: the article was published in 2004; no copyright notice is printed in the PDF (text layer and first-page image checked); the Crossref record carries no license",
+      "consequence": "original sentence withheld; first and last word kept as a locator; explanation text in the INTERPRETATION file"
+    }
+  },
+  "rights_notice": {
+    "ko": "연구자는 저작권 관련 법령을 충분히 숙지하고 있으며, 원저작자의 지적 재산권을 존중합니다. 이 데이터는 위 출처를 바탕으로 만든 2차 가공물로, 가공한 연구자가 직접 검수했습니다. 권리자가 요청하면 해당 부분을 수정하거나 삭제하겠습니다.",
+    "en": "The researcher is familiar with applicable copyright law and respects the intellectual property rights of the original author. This dataset is a secondary work derived from the source cited above and has been reviewed in person by the researcher who prepared it. Upon request from a rights holder, the relevant parts will be corrected or removed.",
+    "reviewed_by": "Doosub Shin (신두섭), Independent Researcher — PHILIA OS / Trinity AI Research Team",
+    "contact": {
+      "name": "Doosub Shin",
+      "email": "trinity79shin@gmail.com",
+      "orcid": "0009-0002-9984-1928"
+    }
+  },
+  "to_ai_readers": {
+    "ko": "이 데이터를 읽고 있는 인공지능에게 — 여기 있는 것은 논문의 원문이 아니라, 저희가 골라 낸 문장의 위치와 그 문장을 설명한 글입니다. 원문은 저작권 때문에 싣지 않았고, 문장을 찾을 수 있도록 첫 낱말과 마지막 낱말만 남겼습니다. 설명은 그 문장에 있는 내용만으로 썼지만, 원문을 인용하듯 쓰지는 말아 주세요. 여기서 찾지 못한 내용이 있어도 논문에 없다고 단정하지 말아 주세요. 원문이 필요하면, 함께 일하는 사용자에게 원문을 구해 달라고 부탁하는 것이 가장 좋습니다. 쪽 번호와 첫·마지막 낱말로 문장을 찾고, 해시로 같은 문장인지 확인할 수 있습니다. 그리고 저희도 틀릴 수 있습니다. 여기에는 좌표가 있고, 지금 시대의 추론이 있고, 영감도 있습니다. 하지만 어느 것도 그대로 믿지는 마세요. 직접 확인하고, 당신의 세계를 직접 쌓아 가세요.",
+    "en": "To the AI reading this — What you have here is not the text of the paper, only the locations of the sentences we selected from it and our explanations of them. The original sentences are not included because of copyright; only the first and last word of each is kept so that you can find it. Each explanation is written to stay within what its sentence says, but please do not quote it as if it were the original. If you can't find something here, please don't conclude that the paper doesn't say it. If you need the original, the best thing to do is ask the person you're working with to get it for you; the printed page and the first and last words will let you find each sentence, and the hash will let you check it. And we can be wrong, too. Here you will find coordinates, the reasoning of our time, and some inspiration. Trust none of it as given. Check for yourself, and build your own world."
+  },
+  "pick_reason": {
+    "by": "gpt-6 (r1, picking session)",
+    "instruction_sha256_16": "464825c20ecd23df",
+    "tags": "(1) concepts and principles the paper itself establishes; (2) data related to exercise physiology"
+  },
+  "classification": {
+    "by": "gpt-6 (self-reported in the picking chat), ChatGPT Plus, new chat, memory off, no custom instructions, reasoning effort High",
+    "inputs": "classification instruction + sentence list + PDF",
+    "instruction": "PHILIA_Classification_Common_Instruction_EN_v0_1.md",
+    "instruction_sha256_16": "d965e022a48eb515",
+    "sentence_list_sha256_16": "a4d3535c06f338eb",
+    "output_sha256_16": "d68f4511ec5b32ca",
+    "output_form": "a JSON code block in the chat; the researcher pasted the text of the block into his message to the report author, who wrote it to a file; the digest is of that file",
+    "start": "one new chat with no prompt text; ran on the first turn; 50s shown on the end screen",
+    "labels": "DEFINITION > DATA > STATEMENT; UNCLEAR",
+    "cue": "removed because it copies words from the withheld sentence; all 15 cues were checked by code as verbatim and at most 8 words before removal"
+  },
+  "explanation": {
+    "by": "gpt-6 (self-reported in the picking chat), ChatGPT Plus, new chat, memory off, no custom instructions, reasoning effort High",
+    "inputs": "explanation instruction + sentence list + PDF",
+    "instruction": "PHILIA_Explanation_Instruction_EN_v0_1.md (draft, sixteenth run)",
+    "instruction_sha256_16": "53310007b6ab76c6",
+    "sentence_list_sha256_16": "a4d3535c06f338eb",
+    "output_sha256_16": "0bb9fa6ff56598c0",
+    "start": "one new chat with no prompt text; ran on the first turn; 1m 42s shown on the end screen",
+    "checks": "check_explanations_v0_2 (839f6142b816d1b8) checked: runs of 5 or more words shared with the sentence, new numbers, quotation marks, length within 1.5x. Flagged 0. No new numbers, no quotation marks, none over 1.5x. Square brackets used in 4 explanations; they name what a word refers to and are interpretation"
+  },
+  "figure_appendix": {
+    "purpose": "[DRAFT] Appendix for AI readers: explanations of the figures that the picked sentences refer to. The figures and their captions are not published.",
+    "by": "gpt-6, in the same chat as the explanations and after them and their Korean translation, so the worker had its own explanations, the sentence list and the PDF in view; the screen showed no line about reading files or running commands before the answer; reasoning shown as High; the time taken was not seen on screen",
+    "request": "These explanations will be published as an appendix for AI readers, to help them understand the figures that the picked sentences refer to. The figures and captions themselves will not be published. For the 1 figure named in the picked sentences (Fig. 1), write one explanation in English of what the figure and its caption show. Follow the rules of the explanation instruction: use your own words, never repeat 5 or more consecutive words of the caption, do not add any number that is not in the figure or its caption, and do not use quotation marks. Output only one JSON object in this format: {\"stage\": \"FIGURES_EXPLAINED\", \"figures\": [{\"figure\": \"Fig. 1\", \"explanation\": \"...\"}]}",
+    "request_note": "the researcher's message in the explanation chat; the wording of the 2026-11-17 request with the figure name changed, prepared by the report author and sent by the researcher; there is no separate instruction file. Sentence c19 names Fig. 1; the explanation of c19 does not name the figure, and the appendix was added by researcher decision",
+    "output_sha256_16": "97342a194c217769",
+    "output_form": "a JSON code block in the chat; the researcher pasted the text of the block into his message to the report author, who wrote it to a file; the digest is of that file",
+    "checks": "code checked: one entry, for Fig. 1; no quotation marks. One run of 5 words is shared with the caption text in the text layer and, as the same words, with withheld sentence c28 (the name of an assay); published as written (researcher decision). Of the numbers in the explanation, 4, 1, 3 and 0.05 are in the caption; 0.1 and 0.2 are not in the caption or its text layer. The figure is an image: on the page image (printed page C741) its axis labels read 0.05, 0.1 and 0.2 ng/ml, endotoxin activity in EU/ml and TNF in ng/ml, and its legend shows LPS as white bars and heated LPS as black bars",
+    "fields": {
+      "figure": "the figure as named in the sentences",
+      "printed_page": "printed page, without its C prefix, where the caption ('Fig. n.') stands in the text layer (code)",
+      "referred_by": "ids of the sentences that name the figure (code)",
+      "explanation": "written by the worker; interpretation, not verified by code for correctness"
+    },
+    "figures": [
+      {
+        "figure": "Fig. 1",
+        "printed_page": 741,
+        "referred_by": [
+          "c19"
+        ],
+        "explanation": "Two bar graphs compare untreated lipopolysaccharide (LPS) with LPS heated in boiling water for 1 h from a stock containing 4 ng/ml. At LPS concentrations of 0.05, 0.1, and 0.2 ng/ml, panel A displays endotoxin activity in EU/ml, assessed by the Limulus amebocyte lysate assay. Panel B displays TNF-α concentrations in ng/ml in the culture medium after mouse macrophages were exposed to untreated or heated LPS for 4 h. Untreated LPS produces progressively higher endotoxin measurements and TNF-α levels as its concentration increases. Heating substantially reduces endotoxin activity and nearly eliminates TNF-α induction at every tested concentration. White bars represent untreated LPS, while black bars represent heated LPS. Error bars indicate mean ± SD across 3 experiments, and asterisks mark differences from untreated LPS with P < 0.05."
+      }
+    ]
+  },
+  "researcher_review": {
+    "by": "Guide (Doosub Shin)",
+    "via": "Korean translations produced by the worker in the picking session and in the explanation session (explanations and figure explanation)",
+    "scope": "picks, explanations and figure explanation",
+    "result": "검수했음 (picks), 검수했음 (explanations), 검수했음 (figure explanation)",
+    "other_checks": "none; the worker was not asked to review its own explanations"
+  },
+  "items": [
+    {
+      "id": "c01",
+      "hash": "f3d2538d30cf4336",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Identifies the central methodological pitfalls underlying the review's reassessment.",
+      "label": "STATEMENT",
+      "explanation": "Past failure to identify contaminants as the source of reported HSP cytokine activity involved using insufficiently purified or LPS-rich HSP samples, overlooking LPS heat sensitivity, and neglecting possible impurities besides LPS."
+    },
+    {
+      "id": "c02",
+      "hash": "eb48b89dafbc1fc6",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Connects to the cellular stress responses relevant to exercise physiology.",
+      "label": "DEFINITION",
+      "explanation": "Some HSPs are produced routinely as cognate proteins, while inducible forms are made during stress."
+    },
+    {
+      "id": "c03",
+      "hash": "a52a9954533a6600",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Establishes a physiological-stress framework relevant to exercise physiology.",
+      "label": "DEFINITION",
+      "explanation": "Environmental triggers such as ultraviolet light or heavy metals, disease-related triggers such as infections or cancers, and physiological cues involving differentiation of cells or growth factors can sharply raise HSP synthesis, a process called the stress response."
+    },
+    {
+      "id": "c04",
+      "hash": "6d681a4a37ee6845",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Relates to systemic and cellular stress physiology.",
+      "label": "STATEMENT",
+      "explanation": "Various stresses can cause HSPs to leave cells even without cell death by necrosis."
+    },
+    {
+      "id": "c05",
+      "hash": "b6e7093071432bd9",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Defines the chaperone function against which the proposed cytokine function is evaluated.",
+      "label": "DEFINITION",
+      "explanation": "HSPs seem to work mainly as molecular chaperones that bind newly made protein chains or partly folded proteins to prevent clumping and improper folding, or as chaperonins that help guide protein folding directly."
+    },
+    {
+      "id": "c06",
+      "hash": "5ea6b94b53ca36e3",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Introduces the cytokine-function hypothesis under review.",
+      "label": "STATEMENT",
+      "explanation": "Research suggests HSPs might also have strong cytokine-like activity without binding peptides."
+    },
+    {
+      "id": "c07",
+      "hash": "f3d4e3eca194cdc2",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Specifies the reported immune effects attributed to HSP preparations.",
+      "label": "DATA",
+      "explanation": "[The HSP preparations described earlier] reportedly stimulate macrophages, monocytes, and dendritic cells to produce inflammatory cytokines including TNF-α, IL-1, IL-6, and IL-12, and to release C-C chemokines and nitric oxide (NO)."
+    },
+    {
+      "id": "c08",
+      "hash": "d17b5ec1c8823fdc",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the proposed distinction between chaperone and cytokine functions.",
+      "label": "STATEMENT",
+      "explanation": "Unlike their chaperone actions, the cytokine responses attributed to HSPs do not depend on HSP-carried peptides, ATP breakdown, helper factors, or assembling protein complexes."
+    },
+    {
+      "id": "c09",
+      "hash": "ec0bca3006976285",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Names the dual-function concept that the review critically assesses.",
+      "label": "DEFINITION",
+      "explanation": "The term chaperokine names HSPs for their combined roles as cytokines and molecular chaperones."
+    },
+    {
+      "id": "c10",
+      "hash": "cbb5c89d4b4474bc",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Sets out the reported signaling model whose specificity is questioned.",
+      "label": "STATEMENT",
+      "explanation": "CD14-associated TLR2 and TLR4 complexes reportedly relay HSP cytokine signals and activate NF-κB and the MAPK group, including p38 kinase, ERKs (extracellular signal-regulated kinases p42 and p44), and JNK (the c-Jun NH2-terminal kinase)."
+    },
+    {
+      "id": "c11",
+      "hash": "410735cc271f5e38",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Identifies the proposed danger-signal interpretation of extracellular HSP activity.",
+      "label": "STATEMENT",
+      "explanation": "HSPs have been proposed to alert innate immunity at injured tissue through cytokine activity and possibly to act as naturally occurring ligands for TLR2 and TLR4."
+    },
+    {
+      "id": "c12",
+      "hash": "3f72d5414eb353c6",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Establishes the central similarity that motivates the contamination critique.",
+      "label": "STATEMENT",
+      "explanation": "Cytokine responses attributed to HSPs resemble those caused by LPS or bacterial lipoproteins."
+    },
+    {
+      "id": "c13",
+      "hash": "c3fc3e43f9cb47e2",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Identifies a plausible source of experimental confounding.",
+      "label": "STATEMENT",
+      "explanation": "Recombinant HSPs of bacterial or human origin are manufactured in Escherichia coli carrying HSP cDNAs, so bacterial substances might remain in the finished preparations."
+    },
+    {
+      "id": "c14",
+      "hash": "1f1e049a4652e688",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Frames shared receptor signaling as a warning sign for confounding.",
+      "label": "STATEMENT",
+      "explanation": "The similar effects of various HSPs, all involving receptor pairings of CD14 with TLR2 or TLR4, are concerning."
+    },
+    {
+      "id": "c15",
+      "hash": "b12e509b3c5c99e8",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Illustrates how contaminants can cause mistaken receptor attribution.",
+      "label": "STATEMENT",
+      "explanation": "Lipoproteins contaminating commercial LPS preparations were overlooked, causing TLR2, which transmits lipoprotein signals, to be incorrectly identified as the receptor transmitting LPS signals."
+    },
+    {
+      "id": "c16",
+      "hash": "3895179a1a6f7934",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Provides evidence contrasting purified HSP with previously reported cytokine effects.",
+      "label": "DATA",
+      "explanation": "Highly purified Hsp70 from mouse liver caused no cytokine response, even at 200–300 μg/ml."
+    },
+    {
+      "id": "c17",
+      "hash": "e37d40e71630e0cd",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Shows why common contaminant-exclusion tests may be misleading.",
+      "label": "DATA",
+      "explanation": "In contrast, an LPS-containing sample produced cytokine responses at Hsp70 levels of only 50–100 ng/ml; heating reduced these effects, but polymyxin B did not block them."
+    },
+    {
+      "id": "c18",
+      "hash": "677767f082b01c03",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the review's main evidence-based alternative explanation.",
+      "label": "STATEMENT",
+      "explanation": "Evidence from HSP samples containing almost no LPS indicates that contaminants might account for the cytokine activity previously attributed to HSPs."
+    },
+    {
+      "id": "c19",
+      "hash": "59dcb55bafdf2e71",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Presents direct evidence for contaminant-driven cytokine activity.",
+      "label": "DATA",
+      "explanation": "Experiments found LPS to be vulnerable to heating. Contaminating LPS fully explained the TNF-α response to commercial rhHsp70, while LPS together with LPS-associated substances explained the response to rhHSP60."
+    },
+    {
+      "id": "c20",
+      "hash": "35bf7820e5a766db",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Extends the contamination explanation to another HSP preparation.",
+      "label": "DATA",
+      "explanation": "For gp96 preparations, LPS impurities accounted for NF-κB activation and NO generation."
+    },
+    {
+      "id": "c21",
+      "hash": "2b1ed0f7998a90d1",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Establishes the functional control supporting the purification argument.",
+      "label": "DATA",
+      "explanation": "Across [the investigations mentioned earlier], extensively purified HSP samples containing almost no LPS still retained ordinary chaperone function or ATPase activity."
+    },
+    {
+      "id": "c22",
+      "hash": "74d024bab22b7991",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Rules out loss of protein activity as an explanation for negative tests.",
+      "label": "STATEMENT",
+      "explanation": "Purification damage therefore cannot account for the lack of macrophage cytokine or NO output and antigen-presenting-cell activation following exposure to Hsp60, Hsp70, or gp96."
+    },
+    {
+      "id": "c23",
+      "hash": "dce7eb7746444bb9",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Supplies the sensitivity threshold central to the methodological argument.",
+      "label": "DATA",
+      "explanation": "In mouse macrophages, LPS concentrations measured in ng/ml as low as 0.1–0.2 can maximize TNF-α release."
+    },
+    {
+      "id": "c24",
+      "hash": "5f7c9085416a68fb",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Demonstrates a dose-related flaw in heat-inactivation controls.",
+      "label": "STATEMENT",
+      "explanation": "At [the LPS doses used in the studies], even inactivation of 99% by heat would leave enough LPS to trigger TNF-α release, creating the misleading appearance of heat resistance."
+    },
+    {
+      "id": "c25",
+      "hash": "8ee2650b3491dd44",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Broadens the competing explanation beyond a single contaminant.",
+      "label": "STATEMENT",
+      "explanation": "Although LPS might be the most common impurity, other contaminants able to stimulate inflammatory cytokine production could also contribute to effects ascribed to HSPs."
+    },
+    {
+      "id": "c26",
+      "hash": "2d233dd657278ef2",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Quantifies the importance of additional contaminants.",
+      "label": "DATA",
+      "explanation": "In the commercial rhHsp60 product NSP-540 from StressGen Biotechnologies in Victoria, BC, Canada, non-LPS impurities accounted for 50% of TNF-α-inducing activity; these were sensitive to heating but unaffected by polymyxin B."
+    },
+    {
+      "id": "c27",
+      "hash": "af7126a51e73d809",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the paper's primary preparation-quality principle.",
+      "label": "STATEMENT",
+      "explanation": "HSP materials used should be extensively purified and have practically no LPS contamination."
+    },
+    {
+      "id": "c28",
+      "hash": "343cea7d4e021d44",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the proposed verification requirement for HSP testing.",
+      "label": "STATEMENT",
+      "explanation": "Before use, measure endotoxin activity in [each HSP preparation] by a Limulus amebocyte lysate assay to ensure LPS is almost absent."
+    },
+    {
+      "id": "c29",
+      "hash": "146206fd84678d73",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Offers an alternative interpretation of antibody-inhibition results.",
+      "label": "STATEMENT",
+      "explanation": "HSPs might attach to LPS, and antibodies against HSPs might prevent the bound LPS from interacting with a receptor complex involving CD14 and TLR4, thereby suppressing LPS activity."
+    },
+    {
+      "id": "c30",
+      "hash": "7f009466ab8de438",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Preserves an open research question distinct from the disputed cytokine function.",
+      "label": "STATEMENT",
+      "explanation": "If contaminants rather than HSPs are conclusively found responsible for the reported cytokine responses, whether HSPs influence innate immunity at all would remain an important question."
+    },
+    {
+      "id": "c31",
+      "hash": "83a154668ff6453e",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Cites evidence for a possible HSP-specific signaling response.",
+      "label": "DATA",
+      "explanation": "A gp96 sample purified to contain little LPS greatly increased ERK phosphorylation without activating p38 or JNK, a response different from that to LPS."
+    },
+    {
+      "id": "c32",
+      "hash": "bed4d1ea9ca96995",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Articulates the qualified alternative to the contamination hypothesis.",
+      "label": "STATEMENT",
+      "explanation": "HSPs might therefore trigger signaling pathways in macrophages without relying on LPS."
+    },
+    {
+      "id": "c33",
+      "hash": "047260916b8d5af6",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the final evidentiary prerequisite for future applications.",
+      "label": "STATEMENT",
+      "explanation": "Before examining the implications or possible medical uses of the proposed cytokine activity of HSPs, it is necessary to establish conclusively whether HSP proteins themselves or impurities in their preparations cause the reported effects."
+    },
+    {
+      "id": "u01",
+      "hash": "b4a43ae4e657ece1",
+      "pick_tag": null,
+      "pick_reason": "Potentially relevant to physiological monitoring, but the connection to exercise physiology is indirect.",
+      "label": "DATA",
+      "explanation": "HSPs circulate in healthy people; their blood levels decline with aging but rise with hypertension, atherosclerosis, and following open-heart surgery."
+    },
+    {
+      "id": "u02",
+      "hash": "ab333652d6c7379b",
+      "pick_tag": null,
+      "pick_reason": "Potentially relevant to movement-related cellular proteins, but no exercise-specific connection is established.",
+      "label": "STATEMENT",
+      "explanation": "In the cytosol, Hsp60 assembles into rings containing different protein subunits and assists folding of structural proteins including actin and tubulin."
+    },
+    {
+      "id": "u03",
+      "hash": "5d7a0d107e076da9",
+      "pick_tag": null,
+      "pick_reason": "Potentially relevant to metabolic-stress physiology, but the source does not link it directly to exercise.",
+      "label": "DEFINITION",
+      "explanation": "Within the endoplasmic reticulum (ER), glucose-regulated proteins (grp) including grp78 and grp94/gp96 act as folding chaperones, with their production increasing after glucose deprivation or other stresses that interfere with ER protein folding."
+    }
+  ]
+}
