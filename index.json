@@ -427,6 +427,34 @@
           "bytes": 25509
         }
       }
+    },
+    {
+      "doi": "10.1152/ajpcell.00364.2003",
+      "title": "Cytokine function of heat shock proteins",
+      "author": "Min-Fu Tsan, Baochong Gao",
+      "published_print": "2004-04",
+      "worker": "gpt-6",
+      "run_date": "2026-11-23",
+      "items": 36,
+      "pdf_sha256_16": "fa4d735e43b94c70",
+      "copyright": "under copyright: sentence text withheld (first and last word kept); explanations in the interpretation file",
+      "floor": 2,
+      "connects": [
+        "10.1152/japplphysiol.00811.2015",
+        "10.1152/physiol.00024.2024"
+      ],
+      "files": {
+        "coordinates": {
+          "path": "data/tsan2004-cytokine-function__10.1152-ajpcell.00364.2003__coordinates__gpt-6-20261123.json",
+          "sha256": "e455a3389dfa44f3c6b27097e5a9f021d5ad09492262494a080421369e37d251",
+          "bytes": 61987
+        },
+        "interpretation": {
+          "path": "data/tsan2004-cytokine-function__10.1152-ajpcell.00364.2003__interpretation__gpt-6-20261123.json",
+          "sha256": "69a6a10f8839faf4dc4f78e88a97d425ca490224f55d48a34d37b12251c99532",
+          "bytes": 27421
+        }
+      }
     }
   ],
   "file_naming": "<author+year>-<keyword>__<DOI with / as ->__<layer>__<worker>-<run date>.json",
