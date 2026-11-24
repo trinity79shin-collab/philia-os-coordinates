@@ -455,6 +455,34 @@
           "bytes": 27421
         }
       }
+    },
+    {
+      "doi": "10.1152/japplphysiol.00497.2022",
+      "title": "Lactate as a myokine and exerkine: drivers and signals of physiology and metabolism",
+      "author": "George A. Brooks, Adam D. Osmond, Jose A. Arevalo, Justin J. Duong, Casey C. Curl, Diana D. Moreno-Santillan, Robert G. Leija",
+      "published_print": "2023-03-01",
+      "worker": "claude-fable-5-1",
+      "run_date": "2026-11-24",
+      "items": 76,
+      "pdf_sha256_16": "e29cdcd99f415b94",
+      "copyright": "under copyright: sentence text withheld (first and last word kept); explanations in the interpretation file",
+      "floor": 2,
+      "connects": [
+        "10.1152/physiol.00024.2024",
+        "10.1152/ajpheart.00414.2009"
+      ],
+      "files": {
+        "coordinates": {
+          "path": "data/brooks2023-lactate-signaling__10.1152-japplphysiol.00497.2022__coordinates__fable5.1-20261124.json",
+          "sha256": "b3f6bc82753157579e029a5b727283b02104206451979077dd4fafe917bdd1ff",
+          "bytes": 87627
+        },
+        "interpretation": {
+          "path": "data/brooks2023-lactate-signaling__10.1152-japplphysiol.00497.2022__interpretation__fable5.1-20261124.json",
+          "sha256": "d73d00b501e49f043dda6a5038ce8dd14f15479841e0ee2670201134116093e9",
+          "bytes": 47922
+        }
+      }
     }
   ],
   "file_naming": "<author+year>-<keyword>__<DOI with / as ->__<layer>__<worker>-<run date>.json",
