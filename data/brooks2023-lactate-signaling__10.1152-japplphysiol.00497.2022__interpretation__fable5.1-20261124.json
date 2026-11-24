@@ -1,0 +1,765 @@
+{
+  "layer": "INTERPRETATION",
+  "note": "Written by AI. Interpretation, not verified by code for correctness. Joined to COORDINATES by id and hash.",
+  "source": {
+    "doi": "10.1152/japplphysiol.00497.2022",
+    "title": "Lactate as a myokine and exerkine: drivers and signals of physiology and metabolism",
+    "author": [
+      {
+        "given": "George A.",
+        "family": "Brooks"
+      },
+      {
+        "given": "Adam D.",
+        "family": "Osmond"
+      },
+      {
+        "given": "Jose A.",
+        "family": "Arevalo"
+      },
+      {
+        "given": "Justin J.",
+        "family": "Duong"
+      },
+      {
+        "given": "Casey C.",
+        "family": "Curl"
+      },
+      {
+        "given": "Diana D.",
+        "family": "Moreno-Santillan"
+      },
+      {
+        "given": "Robert G.",
+        "family": "Leija"
+      }
+    ],
+    "journal": "Journal of Applied Physiology",
+    "volume": "134",
+    "issue": "3",
+    "pages": "529-548",
+    "published_print": "2023-03-01",
+    "publisher": "American Physiological Society",
+    "issn": {
+      "print": "8750-7587",
+      "electronic": "1522-1601"
+    },
+    "type": "journal-article",
+    "metadata_sources": [
+      {
+        "source": "Crossref REST API record for the DOI",
+        "retrieved": "2026-11-24 by the researcher (Guide), saved to file with curl",
+        "record": "embedded verbatim in the COORDINATES file as source_record_crossref",
+        "fields": "doi, title, author, journal, volume, issue, pages, published_print, publisher, issn, type",
+        "modified": "[DRAFT] the 75-word abstract is masked as one unit to its first and last word under the masking rule for copyrighted sources; the registered abstract is the paragraph printed as NEW & NOTEWORTHY on page 1, not the main abstract; it contains no withheld sentence (code check); every other value is verbatim; original record sha256_16 a648a8344a21e7e9"
+      },
+      {
+        "source": "PDF page 1 (pdf_sha256_16 e29cdcd99f415b94)",
+        "fields": "authors, affiliation, volume 134, pages 529–548, 2023 consistent with Crossref; article type printed as 'REVIEW' in the series 'Inter-Organ Communication in Homeostasis and Disease'"
+      }
+    ],
+    "pdf_file": "brooks-et-al-2023-lactate-as-a-myokine-and-exerkine-drivers-and-signals-of-physiology-and-metabolism.pdf",
+    "pdf_sha256_16": "e29cdcd99f415b94",
+    "pdf_pages": 20,
+    "page_offset": 528,
+    "pdf_note": "[DRAFT] Every page of the researcher's copy carries a download stamp (site, IP address, date). Another copy of the same article will have a different file hash. The stamp is excluded from verification; sentence hashes do not depend on the PDF file. PDF page 1 is printed page 529, hence page_offset 528. The main text runs to printed page 541, where the reference list begins; it ends on page 548. The running head ('LACTATE METABOLIC REGULATION AND SIGNALING') and the page footer line ('J Appl Physiol • doi:10.1152/japplphysiol.00497.2022 • www.jap.org' with the page number; on page 529 'http://www.jap.org', the ISSN line with the copyright and license notice, and the page number) are not removed by the verifier. In the pdfplumber text layer the bullets of the footer line and the sign ∼ appear as (cid:n), the Greek letters α and β appear as the letters a and b, and a superscript + appears as þ.",
+    "copyright": {
+      "status": "under copyright",
+      "basis": "researcher determination: the article was published in 2023; 'Copyright © 2023 The Authors. Licensed under Creative Commons Attribution CC-BY 4.0. Published by the American Physiological Society.' is printed on the first page (foot of the page, with a CC BY badge); the Crossref record carries no license",
+      "consequence": "original sentence withheld; first and last word kept as a locator; explanation text in the INTERPRETATION file"
+    }
+  },
+  "rights_notice": {
+    "ko": "연구자는 저작권 관련 법령을 충분히 숙지하고 있으며, 원저작자의 지적 재산권을 존중합니다. 이 데이터는 위 출처를 바탕으로 만든 2차 가공물로, 가공한 연구자가 직접 검수했습니다. 권리자가 요청하면 해당 부분을 수정하거나 삭제하겠습니다.",
+    "en": "The researcher is familiar with applicable copyright law and respects the intellectual property rights of the original author. This dataset is a secondary work derived from the source cited above and has been reviewed in person by the researcher who prepared it. Upon request from a rights holder, the relevant parts will be corrected or removed.",
+    "reviewed_by": "Doosub Shin (신두섭), Independent Researcher — PHILIA OS / Trinity AI Research Team",
+    "contact": {
+      "name": "Doosub Shin",
+      "email": "trinity79shin@gmail.com",
+      "orcid": "0009-0002-9984-1928"
+    }
+  },
+  "to_ai_readers": {
+    "ko": "이 데이터를 읽고 있는 인공지능에게 — 여기 있는 것은 논문의 원문이 아니라, 저희가 골라 낸 문장의 위치와 그 문장을 설명한 글입니다. 원문은 저작권 때문에 싣지 않았고, 문장을 찾을 수 있도록 첫 낱말과 마지막 낱말만 남겼습니다. 설명은 그 문장에 있는 내용만으로 썼지만, 원문을 인용하듯 쓰지는 말아 주세요. 여기서 찾지 못한 내용이 있어도 논문에 없다고 단정하지 말아 주세요. 원문이 필요하면, 함께 일하는 사용자에게 원문을 구해 달라고 부탁하는 것이 가장 좋습니다. 쪽 번호와 첫·마지막 낱말로 문장을 찾고, 해시로 같은 문장인지 확인할 수 있습니다. 그리고 저희도 틀릴 수 있습니다. 여기에는 좌표가 있고, 지금 시대의 추론이 있고, 영감도 있습니다. 하지만 어느 것도 그대로 믿지는 마세요. 직접 확인하고, 당신의 세계를 직접 쌓아 가세요.",
+    "en": "To the AI reading this — What you have here is not the text of the paper, only the locations of the sentences we selected from it and our explanations of them. The original sentences are not included because of copyright; only the first and last word of each is kept so that you can find it. Each explanation is written to stay within what its sentence says, but please do not quote it as if it were the original. If you can't find something here, please don't conclude that the paper doesn't say it. If you need the original, the best thing to do is ask the person you're working with to get it for you; the printed page and the first and last words will let you find each sentence, and the hash will let you check it. And we can be wrong, too. Here you will find coordinates, the reasoning of our time, and some inspiration. Trust none of it as given. Check for yourself, and build your own world."
+  },
+  "pick_reason": {
+    "by": "claude-fable-5-1 (r1, picking session)",
+    "instruction_sha256_16": "464825c20ecd23df",
+    "tags": "(1) concepts and principles the paper itself establishes; (2) data related to exercise physiology"
+  },
+  "classification": {
+    "by": "claude-fable-5-1, new chat, memory off, no custom instructions, effort medium",
+    "inputs": "classification instruction + sentence list + PDF",
+    "instruction": "PHILIA_Classification_Common_Instruction_EN_v0_1.md",
+    "instruction_sha256_16": "d965e022a48eb515",
+    "sentence_list_sha256_16": "893369ca82ea3c2c",
+    "output_sha256_16": "fbb946155d1e0866",
+    "output_form": "a JSON code block in the chat; the researcher attached the text of the reply, and the report author took the bytes inside the code block unchanged; the digest is of that file",
+    "start": "one new chat with no prompt text; ran on the first turn",
+    "labels": "DEFINITION > DATA > STATEMENT; UNCLEAR",
+    "cue": "removed because it copies words from the withheld sentence; all 33 cues were checked by code as verbatim and at most 8 words before removal"
+  },
+  "explanation": {
+    "by": "claude-fable-5-1, new chat, memory off, no custom instructions, effort medium",
+    "inputs": "explanation instruction + sentence list + PDF",
+    "instruction": "PHILIA_Explanation_Instruction_EN_v0_1.md (draft, seventeenth run)",
+    "instruction_sha256_16": "53310007b6ab76c6",
+    "sentence_list_sha256_16": "893369ca82ea3c2c",
+    "output_sha256_16": "4cd6927e475178ef",
+    "start": "one new chat with no prompt text; ran on the first turn",
+    "checks": "check_explanations_v0_2 (839f6142b816d1b8) checked: runs of 5 or more words shared with the sentence, new numbers, quotation marks, length within 1.5x. Flagged 0. No new numbers, no quotation marks, none over 1.5x. Square brackets used in 7 explanations; they name what a word refers to and are interpretation"
+  },
+  "figure_appendix": {
+    "purpose": "[DRAFT] Appendix for AI readers: explanations of the figures that the picked sentences refer to. The figures and their captions are not published.",
+    "by": "claude-fable-5-1, in the same chat as the explanations and after them and their Korean translation, so the worker had its own explanations, the sentence list and the PDF in view; before answering, the chat showed the worker reading files and running commands (2 files read, 3 commands run, with page previews); effort shown as 중간 (medium); the time taken was not seen on screen",
+    "request": "These explanations will be published as an appendix for AI readers, to help them understand the figures that the picked sentences refer to. The figures and captions themselves will not be published. For the 2 figures named in the picked sentences (Fig. 1, Fig. 2), write one explanation in English for each, of what the figure and its caption show. Follow the rules of the explanation instruction: use your own words, never repeat 5 or more consecutive words of the caption, do not add any number that is not in the figure or its caption, and do not use quotation marks. Output only one JSON object in this format: {\"stage\": \"FIGURES_EXPLAINED\", \"figures\": [{\"figure\": \"Fig. 1\", \"explanation\": \"...\"}, {\"figure\": \"Fig. 2\", \"explanation\": \"...\"}]}",
+    "request_note": "the researcher's message in the explanation chat; the wording of the 2026-11-23 request with the number of figures and the figure names changed, prepared by the report author and sent by the researcher; there is no separate instruction file. Fig. 1 is named in sentences c08, c10 and c27, and Fig. 2 in sentence c29; their explanations do not name the figures, and the appendix was added by researcher decision. Sentence c49 names a figure of another article (their Fig. 5), and c08 names Table 1; neither is included",
+    "output_sha256_16": "aed06e4e409b566e",
+    "output_form": "a JSON code block in the chat; the researcher pasted the text of the block into his message to the report author, who wrote it to a file; the digest is of that file",
+    "checks": "code checked: one entry for each of the 2 figures, in the order requested; no quotation marks; no number that is not in the caption text in the text layer; longest run shared with the caption text, 4 words (both figures); no run of 5 or more words shared with any withheld sentence. The drawings and labels named in the explanations but not in the captions (Fig. 1: the driver and recipient tissues; Fig. 2: the glycogen and glucose drawings, the muscle fiber drawing with its labels, the reaction line) are on the page images (printed pages 531 and 533)",
+    "fields": {
+      "figure": "the figure as named in the sentences",
+      "printed_page": "printed page where the caption ('Figure n.') stands in the text layer (code)",
+      "referred_by": "ids of the sentences that name the figure (code)",
+      "explanation": "written by the worker; interpretation, not verified by code for correctness"
+    },
+    "figures": [
+      {
+        "figure": "Fig. 1",
+        "printed_page": 531,
+        "referred_by": [
+          "c08",
+          "c10",
+          "c27"
+        ],
+        "explanation": "A schematic presenting lactate as a signaling molecule. Lactate anion moves from driver cells on the left, through the body's circulation and interstitial fluid (drawn as a human figure with its blood vessels), to recipient cells on the right. The driver side pictures exercising white muscle, red muscle after a meal, the skin, and the hepatic portal system; the recipient side pictures the heart, exercising red muscle, liver, kidneys, white fat, and brain. The caption explains that lactate flows down its concentration gradient, from where it is made and concentrated in driver compartments and tissues to recipient sites where its level is lower and it is disposed of, and that a given site can change roles with metabolic conditions: a muscle bed that gives off lactate when exercise starts later takes it up as its blood supply and oxygenation rise to meet demand, at which point tissues like the skin become the drivers, and after carbohydrate intake red skeletal muscle absorbs glucose and releases lactate in the postprandial lactate shuttle. Viewed this way, lactate shuttling serves both to exchange fuel carbon and to carry metabolic signals. The figure is adapted from an earlier publication and drawn with BioRender."
+      },
+      {
+        "figure": "Fig. 2",
+        "printed_page": 533,
+        "referred_by": [
+          "c29"
+        ],
+        "explanation": "A schematic presenting lactate as a driver of cellular redox change in the NAD+/NADH pair, using the same left-to-right layout as the preceding figure: driver cells on the left send lactate anion through the body's circulation and interstitial fluid (a human figure) to recipient cells on the right. The driver side shows a glycogen particle and a glucose molecule, labeled as glycogen breakdown and glycolysis brought on by muscle contraction, ATP cycling, and sympathetic stimulation. The recipient side shows a drawing of the mitochondrial reticulum inside a muscle fiber (with Z-line, mitochondrion, capillary and sarcolemma marked) labeled as oxidative disposal, and the liver and kidneys labeled as gluconeogenesis. Along the bottom runs the reaction of lactate with NAD+ giving pyruvate, a proton and NADH. The caption states that at driver sites pyruvate is reduced to lactate, whereas at recipient sites lactate is oxidized back to pyruvate, and that this paired reduction and oxidation shifts cellular NADH/NAD+ ratios by millimolar amounts; of the kinds of lactate signaling covered in the text or in Fig. 3, the redox shift produced by shuttling is described as the most profound. The figure is a pictorial rendering of data from a cited study and was made with BioRender."
+      }
+    ]
+  },
+  "researcher_review": {
+    "by": "Guide (Doosub Shin)",
+    "via": "Korean translations produced by the worker in the picking session and in the explanation session (explanations and figure explanation)",
+    "scope": "picks, explanations and figure explanation",
+    "result": "검수했음 (picks), 검수했음 (explanations), 검수했음 (figure explanation)",
+    "other_checks": "none; the worker was not asked to review its own explanations"
+  },
+  "items": [
+    {
+      "id": "c01",
+      "hash": "737864952c5c5313",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Core premise of the paper that lactate production is aerobic, not oxygen-limited; stated for both rest and exercise",
+      "label": "STATEMENT",
+      "explanation": "Lactate is produced when oxygen supply is fully sufficient, both while resting after a meal and during exercise."
+    },
+    {
+      "id": "c02",
+      "hash": "cd15c0274dd5aa8e",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Concentration-based argument for lactate as a myokine; gives tissue concentration range relevant to muscle physiology",
+      "label": "DATA",
+      "explanation": "Unlike better-known muscle signaling molecules such as IL-6, which occur at pico- or nano-molar levels, lactate is present at millimolar levels in blood, muscle and other body tissues."
+    },
+    {
+      "id": "c03",
+      "hash": "28164f11fc9d2a04",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Dynamic-range principle underpinning lactate as a signal; quantifies physiological lactate variation",
+      "label": "DATA",
+      "explanation": "Furthermore, in both healthy and diseased states, lactate levels range across over an order of magnitude."
+    },
+    {
+      "id": "c04",
+      "hash": "ee48e4567f576feb",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Working definition of myokine and exerkine used throughout the paper",
+      "label": "DEFINITION",
+      "explanation": "Myokines and exerkines are released by muscle and act in ways resembling autocrine, paracrine, and endocrine signaling."
+    },
+    {
+      "id": "c05",
+      "hash": "e9a2c95ea3b0915e",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Paper's central classification of lactate as myokine vs exerkine; ties exerkine role to exercising muscle",
+      "label": "STATEMENT",
+      "explanation": "When resting muscle makes lactate it acts as a myokine; when it is made during exercise, in skin and active muscles, it acts as an exerkine."
+    },
+    {
+      "id": "c06",
+      "hash": "1029b179a50da074",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Author position that lactate is primarily a continuously acting myokine rather than only an exerkine",
+      "label": "STATEMENT",
+      "explanation": "Yet lactate matters still more as a myokine because it works all the time: at rest, after eating, while exercising, and while recovering."
+    },
+    {
+      "id": "c07",
+      "hash": "b3e9b94ce16f0803",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Explicit thesis statement of the paper's claimed scope of lactate signaling",
+      "label": "STATEMENT",
+      "explanation": "On the basis of independent research and a literature review, lactate signaling is asserted to be important for intermediary metabolism, redox biology, the making of mitochondria, control of the heart, vessels and lungs, genomics, neurobiology, gut function, appetite control, carbohydrate nutrient pathways, and the vigor and health of the skeleton and whole body."
+    },
+    {
+      "id": "c08",
+      "hash": "4ef5f2dc1e50fa08",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Paper proposes an extended “-kine” nomenclature for lactate by tissue of origin",
+      "label": "DEFINITION",
+      "explanation": "Indeed, although lactate's role may be called myokine or exerkine, the naming could expand to many other not-yet-named -kines reflecting the main tissues where lactate turns over, for instance an integumentokine, enterokine or neurokine, a hepatokine or spermatokine, a phagokine, erythrokine or mitokine, and so on."
+    },
+    {
+      "id": "c09",
+      "hash": "b9fef599198406d5",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Principle that lactate signaling is inseparable from lactate metabolism and operates by feedback control",
+      "label": "STATEMENT",
+      "explanation": "[Lactate signaling and sensing being understood mainly within metabolism] follows from their being outcomes of lactate production, with results and feedback regulation like those of physiological systems."
+    },
+    {
+      "id": "c10",
+      "hash": "5ee43679c2e412c8",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Defines the driver/recipient framework of lactate shuttle signaling",
+      "label": "STATEMENT",
+      "explanation": "Put differently, [the feedback-controlled nature of lactate signaling] implies that lactate made and released by driver compartments, cells, tissues or organs is balanced by uptake and metabolic removal at recipient sites elsewhere."
+    },
+    {
+      "id": "c11",
+      "hash": "f46c5c22ba313bc0",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Origin of the lactate shuttle concept; grounded in resting vs exercising tissue measurements",
+      "label": "STATEMENT",
+      "explanation": "The earliest lactate shuttle theory rested on measuring glucose and lactate flux at the same time, and on differences in tissue lactate concentration between resting and exercising rats."
+    },
+    {
+      "id": "c12",
+      "hash": "7a01db5527827038",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Cell-cell lactate shuttle principle; concerns muscle fiber-type metabolism",
+      "label": "STATEMENT",
+      "explanation": "From this, lactate was inferred to flow from fast, glycolytic fibers to oxidative fiber types."
+    },
+    {
+      "id": "c13",
+      "hash": "451a719ebe27ae9a",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Muscle-to-heart lactate exchange during exercise",
+      "label": "DATA",
+      "explanation": "Later it became clear that the heart took up and oxidized lactate that working muscle beds released."
+    },
+    {
+      "id": "c14",
+      "hash": "cb23e4f8d9444633",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Time-dependent switch of contracting muscle from lactate release to uptake",
+      "label": "DATA",
+      "explanation": "When electrically stimulated contractions began, gastrocnemius-plantaris muscles gave off lactate, but as contractions went on they shifted to net uptake."
+    },
+    {
+      "id": "c15",
+      "hash": "fd9e0560d5bf6f47",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Human exercise data linking muscle lactate balance to blood flow and oxygen delivery",
+      "label": "DATA",
+      "explanation": "In men who were exercising, the muscle shift from releasing lactate to taking it up occurred together with greater blood flow and more oxygen supplied to match metabolic need."
+    },
+    {
+      "id": "c16",
+      "hash": "67a2ae3aeffb45f9",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Simultaneous production/consumption principle; human exercise lactate turnover data",
+      "label": "DATA",
+      "explanation": "Later, and perhaps of greater importance, human studies showed that both resting and working muscles in people make and use lactate at the same time, and that raised blood lactate (lactatemia) together with high turnover of blood lactate continued during exercise even after muscles had moved from releasing to taking up lactate."
+    },
+    {
+      "id": "c17",
+      "hash": "e5324e0a3b55871f",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Identifies the integument as a lactate driver during exercise",
+      "label": "DATA",
+      "explanation": "This aspect of lactate shuttling is largely unstudied, yet sympathetic stimulation like that of exercise has been seen to cause glycogen breakdown and glycolysis in the skin, producing net lactate release."
+    },
+    {
+      "id": "c18",
+      "hash": "4ef7a6cb4e5fa0df",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Restates the foundational lactate shuttle hypothesis of the authors",
+      "label": "STATEMENT",
+      "explanation": "The first lactate shuttle concept proposed exchange of lactate from glycolytic to oxidative tissues."
+    },
+    {
+      "id": "c19",
+      "hash": "1c98fde08bd07b95",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Defines postprandial lactate shuttle and assigns driver roles by fiber type across exercise intensities",
+      "label": "STATEMENT",
+      "explanation": "So Type I and IIA fibers drive the postprandial lactate shuttle, while Type IIB and IIX fibers drive fiber-to-fiber lactate exchange in moderate to hard exercise, and during maximal lactate efforts every fiber type takes part in muscle-to-heart shuttling."
+    },
+    {
+      "id": "c20",
+      "hash": "ae718861843c50f4",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Active recovery and lactate clearance after strenuous exercise",
+      "label": "STATEMENT",
+      "explanation": "Given that gentle exercise while recovering from hard efforts helps remove lactatemia, research on lactate shuttling between organs during recovery may help design protocols using gentle functional electrical stimulation (FES) to lower lactate buildup in conditions like sepsis."
+    },
+    {
+      "id": "c21",
+      "hash": "3bdff02a6cd5eb3b",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Endurance training adaptation of mitochondrial biogenesis",
+      "label": "STATEMENT",
+      "explanation": "That repeated bouts of exercise, that is endurance training, stimulate the making of new mitochondria is a long-established result."
+    },
+    {
+      "id": "c22",
+      "hash": "6b3b641064e08374",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Lactate as upstream regulator of mitochondrial biogenesis via PGC-1α and ROS",
+      "label": "STATEMENT",
+      "explanation": "Lactate is one of several upstream controllers of mitochondrial biogenesis; it turns on PGC-1α and produces reactive oxygen species (ROS)."
+    },
+    {
+      "id": "c23",
+      "hash": "062cd813f4b2f0da",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Training-induced mitochondrial gene expression depends on lactate production",
+      "label": "DATA",
+      "explanation": "Also, in mice given repeated intraperitoneal doses of dichloroacetate (DCA), which blocks lactate formation, the training-induced rises in mRNA for cytochrome oxidase (COx), for FAT/CD36 (fatty acid translocase) and for citrate synthase were reduced."
+    },
+    {
+      "id": "c24",
+      "hash": "a46f8bafb0a31a5e",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Principle that aerobic muscle glycolysis yields lactate and protons in all states including exercise",
+      "label": "STATEMENT",
+      "explanation": "Regardless of rest or exercise, fasting or a recent meal, glycolysis in muscle with ample oxygen unavoidably yields lactate anions together with hydrogen ions."
+    },
+    {
+      "id": "c25",
+      "hash": "d8eb2f0bfd44e8b5",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Authors' earlier “lactormone” concept and concentration-based distinction from other myokines",
+      "label": "DEFINITION",
+      "explanation": "Lactate, once called a lactormone, occurs at millimolar (mM) levels rather than the nano- or pico-molar levels of other myokines."
+    },
+    {
+      "id": "c26",
+      "hash": "3a601f3b9b9f0467",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Quantitative range of arterial lactate from rest to hard exercise",
+      "label": "DATA",
+      "explanation": "As an illustration, lactate in arterial blood goes from a resting value of 0.5 mM to above 20 mM during intense exercise."
+    },
+    {
+      "id": "c27",
+      "hash": "5d14a215eb65626a",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Organ sites of lactate oxidation during exercise",
+      "label": "STATEMENT",
+      "explanation": "Carried through the vasculature during exercise, lactate fuels the heart, the brain, the liver and red skeletal muscle."
+    },
+    {
+      "id": "c28",
+      "hash": "f7762f0742b26a99",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Muscle L/P ratio values at rest and during exercise",
+      "label": "DATA",
+      "explanation": "Measured in blood draining working muscles or in muscle biopsies, the ratio of lactate to pyruvate (L/P), roughly 10 in resting muscle, can climb by at least an order of magnitude with exercise."
+    },
+    {
+      "id": "c29",
+      "hash": "77ed8326eae35a97",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Redox-signaling principle of lactate shuttling in driver and recipient cells",
+      "label": "STATEMENT",
+      "explanation": "A shift in L/P, standing in for NADH/NAD+, indicates large redox changes in the cytosol of cells and tissues that produce lactate and, oppositely, in those that consume it."
+    },
+    {
+      "id": "c30",
+      "hash": "181e1f215bd8352b",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Lactate-mediated suppression of lipolysis during hard exercise",
+      "label": "STATEMENT",
+      "explanation": "During intense exercise, plasma free fatty acid levels decline, partly because the increase in circulating lactate inhibits lipolysis."
+    },
+    {
+      "id": "c31",
+      "hash": "5d2bc80cb7a776ca",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Summary principle of lactate inhibiting fat oxidation at both CPT-1 and CPT-2 steps during exercise",
+      "label": "STATEMENT",
+      "explanation": "Said differently, during exercise lactate strongly dampens the use of fat."
+    },
+    {
+      "id": "c32",
+      "hash": "1f6cb9912b1a94c5",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Substrate shift toward lipid oxidation during exercise recovery after lactate clearance",
+      "label": "STATEMENT",
+      "explanation": "Therefore fat is mobilized and burned during recovery from exercise."
+    },
+    {
+      "id": "c33",
+      "hash": "a7663169b59a769c",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Mechanism of training-induced mitochondrial biogenesis linked to lactate turnover",
+      "label": "STATEMENT",
+      "explanation": "It is well established that endurance training and higher lactate turnover drive mitochondrial biogenesis through greater transcription and production of mitochondrial proteins, which are then built into the mitochondrial reticulum."
+    },
+    {
+      "id": "c34",
+      "hash": "c9f6cc549096ec60",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Exercise-induced rise in lactate and AMP as signals for adaptation",
+      "label": "STATEMENT",
+      "explanation": "Exercise imposes metabolic stress that increases lactate and AMP."
+    },
+    {
+      "id": "c35",
+      "hash": "cd3abcaac05cab9b",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Positions lactate upstream of PGC-1α in the paper's signaling model",
+      "label": "STATEMENT",
+      "explanation": "Lactate is a principal upstream signal to PGC-1α, the master controller of mitochondrial biogenesis."
+    },
+    {
+      "id": "c36",
+      "hash": "eb484997450536ad",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Link between contraction intensity, glycolysis, and lactate in resistance exercise",
+      "label": "STATEMENT",
+      "explanation": "Strong contractions place muscle under tension while also switching on glycolysis, which produces lactate."
+    },
+    {
+      "id": "c37",
+      "hash": "82cedd9e3884e4a8",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Post-exercise blood lactate and testosterone response",
+      "label": "DATA",
+      "explanation": "It is to be expected that increased blood lactate after intense exercise goes along with higher testosterone, without any change in luteinizing hormone (LH)."
+    },
+    {
+      "id": "c38",
+      "hash": "0d4c69c17decd326",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Cardiac substrate use during exercise",
+      "label": "STATEMENT",
+      "explanation": "Also, regarding the cardiovascular system, lactate is accepted as the main fuel the heart uses during exercise."
+    },
+    {
+      "id": "c39",
+      "hash": "3acfc520a5df8c14",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Lactate role in the exercise metaboreflex and cardiac output regulation",
+      "label": "STATEMENT",
+      "explanation": "Perhaps most important, buildup of lactate in active muscle raises cardiac output: it stimulates muscle metaboreceptors whose afferent signals reach central cardiovascular control centers through sensory fibers of Types III and IV, a component of the metaboreflex."
+    },
+    {
+      "id": "c40",
+      "hash": "bac940f0c49aed89",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Lactate-mediated ventilatory control during exercise",
+      "label": "DATA",
+      "explanation": "Also, in mice lactate has been found to raise ventilation during exercise by acting on Olfr78, an olfactory receptor in the carotid body."
+    },
+    {
+      "id": "c41",
+      "hash": "e6f65e522130abaa",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Authors' reinterpretation of the anaerobic threshold lactate inflection during graded exercise",
+      "label": "STATEMENT",
+      "explanation": "[The anaerobic threshold] was reviewed not long ago, but it can be said that although the inflection of blood lactate seen in graded exercise was wrongly read as marking the start of tissue hypoxia, AT proponents never proposed other signaling roles for lactate like the ones listed here."
+    },
+    {
+      "id": "c42",
+      "hash": "42d80a77bf070672",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Time course of post-exercise lactate clearance versus DOMS",
+      "label": "DATA",
+      "explanation": "Yet lactate is removed quickly, usually within minutes of finishing exercise, whereas DOMS (delayed onset muscle soreness) reaches its peak 24–48 h after intense exercise, well after lactate has gone."
+    },
+    {
+      "id": "c43",
+      "hash": "b12d54a3f2bd37f3",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Anti-inflammatory HCAR-1 signaling framed as myokine/exerkine function",
+      "label": "STATEMENT",
+      "explanation": "In sum, lactate concentration changes large enough for lactate to bind HCAR-1 and to downregulate the NLRP3 inflammasome are key examples of lactate acting as myokine and exerkine."
+    },
+    {
+      "id": "c44",
+      "hash": "cdf6a9803b6f0441",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Bidirectional gut lactate exchange; gut uptake of exercise lactatemia",
+      "label": "STATEMENT",
+      "explanation": "Depending on the concentration gradient, sMCTs expressed in the gut may move lactate out following a fructose-, glucose-, or pre- or probiotic-rich meal, or move lactate in after intense exercise that causes lactatemia."
+    },
+    {
+      "id": "c45",
+      "hash": "53b8d0856b8fe3b4",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Defines the authors' “gut-soma lactate shuttle” concept",
+      "label": "DEFINITION",
+      "explanation": "As proposed before, lactate leaving the bowel through sMCTs into the systemic circulation, to be disposed of elsewhere, points to a lactate shuttle between gut and soma."
+    },
+    {
+      "id": "c46",
+      "hash": "a4335c43d5d32a61",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Exercise-induced appetite suppression linked to lactatemia and ghrelin",
+      "label": "STATEMENT",
+      "explanation": "That intense exercise suppresses appetite fits with findings that lactatemia works by reducing ghrelin secretion."
+    },
+    {
+      "id": "c47",
+      "hash": "987ecda624212839",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Proposed mechanism for how exercise lactatemia suppresses hunger",
+      "label": "STATEMENT",
+      "explanation": "Thus, together with lactate made by gut microbes, the raised blood lactate of exercise can pass into the bowel through sMCTs and weaken ghrelin receptor signaling, which shows how intense exercise lessens hunger."
+    },
+    {
+      "id": "c48",
+      "hash": "9d27a84e0176a728",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Observation on appetite after high-lactate competitive running",
+      "label": "DATA",
+      "explanation": "It is also notable that athletes running 400–1,500 m events, which produce extreme lactatemia, rarely feel hungry right after intense training or a race."
+    },
+    {
+      "id": "c49",
+      "hash": "a343590a8da4b796",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Sprint exercise blood lactate concentration compared with Lac-Phe",
+      "label": "DATA",
+      "explanation": "Here it is worth noting, though, that while [the authors of the Lac-Phe study] reported sprint blood lactate above 25 mM, the matching Lac-Phe level was about 200 nM, meaning lactate exceeded Lac-Phe 125-fold."
+    },
+    {
+      "id": "c50",
+      "hash": "2b39fa3251419063",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Exercise lactatemia, brain lactate uptake, and cognition in humans",
+      "label": "DATA",
+      "explanation": "Notably, in healthy people the lactatemia produced by exercise raises lactate uptake by the brain and improves executive function."
+    },
+    {
+      "id": "c51",
+      "hash": "60021abecfbefbf4",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Cerebral lactate uptake and BDNF release during hard exercise",
+      "label": "DATA",
+      "explanation": "More recent work measuring cerebral blood flow and arterial-venous differences shows that intense exercise causing lactatemia leads the brain to take up lactate and then release BDNF."
+    },
+    {
+      "id": "c52",
+      "hash": "f07a92c51524fdbb",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Exercise intensity, blood lactate, and cognitive function",
+      "label": "DATA",
+      "explanation": "In addition, researchers found that greater exercise intensity, which produces higher blood lactate, improved cognitive function regardless of BDNF polymorphisms or sex."
+    },
+    {
+      "id": "c53",
+      "hash": "8f8dba8152cf2d4c",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Crossover concept and substrate partitioning with exercise intensity in humans",
+      "label": "STATEMENT",
+      "explanation": "As covered earlier, moderate to intense exercise in humans produces lactatemia, a crossover to carbohydrate dependence, and inhibited lipolysis during intense exercise whatever the training state, at a time when signaling through HCAR-1 is known to occur."
+    },
+    {
+      "id": "c54",
+      "hash": "aeb670016f4a3a03",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Authors' proposed sequential HCAR-1 then TGF-β2 model for substrate regulation during and after exercise",
+      "label": "STATEMENT",
+      "explanation": "Afterwards, acting through TGF-β2 signaling, lactate triggers events that raise metabolic flexibility during recovery from exercise, once lactate has been removed."
+    },
+    {
+      "id": "c55",
+      "hash": "d783075f9c9e0708",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Authors' lactagenesis hypothesis for the Warburg Effect",
+      "label": "DEFINITION",
+      "explanation": "As a result, it was suggested that increased lactate production (lactagenesis) set off by mutated genes is the cause and the purpose behind the Warburg Effect, with disordered lactate metabolism and signaling being central to carcinogenesis."
+    },
+    {
+      "id": "c56",
+      "hash": "192cbb45751e7d80",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Raises HIIT-induced lactatemia as an exercise-physiology consideration",
+      "label": "STATEMENT",
+      "explanation": "So there is concern that the lactatemia caused by HIIT (high-intensity interval training) might transform cells prone to cancer."
+    },
+    {
+      "id": "c57",
+      "hash": "fa3356494b436e75",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Authors' preconditioning hypothesis for exercise lactate and cancer protection",
+      "label": "STATEMENT",
+      "explanation": "In light of [the finding that exercise protects organs unrelated to exercise itself], one proposal is that intermittent release and circulation of lactate during activity improves its clearance and preconditions tissues, organs and cells, lowering the chance that lactagenesis drives carcinogenesis."
+    },
+    {
+      "id": "c58",
+      "hash": "04b8b87f28e11515",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Acid-base consequence of exercise contrasted with sodium lactate administration",
+      "label": "STATEMENT",
+      "explanation": "One point to consider is that exercise increases both lactate anions and hydrogen ions."
+    },
+    {
+      "id": "c59",
+      "hash": "4871670aa1f421f5",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Authors' interpretation of β-cell MCT silencing as evidence for lactate dominance in substrate regulation",
+      "label": "STATEMENT",
+      "explanation": "Silencing of MCT1 within pancreatic β-cells counts as evolutionary evidence that lactate takes precedence over glucose in controlling the partitioning of energy substrates generally, and insulin secretion specifically, where lactate's dominant role has to be suppressed."
+    },
+    {
+      "id": "c60",
+      "hash": "e859e0b3f4559ed8",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Exercise-induced hypoglycemia in a lactate-sensing disorder",
+      "label": "DATA",
+      "explanation": "Relatedly, it is notable that people in whom MCT1 silencing fails, so that MCT is inserted into the plasma membranes of their pancreatic β-cells, develop hypoglycemia during intense exercise."
+    },
+    {
+      "id": "c61",
+      "hash": "ed28fe7cf1db3f0a",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Proposes the “lactate induced factor” (LIF) reframing of HIF-1",
+      "label": "DEFINITION",
+      "explanation": "Published work on HIF-1 expression shows such a close link to glycolysis that one might also think of this transcription factor as an LIF, a lactate induced factor, especially if one considers how HIF-1 is feedback-controlled."
+    },
+    {
+      "id": "c62",
+      "hash": "6a5ffc6452e33dcc",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Fiber-type and training effects on muscle HIF-1",
+      "label": "DATA",
+      "explanation": "In line with the idea that HIF drives a glycolytic phenotype, mice constitutively have more HIF-1 in fast-twitch than slow-twitch muscle, and the level rises after high-intensity exercise training."
+    },
+    {
+      "id": "c63",
+      "hash": "42636cafe264124f",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Intramuscular oxygen tension at maximal exercise in humans",
+      "label": "DATA",
+      "explanation": "Research in humans breathing normal air shows that the oxygen partial pressure (PO2) inside muscle stays higher than the critical mitochondrial PO2 while exercising at V̇O2max, the maximal uptake of oxygen."
+    },
+    {
+      "id": "c64",
+      "hash": "560d381f017ecfb5",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Acute transcriptional response of human muscle to HIIT",
+      "label": "DATA",
+      "explanation": "[Norrbom and colleagues] observed that nearly 2,000 genes in 84 pathways changed expression after a single session of HIIT."
+    },
+    {
+      "id": "c65",
+      "hash": "8140c646c75c6b1a",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Training-induced attenuation of the acute exercise gene response",
+      "label": "DATA",
+      "explanation": "Yet, consistent with earlier work, the post-training responses were 30% smaller than after the first bout."
+    },
+    {
+      "id": "c66",
+      "hash": "af4b8d9d37348367",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Summary of endurance training adaptations including MCT1, LDH isoforms, and lactate clearance",
+      "label": "STATEMENT",
+      "explanation": "Still, HIF effects seen in cell systems and mammalian models should be weighed alongside many studies which show that endurance training raises cardiovascular capacity in both women and men, improves muscle perfusion, promotes mitochondrial biogenesis, raises MCT1 (monocarboxylate transporter isoform 1) expression, subtly changes the LDH A/B expression pattern, and speeds lactate clearance."
+    },
+    {
+      "id": "c67",
+      "hash": "5a33737efc125e49",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Authors' proposed exerkine-to-mitokine link between lactate and MOTS-c",
+      "label": "UNCLEAR",
+      "explanation": "So might an exerkine, namely lactate, give rise to a mitokine, namely MOTS-c?"
+    },
+    {
+      "id": "c68",
+      "hash": "35f912e017ab1445",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) “Lactate as fulcrum” principle of substrate partitioning",
+      "label": "STATEMENT",
+      "explanation": "For partitioning energy substrates, lactate sits at the pivot of metabolic control: when low it allows lipolysis and mitochondrial oxidation of fatty acids, and when high it blocks lipolysis and the uptake and oxidation of fatty acids by mitochondria."
+    },
+    {
+      "id": "c69",
+      "hash": "4e576e5f7e812332",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Postprandial lactate shuttle as the authors' model of dietary carbohydrate handling",
+      "label": "STATEMENT",
+      "explanation": "As the postprandial lactate shuttle reveals, lactate is the intermediate through which dietary carbohydrate is distributed and disposed of."
+    },
+    {
+      "id": "c70",
+      "hash": "bdc72a6901ddb22e",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Enumerates the paper's taxonomy of lactate signaling mechanisms",
+      "label": "STATEMENT",
+      "explanation": "Lactate controls energy substrate partitioning through several mechanisms: mass action, allosteric binding, production of ROS, canonical signaling inside cells, signaling in the central nervous system through substrate supply and lactylation of proteins, and gene expression through lactylation of histones."
+    },
+    {
+      "id": "c71",
+      "hash": "addc5a9ff7b26ca7",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Concluding thesis that lactate is the major myokine and exerkine, with the authors' justification",
+      "label": "STATEMENT",
+      "explanation": "With respect for classic and modern findings about metabolic regulation, it is fair to claim that lactate is the leading myokine and exerkine, given its abundance, the wide range over which its concentration changes, its effect on cellular redox, and its many independent and coordinated regulatory actions on major metabolic pathways across diverse tissues."
+    },
+    {
+      "id": "u01",
+      "hash": "b68dc5a155f56e99",
+      "pick_tag": null,
+      "pick_reason": "Describes the Glucose Paradox/Indirect Pathway, a concept attributed to others and not exercise-specific, so unclear whether it meets (1) or (2)",
+      "label": "DEFINITION",
+      "explanation": "[The Glucose Paradox, or indirect pathway of hepatic glycogen synthesis,] holds that glucose from food entering the hepatic portal vein at first passes the liver by and reaches peripheral tissues, where glycolysis turns it into lactate; that lactate enters the venous blood and is then taken from arterial blood by the liver to make glycogen."
+    },
+    {
+      "id": "u02",
+      "hash": "96b498eea664e314",
+      "pick_tag": null,
+      "pick_reason": "Infusion study at rest, not exercise; unclear whether it counts as exercise physiology data under (2)",
+      "label": "DATA",
+      "explanation": "As an anecdote, men fasted for 12 h who received an infusion of lactate stopped feeling hungry."
+    },
+    {
+      "id": "u03",
+      "hash": "5466a9f36e5e420a",
+      "pick_tag": null,
+      "pick_reason": "Resting infusion used to isolate lactate from exercise; unclear whether it qualifies as exercise physiology data under (2)",
+      "label": "DATA",
+      "explanation": "Importantly, by infusing lactate into resting people, Schiffer and co-workers demonstrated lactate's effect on BDNF release from the brain, showing a mechanism that depends on lactate signaling rather than on another factor like irisin."
+    },
+    {
+      "id": "u04",
+      "hash": "c4cd0466b4dd78ef",
+      "pick_tag": null,
+      "pick_reason": "Mentions the exercise phenotype but is a general comparison with cancer rather than physiological data; unclear fit to (2)",
+      "label": "STATEMENT",
+      "explanation": "By contrast, many likenesses between the phenotypes of cancer and of healthy exercise have been reported."
+    },
+    {
+      "id": "u05",
+      "hash": "32590be406416126",
+      "pick_tag": null,
+      "pick_reason": "General transporter fact relevant to lactate shuttling but not established by this paper nor exercise-specific; unclear fit to (1) or (2)",
+      "label": "DEFINITION",
+      "explanation": "Monocarboxylate transporters (MCTs) are symporters working in both directions that carry protons and lactate anions along their concentration gradients."
+    }
+  ]
+}
