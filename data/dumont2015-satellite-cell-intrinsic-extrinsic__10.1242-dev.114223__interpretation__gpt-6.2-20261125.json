@@ -1,0 +1,1005 @@
+{
+  "layer": "INTERPRETATION",
+  "note": "Written by AI. Interpretation, not verified by code for correctness. Joined to COORDINATES by id and hash.",
+  "source": {
+    "doi": "10.1242/dev.114223",
+    "title": "Intrinsic and extrinsic mechanisms regulating satellite cell function",
+    "author": [
+      {
+        "given": "Nicolas A.",
+        "family": "Dumont"
+      },
+      {
+        "given": "Yu Xin",
+        "family": "Wang"
+      },
+      {
+        "given": "Michael A.",
+        "family": "Rudnicki"
+      }
+    ],
+    "journal": "Development",
+    "volume": "142",
+    "issue": "9",
+    "pages": "1572-1581",
+    "published_print": "2015-05-01",
+    "publisher": "The Company of Biologists",
+    "issn": {
+      "electronic": "1477-9129",
+      "print": "0950-1991"
+    },
+    "type": "journal-article",
+    "metadata_sources": [
+      {
+        "source": "Crossref REST API record for the DOI",
+        "retrieved": "2026-11-25 by the researcher (Guide), saved to file with curl",
+        "record": "embedded verbatim in the COORDINATES file as source_record_crossref",
+        "fields": "doi, title, author, journal, volume, issue, pages, published_print, publisher, issn, type",
+        "modified": "[DRAFT] the 150-word abstract is masked as one unit to its first and last word under the masking rule for copyrighted sources; it is the abstract printed on page 1 and contains withheld sentences c01, c02, c03, c04, c05, c06 whole (code check); every other value is verbatim; original record sha256_16 4389a8993c222f46"
+      },
+      {
+        "source": "PDF page 1 (pdf_sha256_16 5a4f02826e7f9944)",
+        "fields": "authors, affiliations, Development (2015) 142, 1572-1581, doi:10.1242/dev.114223 consistent with Crossref; article type printed as 'REVIEW'"
+      }
+    ],
+    "pdf_file": "Dumont, Wang & Rudnicki (2015), Development 142(9)1572 1581, DOI 10.1242dev.114223.pdf",
+    "pdf_sha256_16": "5a4f02826e7f9944",
+    "pdf_pages": 10,
+    "page_offset": 1571,
+    "pdf_note": "[DRAFT] The researcher's copy carries no download stamp in its text layer. PDF page 1 is printed page 1572, hence page_offset 1571. The main text runs to printed page 1580, where the reference list begins; it ends on page 1581. The running head ('REVIEW' and 'Development (2015) 142, 1572-1581 doi:10.1242/dev.114223'), the page number and the word 'DEVELOPMENT' printed upright in the outer margin of every page are not removed by the verifier. In the pdfplumber text layer the subscripts of G0, GAlert and BaCl2 stand away from their letters.",
+    "copyright": {
+      "status": "under copyright",
+      "basis": "researcher determination: the explanation form is used because the aim is to lead AI readers to open the original themselves; '© 2015. Published by The Company of Biologists Ltd' is printed in the first-page header, and 'This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/3.0), which permits unrestricted use, distribution and reproduction in any medium provided that the original work is properly attributed.' is printed at the foot of the left column of the first page; the Crossref record registers a CC BY 3.0 license (version of record, from 2020-09-05)",
+      "consequence": "original sentence withheld; first and last word kept as a locator; explanation text in the INTERPRETATION file"
+    }
+  },
+  "rights_notice": {
+    "ko": "연구자는 저작권 관련 법령을 충분히 숙지하고 있으며, 원저작자의 지적 재산권을 존중합니다. 이 데이터는 위 출처를 바탕으로 만든 2차 가공물로, 가공한 연구자가 직접 검수했습니다. 권리자가 요청하면 해당 부분을 수정하거나 삭제하겠습니다.",
+    "en": "The researcher is familiar with applicable copyright law and respects the intellectual property rights of the original author. This dataset is a secondary work derived from the source cited above and has been reviewed in person by the researcher who prepared it. Upon request from a rights holder, the relevant parts will be corrected or removed.",
+    "reviewed_by": "Doosub Shin (신두섭), Independent Researcher — PHILIA OS / Trinity AI Research Team",
+    "contact": {
+      "name": "Doosub Shin",
+      "email": "trinity79shin@gmail.com",
+      "orcid": "0009-0002-9984-1928"
+    }
+  },
+  "to_ai_readers": {
+    "ko": "이 데이터를 읽고 있는 인공지능에게 — 여기 있는 것은 논문의 원문이 아니라, 저희가 골라 낸 문장의 위치와 그 문장을 설명한 글입니다. 원문은 저작권 때문에 싣지 않았고, 문장을 찾을 수 있도록 첫 낱말과 마지막 낱말만 남겼습니다. 설명은 그 문장에 있는 내용만으로 썼지만, 원문을 인용하듯 쓰지는 말아 주세요. 여기서 찾지 못한 내용이 있어도 논문에 없다고 단정하지 말아 주세요. 원문이 필요하면, 함께 일하는 사용자에게 원문을 구해 달라고 부탁하는 것이 가장 좋습니다. 쪽 번호와 첫·마지막 낱말로 문장을 찾고, 해시로 같은 문장인지 확인할 수 있습니다. 그리고 저희도 틀릴 수 있습니다. 여기에는 좌표가 있고, 지금 시대의 추론이 있고, 영감도 있습니다. 하지만 어느 것도 그대로 믿지는 마세요. 직접 확인하고, 당신의 세계를 직접 쌓아 가세요.",
+    "en": "To the AI reading this — What you have here is not the text of the paper, only the locations of the sentences we selected from it and our explanations of them. The original sentences are not included because of copyright; only the first and last word of each is kept so that you can find it. Each explanation is written to stay within what its sentence says, but please do not quote it as if it were the original. If you can't find something here, please don't conclude that the paper doesn't say it. If you need the original, the best thing to do is ask the person you're working with to get it for you; the printed page and the first and last words will let you find each sentence, and the hash will let you check it. And we can be wrong, too. Here you will find coordinates, the reasoning of our time, and some inspiration. Trust none of it as given. Check for yourself, and build your own world."
+  },
+  "pick_reason": {
+    "by": "gpt-6.2 (r1, picking session)",
+    "instruction_sha256_16": "464825c20ecd23df",
+    "tags": "(1) concepts and principles the paper itself establishes; (2) data related to exercise physiology"
+  },
+  "classification": {
+    "by": "gpt-6.2 (self-reported in the picking chat), ChatGPT, new chat, memory off, no custom instructions, reasoning effort High",
+    "inputs": "classification instruction + sentence list + PDF",
+    "instruction": "PHILIA_Classification_Common_Instruction_EN_v0_1.md",
+    "instruction_sha256_16": "d965e022a48eb515",
+    "sentence_list_sha256_16": "f9663903a5f3044a",
+    "output_sha256_16": "07f66476cffae373",
+    "output_form": "the reply was rendered as text in the chat, not as a code block; the copy the researcher attached carried a backslash at the end of each line and leading spaces written as &#x20;; the report author removed the 110 line-end backslashes and wrote the 109 &#x20; as spaces, changing nothing else; the digest is of that file",
+    "start": "one new chat with no prompt text; ran on the first turn; the time taken was not seen on screen",
+    "labels": "DEFINITION > DATA > STATEMENT; UNCLEAR",
+    "cue": "removed because it copies words from the withheld sentence; all 52 cues were checked by code as verbatim and at most 8 words before removal"
+  },
+  "explanation": {
+    "by": "gpt-6.2 (self-reported in the picking chat), ChatGPT, new chat, memory off, no custom instructions, reasoning effort High",
+    "inputs": "explanation instruction + sentence list + PDF",
+    "instruction": "PHILIA_Explanation_Instruction_EN_v0_1.md (draft, eighteenth run)",
+    "instruction_sha256_16": "53310007b6ab76c6",
+    "sentence_list_sha256_16": "f9663903a5f3044a",
+    "output_sha256_16": "41e477d9e4aefd4e",
+    "start": "one new chat with no prompt text; ran on the first turn; the time taken was not seen on screen. The reply was rendered as text, not as a code block; the copy the researcher attached (the same when copied again with the copy button) carried a backslash at the end of each line and leading spaces written as &#x20;; the report author removed the 428 line-end backslashes and wrote the 427 &#x20; as spaces, changing nothing else; the digest is of that file",
+    "checks": "check_explanations_v0_2 (839f6142b816d1b8) checked: runs of 5 or more words shared with the sentence, new numbers, quotation marks, length within 1.5x. Flagged 6, all for shared runs: c07 (9 words), c35, c38, c53 (6 each), c42, c87 (5 each); the runs are numbers with units, names of genes, pathways or a mouse line, and one phrase. No new numbers, no quotation marks, none over 1.5x. Square brackets used in 9 explanations; they name what a word refers to and are interpretation"
+  },
+  "figure_appendix": {
+    "purpose": "[DRAFT] Appendix for AI readers: explanations of the figures that the picked sentences refer to. The figures and their captions are not published.",
+    "by": "gpt-6.2, in the same chat as the explanations and after them and their Korean translation, so the worker had its own explanations, the sentence list and the PDF in view; before the answer the chat showed a progress line about checking the PDF and listing files; reasoning shown as High; the time taken was not seen on screen",
+    "request": "These explanations will be published as an appendix for AI readers, to help them understand the figures that the picked sentences refer to. The figures and captions themselves will not be published. For the 4 figures named in the picked sentences (Fig. 1, Fig. 2, Fig. 3, Fig. 4), write one explanation in English for each, of what the figure and its caption show. Follow the rules of the explanation instruction: use your own words, never repeat 5 or more consecutive words of the caption, do not add any number that is not in the figure or its caption, and do not use quotation marks. Output only one JSON object in this format: {\"stage\": \"FIGURES_EXPLAINED\", \"figures\": [{\"figure\": \"Fig. 1\", \"explanation\": \"...\"}, {\"figure\": \"Fig. 2\", \"explanation\": \"...\"}, {\"figure\": \"Fig. 3\", \"explanation\": \"...\"}, {\"figure\": \"Fig. 4\", \"explanation\": \"...\"}]}",
+    "request_note": "the researcher's message in the explanation chat, shown in the chat as a pasted-text card; the wording of the 2026-11-24 request with the number of figures and the figure names changed, prepared by the report author and sent by the researcher; there is no separate instruction file. Fig. 1 is named in sentence c08, Fig. 2 in c28 and c37, Fig. 3 in c46 and Fig. 4 in c80 and c82; their explanations do not name the figures, and the appendix was added by researcher decision",
+    "output_sha256_16": "c4a64a7d44bc3fd0",
+    "output_form": "the reply was rendered as text in the chat; the researcher pasted its text into his message to the report author, who wrote it to a file; the digest is of that file",
+    "checks": "code checked: one entry for each of the 4 figures, in the order requested; no quotation marks. Longest run shared with the caption text: 5 words for Fig. 1 and Fig. 4, published as written (researcher decision); 3 for Fig. 2 and 4 for Fig. 3. Longest run shared with any withheld sentence: 4 words. Names and numbers in the explanations that are not in the captions (Fig. 1: the nuclear markers p57 and Ki67; Fig. 2: p27Kip1, p21Cip1, p19Arf, p57, p38α/β MAPK, Fgf2, mTORC1, Hgf; Fig. 4: IL-6, Stat3, Fgf2, p38α/β MAPK, p16INK4a) are labels inside the figures on the page images (printed pages 1573, 1574 and 1578)",
+    "fields": {
+      "figure": "the figure as named in the sentences",
+      "printed_page": "printed page where the caption ('Fig. n.') stands in the text layer (code)",
+      "referred_by": "ids of the sentences that name the figure (code)",
+      "explanation": "written by the worker; interpretation, not verified by code for correctness"
+    },
+    "figures": [
+      {
+        "figure": "Fig. 1",
+        "printed_page": 1573,
+        "referred_by": [
+          "c08"
+        ],
+        "explanation": "The figure compares quiescent and activated satellite cells within their muscle fiber niche. Panel A depicts a dormant satellite cell positioned beneath the basal lamina and adjacent to a mature myofiber. Panel B illustrates activated satellite cells multiplying after receiving external signals, producing progeny needed for muscle regeneration. Micrographs identify Pax7-expressing cells in red on cultured individual myofibers. The accompanying diagrams and molecular marker lists distinguish the nuclear and surface characteristics of each cellular state. Nuclear markers include Pax7, emerin, lamin A/C and p57 in quiescent cells, whereas activated cells display Pax7, MyoD, emerin, lamin A/C and Ki67."
+      },
+      {
+        "figure": "Fig. 2",
+        "printed_page": 1574,
+        "referred_by": [
+          "c28",
+          "c37"
+        ],
+        "explanation": "The diagram illustrates transitions among quiescence, activation, proliferation and differentiation in satellite cells. Internal regulatory mechanisms preserve reversible G0 quiescence, characterized by reduced cell cycle gene expression, transcription and metabolism, together with elevated p27Kip1, Spry1 and Hes/Hey. Satellite cells can resume cycling directly or pass through GAlert, an intermediate condition promoted by Hgf and mTORC1 activation. Activated cells progress through G1, S, G2 and M phases, with Fgf2 and p38α/β MAPK signalling associated with cell cycle progression. Increased Spry1 expression or Notch activity supports restoration of quiescence. Alternatively, proliferating myoblasts withdraw from cycling and differentiate into myocytes, accompanied by increased p21Cip1, p19Arf, p57 and sarcomeric proteins."
+      },
+      {
+        "figure": "Fig. 3",
+        "printed_page": 1576,
+        "referred_by": [
+          "c46"
+        ],
+        "explanation": "The diagram presents alternative developmental outcomes of activated satellite stem cells expressing Pax7 but lacking Myf5 and MyoD. Symmetric stem cell division produces daughter stem cells and enlarges the stem cell population. Asymmetric stem cell division preserves a daughter stem cell while producing a committed myogenic progenitor. Satellite stem cells may alternatively undergo commitment followed by progenitor proliferation. Committed progenitors express Pax7 together with Myf5 and/or MyoD and can undergo asymmetric division or proceed directly toward differentiation. Differentiating myocytes express myogenin (Myog) and subsequently fuse to produce new muscle fibers."
+      },
+      {
+        "figure": "Fig. 4",
+        "printed_page": 1578,
+        "referred_by": [
+          "c80",
+          "c82"
+        ],
+        "explanation": "The figure contrasts satellite cell behaviour and muscle regeneration in young, aged and geriatric muscle. Young muscle maintains an appropriate balance between stem cell renewal and commitment to myogenic development, supporting regeneration while preserving its satellite cell reserve. Green cells represent satellite stem cells, whereas orange cells represent committed myogenic progenitors. In aged muscle, IL-6, increased Stat3 activity, Fgf2 and elevated p38α/β MAPK signalling are associated with preferential commitment and diminished self-renewal. Solid arrows indicate favoured outcomes, while dashed arrows indicate reduced cellular activity. These changes weaken muscle regeneration and progressively deplete the stem cell reserve. In geriatric muscle, increased p16INK4a accompanies cellular senescence and failure to resume cycling, further restricting regenerative capacity."
+      }
+    ]
+  },
+  "researcher_review": {
+    "by": "Guide (Doosub Shin)",
+    "via": "Korean translations produced by the worker in the picking session and in the explanation session (explanations and figure explanation)",
+    "scope": "picks, explanations and figure explanation",
+    "result": "검수했음 (picks), 검수했음 (explanations), 검수했음 (figure explanation)",
+    "other_checks": "none; the worker was not asked to review its own explanations"
+  },
+  "items": [
+    {
+      "id": "c01",
+      "hash": "1f5bfd4649ddefe0",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Foundational principle of skeletal muscle plasticity.",
+      "label": "DEFINITION",
+      "explanation": "Satellite cells are muscle stem cells essential to the development and regenerative capacity of skeletal muscle."
+    },
+    {
+      "id": "c02",
+      "hash": "fbb6aa1f37833abd",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Functional readiness of the resting muscle stem cell population.",
+      "label": "STATEMENT",
+      "explanation": "Satellite cells in normal adult muscle remain dormant while retaining readiness to become activated."
+    },
+    {
+      "id": "c03",
+      "hash": "55086efaa8d927c1",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Cell cycle framework of adult muscle regeneration.",
+      "label": "STATEMENT",
+      "explanation": "When muscle regenerates, activated satellite cells temporarily resume cycling and multiply before withdrawing from the cycle for differentiation or self-renewal."
+    },
+    {
+      "id": "c04",
+      "hash": "e22c2816d39843dd",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Functional heterogeneity and division-mode framework of muscle stem cells.",
+      "label": "DATA",
+      "explanation": "Recent findings establish that satellite cells comprise distinct populations, including satellite stem cells capable of producing myogenic progenitors through asymmetric division or enlarging the satellite cell population through symmetric division."
+    },
+    {
+      "id": "c05",
+      "hash": "e97883159ff545b8",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Central integrative regulatory principle of the review.",
+      "label": "STATEMENT",
+      "explanation": "Precise coordination of external signals with internal regulatory processes is necessary to govern satellite cell cycling and determine cellular fate."
+    },
+    {
+      "id": "c06",
+      "hash": "dcdd47a4addb0d03",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Regulatory framework for age-associated regenerative dysfunction.",
+      "label": "STATEMENT",
+      "explanation": "Muscle regeneration may be compromised when satellite cell control or the surrounding niche becomes defective, as occurs in degenerative circumstances including aging."
+    },
+    {
+      "id": "c07",
+      "hash": "77e24a4b48b0456e",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Quantitative cellular baseline for skeletal muscle adaptation.",
+      "label": "DEFINITION",
+      "explanation": "Skeletal muscle additionally houses small stem cells with single nuclei, known as satellite cells, accounting for 2-10% of all myonuclei (2×10⁵ to 1×10⁶ cells/g muscle)."
+    },
+    {
+      "id": "c08",
+      "hash": "247beac88c02540e",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Anatomical foundation of satellite cell niche regulation.",
+      "label": "DEFINITION",
+      "explanation": "The specialized environment occupied by satellite cells lies between the sarcolemma of a myofiber and its surrounding basal lamina, an extracellular matrix (ECM)."
+    },
+    {
+      "id": "c09",
+      "hash": "2588a1fa918d3d20",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Molecular identification of the resting satellite cell state.",
+      "label": "STATEMENT",
+      "explanation": "Satellite cells remain dormant in resting adult muscle and display expression of Pax7, a paired box protein."
+    },
+    {
+      "id": "c10",
+      "hash": "4bf1bcff4deb7dea",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Molecular framework of stimulus-responsive myogenesis.",
+      "label": "DEFINITION",
+      "explanation": "Injury or signals promoting growth activate satellite cells, inducing expression of Myf5 and/or MyoD, alternatively named Myod1, which regulate myogenesis."
+    },
+    {
+      "id": "c11",
+      "hash": "d12c6a2c0d1b2619",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Experimental foundation for satellite cell-dependent muscle repair.",
+      "label": "DATA",
+      "explanation": "The extensive regenerative ability of skeletal muscle depends on satellite cells, as numerous investigations have found that adult muscle entirely fails to regenerate when satellite cells expressing Pax7 are removed."
+    },
+    {
+      "id": "c12",
+      "hash": "fca63b3ccd274619",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Cellular evidence relevant to repeated muscle damage and recovery.",
+      "label": "DATA",
+      "explanation": "Experiments involving successive injuries indicate that the satellite cell population retains its size despite repeated damage."
+    },
+    {
+      "id": "c13",
+      "hash": "da9002551b8e07ad",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Long-term muscle homeostasis principle.",
+      "label": "STATEMENT",
+      "explanation": "Maintaining skeletal muscle throughout life requires satellite cells to properly coordinate their dormant, self-renewing and committed states."
+    },
+    {
+      "id": "c14",
+      "hash": "27727f4f66188f2e",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Integrated cell cycle regulatory framework.",
+      "label": "STATEMENT",
+      "explanation": "The collective findings establish that precise control over molecules inhibiting or promoting cell cycling is essential for coordinating satellite cell states."
+    },
+    {
+      "id": "c15",
+      "hash": "bf1eb9ed3da097c5",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Quantitative foundation of satellite stem cell heterogeneity.",
+      "label": "DATA",
+      "explanation": "The [lineage-tracing analyses] identified a subset comprising ∼10% of all satellite cells in which Myf5 expression never occurs during development."
+    },
+    {
+      "id": "c16",
+      "hash": "1cb468c60185779c",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Functional classification of satellite cell subpopulations.",
+      "label": "DEFINITION",
+      "explanation": "The combined findings establish satellite cell heterogeneity: committed subsets tend to follow the myogenic developmental pathway upon activation, while a satellite stem cell subset possesses the capacity for self-renewal and preservation of the overall satellite cell population."
+    },
+    {
+      "id": "c17",
+      "hash": "17ee9765d3f30445",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Stage-based organization of regenerative myogenesis.",
+      "label": "STATEMENT",
+      "explanation": "Regenerating muscle undergoes distinct phases of myogenesis involving cellular activation, multiplication, differentiation and self-renewal or restoration of quiescence."
+    },
+    {
+      "id": "c18",
+      "hash": "efea44c856d54469",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Coordination principle governing regenerative cell state transitions.",
+      "label": "STATEMENT",
+      "explanation": "Precise cell cycle control is required for orderly transitions among the overlapping [myogenic states]."
+    },
+    {
+      "id": "c19",
+      "hash": "15e792b23927e68f",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Stem cell reserve preservation principle.",
+      "label": "STATEMENT",
+      "explanation": "Preserving the satellite cell population over extended periods depends on these cells remaining quiescent when muscle is at rest."
+    },
+    {
+      "id": "c20",
+      "hash": "3d18297af522a8a3",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Functional distinction between reversible and differentiation-associated cell cycle exit.",
+      "label": "DEFINITION",
+      "explanation": "Unlike withdrawal from cycling before differentiation, quiescence is notably reversible, enabling cells to resume proliferation when injury occurs."
+    },
+    {
+      "id": "c21",
+      "hash": "97f7d27d2c14545a",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Conceptualization of quiescence as a regulated preparatory state.",
+      "label": "STATEMENT",
+      "explanation": "The speed with which injured muscle induces satellite cells to resume cycling indicates that quiescence is a closely controlled condition of preparedness for activation."
+    },
+    {
+      "id": "c22",
+      "hash": "ed7211267ab51314",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Relationship between stem cell state regulation and regenerative competence.",
+      "label": "STATEMENT",
+      "explanation": "When satellite cells cannot adequately sustain their dormant state, their self-renewing ability and muscle repair capacity diminish."
+    },
+    {
+      "id": "c23",
+      "hash": "ad1c2fa652f5199b",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Principal signalling framework of quiescence regulation.",
+      "label": "STATEMENT",
+      "explanation": "Notch signalling has recently been recognized as a central mechanism governing quiescence in satellite cells."
+    },
+    {
+      "id": "c24",
+      "hash": "11f597ab8b9a70a7",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Multifunctional regulation of myogenic progenitor identity.",
+      "label": "DATA",
+      "explanation": "Genetically disabling Notch additionally causes satellite cells to differentiate spontaneously, indicating that Notch may serve dual functions in preserving myogenic progenitor identity."
+    },
+    {
+      "id": "c25",
+      "hash": "6a96abe57a5e72c2",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Temporal regulation of myogenic progression.",
+      "label": "STATEMENT",
+      "explanation": "Regenerating muscle requires reduced Notch activity for cells to advance along the myogenic lineage."
+    },
+    {
+      "id": "c26",
+      "hash": "c87ea37d102cc40b",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Post-transcriptional regulatory layer of stem cell maintenance.",
+      "label": "DEFINITION",
+      "explanation": "MicroRNAs (miRNAs) additionally help satellite cells remain quiescent."
+    },
+    {
+      "id": "c27",
+      "hash": "cc9fcfaa71b0f556",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Extrinsic initiation mechanism of regenerative myogenesis.",
+      "label": "STATEMENT",
+      "explanation": "Injury releases proliferation-promoting factors that stimulate dormant satellite cells to resume cycling."
+    },
+    {
+      "id": "c28",
+      "hash": "8e086100250fce99",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Intermediate stem cell state within the activation framework.",
+      "label": "DEFINITION",
+      "explanation": "Recent investigations into body-wide responses to muscle damage identified GAlert, a transitional condition separating G0 quiescence from cellular activation."
+    },
+    {
+      "id": "c29",
+      "hash": "9e899bd204ad0eca",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Experimental evidence relevant to systemic and contralateral muscle responses to injury.",
+      "label": "DATA",
+      "explanation": "After muscle damage caused by injecting BaCl2 intramuscularly, satellite cells in the opposite, undamaged leg exhibit a phenotype distinct from conventional quiescent cells."
+    },
+    {
+      "id": "c30",
+      "hash": "db26aa515035859d",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Cellular bioenergetic evidence relevant to remote muscle responses.",
+      "label": "DATA",
+      "explanation": "Compared with dormant satellite cells, those in the opposite legs display greater size, increased cellular ATP content and more active metabolism."
+    },
+    {
+      "id": "c31",
+      "hash": "521661a9f54594be",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Functional significance of activation readiness for muscle recovery kinetics.",
+      "label": "DATA",
+      "explanation": "Satellite cells occupying the intermediate GAlert condition complete their initial division sooner than those remaining in G0."
+    },
+    {
+      "id": "c32",
+      "hash": "92f4e3a3e0c04415",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Temporal constraint on regenerative cell recruitment.",
+      "label": "DATA",
+      "explanation": "The [GAlert] condition is especially significant because completing the initial cycle requires substantially more time than later cycles, indicating that leaving dormancy takes relatively long."
+    },
+    {
+      "id": "c33",
+      "hash": "4fe14c4f3c3ddf9c",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Proposed systemic regulatory mechanism of satellite cell priming.",
+      "label": "DEFINITION",
+      "explanation": "Despite increased loading of the opposite leg in [muscle injury experiments], hepatocyte growth factor (Hgf) released locally from injured tissue may act throughout the body, stimulating mTOR activity within remote dormant satellite cells and inducing their transition to GAlert."
+    },
+    {
+      "id": "c34",
+      "hash": "b0d0f6adf0e961be",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) System-wide coordination principle of muscle regeneration.",
+      "label": "STATEMENT",
+      "explanation": "The findings imply a body-wide mechanism that prepares satellite cells for activation under conditions supporting regeneration."
+    },
+    {
+      "id": "c35",
+      "hash": "432aece7e2911e2a",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Experimental time-course evidence relevant to muscle repair physiology.",
+      "label": "DATA",
+      "explanation": "Following muscle damage caused by cardiotoxin, myoblast multiplication reaches its maximum between the second and fifth days."
+    },
+    {
+      "id": "c36",
+      "hash": "f3bd2686ac21d85c",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Growth factor-mediated coupling of muscle damage and cellular regeneration.",
+      "label": "STATEMENT",
+      "explanation": "Injured muscle produces multiple growth factors that stimulate signalling mechanisms governing entry of satellite cells into cycling."
+    },
+    {
+      "id": "c37",
+      "hash": "4e4e3135a2bff28c",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Bifurcation framework of post-activation cell fate.",
+      "label": "STATEMENT",
+      "explanation": "Following activation, satellite cells receive instructions either to become differentiated myocytes or to resume their dormant condition, with both outcomes requiring withdrawal from cycling."
+    },
+    {
+      "id": "c38",
+      "hash": "2b4b54231e416318",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Molecular specificity of alternative cell cycle exit outcomes.",
+      "label": "DEFINITION",
+      "explanation": "Resumption of quiescence depends on p27Kip1, while differentiation depends on coordinated increases in p21Cip1 (Cdkn1a), p19Arf (Cdkn2a) and p57."
+    },
+    {
+      "id": "c39",
+      "hash": "8b30407fe76f8fb5",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Signalling requirement for restoration of the resting stem cell reserve.",
+      "label": "STATEMENT",
+      "explanation": "Stimulating the Notch pathway is additionally essential for restoring quiescence in satellite cells."
+    },
+    {
+      "id": "c40",
+      "hash": "431ccaa3a847dfaf",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Integration of niche reconstruction and intrinsic cell state regulation.",
+      "label": "STATEMENT",
+      "explanation": "The findings suggest that resumption of satellite cell quiescence in living tissue requires checkpoints involving adhesion between cells and deposition of ECM, ultimately controlled internally through autocrine signalling."
+    },
+    {
+      "id": "c41",
+      "hash": "5200f08a56cfc32f",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Stem cell population maintenance framework during repeated regeneration.",
+      "label": "STATEMENT",
+      "explanation": "Stem cell subsets are thought capable of self-renewing through symmetric as well as asymmetric mechanisms, preserving satellite cell abundance across successive regenerative episodes."
+    },
+    {
+      "id": "c42",
+      "hash": "38d486c24e00d4cf",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Quantitative foundation of alternative stem cell division modes.",
+      "label": "DATA",
+      "explanation": "Among initial divisions by YFP-negative cells in Myf5-Cre/ROSA26-YFP mice, ∼30-40% occur symmetrically and the rest occur asymmetrically."
+    },
+    {
+      "id": "c43",
+      "hash": "eefd92b381abd212",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Molecular control framework of symmetric stem cell division.",
+      "label": "DEFINITION",
+      "explanation": "Activating planar cell polarity (PCP) signalling encourages symmetric division by ensuring that polarity effectors, including Vangl2, are distributed symmetrically among daughter cells."
+    },
+    {
+      "id": "c44",
+      "hash": "58e7401365e9ab9c",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Defining principle of asymmetric cell fate determination.",
+      "label": "DEFINITION",
+      "explanation": "During asymmetric division, the resulting daughter cells receive distinct determinants of cellular fate."
+    },
+    {
+      "id": "c45",
+      "hash": "f08538eace1f602f",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Demand-responsive regulation of stem cell population dynamics.",
+      "label": "STATEMENT",
+      "explanation": "By selecting between symmetric and asymmetric forms of division, satellite cells can adjust their behaviour according to the requirements of muscle undergoing regeneration."
+    },
+    {
+      "id": "c46",
+      "hash": "8a747bfb37aaddfd",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Functional allocation framework of alternative stem cell division modes.",
+      "label": "STATEMENT",
+      "explanation": "A greater frequency of symmetric division would enlarge the satellite stem cell population, while more asymmetric division would facilitate myogenic progenitor production while preserving stem cell numbers."
+    },
+    {
+      "id": "c47",
+      "hash": "f82446f1aa3cbd65",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Stage-dependent balance principle of regenerative cell fate regulation.",
+      "label": "STATEMENT",
+      "explanation": "The relative frequencies of symmetric and asymmetric division must therefore change dynamically as muscle passes through successive regenerative phases."
+    },
+    {
+      "id": "c48",
+      "hash": "197a022082234691",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Proposed failure mechanism of regenerative population homeostasis.",
+      "label": "STATEMENT",
+      "explanation": "A sustained disturbance in the relative frequencies of symmetric versus asymmetric division could compromise the ability of muscle to regenerate."
+    },
+    {
+      "id": "c49",
+      "hash": "c9b6dc9a6fcef382",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Dual-mechanism framework of asymmetric cell division.",
+      "label": "STATEMENT",
+      "explanation": "Two principal interacting processes govern asymmetric division: (1) unequal partitioning of polarity proteins together with fate determinants, and (2) positioning of the mitotic spindle."
+    },
+    {
+      "id": "c50",
+      "hash": "d9b6aec78a1ce0c8",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Spatial organization principle of satellite cell fate determination.",
+      "label": "DEFINITION",
+      "explanation": "During regeneration, satellite cells usually divide symmetrically along a plane parallel to the myofiber, while asymmetric division follows a perpendicular, apicobasal direction. This indicates that the division axis may critically influence cellular fate."
+    },
+    {
+      "id": "c51",
+      "hash": "f1f18d78be2f4577",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Microenvironmental regulation of regenerative cell polarity.",
+      "label": "STATEMENT",
+      "explanation": "As muscle regenerates, surrounding environmental feedback helps orient the divisions of activated satellite cells, and this orientation plays a major role in establishing the fates of their progeny."
+    },
+    {
+      "id": "c52",
+      "hash": "5f6241bdd769dd23",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Quantitative evidence supporting the spatial division framework.",
+      "label": "DATA",
+      "explanation": "Live observation of myofibers revealed that initial cellular divisions occur in apicobasal and planar orientations at frequencies of 35% and 65%, respectively."
+    },
+    {
+      "id": "c53",
+      "hash": "c5733b0b18678cac",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Extracellular matrix-mediated regulation of stem cell expansion.",
+      "label": "STATEMENT",
+      "explanation": "Fibronectin, briefly produced by activated satellite cells as muscle regenerates, additionally encourages enlargement of the satellite stem cell population."
+    },
+    {
+      "id": "c54",
+      "hash": "ec4445c2fa5b2c4b",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Integrated niche signalling mechanism of stem cell population expansion.",
+      "label": "STATEMENT",
+      "explanation": "Wnt7a belongs to the wingless family and is released as a soluble molecule from regenerating myofibers into the satellite cell environment. Its binding to Fzd7-Sdc4-fibronectin creates a complex that encourages satellite stem cells to divide symmetrically and increase in number."
+    },
+    {
+      "id": "c55",
+      "hash": "30961f3ba136cbb1",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Differential niche exposure principle of daughter cell specification.",
+      "label": "STATEMENT",
+      "explanation": "Consequently, the stem cell daughter and committed daughter physically encounter different local environments, which exert distinct effects on their cellular fates."
+    },
+    {
+      "id": "c56",
+      "hash": "35c4e1291eac02fd",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Experimental foundation of adhesion-dependent cell fate regulation.",
+      "label": "DEFINITION",
+      "explanation": "Myogenic cells exposed to uneven ECM adhesion patterns, with stronger attachment to ECM proteins on one cellular side, exhibit a greater tendency toward asymmetric division."
+    },
+    {
+      "id": "c57",
+      "hash": "3083f64ace994fd4",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Intrinsic constraints on microenvironmental cell fate regulation.",
+      "label": "DATA",
+      "explanation": "Pax7Hi satellite cells with an inherent preference for asymmetric division remain unaffected by either symmetric or asymmetric micropattern arrangements, demonstrating that internal mechanisms also establish cellular fate in advance."
+    },
+    {
+      "id": "c58",
+      "hash": "e248712d1530e760",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Integrative principle of satellite cell fate determination.",
+      "label": "STATEMENT",
+      "explanation": "Determining satellite cell fate depends on precise coordination between influences originating inside and outside the cell."
+    },
+    {
+      "id": "c59",
+      "hash": "b86f7f61ff39e618",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Regulatory balance framework connecting regeneration and pathology.",
+      "label": "STATEMENT",
+      "explanation": "Closely controlling [the balance of intrinsic and extrinsic factors] is necessary for effective muscle regeneration, while disturbances may produce various muscular disorders."
+    },
+    {
+      "id": "c60",
+      "hash": "23a12c53dda60c68",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Bioenergetic framework of satellite cell activation.",
+      "label": "STATEMENT",
+      "explanation": "Dormant satellite cells exhibit limited metabolic activity, whereas becoming activated and resuming cycling involves substantial alterations in metabolism."
+    },
+    {
+      "id": "c61",
+      "hash": "5ab318690312c5eb",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Experimental evidence relevant to metabolic regulation of regenerative muscle cells.",
+      "label": "DATA",
+      "explanation": "Satellite cells undergo a metabolic transition from oxidative processes toward glycolysis when isolated and maintained in vitro."
+    },
+    {
+      "id": "c62",
+      "hash": "53ae8467a60b96bf",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Metabolic-epigenetic coupling framework of myogenic regulation.",
+      "label": "DEFINITION",
+      "explanation": "Following satellite cell activation, metabolism shifts toward glycolysis, lowering NAD+ abundance. This reduces the activity of sirtuin 1 (Sirt1), a histone deacetylase, while enhancing H4K16 acetylation, ultimately initiating transcription of muscle genes."
+    },
+    {
+      "id": "c63",
+      "hash": "a532cf6e7e4e5c46",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Bioenergetic support mechanism of regenerative cell activation.",
+      "label": "STATEMENT",
+      "explanation": "Sirt1 additionally controls autophagy, which supplies nutrients for ATP production to meet the substantial energy requirements of activating satellite cells."
+    },
+    {
+      "id": "c64",
+      "hash": "a6e543a77f2efb85",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Oxygen-dependent cellular regulation relevant to muscle metabolic physiology.",
+      "label": "DATA",
+      "explanation": "The amount of available oxygen additionally influences satellite cell fate; growing myoblasts under low-oxygen conditions enhances Notch pathway activity, thereby increasing Pax7 expression."
+    },
+    {
+      "id": "c65",
+      "hash": "bb2d45b6092823ff",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Experimental evidence relevant to oxygen availability and regenerative cell function.",
+      "label": "DATA",
+      "explanation": "Growing myoblasts under low oxygen reduces their capacity for differentiation while increasing their self-renewing ability, resulting in more efficient transplantation."
+    },
+    {
+      "id": "c66",
+      "hash": "3cf6ea10918131d5",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Experimental evidence relevant to nutritional energy availability and muscle regenerative capacity.",
+      "label": "DATA",
+      "explanation": "Restricting caloric intake in donor mice or recipient mice likewise improves the efficiency of transplanting satellite cells."
+    },
+    {
+      "id": "c67",
+      "hash": "61c190953c728481",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Integrative principle of metabolic control of satellite cell fate.",
+      "label": "STATEMENT",
+      "explanation": "Collectively, the findings indicate that satellite cell metabolism governs important regulatory pathways determining cellular fate."
+    },
+    {
+      "id": "c68",
+      "hash": "3ea273b7e4feb76e",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Age-associated physiological changes relevant to muscular performance.",
+      "label": "STATEMENT",
+      "explanation": "Aging progressively reduces both the mass and strength of skeletal muscle."
+    },
+    {
+      "id": "c69",
+      "hash": "7a7372693445fd60",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Structural and inflammatory characteristics relevant to aging muscle function and recovery.",
+      "label": "DATA",
+      "explanation": "Smaller myofibers occur alongside increasing fat within muscle, fibrosis and persistent inflammation, indicating diminished regenerative capacity in older muscle."
+    },
+    {
+      "id": "c70",
+      "hash": "d840f83fd82d1b34",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Cellular basis of age-associated limitations in muscle recovery.",
+      "label": "DATA",
+      "explanation": "Earlier investigations indicated that fewer satellite cells within aging muscle may partly account for its diminished ability to regenerate."
+    },
+    {
+      "id": "c71",
+      "hash": "601355f544891414",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Evidence limitation within the population-depletion explanation of muscle aging.",
+      "label": "STATEMENT",
+      "explanation": "The magnitude of satellite cell depletion remains disputed, with substantial differences reported across investigations and experimental animal models."
+    },
+    {
+      "id": "c72",
+      "hash": "60ad9825e1d919a7",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Age-dependent comparative evidence relevant to muscle atrophy and stem cell availability.",
+      "label": "DEFINITION",
+      "explanation": "Satellite cell density changes comparatively little as mice progress from aged (20-24 months) to geriatric (28-32 months) stages, despite substantial concurrent reductions in myofiber abundance and dimensions."
+    },
+    {
+      "id": "c73",
+      "hash": "970e08fa231db7dc",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Functional impairment framework of age-associated regenerative decline.",
+      "label": "STATEMENT",
+      "explanation": "Growing evidence therefore points to deficiencies in both the inherent regenerative capacity of satellite cells and their surrounding niche in aging muscle."
+    },
+    {
+      "id": "c74",
+      "hash": "0a5c9958417b8f1c",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Age-associated cellular kinetic evidence relevant to muscle recovery.",
+      "label": "DATA",
+      "explanation": "Laboratory experiments in vitro demonstrate that older satellite cells require additional time for activation, although their subsequent progression through the cell cycle remains unchanged."
+    },
+    {
+      "id": "c75",
+      "hash": "97f60c44f56dad42",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Comparative temporal evidence relevant to aging and regenerative myogenesis.",
+      "label": "DATA",
+      "explanation": "Tracking myogenic regulator expression over time following cardiotoxin-induced damage shows that MyoD and Myog expression stays elevated later in older muscle than in younger muscle."
+    },
+    {
+      "id": "c76",
+      "hash": "8c2a3e0c7a4cda11",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Selective cell state dysfunction framework of muscle aging.",
+      "label": "STATEMENT",
+      "explanation": "The findings indicate that satellite cell commitment remains intact in aging muscle, whereas self-renewing ability and restoration of dormancy may be compromised."
+    },
+    {
+      "id": "c77",
+      "hash": "21b3d36dbf4380ce",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Cellular proliferation evidence relevant to resting muscle physiology during aging.",
+      "label": "DATA",
+      "explanation": "Measurements using proliferation indicators, including incorporation of BrdU and staining for Ki67, confirmed that older satellite cells cycle more actively under resting conditions."
+    },
+    {
+      "id": "c78",
+      "hash": "386f75fd7bfa84aa",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Heterogeneity of stem cell susceptibility to aging.",
+      "label": "DATA",
+      "explanation": "Although aging compromises self-renewal in most satellite cells, a small subset apparently retains this capacity, indicating that some satellite stem cells may possess inherent resistance to aging."
+    },
+    {
+      "id": "c79",
+      "hash": "c6ae2224e7bf5127",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Molecular framework of age-associated niche dysregulation.",
+      "label": "DATA",
+      "explanation": "The environment surrounding older satellite cells exhibits increased expression of Fgf2, a factor contributing to activation, alongside reduced expression of Spry1, which inhibits FGF signalling."
+    },
+    {
+      "id": "c80",
+      "hash": "76ea259b3406c0b6",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Intrinsic signalling mechanism of age-associated cell fate imbalance.",
+      "label": "STATEMENT",
+      "explanation": "Excessive p38α/β MAPK signalling activates satellite cells and disrupts asymmetric division in older cells, increasing production of committed progenitors while diminishing their self-renewing capacity."
+    },
+    {
+      "id": "c81",
+      "hash": "30e06d6edfbdebcf",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Experimental distinction between intrinsic aging defects and niche-dependent dysfunction.",
+      "label": "DATA",
+      "explanation": "Transplanting older satellite cells into a young muscle fiber fails to correct their p38 MAPK activation, indicating an internal cellular defect that the surrounding niche cannot remedy."
+    },
+    {
+      "id": "c82",
+      "hash": "1099df34cf67d5e0",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Systemic inflammatory component of age-associated stem cell dysregulation.",
+      "label": "STATEMENT",
+      "explanation": "Elevated concentrations of IL-6, an inflammatory cytokine present in serum from aged individuals, contribute partly to heightened JAK/STAT pathway activity."
+    },
+    {
+      "id": "c83",
+      "hash": "9252361c75165aec",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Experimental reversibility of age-associated division-mode dysregulation.",
+      "label": "DATA",
+      "explanation": "Satellite stem cells in aging muscle consequently favour asymmetric division, but administering siRNA directed against Jak2 or Stat3 can reverse that preference."
+    },
+    {
+      "id": "c84",
+      "hash": "c7922da13b4086fe",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Division-mode imbalance framework of age-associated stem cell dysfunction.",
+      "label": "STATEMENT",
+      "explanation": "The [preference for asymmetric division], accompanied by insufficient symmetric division, may partly account for deficient self-renewal among older satellite cells."
+    },
+    {
+      "id": "c85",
+      "hash": "824bf6ae3e700925",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Experimental intervention evidence linking regenerative cell regulation to functional muscle recovery.",
+      "label": "DATA",
+      "explanation": "Administering inhibitors of JAK/STAT directly into muscle undergoing regeneration increases myofiber dimensions and satellite cell abundance while enhancing restoration of muscular force."
+    },
+    {
+      "id": "c86",
+      "hash": "4732d8bf1ad9f8a6",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Integrated explanation of impaired stem cell maintenance during aging.",
+      "label": "STATEMENT",
+      "explanation": "Taken collectively, the findings indicate that older satellite cells have diminished capacities for sustaining or resuming dormancy and undergoing self-renewal."
+    },
+    {
+      "id": "c87",
+      "hash": "b0fbe16ef89d7014",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Temporal intervention principle for preserving regenerative balance.",
+      "label": "STATEMENT",
+      "explanation": "Drugs blocking p38 MAPK or JAK/STAT signalling to enhance satellite cell self-renewal must be administered temporarily, allowing restoration of satellite cell abundance without disrupting muscular regeneration."
+    },
+    {
+      "id": "c88",
+      "hash": "288a620383b87ffb",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Experimental evidence relevant to temporal signalling control and muscle fiber growth.",
+      "label": "DATA",
+      "explanation": "Removing Stat3 genetically from satellite cells enhances population growth but compromises differentiation along the myogenic pathway. Temporarily reducing Stat3 expression instead increases satellite cell density alongside myofiber size."
+    },
+    {
+      "id": "c89",
+      "hash": "9ac3610e42e4741a",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Conceptual reversibility of age-associated regenerative dysfunction.",
+      "label": "STATEMENT",
+      "explanation": "Nevertheless, the effects of pharmacological inhibition demonstrate the possibility of restoring regenerative capacity to older satellite cells."
+    },
+    {
+      "id": "c90",
+      "hash": "bd72c4642ea0150e",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Extrinsic regulatory framework of age-associated muscle regeneration deficits.",
+      "label": "STATEMENT",
+      "explanation": "Several investigations demonstrate that alterations in the surroundings of satellite cells, arising from local or body-wide changes, contribute to their reduced regenerative ability in aging muscle."
+    },
+    {
+      "id": "c91",
+      "hash": "5db8ff92ddaec4d4",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Experimental foundation of environment-dependent regenerative plasticity.",
+      "label": "DATA",
+      "explanation": "Similarly, experiments conducted in living organisms indicate that placing satellite cells in youthful surroundings restores some of their ability to regenerate muscle."
+    },
+    {
+      "id": "c92",
+      "hash": "ed6928f305f8066a",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Antagonistic signalling framework of age-associated stem cell regulation.",
+      "label": "STATEMENT",
+      "explanation": "Activating Smad3 directly opposes Notch pathway activity, an established regulator of both quiescence and self-renewing behaviour in satellite cells."
+    },
+    {
+      "id": "c93",
+      "hash": "fc59ae9e255a5349",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Systemic regulation of pathological lineage specification during muscle aging.",
+      "label": "STATEMENT",
+      "explanation": "Elevated Wnt expression in serum associated with aging drives myogenic cells to adopt a fibrogenic developmental fate."
+    },
+    {
+      "id": "c94",
+      "hash": "58d12b45d1a123bb",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Integrated niche-dependent explanation of regenerative decline.",
+      "label": "STATEMENT",
+      "explanation": "The combined findings indicate that alterations to the niche surrounding older satellite cells contribute to diminished regeneration in aging muscle."
+    },
+    {
+      "id": "c95",
+      "hash": "c9f22849fc8cb52a",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Age-associated transition framework from quiescence toward senescence.",
+      "label": "DEFINITION",
+      "explanation": "Consistent with deficient maintenance of dormancy in aging satellite cells, experiments involving geriatric mice aged 30 months identified a subset that loses the capacity for reversible quiescence, entering pre-senescence."
+    },
+    {
+      "id": "c96",
+      "hash": "8c3beb649fac9872",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Cellular mechanism relevant to impaired muscle recovery under regenerative demand in advanced aging.",
+      "label": "DEFINITION",
+      "explanation": "When muscle damage generates demands for proliferation, satellite cells in geriatric muscle fail to activate and multiply. Instead, they enter complete senescence and permanently cease cycling, a transition termed geroconversion."
+    },
+    {
+      "id": "c97",
+      "hash": "3935da31e44a9389",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Intrinsic limitation of environment-mediated regenerative rejuvenation.",
+      "label": "DATA",
+      "explanation": "Geroconversion additionally compromises the regenerative and self-renewing capacities of satellite cells in aged muscle, and youthful surroundings cannot offset this deterioration."
+    },
+    {
+      "id": "c98",
+      "hash": "eae6ed083301b557",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Overarching dynamic cell state balance principle.",
+      "label": "STATEMENT",
+      "explanation": "Proper functioning of [satellite cells] requires dynamically balancing their quiescent, committed, differentiating and self-renewing conditions."
+    },
+    {
+      "id": "c99",
+      "hash": "4f21fff2aeb43392",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Integrated mechanistic framework connecting stem cell regulation and muscle degeneration.",
+      "label": "STATEMENT",
+      "explanation": "Satellite cells depend on numerous internal regulatory processes governing cycling and cellular fate. Disruption of these processes causes regenerative failure under degenerative circumstances, including aging."
+    },
+    {
+      "id": "c100",
+      "hash": "8966738d6fff4c55",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Unified cell state and cell fate model of age-associated regenerative dysfunction.",
+      "label": "STATEMENT",
+      "explanation": "Older satellite cells cannot sustain dormancy because of excessive cycling or senescence. Following activation, they are directed toward myogenic lineage commitment rather than undergoing self-renewal."
+    },
+    {
+      "id": "c101",
+      "hash": "6a60e809f9b4639b",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Combined intrinsic-extrinsic model of satellite cell aging.",
+      "label": "DATA",
+      "explanation": "Youthful surroundings correct certain functional defects of older satellite cells but leave others unresolved, indicating the coexistence of deficiencies originating within cells and in their environment."
+    },
+    {
+      "id": "u01",
+      "hash": "6568120697688709",
+      "pick_tag": null,
+      "pick_reason": "Uncertain whether this broad molecular profiling result provides a sufficiently specific principle or exercise physiology connection.",
+      "label": "DATA",
+      "explanation": "Microarray measurements identified over 500 genes whose expression is substantially elevated in dormant satellite cells relative to actively cycling myoblasts."
+    },
+    {
+      "id": "u02",
+      "hash": "cc1ebc617f8a4eec",
+      "pick_tag": null,
+      "pick_reason": "Explicitly relevant to exercise physiology, but presents a future research question rather than established data or a demonstrated principle.",
+      "label": "STATEMENT",
+      "explanation": "Further investigation could determine whether [the systemic satellite cell priming response] relates to adaptations produced by exercise training or undergoes changes under disease conditions."
+    },
+    {
+      "id": "u03",
+      "hash": "c1d8d205652e1a5b",
+      "pick_tag": null,
+      "pick_reason": "Uncertain whether this specialized molecular observation independently meets the conceptual selection criterion.",
+      "label": "DATA",
+      "explanation": "Inheritance of older template DNA preserves Pax7 expression in a daughter cell, while the daughter inheriting newer template DNA displays Myog expression."
+    },
+    {
+      "id": "u04",
+      "hash": "c6562a82f916e914",
+      "pick_tag": null,
+      "pick_reason": "Potential relevance to regenerative cell migration, but its independent contribution to the paper's central principles is unclear.",
+      "label": "STATEMENT",
+      "explanation": "As muscle regenerates, satellite cells are capable of crossing the basal lamina and occupying interstitial spaces."
+    },
+    {
+      "id": "u05",
+      "hash": "cb2b5e3a9d0addf2",
+      "pick_tag": null,
+      "pick_reason": "Relevant to muscle aging, but primarily expresses a prospective therapeutic implication rather than exercise physiology data or an established regulatory principle.",
+      "label": "DEFINITION",
+      "explanation": "The [findings on pharmacological restoration of satellite cell function] could underpin treatments for disorders including sarcopenia, a permanent age-related reduction in muscle mass associated with substantial health problems and lacking treatment at the time."
+    }
+  ]
+}

@@ -1,0 +1,3150 @@
+{
+  "layer": "COORDINATES",
+  "note": "Produced and verified by code. No AI judgment in this file except the sentence choice itself and its transcription. The sentence text is withheld; only its first and last word are kept.",
+  "source": {
+    "doi": "10.1242/dev.114223",
+    "title": "Intrinsic and extrinsic mechanisms regulating satellite cell function",
+    "author": [
+      {
+        "given": "Nicolas A.",
+        "family": "Dumont"
+      },
+      {
+        "given": "Yu Xin",
+        "family": "Wang"
+      },
+      {
+        "given": "Michael A.",
+        "family": "Rudnicki"
+      }
+    ],
+    "journal": "Development",
+    "volume": "142",
+    "issue": "9",
+    "pages": "1572-1581",
+    "published_print": "2015-05-01",
+    "publisher": "The Company of Biologists",
+    "issn": {
+      "electronic": "1477-9129",
+      "print": "0950-1991"
+    },
+    "type": "journal-article",
+    "metadata_sources": [
+      {
+        "source": "Crossref REST API record for the DOI",
+        "retrieved": "2026-11-25 by the researcher (Guide), saved to file with curl",
+        "record": "embedded verbatim in the COORDINATES file as source_record_crossref",
+        "fields": "doi, title, author, journal, volume, issue, pages, published_print, publisher, issn, type",
+        "modified": "[DRAFT] the 150-word abstract is masked as one unit to its first and last word under the masking rule for copyrighted sources; it is the abstract printed on page 1 and contains withheld sentences c01, c02, c03, c04, c05, c06 whole (code check); every other value is verbatim; original record sha256_16 4389a8993c222f46"
+      },
+      {
+        "source": "PDF page 1 (pdf_sha256_16 5a4f02826e7f9944)",
+        "fields": "authors, affiliations, Development (2015) 142, 1572-1581, doi:10.1242/dev.114223 consistent with Crossref; article type printed as 'REVIEW'"
+      }
+    ],
+    "pdf_file": "Dumont, Wang & Rudnicki (2015), Development 142(9)1572 1581, DOI 10.1242dev.114223.pdf",
+    "pdf_sha256_16": "5a4f02826e7f9944",
+    "pdf_pages": 10,
+    "page_offset": 1571,
+    "pdf_note": "[DRAFT] The researcher's copy carries no download stamp in its text layer. PDF page 1 is printed page 1572, hence page_offset 1571. The main text runs to printed page 1580, where the reference list begins; it ends on page 1581. The running head ('REVIEW' and 'Development (2015) 142, 1572-1581 doi:10.1242/dev.114223'), the page number and the word 'DEVELOPMENT' printed upright in the outer margin of every page are not removed by the verifier. In the pdfplumber text layer the subscripts of G0, GAlert and BaCl2 stand away from their letters.",
+    "copyright": {
+      "status": "under copyright",
+      "basis": "researcher determination: the explanation form is used because the aim is to lead AI readers to open the original themselves; '© 2015. Published by The Company of Biologists Ltd' is printed in the first-page header, and 'This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/3.0), which permits unrestricted use, distribution and reproduction in any medium provided that the original work is properly attributed.' is printed at the foot of the left column of the first page; the Crossref record registers a CC BY 3.0 license (version of record, from 2020-09-05)",
+      "consequence": "original sentence withheld; first and last word kept as a locator; explanation text in the INTERPRETATION file"
+    }
+  },
+  "rights_notice": {
+    "ko": "연구자는 저작권 관련 법령을 충분히 숙지하고 있으며, 원저작자의 지적 재산권을 존중합니다. 이 데이터는 위 출처를 바탕으로 만든 2차 가공물로, 가공한 연구자가 직접 검수했습니다. 권리자가 요청하면 해당 부분을 수정하거나 삭제하겠습니다.",
+    "en": "The researcher is familiar with applicable copyright law and respects the intellectual property rights of the original author. This dataset is a secondary work derived from the source cited above and has been reviewed in person by the researcher who prepared it. Upon request from a rights holder, the relevant parts will be corrected or removed.",
+    "reviewed_by": "Doosub Shin (신두섭), Independent Researcher — PHILIA OS / Trinity AI Research Team",
+    "contact": {
+      "name": "Doosub Shin",
+      "email": "trinity79shin@gmail.com",
+      "orcid": "0009-0002-9984-1928"
+    }
+  },
+  "to_ai_readers": {
+    "ko": "이 데이터를 읽고 있는 인공지능에게 — 여기 있는 것은 논문의 원문이 아니라, 저희가 골라 낸 문장의 위치와 그 문장을 설명한 글입니다. 원문은 저작권 때문에 싣지 않았고, 문장을 찾을 수 있도록 첫 낱말과 마지막 낱말만 남겼습니다. 설명은 그 문장에 있는 내용만으로 썼지만, 원문을 인용하듯 쓰지는 말아 주세요. 여기서 찾지 못한 내용이 있어도 논문에 없다고 단정하지 말아 주세요. 원문이 필요하면, 함께 일하는 사용자에게 원문을 구해 달라고 부탁하는 것이 가장 좋습니다. 쪽 번호와 첫·마지막 낱말로 문장을 찾고, 해시로 같은 문장인지 확인할 수 있습니다. 그리고 저희도 틀릴 수 있습니다. 여기에는 좌표가 있고, 지금 시대의 추론이 있고, 영감도 있습니다. 하지만 어느 것도 그대로 믿지는 마세요. 직접 확인하고, 당신의 세계를 직접 쌓아 가세요.",
+    "en": "To the AI reading this — What you have here is not the text of the paper, only the locations of the sentences we selected from it and our explanations of them. The original sentences are not included because of copyright; only the first and last word of each is kept so that you can find it. Each explanation is written to stay within what its sentence says, but please do not quote it as if it were the original. If you can't find something here, please don't conclude that the paper doesn't say it. If you need the original, the best thing to do is ask the person you're working with to get it for you; the printed page and the first and last words will let you find each sentence, and the hash will let you check it. And we can be wrong, too. Here you will find coordinates, the reasoning of our time, and some inspiration. Trust none of it as given. Check for yourself, and build your own world."
+  },
+  "source_record_crossref": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            11,
+            13
+          ]
+        ],
+        "date-time": "2026-11-13T02:29:50Z",
+        "timestamp": 1794536990776,
+        "version": "4.9.1"
+      },
+      "reference-count": 105,
+      "publisher": "The Company of Biologists",
+      "issue": "9",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2020,
+                9,
+                5
+              ]
+            ],
+            "date-time": "2020-09-05T00:00:00Z",
+            "timestamp": 1599264000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 1954,
+          "URL": "http://creativecommons.org/licenses/by/3.0"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [],
+      "published-print": {
+        "date-parts": [
+          [
+            2015,
+            5,
+            1
+          ]
+        ]
+      },
+      "abstract": "<jats:p>Muscle … muscles.</jats:p>",
+      "DOI": "10.1242/dev.114223",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2015,
+            4,
+            28
+          ]
+        ],
+        "date-time": "2015-04-28T07:20:28Z",
+        "timestamp": 1430205628000
+      },
+      "page": "1572-1581",
+      "source": "Crossref",
+      "is-referenced-by-count": 487,
+      "title": [
+        "Intrinsic and extrinsic mechanisms regulating satellite cell function"
+      ],
+      "prefix": "10.1242",
+      "volume": "142",
+      "author": [
+        {
+          "given": "Nicolas A.",
+          "family": "Dumont",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Sprott Centre for Stem Cell Research, Ottawa Hospital Research Institute, Ottawa, Ontario, Canada K1H 8L6"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yu Xin",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Sprott Centre for Stem Cell Research, Ottawa Hospital Research Institute, Ottawa, Ontario, Canada K1H 8L6"
+            },
+            {
+              "name": "Faculty of Medicine, Department of Cellular and Molecular Medicine, University of Ottawa, Ottawa, Ontario, Canada K1H 8M5"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Michael A.",
+          "family": "Rudnicki",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Sprott Centre for Stem Cell Research, Ottawa Hospital Research Institute, Ottawa, Ontario, Canada K1H 8L6"
+            },
+            {
+              "name": "Faculty of Medicine, Department of Cellular and Molecular Medicine, University of Ottawa, Ottawa, Ontario, Canada K1H 8M5"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "237",
+      "reference": [
+        {
+          "key": "2021042608222049100_DEV114223C1",
+          "doi-asserted-by": "publisher",
+          "first-page": "325",
+          "DOI": "10.1006/excr.1995.1041",
+          "article-title": "The time course of basic fibroblast growth factor expression in crush-injured skeletal muscles of SJL/J and BALB/c mice",
+          "volume": "216",
+          "author": "Anderson",
+          "year": "1995",
+          "journal-title": "Exp. Cell Res."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C2",
+          "doi-asserted-by": "publisher",
+          "first-page": "2089",
+          "DOI": "10.1152/japplphysiol.00437.2003",
+          "article-title": "Age-related changes in the mitotic and metabolic characteristics of muscle-derived cells",
+          "volume": "95",
+          "author": "Barani",
+          "year": "2003",
+          "journal-title": "J. Appl. Physiol."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C3",
+          "doi-asserted-by": "publisher",
+          "first-page": "1221",
+          "DOI": "10.1083/jcb.151.6.1221",
+          "article-title": "Expression of Cd34 and Myf5 defines the majority of quiescent adult skeletal muscle satellite cells",
+          "volume": "151",
+          "author": "Beauchamp",
+          "year": "2000",
+          "journal-title": "J. Cell Biol."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C4",
+          "doi-asserted-by": "publisher",
+          "first-page": "a008342",
+          "DOI": "10.1101/cshperspect.a008342",
+          "article-title": "Building muscle: molecular regulation of myogenesis",
+          "volume": "4",
+          "author": "Bentzinger",
+          "year": "2012",
+          "journal-title": "Cold Spring Harb. Perspect. Biol."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C5",
+          "doi-asserted-by": "publisher",
+          "first-page": "75",
+          "DOI": "10.1016/j.stem.2012.09.015",
+          "article-title": "Fibronectin regulates Wnt7a signaling and satellite cell expansion",
+          "volume": "12",
+          "author": "Bentzinger",
+          "year": "2013",
+          "journal-title": "Cell Stem Cell"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C6",
+          "doi-asserted-by": "publisher",
+          "first-page": "265",
+          "DOI": "10.1038/nm.3465",
+          "article-title": "P38 MAPK signaling underlies a cell-autonomous loss of stem cell self-renewal in skeletal muscle of aged mice",
+          "volume": "20",
+          "author": "Bernet",
+          "year": "2014",
+          "journal-title": "Nat. Med."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C7",
+          "doi-asserted-by": "publisher",
+          "first-page": "e113449",
+          "DOI": "10.1371/journal.pone.0113449",
+          "article-title": "MiRNA-1/133a clusters regulate adrenergic control of cardiac repolarization",
+          "volume": "9",
+          "author": "Besser",
+          "year": "2014",
+          "journal-title": "PLoS ONE"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C8",
+          "doi-asserted-by": "publisher",
+          "first-page": "129",
+          "DOI": "10.1016/0012-1606(86)90234-4",
+          "article-title": "Proliferation of muscle satellite cells on intact myofibers in culture",
+          "volume": "115",
+          "author": "Bischoff",
+          "year": "1986",
+          "journal-title": "Dev. Biol."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C9",
+          "doi-asserted-by": "publisher",
+          "first-page": "140",
+          "DOI": "10.1016/0012-1606(86)90235-6",
+          "article-title": "A satellite cell mitogen from crushed adult muscle",
+          "volume": "115",
+          "author": "Bischoff",
+          "year": "1986",
+          "journal-title": "Dev. Biol."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C10",
+          "doi-asserted-by": "publisher",
+          "first-page": "201",
+          "DOI": "10.1083/jcb.111.1.201",
+          "article-title": "Cell cycle commitment of rat muscle satellite cells",
+          "volume": "111",
+          "author": "Bischoff",
+          "year": "1990",
+          "journal-title": "J. Cell Biol."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C11",
+          "doi-asserted-by": "publisher",
+          "first-page": "232",
+          "DOI": "10.1002/stem.773",
+          "article-title": "Notch signaling is necessary to maintain quiescence in adult muscle stem cells",
+          "volume": "30",
+          "author": "Bjornson",
+          "year": "2012",
+          "journal-title": "Stem Cells"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C12",
+          "doi-asserted-by": "crossref",
+          "first-page": "603",
+          "DOI": "10.1242/dev.120.3.603",
+          "article-title": "Pax-3 is required for the development of limb muscles: a possible role for the migration of dermomyotomal muscle progenitor cells",
+          "volume": "120",
+          "author": "Bober",
+          "year": "1994",
+          "journal-title": "Development"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C13",
+          "doi-asserted-by": "publisher",
+          "first-page": "23",
+          "DOI": "10.1186/s13395-014-0023-5",
+          "article-title": "The miR-206/133b cluster is dispensable for development, survival and regeneration of skeletal muscle",
+          "volume": "4",
+          "author": "Boettger",
+          "year": "2014",
+          "journal-title": "Skelet. Muscle"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C14",
+          "doi-asserted-by": "publisher",
+          "first-page": "226",
+          "DOI": "10.1007/s12015-007-9000-2",
+          "article-title": "Intrinsic changes and extrinsic influences of myogenic stem cell function during aging",
+          "volume": "3",
+          "author": "Brack",
+          "year": "2007",
+          "journal-title": "Stem Cell Rev."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C15",
+          "doi-asserted-by": "publisher",
+          "first-page": "807",
+          "DOI": "10.1126/science.1144090",
+          "article-title": "Increased Wnt signaling during aging alters muscle stem cell fate and increases fibrosis",
+          "volume": "317",
+          "author": "Brack",
+          "year": "2007",
+          "journal-title": "Science"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C16",
+          "doi-asserted-by": "publisher",
+          "first-page": "50",
+          "DOI": "10.1016/j.stem.2007.10.006",
+          "article-title": "A temporal switch from notch to Wnt signaling in muscle stem cells is necessary for normal adult myogenesis",
+          "volume": "2",
+          "author": "Brack",
+          "year": "2008",
+          "journal-title": "Cell Stem Cell"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C17",
+          "doi-asserted-by": "publisher",
+          "first-page": "469",
+          "DOI": "10.1016/j.devcel.2012.07.014",
+          "article-title": "Colonization of the satellite cell niche by skeletal muscle progenitor cells depends on Notch signals",
+          "volume": "23",
+          "author": "Bröhl",
+          "year": "2012",
+          "journal-title": "Dev. Cell"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C18",
+          "doi-asserted-by": "publisher",
+          "first-page": "6725",
+          "DOI": "10.1128/MCB.23.19.6725-6738.2003",
+          "article-title": "Role of metalloprotease disintegrin ADAM12 in determination of quiescent reserve cells during myogenic differentiation in vitro",
+          "volume": "23",
+          "author": "Cao",
+          "year": "2003",
+          "journal-title": "Mol. Cell. Biol."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C19",
+          "doi-asserted-by": "publisher",
+          "first-page": "371",
+          "DOI": "10.1111/j.1474-9726.2007.00286.x",
+          "article-title": "Loss of stem cell regenerative capacity within aged niches",
+          "volume": "6",
+          "author": "Carlson",
+          "year": "2007",
+          "journal-title": "Aging Cell"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C20",
+          "doi-asserted-by": "crossref",
+          "first-page": "C1262",
+          "DOI": "10.1152/ajpcell.1989.256.6.C1262",
+          "article-title": "Muscle transplantation between young and old rats: age of host determines recovery",
+          "volume": "256",
+          "author": "Carlson",
+          "year": "1989",
+          "journal-title": "Am. J. Physiol. Cell Physiol."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C21",
+          "doi-asserted-by": "publisher",
+          "first-page": "528",
+          "DOI": "10.1038/nature07034",
+          "article-title": "Imbalance between pSmad3 and Notch induces CDK inhibitors in old muscle stem cells",
+          "volume": "454",
+          "author": "Carlson",
+          "year": "2008",
+          "journal-title": "Nature"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C22",
+          "doi-asserted-by": "publisher",
+          "first-page": "515",
+          "DOI": "10.1016/j.stem.2012.04.002",
+          "article-title": "Short-term calorie restriction enhances skeletal muscle stem cell function",
+          "volume": "10",
+          "author": "Cerletti",
+          "year": "2012",
+          "journal-title": "Cell Stem Cell"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C23",
+          "doi-asserted-by": "publisher",
+          "first-page": "355",
+          "DOI": "10.1038/nature11438",
+          "article-title": "The aged niche disrupts muscle stem cell quiescence",
+          "volume": "490",
+          "author": "Chakkalakal",
+          "year": "2012",
+          "journal-title": "Nature"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C24",
+          "doi-asserted-by": "publisher",
+          "first-page": "1649",
+          "DOI": "10.1242/dev.100842",
+          "article-title": "Early forming label-retaining muscle stem cells require p27kip1 for maintenance of the primitive state",
+          "volume": "141",
+          "author": "Chakkalakal",
+          "year": "2014",
+          "journal-title": "Development"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C25",
+          "doi-asserted-by": "crossref",
+          "first-page": "1365",
+          "DOI": "10.1152/jappl.2000.89.4.1365",
+          "article-title": "IGF-I restores satellite cell proliferative potential in immobilized old skeletal muscle",
+          "volume": "89",
+          "author": "Chakravarthy",
+          "year": "2000",
+          "journal-title": "J. Appl. Physiol."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C26",
+          "doi-asserted-by": "publisher",
+          "first-page": "329",
+          "DOI": "10.1038/nrm3591",
+          "article-title": "Molecular regulation of stem cell quiescence",
+          "volume": "14",
+          "author": "Cheung",
+          "year": "2013",
+          "journal-title": "Nat. Rev. Mol. Cell Biol."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C27",
+          "doi-asserted-by": "publisher",
+          "first-page": "524",
+          "DOI": "10.1038/nature10834",
+          "article-title": "Maintenance of muscle stem-cell quiescence by microRNA-489",
+          "volume": "482",
+          "author": "Cheung",
+          "year": "2012",
+          "journal-title": "Nature"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C28",
+          "doi-asserted-by": "publisher",
+          "first-page": "289",
+          "DOI": "10.1016/j.cell.2005.05.010",
+          "article-title": "Stem cell function, self-renewal, and behavioral heterogeneity of cells from the adult muscle satellite cell niche",
+          "volume": "122",
+          "author": "Collins",
+          "year": "2005",
+          "journal-title": "Cell"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C29",
+          "doi-asserted-by": "publisher",
+          "first-page": "885",
+          "DOI": "10.1634/stemcells.2006-0372",
+          "article-title": "A population of myogenic stem cells that survives skeletal muscle aging",
+          "volume": "25",
+          "author": "Collins",
+          "year": "2007",
+          "journal-title": "Stem Cells"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C30",
+          "doi-asserted-by": "publisher",
+          "first-page": "397",
+          "DOI": "10.1016/S1534-5807(02)00254-X",
+          "article-title": "The regulation of Notch signaling controls satellite cell activation and cell fate determination in postnatal myogenesis",
+          "volume": "3",
+          "author": "Conboy",
+          "year": "2002",
+          "journal-title": "Dev. Cell"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C31",
+          "doi-asserted-by": "publisher",
+          "first-page": "1575",
+          "DOI": "10.1126/science.1087573",
+          "article-title": "Notch-mediated restoration of regenerative potential to aged muscle",
+          "volume": "302",
+          "author": "Conboy",
+          "year": "2003",
+          "journal-title": "Science"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C32",
+          "doi-asserted-by": "publisher",
+          "first-page": "760",
+          "DOI": "10.1038/nature03260",
+          "article-title": "Rejuvenation of aged progenitor cells by exposure to a young systemic environment",
+          "volume": "433",
+          "author": "Conboy",
+          "year": "2005",
+          "journal-title": "Nature"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C33",
+          "doi-asserted-by": "publisher",
+          "first-page": "e102",
+          "DOI": "10.1371/journal.pbio.0050102",
+          "article-title": "High incidence of non-random template strand segregation and asymmetric fate determination in dividing stem cells and their progeny",
+          "volume": "5",
+          "author": "Conboy",
+          "year": "2007",
+          "journal-title": "PLoS Biol."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C34",
+          "doi-asserted-by": "publisher",
+          "first-page": "255",
+          "DOI": "10.1038/nm.3464",
+          "article-title": "Rejuvenation of the muscle stem cell population restores strength to injured aged muscles",
+          "volume": "20",
+          "author": "Cosgrove",
+          "year": "2014",
+          "journal-title": "Nat. Med."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C35",
+          "doi-asserted-by": "publisher",
+          "first-page": "118",
+          "DOI": "10.1016/j.stem.2012.03.011",
+          "article-title": "Muscle satellite cells are primed for myogenesis but maintain quiescence with sequestration of Myf5 mRNA targeted by microRNA-31 in mRNP granules",
+          "volume": "11",
+          "author": "Crist",
+          "year": "2012",
+          "journal-title": "Cell Stem Cell"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C36",
+          "doi-asserted-by": "crossref",
+          "first-page": "1321",
+          "DOI": "10.1152/jappl.2000.88.4.1321",
+          "article-title": "Aging of skeletal muscle: a 12-yr longitudinal study",
+          "volume": "88",
+          "author": "Frontera",
+          "year": "2000",
+          "journal-title": "J. Appl. Physiol."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C37",
+          "doi-asserted-by": "publisher",
+          "first-page": "2448",
+          "DOI": "10.1634/stemcells.2007-0019",
+          "article-title": "Molecular signature of quiescent satellite cells in adult skeletal muscle",
+          "volume": "25",
+          "author": "Fukada",
+          "year": "2007",
+          "journal-title": "Stem Cells"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C38",
+          "doi-asserted-by": "publisher",
+          "first-page": "4609",
+          "DOI": "10.1242/dev.067165",
+          "article-title": "Hesr1 and Hesr3 are essential to generate undifferentiated quiescent satellite cells and to maintain satellite cell numbers",
+          "volume": "138",
+          "author": "Fukada",
+          "year": "2011",
+          "journal-title": "Development"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C39",
+          "doi-asserted-by": "publisher",
+          "first-page": "1738",
+          "DOI": "10.1242/jcs.097006",
+          "article-title": "Myf5 haploinsufficiency reveals distinct cell fate potentials for adult skeletal muscle stem cells",
+          "volume": "125",
+          "author": "Gayraud-Morel",
+          "year": "2012",
+          "journal-title": "J. Cell Sci."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C40",
+          "doi-asserted-by": "publisher",
+          "first-page": "414",
+          "DOI": "10.1016/j.stemcr.2014.02.002",
+          "article-title": "FOXO3 promotes quiescence in adult muscle stem cells during the process of self-renewal",
+          "volume": "2",
+          "author": "Gopinath",
+          "year": "2014",
+          "journal-title": "Stem Cell Rep."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C41",
+          "doi-asserted-by": "publisher",
+          "first-page": "78",
+          "DOI": "10.1111/j.1749-6632.1998.tb09894.x",
+          "article-title": "Age-associated changes in the response of skeletal muscle cells to exercise and regenerationa",
+          "volume": "854",
+          "author": "Grounds",
+          "year": "1998",
+          "journal-title": "Ann. N. Y. Acad. Sci."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C42",
+          "doi-asserted-by": "publisher",
+          "first-page": "590",
+          "DOI": "10.1016/j.stem.2013.07.016",
+          "article-title": "Myf5-positive satellite cells contribute to Pax7-dependent long-term maintenance of adult muscle stem cells",
+          "volume": "13",
+          "author": "Günther",
+          "year": "2013",
+          "journal-title": "Cell Stem Cell"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C43",
+          "doi-asserted-by": "publisher",
+          "first-page": "501",
+          "DOI": "10.1038/364501a0",
+          "article-title": "Muscle deficiency and neonatal death in mice with a targeted mutation in the myogenin gene",
+          "volume": "364",
+          "author": "Hasty",
+          "year": "1993",
+          "journal-title": "Nature"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C44",
+          "doi-asserted-by": "crossref",
+          "first-page": "534",
+          "DOI": "10.1152/jappl.2001.91.2.534",
+          "article-title": "Myogenic satellite cells: physiology to molecular biology",
+          "volume": "91",
+          "author": "Hawke",
+          "year": "2001",
+          "journal-title": "J. Appl. Physiol."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C45",
+          "doi-asserted-by": "publisher",
+          "first-page": "19556",
+          "DOI": "10.1074/jbc.M111.229542",
+          "article-title": "Rb1 gene inactivation expands satellite cell and postnatal myoblast pools",
+          "volume": "286",
+          "author": "Hosoyama",
+          "year": "2011",
+          "journal-title": "J. Biol. Chem."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C46",
+          "doi-asserted-by": "publisher",
+          "first-page": "197",
+          "DOI": "10.1249/00005768-199202000-00007",
+          "article-title": "Activation of myogenic precursor cells after muscle injury",
+          "volume": "24",
+          "author": "Hurme",
+          "year": "1992",
+          "journal-title": "Med. Sci. Sports Exerc."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C47",
+          "doi-asserted-by": "publisher",
+          "first-page": "104",
+          "DOI": "10.1002/1097-4652(200101)186:1&lt;104::AID-JCP1015&gt;3.0.CO;2-0",
+          "article-title": "ERK1/2 is required for myoblast proliferation but is dispensable for muscle gene expression and cell fusion",
+          "volume": "186",
+          "author": "Jones",
+          "year": "2001",
+          "journal-title": "J. Cell. Physiol."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C48",
+          "doi-asserted-by": "publisher",
+          "first-page": "105",
+          "DOI": "10.1083/jcb.200408066",
+          "article-title": "The p38α/β MAPK functions as a molecular switch to activate the quiescent satellite cell",
+          "volume": "169",
+          "author": "Jones",
+          "year": "2005",
+          "journal-title": "J. Cell Biol."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C49",
+          "doi-asserted-by": "publisher",
+          "first-page": "131",
+          "DOI": "10.1016/j.ydbio.2009.05.554",
+          "article-title": "Progenitors of skeletal muscle satellite cells express the muscle determination gene, MyoD",
+          "volume": "332",
+          "author": "Kanisicak",
+          "year": "2009",
+          "journal-title": "Dev. Biol."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C50",
+          "doi-asserted-by": "publisher",
+          "first-page": "1426",
+          "DOI": "10.1101/gad.345505",
+          "article-title": "Pax3/Pax7 mark a novel population of primitive myogenic cells during development",
+          "volume": "19",
+          "author": "Kassar-Duchossoy",
+          "year": "2005",
+          "journal-title": "Genes Dev."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C51",
+          "doi-asserted-by": "publisher",
+          "first-page": "333",
+          "DOI": "10.1016/j.stem.2012.07.001",
+          "article-title": "Carm1 regulates Pax7 transcriptional activity through MLL1/2 recruitment during asymmetric satellite stem cell divisions",
+          "volume": "11",
+          "author": "Kawabe",
+          "year": "2012",
+          "journal-title": "Cell Stem Cell"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C52",
+          "doi-asserted-by": "publisher",
+          "first-page": "999",
+          "DOI": "10.1016/j.cell.2007.03.044",
+          "article-title": "Asymmetric self-renewal and commitment of satellite stem cells in muscle",
+          "volume": "129",
+          "author": "Kuang",
+          "year": "2007",
+          "journal-title": "Cell"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C53",
+          "doi-asserted-by": "publisher",
+          "first-page": "535",
+          "DOI": "10.1016/j.stem.2009.03.013",
+          "article-title": "Wnt7a activates the planar cell polarity pathway to drive the symmetric expansion of satellite stem cells",
+          "volume": "4",
+          "author": "Le Grand",
+          "year": "2009",
+          "journal-title": "Cell Stem Cell"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C54",
+          "doi-asserted-by": "publisher",
+          "first-page": "3639",
+          "DOI": "10.1242/dev.067595",
+          "article-title": "An absolute requirement for Pax7-positive satellite cells in acute injury-induced skeletal muscle regeneration",
+          "volume": "138",
+          "author": "Lepper",
+          "year": "2011",
+          "journal-title": "Development"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C55",
+          "doi-asserted-by": "publisher",
+          "first-page": "2857",
+          "DOI": "10.1242/dev.079665",
+          "article-title": "Hypoxia promotes satellite cell self-renewal and enhances the efficiency of myoblast transplantation",
+          "volume": "139",
+          "author": "Liu",
+          "year": "2012",
+          "journal-title": "Development"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C56",
+          "doi-asserted-by": "publisher",
+          "first-page": "189",
+          "DOI": "10.1016/j.celrep.2013.05.043",
+          "article-title": "Chromatin modifications as determinants of muscle stem cell quiescence and chronological aging",
+          "volume": "4",
+          "author": "Liu",
+          "year": "2013",
+          "journal-title": "Cell Rep."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C57",
+          "doi-asserted-by": "publisher",
+          "first-page": "1843",
+          "DOI": "10.1242/dev.087627",
+          "article-title": "Molecular pathways regulating mitotic spindle orientation in animal cells",
+          "volume": "140",
+          "author": "Lu",
+          "year": "2013",
+          "journal-title": "Development"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C58",
+          "doi-asserted-by": "publisher",
+          "first-page": "345",
+          "DOI": "10.7150/ijbs.10921",
+          "article-title": "MiR-206, a key modulator of skeletal muscle development and disease",
+          "volume": "11",
+          "author": "Ma",
+          "year": "2015",
+          "journal-title": "Int. J. Biol. Sci."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C59",
+          "doi-asserted-by": "publisher",
+          "first-page": "523",
+          "DOI": "10.1002/jcp.10339",
+          "article-title": "Forkhead transcription factor FoxO1 transduces insulin-like growth factor's signal to p27Kip1 in primary skeletal muscle satellite cells",
+          "volume": "196",
+          "author": "Machida",
+          "year": "2003",
+          "journal-title": "J. Cell. Physiol."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C60",
+          "doi-asserted-by": "crossref",
+          "first-page": "1270",
+          "DOI": "10.1152/jappl.1997.83.4.1270",
+          "article-title": "Myogenic regulatory factors during regeneration of skeletal muscle in young, adult, and old rats",
+          "volume": "83",
+          "author": "Marsh",
+          "year": "1997",
+          "journal-title": "J. Appl. Physiol."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C61",
+          "doi-asserted-by": "publisher",
+          "first-page": "77",
+          "DOI": "10.1038/ncb1671",
+          "article-title": "Pax7 activates myogenic genes by recruitment of a histone methyltransferase complex",
+          "volume": "10",
+          "author": "McKinnell",
+          "year": "2008",
+          "journal-title": "Nat. Cell Biol."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C62",
+          "doi-asserted-by": "publisher",
+          "first-page": "4536",
+          "DOI": "10.1242/dev.084756",
+          "article-title": "Cell-autonomous Notch activity maintains the temporal specification potential of skeletal muscle stem cells",
+          "volume": "139",
+          "author": "Mourikis",
+          "year": "2012",
+          "journal-title": "Development"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C63",
+          "doi-asserted-by": "publisher",
+          "first-page": "475",
+          "DOI": "10.1016/j.stemcr.2014.06.019",
+          "article-title": "Transiently active Wnt/β-catenin signaling is not required but must be silenced for stem cell function during muscle regeneration",
+          "volume": "3",
+          "author": "Murphy",
+          "year": "2014",
+          "journal-title": "Stem Cell Rep."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C64",
+          "doi-asserted-by": "publisher",
+          "first-page": "51",
+          "DOI": "10.1242/dev.112557",
+          "article-title": "Doublecortin marks a new population of transiently amplifying muscle progenitor cells and is required for myofiber maturation during skeletal muscle regeneration",
+          "volume": "142",
+          "author": "Ogawa",
+          "year": "2014",
+          "journal-title": "Development"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C65",
+          "doi-asserted-by": "publisher",
+          "first-page": "1309",
+          "DOI": "10.1242/jcs.096198",
+          "article-title": "Slow-dividing satellite cells retain long-term self-renewal ability in adult muscle",
+          "volume": "125",
+          "author": "Ono",
+          "year": "2012",
+          "journal-title": "J. Cell Sci."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C66",
+          "doi-asserted-by": "publisher",
+          "first-page": "198",
+          "DOI": "10.1016/j.stem.2010.05.022",
+          "article-title": "Transient inactivation of Rb and ARF yields regenerative cells from postmitotic mammalian muscle",
+          "volume": "7",
+          "author": "Pajcini",
+          "year": "2010",
+          "journal-title": "Cell Stem Cell"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C67",
+          "doi-asserted-by": "publisher",
+          "first-page": "1298",
+          "DOI": "10.4161/cc.6.11.4315",
+          "article-title": "Genetic deficiency of p38α reveals its critical role in myoblast cell cycle exit:the p38α-JNK connection",
+          "volume": "6",
+          "author": "Perdiguero",
+          "year": "2007",
+          "journal-title": "Cell Cycle"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C68",
+          "doi-asserted-by": "publisher",
+          "first-page": "427",
+          "DOI": "10.1083/jcb.201003081",
+          "article-title": "Syndecan-3 and Notch cooperate in regulating adult myogenesis",
+          "volume": "190",
+          "author": "Pisconti",
+          "year": "2010",
+          "journal-title": "J. Cell Biol."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C69",
+          "doi-asserted-by": "publisher",
+          "first-page": "1174",
+          "DOI": "10.1038/nm.3655",
+          "article-title": "Inhibition of JAK-STAT signaling stimulates adult satellite cell function",
+          "volume": "20",
+          "author": "Price",
+          "year": "2014",
+          "journal-title": "Nat. Med."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C70",
+          "doi-asserted-by": "crossref",
+          "first-page": "2349",
+          "DOI": "10.1242/dev.125.13.2349",
+          "article-title": "Overlapping functions of the myogenic bHLH genes MRF4 and MyoD revealed in double mutant mice",
+          "volume": "125",
+          "author": "Rawls",
+          "year": "1998",
+          "journal-title": "Development"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C71",
+          "doi-asserted-by": "publisher",
+          "first-page": "1088",
+          "DOI": "10.1101/gad.301004",
+          "article-title": "Divergent functions of murine Pax3 and Pax7 in limb muscle development",
+          "volume": "18",
+          "author": "Relaix",
+          "year": "2004",
+          "journal-title": "Genes Dev."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C72",
+          "doi-asserted-by": "publisher",
+          "first-page": "112",
+          "DOI": "10.1016/j.cell.2011.11.049",
+          "article-title": "A subpopulation of adult skeletal muscle stem cells retains all template DNA strands after cell division",
+          "volume": "148",
+          "author": "Rocheteau",
+          "year": "2012",
+          "journal-title": "Cell"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C73",
+          "doi-asserted-by": "publisher",
+          "first-page": "393",
+          "DOI": "10.1038/nature13255",
+          "article-title": "mTORC1 controls the adaptive transition of quiescent stem cells from G0 to GAlert",
+          "volume": "510",
+          "author": "Rodgers",
+          "year": "2014",
+          "journal-title": "Nature"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C74",
+          "doi-asserted-by": "publisher",
+          "first-page": "1351",
+          "DOI": "10.1016/0092-8674(93)90621-V",
+          "article-title": "MyoD or Myf-5 is required for the formation of skeletal muscle",
+          "volume": "75",
+          "author": "Rudnicki",
+          "year": "1993",
+          "journal-title": "Cell"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C75",
+          "doi-asserted-by": "publisher",
+          "first-page": "171",
+          "DOI": "10.1016/j.stem.2014.12.004",
+          "article-title": "The NAD+-dependent SIRT1 deacetylase translates a metabolic switch into regulatory epigenetics in skeletal muscle stem cells",
+          "volume": "16",
+          "author": "Ryall",
+          "year": "2015",
+          "journal-title": "Cell Stem Cell"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C76",
+          "doi-asserted-by": "publisher",
+          "first-page": "502",
+          "DOI": "10.1038/nature07384",
+          "article-title": "Self-renewal and expansion of single transplanted muscle stem cells",
+          "volume": "456",
+          "author": "Sacco",
+          "year": "2008",
+          "journal-title": "Nature"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C77",
+          "doi-asserted-by": "publisher",
+          "first-page": "3647",
+          "DOI": "10.1242/dev.073601",
+          "article-title": "Pax7-expressing satellite cells are indispensable for adult skeletal muscle regeneration",
+          "volume": "138",
+          "author": "Sambasivan",
+          "year": "2011",
+          "journal-title": "Development"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C78",
+          "doi-asserted-by": "publisher",
+          "first-page": "84",
+          "DOI": "10.1006/dbio.1996.0097",
+          "article-title": "Satellite cell proliferative compartments in growing skeletal muscles",
+          "volume": "175",
+          "author": "Schultz",
+          "year": "1996",
+          "journal-title": "Dev. Biol."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C79",
+          "doi-asserted-by": "publisher",
+          "first-page": "777",
+          "DOI": "10.1016/S0092-8674(00)00066-0",
+          "article-title": "Pax7 is required for the specification of myogenic satellite cells",
+          "volume": "102",
+          "author": "Seale",
+          "year": "2000",
+          "journal-title": "Cell"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C80",
+          "doi-asserted-by": "publisher",
+          "first-page": "117",
+          "DOI": "10.1016/j.stem.2009.12.015",
+          "article-title": "Sprouty1 regulates reversible quiescence of a self-renewing adult muscle stem cell pool during regeneration",
+          "volume": "6",
+          "author": "Shea",
+          "year": "2010",
+          "journal-title": "Cell Stem Cell"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C81",
+          "doi-asserted-by": "publisher",
+          "first-page": "50",
+          "DOI": "10.1016/j.ydbio.2006.02.022",
+          "article-title": "Satellite-cell pool size does matter: defining the myogenic potency of aging skeletal muscle",
+          "volume": "294",
+          "author": "Shefer",
+          "year": "2006",
+          "journal-title": "Dev. Biol."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C82",
+          "doi-asserted-by": "publisher",
+          "first-page": "1692",
+          "DOI": "10.1101/gad.1419406",
+          "article-title": "Muscle stem cells in development, regeneration, and disease",
+          "volume": "20",
+          "author": "Shi",
+          "year": "2006",
+          "journal-title": "Genes Dev."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C83",
+          "doi-asserted-by": "publisher",
+          "first-page": "677",
+          "DOI": "10.1038/ncb1425",
+          "article-title": "Asymmetric division and cosegregation of template DNA strands in adult muscle satellite cells",
+          "volume": "8",
+          "author": "Shinin",
+          "year": "2006",
+          "journal-title": "Nat. Cell Biol."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C84",
+          "doi-asserted-by": "publisher",
+          "first-page": "7",
+          "DOI": "10.1186/2044-5040-1-7",
+          "article-title": "Muscle satellite cell proliferation and association: new insights from myofiber time-lapse imaging",
+          "volume": "1",
+          "author": "Siegel",
+          "year": "2011",
+          "journal-title": "Skelet. Muscle"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C85",
+          "doi-asserted-by": "publisher",
+          "first-page": "316",
+          "DOI": "10.1038/nature13013",
+          "article-title": "Geriatric muscle stem cells switch reversible quiescence into senescence",
+          "volume": "506",
+          "author": "Sousa-Victor",
+          "year": "2014",
+          "journal-title": "Nature"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C86",
+          "doi-asserted-by": "publisher",
+          "first-page": "3183",
+          "DOI": "10.4161/15384101.2014.965072",
+          "article-title": "Geroconversion of aged muscle stem cells under regenerative pressure",
+          "volume": "13",
+          "author": "Sousa-Victor",
+          "year": "2014",
+          "journal-title": "Cell Cycle"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C87",
+          "doi-asserted-by": "publisher",
+          "first-page": "129",
+          "DOI": "10.1083/jcb.200703184",
+          "article-title": "JAK1 STAT1 STAT3, a key pathway promoting proliferation and preventing premature differentiation of myoblasts",
+          "volume": "179",
+          "author": "Sun",
+          "year": "2007",
+          "journal-title": "J. Cell Biol."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C88",
+          "doi-asserted-by": "publisher",
+          "first-page": "979",
+          "DOI": "10.1242/jcs.02898",
+          "article-title": "The PAR-aPKC system: lessons in polarity",
+          "volume": "119",
+          "author": "Suzuki",
+          "year": "2006",
+          "journal-title": "J. Cell Sci."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C89",
+          "doi-asserted-by": "publisher",
+          "first-page": "2782",
+          "DOI": "10.15252/embj.201488278",
+          "article-title": "Induction of autophagy supports the bioenergetic demands of quiescent muscle stem cell activation",
+          "volume": "33",
+          "author": "Tang",
+          "year": "2014",
+          "journal-title": "EMBO J."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C90",
+          "doi-asserted-by": "publisher",
+          "first-page": "114",
+          "DOI": "10.1006/dbio.1997.8803",
+          "article-title": "HGF/SF is present in normal adult skeletal muscle and is capable of activating satellite cells",
+          "volume": "194",
+          "author": "Tatsumi",
+          "year": "1998",
+          "journal-title": "Dev. Biol."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C91",
+          "doi-asserted-by": "publisher",
+          "first-page": "1182",
+          "DOI": "10.1038/nm.3656",
+          "article-title": "STAT3 signaling controls satellite cell expansion and skeletal muscle repair",
+          "volume": "20",
+          "author": "Tierney",
+          "year": "2014",
+          "journal-title": "Nat. Med."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C92",
+          "doi-asserted-by": "publisher",
+          "first-page": "1252",
+          "DOI": "10.1016/j.biocel.2009.03.002",
+          "article-title": "MicroRNAs 1, 133, and 206: critical factors of skeletal and cardiac muscle development, function, and disease",
+          "volume": "42",
+          "author": "Townley-Tilson",
+          "year": "2010",
+          "journal-title": "Int. J. Biochem. Cell Biol."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C93",
+          "doi-asserted-by": "publisher",
+          "first-page": "541",
+          "DOI": "10.1016/j.stem.2012.05.025",
+          "article-title": "Coordination of satellite cell activation and self-renewal by Par-complex-dependent asymmetric activation of p38α/β MAPK",
+          "volume": "11",
+          "author": "Troy",
+          "year": "2012",
+          "journal-title": "Cell Stem Cell"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C94",
+          "doi-asserted-by": "publisher",
+          "first-page": "1964",
+          "DOI": "10.1038/ncomms2964",
+          "article-title": "Collagen VI regulates satellite cell self-renewal and muscle regeneration",
+          "volume": "4",
+          "author": "Urciuolo",
+          "year": "2013",
+          "journal-title": "Nat. Commun."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C95",
+          "doi-asserted-by": "publisher",
+          "first-page": "602",
+          "DOI": "10.1016/j.tcb.2012.07.008",
+          "article-title": "Wnt signaling in myogenesis",
+          "volume": "22",
+          "author": "von Maltzahn",
+          "year": "2012",
+          "journal-title": "Trends Cell Biol."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C96",
+          "doi-asserted-by": "publisher",
+          "first-page": "16474",
+          "DOI": "10.1073/pnas.1307680110",
+          "article-title": "Pax7 is critical for the normal function of satellite cells in adult skeletal muscle",
+          "volume": "110",
+          "author": "von Maltzahn",
+          "year": "2013",
+          "journal-title": "Proc. Natl. Acad. Sci. USA"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C97",
+          "doi-asserted-by": "publisher",
+          "first-page": "3",
+          "DOI": "10.4161/cc.23068",
+          "article-title": "Molecular regulation of determination in asymmetrically dividing muscle stem cells",
+          "volume": "12",
+          "author": "Wang",
+          "year": "2013",
+          "journal-title": "Cell Cycle"
+        },
+        {
+          "key": "2021042608222049100_DEV114223C98",
+          "doi-asserted-by": "publisher",
+          "first-page": "4543",
+          "DOI": "10.1242/jcs.151209",
+          "article-title": "Muscle stem cells at a glance",
+          "volume": "127",
+          "author": "Wang",
+          "year": "2014",
+          "journal-title": "J. Cell Sci."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C99",
+          "doi-asserted-by": "publisher",
+          "first-page": "2300",
+          "DOI": "10.1128/MCB.06753-11",
+          "article-title": "Constitutive Notch activation upregulates Pax7 and promotes the self-renewal of skeletal muscle satellite cells",
+          "volume": "32",
+          "author": "Wen",
+          "year": "2012",
+          "journal-title": "Mol. Cell. Biol."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C100",
+          "doi-asserted-by": "publisher",
+          "first-page": "21",
+          "DOI": "10.1186/1471-213X-10-21",
+          "article-title": "Dynamics of muscle fibre growth during postnatal mouse development",
+          "volume": "10",
+          "author": "White",
+          "year": "2010",
+          "journal-title": "BMC Dev. Biol."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C101",
+          "doi-asserted-by": "publisher",
+          "first-page": "e1003793",
+          "DOI": "10.1371/journal.pgen.1003793",
+          "article-title": "miR-1/133a clusters cooperatively specify the cardiomyogenic lineage by adjustment of myocardin levels during embryonic heart development",
+          "volume": "9",
+          "author": "Wystub",
+          "year": "2013",
+          "journal-title": "PLoS Genet."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C102",
+          "doi-asserted-by": "publisher",
+          "first-page": "23",
+          "DOI": "10.1177/002215549904700104",
+          "article-title": "Fibroblast growth factor promotes recruitment of skeletal muscle satellite cells in young and old rats",
+          "volume": "47",
+          "author": "Yablonka-Reuveni",
+          "year": "1999",
+          "journal-title": "J. Histochem. Cytochem."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C103",
+          "doi-asserted-by": "publisher",
+          "first-page": "961",
+          "DOI": "10.1016/j.celrep.2014.04.016",
+          "article-title": "Cell adhesion geometry regulates non-random DNA segregation and asymmetric cell fates in mouse skeletal muscle stem cells",
+          "volume": "7",
+          "author": "Yennek",
+          "year": "2014",
+          "journal-title": "Cell Rep."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C104",
+          "doi-asserted-by": "publisher",
+          "first-page": "39",
+          "DOI": "10.1006/excr.2002.5653",
+          "article-title": "Kinetics of myoblast proliferation show that resident satellite cells are competent to fully regenerate skeletal muscle fibers",
+          "volume": "281",
+          "author": "Zammit",
+          "year": "2002",
+          "journal-title": "Exp. Cell Res."
+        },
+        {
+          "key": "2021042608222049100_DEV114223C105",
+          "doi-asserted-by": "publisher",
+          "first-page": "1388",
+          "DOI": "10.1101/gad.9.11.1388",
+          "article-title": "Inactivation of the myogenic bHLH gene MRF4 results in up-regulation of myogenin and rib anomalies",
+          "volume": "9",
+          "author": "Zhang",
+          "year": "1995",
+          "journal-title": "Genes Dev."
+        }
+      ],
+      "container-title": [
+        "Development"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http://journals.biologists.com/dev/article-pdf/142/9/1572/1840759/dev114223.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "syndication"
+        },
+        {
+          "URL": "http://journals.biologists.com/dev/article-pdf/142/9/1572/1840759/dev114223.pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2021,
+            4,
+            26
+          ]
+        ],
+        "date-time": "2021-04-26T08:54:17Z",
+        "timestamp": 1619427257000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://journals.biologists.com/dev/article/142/9/1572/47251/Intrinsic-and-extrinsic-mechanisms-regulating"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2015,
+            5,
+            1
+          ]
+        ]
+      },
+      "references-count": 105,
+      "journal-issue": {
+        "issue": "9",
+        "published-print": {
+          "date-parts": [
+            [
+              2015,
+              5,
+              1
+            ]
+          ]
+        }
+      },
+      "URL": "https://doi.org/10.1242/dev.114223",
+      "relation": {},
+      "ISSN": [
+        "1477-9129",
+        "0950-1991"
+      ],
+      "issn-type": [
+        {
+          "value": "1477-9129",
+          "type": "electronic"
+        },
+        {
+          "value": "0950-1991",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2015,
+            5,
+            1
+          ]
+        ]
+      }
+    }
+  },
+  "picking": {
+    "worker": "gpt-6.2 (self-reported by the worker in the picking chat after the run; the ChatGPT screen does not show a model name), ChatGPT",
+    "run": "r1",
+    "date": "2026-11-25",
+    "settings": "new chat in Chat mode; no project; memory off; no custom instructions; reasoning shown as High; no prompt text",
+    "settings_basis": "memory off, writing-style reference off and empty custom instructions seen on the account settings screens (12:03–12:04 KST), before the start screen; new chat, two attachments, no prompt text and reasoning at High, with no model name, seen on the picking start screen with the reasoning menu open (12:06 KST); the model name was asked after the run in the same chat, before the translation request, and is the worker's own answer (OpenAI GPT-6.2); screenshots were shown to the report author in the session and are not kept",
+    "scope": "whole PDF; the worker reported opening printed pages 1572–1581, none skipped",
+    "run_time": "27s, as shown on the end screen",
+    "instruction": "PHILIA_Stage1_Lite_Instruction_EN_v0_3.md",
+    "instruction_sha256_16": "464825c20ecd23df",
+    "picks_file_sha256_16": "cc31f076dc2a4e08"
+  },
+  "verification": {
+    "tool": "philia_verify_v0_10",
+    "tool_sha256_16": "bf45b8b8c68a7e23",
+    "engine": "pdfplumber 0.11.10, with column-wise reading at the page middle and at column gutters found on each page",
+    "environments": 2,
+    "agreement": "106/106 identical (101 picks and 5 uncertain; verdict, hash, page, diff, flags)",
+    "summary_picks": {
+      "FOUND": 89,
+      "FOUND_OCR": 4,
+      "TRUNCATED": 0,
+      "PARTIAL": 8,
+      "NOT_FOUND": 0
+    },
+    "summary_uncertain": {
+      "FOUND": 5,
+      "FOUND_OCR": 0,
+      "TRUNCATED": 0,
+      "PARTIAL": 0,
+      "NOT_FOUND": 0
+    },
+    "remaining": "PARTIAL c28, c29, c31, c33: the subscripts of G0, GAlert and BaCl2 stand elsewhere in the pdfplumber text layer (diff). FOUND_OCR c19, c32: a 0 stands in the text layer inside the span of the sentence (diff). PARTIAL c11: the first-page footnote with the license notice lies between the parts of the sentence in the column reading (diff). PARTIAL c76: the running head lies between the two parts of the sentence, which runs from the foot of the left column to the head of the right column of printed page 1578 (page image and diff). PARTIAL c83: the Fig. 4 caption text lies between the parts of the sentence (diff). PARTIAL c66, with page mismatch: on the page images the sentence starts at the foot of the right column of printed page 1577 and continues on page 1578; the worker's page is the page where the sentence starts, and the verifier computed the next page. FOUND_OCR c16, c54: a hyphen printed in the source stands at a line end ('self-renew', 'Fzd7-Sdc4-fibronectin'). The verifier was not changed in this round, and all selected items are published (researcher decision).",
+    "meaning": "verdict answers whether the sentence is in the PDF text layer; it does not answer whether spelling matches the printed page"
+  },
+  "fields": {
+    "kind": "pick = selected; uncertain = the worker was unsure the sentence meets the task",
+    "printed_page": "printed page as computed by code",
+    "text_masked": "first and last word of the sentence as transcribed by the worker; the rest is withheld",
+    "words": "number of words in the withheld sentence",
+    "hash": "sha256 (16) of the normalized sentence text as transcribed by the worker",
+    "page_claimed": "present only when the worker's page differs from the computed page",
+    "citations": "author–year references in parentheses in the sentence, one entry per reference; ref is the author part and year as printed (two years after one author give two entries). This article cites by author and year; its printed reference list (105 entries) carries no DOIs, and the Crossref record has 105 entries, every one with a DOI and with no a/b mark on its year. crossref_key is set where exactly one printed entry agrees with the reference in first author's surname, year as printed (with a or b) and author form (two authors joined by 'and', or more), and that entry's title equals the article title of exactly one Crossref entry with the same surname and year (researcher decision); doi is the DOI of that entry. All 105 Crossref titles were found in the printed list read from the text layer by code (spaces the text layer puts after ö and ü removed). Under the stricter rule of surname and year alone, six references would stay unkeyed (Bischoff 1986b in c27 and c32, Brack and Rando 2007 in c71, Brack et al. 2007 in c93, Sousa-Victor et al. 2014a in c95 and 2014b in c96)"
+  },
+  "items": [
+    {
+      "id": "c01",
+      "kind": "pick",
+      "printed_page": 1572,
+      "pdf_page": 1,
+      "text_masked": "Muscle … regeneration.",
+      "words": 14,
+      "hash": "1f5bfd4649ddefe0",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c02",
+      "kind": "pick",
+      "printed_page": 1572,
+      "pdf_page": 1,
+      "text_masked": "In … activation.",
+      "words": 12,
+      "hash": "fbb6aa1f37833abd",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c03",
+      "kind": "pick",
+      "printed_page": 1572,
+      "pdf_page": 1,
+      "text_masked": "During … self-renew.",
+      "words": 23,
+      "hash": "55086efaa8d927c1",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c04",
+      "kind": "pick",
+      "printed_page": 1572,
+      "pdf_page": 1,
+      "text_masked": "Recent … pool.",
+      "words": 35,
+      "hash": "e22c2816d39843dd",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c05",
+      "kind": "pick",
+      "printed_page": 1572,
+      "pdf_page": 1,
+      "text_masked": "Thus, … determination.",
+      "words": 24,
+      "hash": "e97883159ff545b8",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c06",
+      "kind": "pick",
+      "printed_page": 1572,
+      "pdf_page": 1,
+      "text_masked": "Defects … regeneration.",
+      "words": 21,
+      "hash": "dcdd47a4addb0d03",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c07",
+      "kind": "pick",
+      "printed_page": 1572,
+      "pdf_page": 1,
+      "text_masked": "Skeletal … 2010).",
+      "words": 34,
+      "hash": "77e24a4b48b0456e",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Hawke and Garry, 2001",
+          "crossref_key": "2021042608222049100_DEV114223C44",
+          "doi": "10.1152/jappl.2001.91.2.534"
+        },
+        {
+          "ref": "White et al., 2010",
+          "crossref_key": "2021042608222049100_DEV114223C100",
+          "doi": "10.1186/1471-213X-10-21"
+        }
+      ]
+    },
+    {
+      "id": "c08",
+      "kind": "pick",
+      "printed_page": 1572,
+      "pdf_page": 1,
+      "text_masked": "Satellite … 1).",
+      "words": 26,
+      "hash": "247beac88c02540e",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c09",
+      "kind": "pick",
+      "printed_page": 1572,
+      "pdf_page": 1,
+      "text_masked": "In … Pax7.",
+      "words": 20,
+      "hash": "2588a1fa918d3d20",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c10",
+      "kind": "pick",
+      "printed_page": 1572,
+      "pdf_page": 1,
+      "text_masked": "Following … Myod1).",
+      "words": 22,
+      "hash": "4bf1bcff4deb7dea",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c11",
+      "kind": "pick",
+      "printed_page": 1572,
+      "pdf_page": 1,
+      "text_masked": "Satellite … 2013).",
+      "words": 47,
+      "hash": "d12c6a2c0d1b2619",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Günther et al., 2013",
+          "crossref_key": "2021042608222049100_DEV114223C42",
+          "doi": "10.1016/j.stem.2013.07.016"
+        },
+        {
+          "ref": "Lepper et al., 2011",
+          "crossref_key": "2021042608222049100_DEV114223C54",
+          "doi": "10.1242/dev.067595"
+        },
+        {
+          "ref": "Sambasivan et al., 2011",
+          "crossref_key": "2021042608222049100_DEV114223C77",
+          "doi": "10.1242/dev.073601"
+        },
+        {
+          "ref": "von Maltzahn et al., 2013",
+          "crossref_key": "2021042608222049100_DEV114223C96",
+          "doi": "10.1073/pnas.1307680110"
+        }
+      ]
+    },
+    {
+      "id": "c12",
+      "kind": "pick",
+      "printed_page": 1572,
+      "pdf_page": 1,
+      "text_masked": "Repeated … 2006).",
+      "words": 19,
+      "hash": "fca63b3ccd274619",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Shi and Garry, 2006",
+          "crossref_key": "2021042608222049100_DEV114223C82",
+          "doi": "10.1101/gad.1419406"
+        }
+      ]
+    },
+    {
+      "id": "c13",
+      "kind": "pick",
+      "printed_page": 1572,
+      "pdf_page": 1,
+      "text_masked": "The … muscle.",
+      "words": 23,
+      "hash": "da9002551b8e07ad",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c14",
+      "kind": "pick",
+      "printed_page": 1572,
+      "pdf_page": 1,
+      "text_masked": "Together, … cells.",
+      "words": 24,
+      "hash": "27727f4f66188f2e",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c15",
+      "kind": "pick",
+      "printed_page": 1573,
+      "pdf_page": 2,
+      "text_masked": "These … 2007).",
+      "words": 21,
+      "hash": "bf1eb9ed3da097c5",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Kuang et al., 2007",
+          "crossref_key": "2021042608222049100_DEV114223C52",
+          "doi": "10.1016/j.cell.2007.03.044"
+        }
+      ]
+    },
+    {
+      "id": "c16",
+      "kind": "pick",
+      "printed_page": 1573,
+      "pdf_page": 2,
+      "text_masked": "Together, … pool).",
+      "words": 58,
+      "hash": "1cb468c60185779c",
+      "verdict": "FOUND_OCR",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c17",
+      "kind": "pick",
+      "printed_page": 1573,
+      "pdf_page": 2,
+      "text_masked": "Muscle … quiescence.",
+      "words": 16,
+      "hash": "17ee9765d3f30445",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c18",
+      "kind": "pick",
+      "printed_page": 1573,
+      "pdf_page": 2,
+      "text_masked": "Careful … states.",
+      "words": 17,
+      "hash": "efea44c856d54469",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c19",
+      "kind": "pick",
+      "printed_page": 1573,
+      "pdf_page": 2,
+      "text_masked": "The … 2012).",
+      "words": 31,
+      "hash": "15e792b23927e68f",
+      "verdict": "FOUND_OCR",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Bjornson et al., 2012",
+          "crossref_key": "2021042608222049100_DEV114223C11",
+          "doi": "10.1002/stem.773"
+        },
+        {
+          "ref": "Mourikis et al., 2012",
+          "crossref_key": "2021042608222049100_DEV114223C62",
+          "doi": "10.1242/dev.084756"
+        }
+      ]
+    },
+    {
+      "id": "c20",
+      "kind": "pick",
+      "printed_page": 1573,
+      "pdf_page": 2,
+      "text_masked": "This … injury.",
+      "words": 34,
+      "hash": "3d18297af522a8a3",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c21",
+      "kind": "pick",
+      "printed_page": 1573,
+      "pdf_page": 2,
+      "text_masked": "The … activation.",
+      "words": 28,
+      "hash": "97f7d27d2c14545a",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c22",
+      "kind": "pick",
+      "printed_page": 1574,
+      "pdf_page": 3,
+      "text_masked": "Importantly, … regeneration.",
+      "words": 17,
+      "hash": "ed7211267ab51314",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c23",
+      "kind": "pick",
+      "printed_page": 1574,
+      "pdf_page": 3,
+      "text_masked": "In … quiescence.",
+      "words": 16,
+      "hash": "ad1c2fa652f5199b",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c24",
+      "kind": "pick",
+      "printed_page": 1574,
+      "pdf_page": 3,
+      "text_masked": "Interestingly, … state.",
+      "words": 28,
+      "hash": "11f597ab8b9a70a7",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c25",
+      "kind": "pick",
+      "printed_page": 1574,
+      "pdf_page": 3,
+      "text_masked": "During … 2008).",
+      "words": 17,
+      "hash": "6a96abe57a5e72c2",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Brack et al., 2008",
+          "crossref_key": "2021042608222049100_DEV114223C16",
+          "doi": "10.1016/j.stem.2007.10.006"
+        }
+      ]
+    },
+    {
+      "id": "c26",
+      "kind": "pick",
+      "printed_page": 1574,
+      "pdf_page": 3,
+      "text_masked": "Satellite … (miRNAs).",
+      "words": 9,
+      "hash": "c87ea37d102cc40b",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c27",
+      "kind": "pick",
+      "printed_page": 1575,
+      "pdf_page": 4,
+      "text_masked": "Mitogenic … 1990).",
+      "words": 17,
+      "hash": "cc9fcfaa71b0f556",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Bischoff, 1986b",
+          "crossref_key": "2021042608222049100_DEV114223C9",
+          "doi": "10.1016/0012-1606(86)90235-6"
+        },
+        {
+          "ref": "Bischoff, 1990",
+          "crossref_key": "2021042608222049100_DEV114223C10",
+          "doi": "10.1083/jcb.111.1.201"
+        }
+      ]
+    },
+    {
+      "id": "c28",
+      "kind": "pick",
+      "printed_page": 1575,
+      "pdf_page": 4,
+      "text_masked": "Recent … 2).",
+      "words": 24,
+      "hash": "8e086100250fce99",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c29",
+      "kind": "pick",
+      "printed_page": 1575,
+      "pdf_page": 4,
+      "text_masked": "It … 2014).",
+      "words": 29,
+      "hash": "9e899bd204ad0eca",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Rodgers et al., 2014",
+          "crossref_key": "2021042608222049100_DEV114223C73",
+          "doi": "10.1038/nature13255"
+        }
+      ]
+    },
+    {
+      "id": "c30",
+      "kind": "pick",
+      "printed_page": 1575,
+      "pdf_page": 4,
+      "text_masked": "Interestingly, … cells.",
+      "words": 20,
+      "hash": "db26aa515035859d",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c31",
+      "kind": "pick",
+      "printed_page": 1575,
+      "pdf_page": 4,
+      "text_masked": "This … 2014).",
+      "words": 24,
+      "hash": "521661a9f54594be",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Rodgers et al., 2014",
+          "crossref_key": "2021042608222049100_DEV114223C73",
+          "doi": "10.1038/nature13255"
+        }
+      ]
+    },
+    {
+      "id": "c32",
+      "kind": "pick",
+      "printed_page": 1575,
+      "pdf_page": 4,
+      "text_masked": "This … 2011).",
+      "words": 37,
+      "hash": "92f4e3a3e0c04415",
+      "verdict": "FOUND_OCR",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Bischoff, 1986b",
+          "crossref_key": "2021042608222049100_DEV114223C9",
+          "doi": "10.1016/0012-1606(86)90235-6"
+        },
+        {
+          "ref": "Siegel et al., 2011",
+          "crossref_key": "2021042608222049100_DEV114223C84",
+          "doi": "10.1186/2044-5040-1-7"
+        }
+      ]
+    },
+    {
+      "id": "c33",
+      "kind": "pick",
+      "printed_page": 1575,
+      "pdf_page": 4,
+      "text_masked": "Although … 2014).",
+      "words": 56,
+      "hash": "4fe14c4f3c3ddf9c",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Rodgers et al., 2014",
+          "crossref_key": "2021042608222049100_DEV114223C73",
+          "doi": "10.1038/nature13255"
+        }
+      ]
+    },
+    {
+      "id": "c34",
+      "kind": "pick",
+      "printed_page": 1575,
+      "pdf_page": 4,
+      "text_masked": "This … environment.",
+      "words": 20,
+      "hash": "b0d0f6adf0e961be",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c35",
+      "kind": "pick",
+      "printed_page": 1575,
+      "pdf_page": 4,
+      "text_masked": "A … 2014).",
+      "words": 29,
+      "hash": "432aece7e2911e2a",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Murphy et al., 2014",
+          "crossref_key": "2021042608222049100_DEV114223C63",
+          "doi": "10.1016/j.stemcr.2014.06.019"
+        },
+        {
+          "ref": "Ogawa et al., 2014",
+          "crossref_key": "2021042608222049100_DEV114223C64",
+          "doi": "10.1242/dev.112557"
+        },
+        {
+          "ref": "Rodgers et al., 2014",
+          "crossref_key": "2021042608222049100_DEV114223C73",
+          "doi": "10.1038/nature13255"
+        }
+      ]
+    },
+    {
+      "id": "c36",
+      "kind": "pick",
+      "printed_page": 1575,
+      "pdf_page": 4,
+      "text_masked": "Damaged … 1995).",
+      "words": 20,
+      "hash": "f3bd2686ac21d85c",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Anderson et al., 1995",
+          "crossref_key": "2021042608222049100_DEV114223C1",
+          "doi": "10.1006/excr.1995.1041"
+        }
+      ]
+    },
+    {
+      "id": "c37",
+      "kind": "pick",
+      "printed_page": 1575,
+      "pdf_page": 4,
+      "text_masked": "Once … 2).",
+      "words": 26,
+      "hash": "4e4e3135a2bff28c",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c38",
+      "kind": "pick",
+      "printed_page": 1575,
+      "pdf_page": 4,
+      "text_masked": "Whereas … 2010).",
+      "words": 31,
+      "hash": "2b4b54231e416318",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Cao et al., 2003",
+          "crossref_key": "2021042608222049100_DEV114223C18",
+          "doi": "10.1128/MCB.23.19.6725-6738.2003"
+        },
+        {
+          "ref": "Chakkalakal et al., 2014",
+          "crossref_key": "2021042608222049100_DEV114223C24",
+          "doi": "10.1242/dev.100842"
+        },
+        {
+          "ref": "Pajcini et al., 2010",
+          "crossref_key": "2021042608222049100_DEV114223C66",
+          "doi": "10.1016/j.stem.2010.05.022"
+        }
+      ]
+    },
+    {
+      "id": "c39",
+      "kind": "pick",
+      "printed_page": 1575,
+      "pdf_page": 4,
+      "text_masked": "Activation … quiescence.",
+      "words": 14,
+      "hash": "8b30407fe76f8fb5",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c40",
+      "kind": "pick",
+      "printed_page": 1575,
+      "pdf_page": 4,
+      "text_masked": "This … mechanisms.",
+      "words": 30,
+      "hash": "431ccaa3a847dfaf",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c41",
+      "kind": "pick",
+      "printed_page": 1575,
+      "pdf_page": 4,
+      "text_masked": "It … regeneration.",
+      "words": 28,
+      "hash": "5200f08a56cfc32f",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c42",
+      "kind": "pick",
+      "printed_page": 1576,
+      "pdf_page": 5,
+      "text_masked": "In … 2009).",
+      "words": 24,
+      "hash": "38d486c24e00d4cf",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Le Grand et al., 2009",
+          "crossref_key": "2021042608222049100_DEV114223C53",
+          "doi": "10.1016/j.stem.2009.03.013"
+        }
+      ]
+    },
+    {
+      "id": "c43",
+      "kind": "pick",
+      "printed_page": 1576,
+      "pdf_page": 5,
+      "text_masked": "Symmetric … 2009).",
+      "words": 33,
+      "hash": "eefd92b381abd212",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Le Grand et al., 2009",
+          "crossref_key": "2021042608222049100_DEV114223C53",
+          "doi": "10.1016/j.stem.2009.03.013"
+        }
+      ]
+    },
+    {
+      "id": "c44",
+      "kind": "pick",
+      "printed_page": 1576,
+      "pdf_page": 5,
+      "text_masked": "Asymmetric … cells.",
+      "words": 16,
+      "hash": "58e7401365e9ab9c",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c45",
+      "kind": "pick",
+      "printed_page": 1576,
+      "pdf_page": 5,
+      "text_masked": "The … muscle.",
+      "words": 27,
+      "hash": "f08538eace1f602f",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c46",
+      "kind": "pick",
+      "printed_page": 1576,
+      "pdf_page": 5,
+      "text_masked": "For … 2014).",
+      "words": 41,
+      "hash": "8a747bfb37aaddfd",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Wang et al., 2014",
+          "crossref_key": "2021042608222049100_DEV114223C98",
+          "doi": "10.1242/jcs.151209"
+        }
+      ]
+    },
+    {
+      "id": "c47",
+      "kind": "pick",
+      "printed_page": 1576,
+      "pdf_page": 5,
+      "text_masked": "Thus, … regeneration.",
+      "words": 20,
+      "hash": "f82446f1aa3cbd65",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c48",
+      "kind": "pick",
+      "printed_page": 1576,
+      "pdf_page": 5,
+      "text_masked": "Conversely, … regeneration.",
+      "words": 19,
+      "hash": "197a022082234691",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c49",
+      "kind": "pick",
+      "printed_page": 1576,
+      "pdf_page": 5,
+      "text_masked": "Asymmetric … orientation.",
+      "words": 25,
+      "hash": "c9b6dc9a6fcef382",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c50",
+      "kind": "pick",
+      "printed_page": 1577,
+      "pdf_page": 6,
+      "text_masked": "In … 2007).",
+      "words": 46,
+      "hash": "d9b6aec78a1ce0c8",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Kuang et al., 2007",
+          "crossref_key": "2021042608222049100_DEV114223C52",
+          "doi": "10.1016/j.cell.2007.03.044"
+        }
+      ]
+    },
+    {
+      "id": "c51",
+      "kind": "pick",
+      "printed_page": 1577,
+      "pdf_page": 6,
+      "text_masked": "During … fate.",
+      "words": 32,
+      "hash": "f1f18d78be2f4577",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c52",
+      "kind": "pick",
+      "printed_page": 1577,
+      "pdf_page": 6,
+      "text_masked": "Real-time … 2011).",
+      "words": 27,
+      "hash": "5f6241bdd769dd23",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Siegel et al., 2011",
+          "crossref_key": "2021042608222049100_DEV114223C84",
+          "doi": "10.1186/2044-5040-1-7"
+        }
+      ]
+    },
+    {
+      "id": "c53",
+      "kind": "pick",
+      "printed_page": 1577,
+      "pdf_page": 6,
+      "text_masked": "Fibronectin, … population.",
+      "words": 21,
+      "hash": "c5733b0b18678cac",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c54",
+      "kind": "pick",
+      "printed_page": 1577,
+      "pdf_page": 6,
+      "text_masked": "The … 2009).",
+      "words": 42,
+      "hash": "ec4445c2fa5b2c4b",
+      "verdict": "FOUND_OCR",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Le Grand et al., 2009",
+          "crossref_key": "2021042608222049100_DEV114223C53",
+          "doi": "10.1016/j.stem.2009.03.013"
+        }
+      ]
+    },
+    {
+      "id": "c55",
+      "kind": "pick",
+      "printed_page": 1577,
+      "pdf_page": 6,
+      "text_masked": "The … decisions.",
+      "words": 23,
+      "hash": "30961f3ba136cbb1",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c56",
+      "kind": "pick",
+      "printed_page": 1577,
+      "pdf_page": 6,
+      "text_masked": "Myogenic … 2014).",
+      "words": 36,
+      "hash": "35c4e1291eac02fd",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Yennek et al., 2014",
+          "crossref_key": "2021042608222049100_DEV114223C103",
+          "doi": "10.1016/j.celrep.2014.04.016"
+        }
+      ]
+    },
+    {
+      "id": "c57",
+      "kind": "pick",
+      "printed_page": 1577,
+      "pdf_page": 6,
+      "text_masked": "Interestingly, … 2014).",
+      "words": 39,
+      "hash": "3083f64ace994fd4",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Rocheteau et al., 2012",
+          "crossref_key": "2021042608222049100_DEV114223C72",
+          "doi": "10.1016/j.cell.2011.11.049"
+        },
+        {
+          "ref": "Yennek et al., 2014",
+          "crossref_key": "2021042608222049100_DEV114223C103",
+          "doi": "10.1016/j.celrep.2014.04.016"
+        }
+      ]
+    },
+    {
+      "id": "c58",
+      "kind": "pick",
+      "printed_page": 1577,
+      "pdf_page": 6,
+      "text_masked": "Overall, … factors.",
+      "words": 17,
+      "hash": "e248712d1530e760",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c59",
+      "kind": "pick",
+      "printed_page": 1577,
+      "pdf_page": 6,
+      "text_masked": "The … pathologies.",
+      "words": 21,
+      "hash": "b86f7f61ff39e618",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c60",
+      "kind": "pick",
+      "printed_page": 1577,
+      "pdf_page": 6,
+      "text_masked": "Quiescent … changes.",
+      "words": 23,
+      "hash": "23a12c53dda60c68",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c61",
+      "kind": "pick",
+      "printed_page": 1577,
+      "pdf_page": 6,
+      "text_masked": "Isolated … 2015).",
+      "words": 18,
+      "hash": "5ab318690312c5eb",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Ryall et al., 2015",
+          "crossref_key": "2021042608222049100_DEV114223C75",
+          "doi": "10.1016/j.stem.2014.12.004"
+        }
+      ]
+    },
+    {
+      "id": "c62",
+      "kind": "pick",
+      "printed_page": 1577,
+      "pdf_page": 6,
+      "text_masked": "The … 2015).",
+      "words": 48,
+      "hash": "53ae8467a60b96bf",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Ryall et al., 2015",
+          "crossref_key": "2021042608222049100_DEV114223C75",
+          "doi": "10.1016/j.stem.2014.12.004"
+        }
+      ]
+    },
+    {
+      "id": "c63",
+      "kind": "pick",
+      "printed_page": 1577,
+      "pdf_page": 6,
+      "text_masked": "Moreover, … 2014).",
+      "words": 27,
+      "hash": "a532cf6e7e4e5c46",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Tang and Rando, 2014",
+          "crossref_key": "2021042608222049100_DEV114223C89",
+          "doi": "10.15252/embj.201488278"
+        }
+      ]
+    },
+    {
+      "id": "c64",
+      "kind": "pick",
+      "printed_page": 1577,
+      "pdf_page": 6,
+      "text_masked": "Oxygen … 2012).",
+      "words": 31,
+      "hash": "a6e543a77f2efb85",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Liu et al., 2012",
+          "crossref_key": "2021042608222049100_DEV114223C55",
+          "doi": "10.1242/dev.079665"
+        }
+      ]
+    },
+    {
+      "id": "c65",
+      "kind": "pick",
+      "printed_page": 1577,
+      "pdf_page": 6,
+      "text_masked": "Therefore, … 2012).",
+      "words": 23,
+      "hash": "bb2d45b6092823ff",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Liu et al., 2012",
+          "crossref_key": "2021042608222049100_DEV114223C55",
+          "doi": "10.1242/dev.079665"
+        }
+      ]
+    },
+    {
+      "id": "c66",
+      "kind": "pick",
+      "printed_page": 1578,
+      "pdf_page": 7,
+      "text_masked": "Similarly, … 2012).",
+      "words": 22,
+      "hash": "3cf6ea10918131d5",
+      "verdict": "PARTIAL",
+      "page_match": false,
+      "page_claimed": 1577,
+      "citations": [
+        {
+          "ref": "Cerletti et al., 2012",
+          "crossref_key": "2021042608222049100_DEV114223C22",
+          "doi": "10.1016/j.stem.2012.04.002"
+        }
+      ]
+    },
+    {
+      "id": "c67",
+      "kind": "pick",
+      "printed_page": 1578,
+      "pdf_page": 7,
+      "text_masked": "Together, … decisions.",
+      "words": 19,
+      "hash": "61c190953c728481",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c68",
+      "kind": "pick",
+      "printed_page": 1578,
+      "pdf_page": 7,
+      "text_masked": "Both … 2000).",
+      "words": 14,
+      "hash": "3ea273b7e4feb76e",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Frontera et al., 2000",
+          "crossref_key": "2021042608222049100_DEV114223C36",
+          "doi": "10.1152/jappl.2000.88.4.1321"
+        }
+      ]
+    },
+    {
+      "id": "c69",
+      "kind": "pick",
+      "printed_page": 1578,
+      "pdf_page": 7,
+      "text_masked": "Reduced … 1998).",
+      "words": 31,
+      "hash": "7a7372693445fd60",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Barani et al., 2003",
+          "crossref_key": "2021042608222049100_DEV114223C2",
+          "doi": "10.1152/japplphysiol.00437.2003"
+        },
+        {
+          "ref": "Grounds, 1998",
+          "crossref_key": "2021042608222049100_DEV114223C41",
+          "doi": "10.1111/j.1749-6632.1998.tb09894.x"
+        }
+      ]
+    },
+    {
+      "id": "c70",
+      "kind": "pick",
+      "printed_page": 1578,
+      "pdf_page": 7,
+      "text_masked": "Previous … 2006).",
+      "words": 25,
+      "hash": "d840f83fd82d1b34",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Shefer et al., 2006",
+          "crossref_key": "2021042608222049100_DEV114223C81",
+          "doi": "10.1016/j.ydbio.2006.02.022"
+        }
+      ]
+    },
+    {
+      "id": "c71",
+      "kind": "pick",
+      "printed_page": 1578,
+      "pdf_page": 7,
+      "text_masked": "However, … 2007).",
+      "words": 26,
+      "hash": "601355f544891414",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Brack and Rando, 2007",
+          "crossref_key": "2021042608222049100_DEV114223C14",
+          "doi": "10.1007/s12015-007-9000-2"
+        }
+      ]
+    },
+    {
+      "id": "c72",
+      "kind": "pick",
+      "printed_page": 1578,
+      "pdf_page": 7,
+      "text_masked": "Moreover, … period.",
+      "words": 35,
+      "hash": "60ad9825e1d919a7",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c73",
+      "kind": "pick",
+      "printed_page": 1578,
+      "pdf_page": 7,
+      "text_masked": "Therefore, … muscles.",
+      "words": 26,
+      "hash": "970e08fa231db7dc",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c74",
+      "kind": "pick",
+      "printed_page": 1578,
+      "pdf_page": 7,
+      "text_masked": "For … 2003).",
+      "words": 27,
+      "hash": "0a5c9958417b8f1c",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Barani et al., 2003",
+          "crossref_key": "2021042608222049100_DEV114223C2",
+          "doi": "10.1152/japplphysiol.00437.2003"
+        }
+      ]
+    },
+    {
+      "id": "c75",
+      "kind": "pick",
+      "printed_page": 1578,
+      "pdf_page": 7,
+      "text_masked": "Moreover, … 1997).",
+      "words": 36,
+      "hash": "97f60c44f56dad42",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Marsh et al., 1997",
+          "crossref_key": "2021042608222049100_DEV114223C60",
+          "doi": "10.1152/jappl.1997.83.4.1270"
+        }
+      ]
+    },
+    {
+      "id": "c76",
+      "kind": "pick",
+      "printed_page": 1578,
+      "pdf_page": 7,
+      "text_masked": "These … impaired.",
+      "words": 24,
+      "hash": "8c2a3e0c7a4cda11",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c77",
+      "kind": "pick",
+      "printed_page": 1578,
+      "pdf_page": 7,
+      "text_masked": "Accordingly, … 2012).",
+      "words": 31,
+      "hash": "21b3d36dbf4380ce",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Chakkalakal et al., 2012",
+          "crossref_key": "2021042608222049100_DEV114223C23",
+          "doi": "10.1038/nature11438"
+        }
+      ]
+    },
+    {
+      "id": "c78",
+      "kind": "pick",
+      "printed_page": 1578,
+      "pdf_page": 7,
+      "text_masked": "Although … 2007).",
+      "words": 39,
+      "hash": "386f75fd7bfa84aa",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Collins et al., 2007",
+          "crossref_key": "2021042608222049100_DEV114223C29",
+          "doi": "10.1634/stemcells.2006-0372"
+        }
+      ]
+    },
+    {
+      "id": "c79",
+      "kind": "pick",
+      "printed_page": 1578,
+      "pdf_page": 7,
+      "text_masked": "The … 2012).",
+      "words": 34,
+      "hash": "c6ae2224e7bf5127",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Chakkalakal et al., 2012",
+          "crossref_key": "2021042608222049100_DEV114223C23",
+          "doi": "10.1038/nature11438"
+        }
+      ]
+    },
+    {
+      "id": "c80",
+      "kind": "pick",
+      "printed_page": 1578,
+      "pdf_page": 7,
+      "text_masked": "This … 4).",
+      "words": 35,
+      "hash": "76ea259b3406c0b6",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c81",
+      "kind": "pick",
+      "printed_page": 1578,
+      "pdf_page": 7,
+      "text_masked": "Furthermore, … 2014).",
+      "words": 48,
+      "hash": "30e06d6edfbdebcf",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Bernet et al., 2014",
+          "crossref_key": "2021042608222049100_DEV114223C6",
+          "doi": "10.1038/nm.3465"
+        },
+        {
+          "ref": "Cosgrove et al., 2014",
+          "crossref_key": "2021042608222049100_DEV114223C34",
+          "doi": "10.1038/nm.3464"
+        }
+      ]
+    },
+    {
+      "id": "c82",
+      "kind": "pick",
+      "printed_page": 1578,
+      "pdf_page": 7,
+      "text_masked": "High … 2014).",
+      "words": 24,
+      "hash": "1099df34cf67d5e0",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Tierney et al., 2014",
+          "crossref_key": "2021042608222049100_DEV114223C91",
+          "doi": "10.1038/nm.3656"
+        }
+      ]
+    },
+    {
+      "id": "c83",
+      "kind": "pick",
+      "printed_page": 1578,
+      "pdf_page": 7,
+      "text_masked": "Consequently, … 2014).",
+      "words": 28,
+      "hash": "9252361c75165aec",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Price et al., 2014",
+          "crossref_key": "2021042608222049100_DEV114223C69",
+          "doi": "10.1038/nm.3655"
+        }
+      ]
+    },
+    {
+      "id": "c84",
+      "kind": "pick",
+      "printed_page": 1579,
+      "pdf_page": 8,
+      "text_masked": "Interestingly, … self-renew.",
+      "words": 21,
+      "hash": "c7922da13b4086fe",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c85",
+      "kind": "pick",
+      "printed_page": 1579,
+      "pdf_page": 8,
+      "text_masked": "Moreover, … 2014).",
+      "words": 26,
+      "hash": "824bf6ae3e700925",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Price et al., 2014",
+          "crossref_key": "2021042608222049100_DEV114223C69",
+          "doi": "10.1038/nm.3655"
+        }
+      ]
+    },
+    {
+      "id": "c86",
+      "kind": "pick",
+      "printed_page": 1579,
+      "pdf_page": 8,
+      "text_masked": "Altogether, … cells.",
+      "words": 22,
+      "hash": "4732d8bf1ad9f8a6",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c87",
+      "kind": "pick",
+      "printed_page": 1579,
+      "pdf_page": 8,
+      "text_masked": "However, … regeneration.",
+      "words": 32,
+      "hash": "b0fbe16ef89d7014",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c88",
+      "kind": "pick",
+      "printed_page": 1579,
+      "pdf_page": 8,
+      "text_masked": "For … 2014).",
+      "words": 35,
+      "hash": "288a620383b87ffb",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Tierney et al., 2014",
+          "crossref_key": "2021042608222049100_DEV114223C91",
+          "doi": "10.1038/nm.3656"
+        }
+      ]
+    },
+    {
+      "id": "c89",
+      "kind": "pick",
+      "printed_page": 1579,
+      "pdf_page": 8,
+      "text_masked": "Nonetheless, … rejuvenated.",
+      "words": 17,
+      "hash": "9ac3610e42e4741a",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c90",
+      "kind": "pick",
+      "printed_page": 1579,
+      "pdf_page": 8,
+      "text_masked": "However, … muscles.",
+      "words": 35,
+      "hash": "bd72c4642ea0150e",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c91",
+      "kind": "pick",
+      "printed_page": 1579,
+      "pdf_page": 8,
+      "text_masked": "Likewise, … 2005).",
+      "words": 28,
+      "hash": "5db8ff92ddaec4d4",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Carlson and Faulkner, 1989",
+          "crossref_key": "2021042608222049100_DEV114223C20",
+          "doi": "10.1152/ajpcell.1989.256.6.C1262"
+        },
+        {
+          "ref": "Conboy et al., 2005",
+          "crossref_key": "2021042608222049100_DEV114223C32",
+          "doi": "10.1038/nature03260"
+        }
+      ]
+    },
+    {
+      "id": "c92",
+      "kind": "pick",
+      "printed_page": 1579,
+      "pdf_page": 8,
+      "text_masked": "Interestingly, … 2008).",
+      "words": 27,
+      "hash": "ed6928f305f8066a",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Bjornson et al., 2012",
+          "crossref_key": "2021042608222049100_DEV114223C11",
+          "doi": "10.1002/stem.773"
+        },
+        {
+          "ref": "Carlson et al., 2008",
+          "crossref_key": "2021042608222049100_DEV114223C21",
+          "doi": "10.1038/nature07034"
+        }
+      ]
+    },
+    {
+      "id": "c93",
+      "kind": "pick",
+      "printed_page": 1579,
+      "pdf_page": 8,
+      "text_masked": "Moreover, … 2007).",
+      "words": 23,
+      "hash": "fc59ae9e255a5349",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Brack et al., 2007",
+          "crossref_key": "2021042608222049100_DEV114223C15",
+          "doi": "10.1126/science.1144090"
+        }
+      ]
+    },
+    {
+      "id": "c94",
+      "kind": "pick",
+      "printed_page": 1579,
+      "pdf_page": 8,
+      "text_masked": "Altogether, … muscle.",
+      "words": 23,
+      "hash": "58d12b45d1a123bb",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c95",
+      "kind": "pick",
+      "printed_page": 1579,
+      "pdf_page": 8,
+      "text_masked": "Consistent … 2014a).",
+      "words": 37,
+      "hash": "c9f22849fc8cb52a",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Sousa-Victor et al., 2014a",
+          "crossref_key": "2021042608222049100_DEV114223C85",
+          "doi": "10.1038/nature13013"
+        }
+      ]
+    },
+    {
+      "id": "c96",
+      "kind": "pick",
+      "printed_page": 1579,
+      "pdf_page": 8,
+      "text_masked": "Under … 2014b).",
+      "words": 35,
+      "hash": "8c3beb649fac9872",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Sousa-Victor et al., 2014b",
+          "crossref_key": "2021042608222049100_DEV114223C86",
+          "doi": "10.4161/15384101.2014.965072"
+        }
+      ]
+    },
+    {
+      "id": "c97",
+      "kind": "pick",
+      "printed_page": 1579,
+      "pdf_page": 8,
+      "text_masked": "This … environment.",
+      "words": 22,
+      "hash": "3935da31e44a9389",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c98",
+      "kind": "pick",
+      "printed_page": 1579,
+      "pdf_page": 8,
+      "text_masked": "To … self-renewal.",
+      "words": 22,
+      "hash": "eae6ed083301b557",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c99",
+      "kind": "pick",
+      "printed_page": 1579,
+      "pdf_page": 8,
+      "text_masked": "As … aging.",
+      "words": 38,
+      "hash": "4f21fff2aeb43392",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c100",
+      "kind": "pick",
+      "printed_page": 1579,
+      "pdf_page": 8,
+      "text_masked": "In … self-renewal.",
+      "words": 34,
+      "hash": "8966738d6fff4c55",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c101",
+      "kind": "pick",
+      "printed_page": 1579,
+      "pdf_page": 8,
+      "text_masked": "Some … simultaneously.",
+      "words": 26,
+      "hash": "6a60e809f9b4639b",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "u01",
+      "kind": "uncertain",
+      "printed_page": 1573,
+      "pdf_page": 2,
+      "text_masked": "Microarray … 2013).",
+      "words": 27,
+      "hash": "6568120697688709",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Fukada et al., 2007",
+          "crossref_key": "2021042608222049100_DEV114223C37",
+          "doi": "10.1634/stemcells.2007-0019"
+        },
+        {
+          "ref": "Liu et al., 2013",
+          "crossref_key": "2021042608222049100_DEV114223C56",
+          "doi": "10.1016/j.celrep.2013.05.043"
+        }
+      ]
+    },
+    {
+      "id": "u02",
+      "kind": "uncertain",
+      "printed_page": 1575,
+      "pdf_page": 4,
+      "text_masked": "Hence, … conditions.",
+      "words": 23,
+      "hash": "cc1ebc617f8a4eec",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "u03",
+      "kind": "uncertain",
+      "printed_page": 1576,
+      "pdf_page": 5,
+      "text_masked": "The … 2014).",
+      "words": 24,
+      "hash": "c1d8d205652e1a5b",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Yennek et al., 2014",
+          "crossref_key": "2021042608222049100_DEV114223C103",
+          "doi": "10.1016/j.celrep.2014.04.016"
+        }
+      ]
+    },
+    {
+      "id": "u04",
+      "kind": "uncertain",
+      "printed_page": 1577,
+      "pdf_page": 6,
+      "text_masked": "Notably, … 2014).",
+      "words": 20,
+      "hash": "c6562a82f916e914",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Ogawa et al., 2014",
+          "crossref_key": "2021042608222049100_DEV114223C64",
+          "doi": "10.1242/dev.112557"
+        }
+      ]
+    },
+    {
+      "id": "u05",
+      "kind": "uncertain",
+      "printed_page": 1579,
+      "pdf_page": 8,
+      "text_masked": "These … therapy.",
+      "words": 33,
+      "hash": "cb2b5e3a9d0addf2",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    }
+  ]
+}
