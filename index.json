@@ -483,6 +483,34 @@
           "bytes": 47922
         }
       }
+    },
+    {
+      "doi": "10.1242/dev.114223",
+      "title": "Intrinsic and extrinsic mechanisms regulating satellite cell function",
+      "author": "Nicolas A. Dumont, Yu Xin Wang, Michael A. Rudnicki",
+      "published_print": "2015-05-01",
+      "worker": "gpt-6.2",
+      "run_date": "2026-11-25",
+      "items": 106,
+      "pdf_sha256_16": "5a4f02826e7f9944",
+      "copyright": "under copyright: sentence text withheld (first and last word kept); explanations in the interpretation file",
+      "floor": 2,
+      "connects": [
+        "10.1152/ajpheart.00414.2009",
+        "10.1152/physrev.00005.2017"
+      ],
+      "files": {
+        "coordinates": {
+          "path": "data/dumont2015-satellite-cell-intrinsic-extrinsic__10.1242-dev.114223__coordinates__gpt-6.2-20261125.json",
+          "sha256": "b8a79fa625df24687420879269ba9b58b53b68c91d17983b599fa17e0d012439",
+          "bytes": 103163
+        },
+        "interpretation": {
+          "path": "data/dumont2015-satellite-cell-intrinsic-extrinsic__10.1242-dev.114223__interpretation__gpt-6.2-20261125.json",
+          "sha256": "d7b748d0ca69123c6c60a0df07a36b5461200d6afb17159ecb2d61a7bdc93b2f",
+          "bytes": 59842
+        }
+      }
     }
   ],
   "file_naming": "<author+year>-<keyword>__<DOI with / as ->__<layer>__<worker>-<run date>.json",
