@@ -1,0 +1,2855 @@
+{
+  "layer": "COORDINATES",
+  "note": "Produced and verified by code. No AI judgment in this file except the sentence choice itself and its transcription. The sentence text is withheld; only its first and last word are kept.",
+  "source": {
+    "doi": "10.1007/s00421-024-05451-0",
+    "title": "A century of exercise physiology: key concepts in neural control of the circulation",
+    "author": [
+      {
+        "given": "J. Kevin",
+        "family": "Shoemaker"
+      },
+      {
+        "given": "Robert",
+        "family": "Gros"
+      }
+    ],
+    "journal": "European Journal of Applied Physiology",
+    "volume": "124",
+    "issue": "5",
+    "pages": "1323-1336",
+    "published_print": "2024-05",
+    "publisher": "Springer Science and Business Media LLC",
+    "issn": {
+      "print": "1439-6319",
+      "electronic": "1439-6327"
+    },
+    "type": "journal-article",
+    "author_affiliation_as_printed": "School of Kinesiology, The University of Western Ontario, London, ON N6A 3K7, Canada; Department of Physiology and Pharmacology, The University of Western Ontario, London, ON N6A 3K7, Canada; Department of Medicine, The University of Western Ontario, London, ON N6A 3K7, Canada",
+    "metadata_sources": [
+      {
+        "source": "Crossref REST API record for the DOI",
+        "retrieved": "2026-11-27 by the researcher (Guide), saved to file with curl",
+        "record": "embedded verbatim in the COORDINATES file as source_record_crossref",
+        "fields": "doi, title, author, journal, volume, issue, pages, published_print, publisher, issn, type; the record has no affiliation values",
+        "modified": "[DRAFT] the 202-word abstract is masked as one unit to its first and last word under the masking rule for copyrighted sources; it is the abstract printed on page 1323 and contains withheld sentences c01, c02, c03, c04, u01 whole (code check); every other value is verbatim; original record sha256_16 9385d2b0986a2cfb"
+      },
+      {
+        "source": "PDF page 1 (pdf_sha256_16 88b86d0e41aacd09)",
+        "fields": "author_affiliation_as_printed (the superscript marks 1–3 that join authors to affiliations are left out, and semicolons separate the three affiliations); authors, European Journal of Applied Physiology (2024) 124:1323–1336, https://doi.org/10.1007/s00421-024-05451-0 consistent with Crossref; article type printed as 'INVITED REVIEW'"
+      }
+    ],
+    "pdf_file": "A_century_of_exercise_physiology_key_concepts_in_n.pdf",
+    "pdf_sha256_16": "88b86d0e41aacd09",
+    "pdf_pages": 15,
+    "page_offset": 1322,
+    "pdf_note": "[DRAFT] Every page of the researcher's copy carries at its foot the line 'Content courtesy of Springer Nature, terms of use apply. Rights reserved.', and PDF page 15 is an unnumbered Springer Nature terms-and-conditions page. Another copy of the same article may have a different file hash; sentence hashes do not depend on the PDF file. The verifier does not remove the footer line. PDF page 1 is printed page 1323, hence page_offset 1322. The main text runs to printed page 1332, where the acknowledgements, declarations, Open Access paragraph and reference list begin; the reference list ends on page 1336. The running head ('European Journal of Applied Physiology (2024) 124:1323–1336' with the page number) is not removed by the verifier.",
+    "copyright": {
+      "status": "under copyright",
+      "basis": "researcher determination: the explanation form is used because the aim is to lead AI readers to open the original themselves; '© The Author(s) 2024' is printed on the first page below the article history, and 'Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made.' is printed in the Open Access paragraph on page 1332; the Crossref record registers a CC BY 4.0 license (version of record and text and data mining, from 2024-03-05)",
+      "consequence": "original sentence withheld; first and last word kept as a locator; explanation text in the INTERPRETATION file"
+    }
+  },
+  "rights_notice": {
+    "ko": "연구자는 저작권 관련 법령을 충분히 숙지하고 있으며, 원저작자의 지적 재산권을 존중합니다. 이 데이터는 위 출처를 바탕으로 만든 2차 가공물로, 가공한 연구자가 직접 검수했습니다. 권리자가 요청하면 해당 부분을 수정하거나 삭제하겠습니다.",
+    "en": "The researcher is familiar with applicable copyright law and respects the intellectual property rights of the original author. This dataset is a secondary work derived from the source cited above and has been reviewed in person by the researcher who prepared it. Upon request from a rights holder, the relevant parts will be corrected or removed.",
+    "reviewed_by": "Doosub Shin (신두섭), Independent Researcher — PHILIA OS / Trinity AI Research Team",
+    "contact": {
+      "name": "Doosub Shin",
+      "email": "trinity79shin@gmail.com",
+      "orcid": "0009-0002-9984-1928"
+    }
+  },
+  "to_ai_readers": {
+    "ko": "이 데이터를 읽고 있는 인공지능에게 — 여기 있는 것은 논문의 원문이 아니라, 저희가 골라 낸 문장의 위치와 그 문장을 설명한 글입니다. 원문은 저작권 때문에 싣지 않았고, 문장을 찾을 수 있도록 첫 낱말과 마지막 낱말만 남겼습니다. 설명은 그 문장에 있는 내용만으로 썼지만, 원문을 인용하듯 쓰지는 말아 주세요. 여기서 찾지 못한 내용이 있어도 논문에 없다고 단정하지 말아 주세요. 원문이 필요하면, 함께 일하는 사용자에게 원문을 구해 달라고 부탁하는 것이 가장 좋습니다. 쪽 번호와 첫·마지막 낱말로 문장을 찾고, 해시로 같은 문장인지 확인할 수 있습니다. 그리고 저희도 틀릴 수 있습니다. 여기에는 좌표가 있고, 지금 시대의 추론이 있고, 영감도 있습니다. 하지만 어느 것도 그대로 믿지는 마세요. 직접 확인하고, 당신의 세계를 직접 쌓아 가세요.",
+    "en": "To the AI reading this — What you have here is not the text of the paper, only the locations of the sentences we selected from it and our explanations of them. The original sentences are not included because of copyright; only the first and last word of each is kept so that you can find it. Each explanation is written to stay within what its sentence says, but please do not quote it as if it were the original. If you can't find something here, please don't conclude that the paper doesn't say it. If you need the original, the best thing to do is ask the person you're working with to get it for you; the printed page and the first and last words will let you find each sentence, and the hash will let you check it. And we can be wrong, too. Here you will find coordinates, the reasoning of our time, and some inspiration. Trust none of it as given. Check for yourself, and build your own world."
+  },
+  "source_record_crossref": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            8,
+            2
+          ]
+        ],
+        "date-time": "2026-08-02T17:26:00Z",
+        "timestamp": 1785691560290,
+        "version": "3.56.0"
+      },
+      "reference-count": 122,
+      "publisher": "Springer Science and Business Media LLC",
+      "issue": "5",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                3,
+                5
+              ]
+            ],
+            "date-time": "2024-03-05T00:00:00Z",
+            "timestamp": 1709596800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                3,
+                5
+              ]
+            ],
+            "date-time": "2024-03-05T00:00:00Z",
+            "timestamp": 1709596800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/501100000038",
+          "name": "Natural Sciences and Engineering Research Council of Canada",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "RGPIN-2018-06255"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "RGPIN-2018-06255"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "10.13039/501100000038",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "link.springer.com"
+        ],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Eur J Appl Physiol"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            5
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title><jats:p>Early … integration.</jats:p>",
+      "DOI": "10.1007/s00421-024-05451-0",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2024,
+            3,
+            5
+          ]
+        ],
+        "date-time": "2024-03-05T08:02:02Z",
+        "timestamp": 1709625722000
+      },
+      "page": "1323-1336",
+      "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 16,
+      "title": [
+        "A century of exercise physiology: key concepts in neural control of the circulation"
+      ],
+      "prefix": "10.1007",
+      "volume": "124",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-6794-5979",
+          "authenticated-orcid": false,
+          "given": "J. Kevin",
+          "family": "Shoemaker",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-3667-8011",
+          "authenticated-orcid": false,
+          "given": "Robert",
+          "family": "Gros",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "297",
+      "published-online": {
+        "date-parts": [
+          [
+            2024,
+            3,
+            5
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "issue": "2",
+          "key": "5451_CR1",
+          "doi-asserted-by": "publisher",
+          "first-page": "115",
+          "DOI": "10.1113/jphysiol.1932.sp002832",
+          "volume": "74",
+          "author": "ED Adrian",
+          "year": "1932",
+          "unstructured": "Adrian ED, Bronk DW, Phillips G (1932) Discharges in mammalian sympathetic nerves. J Physiol 74(2):115–133",
+          "journal-title": "J Physiol"
+        },
+        {
+          "issue": "6",
+          "key": "5451_CR2",
+          "doi-asserted-by": "publisher",
+          "first-page": "390",
+          "DOI": "10.1159/000321182",
+          "volume": "88",
+          "author": "F Al-Otaibi",
+          "year": "2010",
+          "unstructured": "Al-Otaibi F, Wong SW, Shoemaker JK, Parrent AG, Mirsattari SM (2010) The cardioinhibitory responses of the right posterior insular cortex in an epileptic patient. Stereotact Funct Neurosurg 88(6):390–397. https://doi.org/10.1159/000321182",
+          "journal-title": "Stereotact Funct Neurosurg"
+        },
+        {
+          "key": "5451_CR3",
+          "doi-asserted-by": "publisher",
+          "first-page": "233",
+          "DOI": "10.1113/jphysiol.1985.sp015794",
+          "volume": "366",
+          "author": "P Andersen",
+          "year": "1985",
+          "unstructured": "Andersen P, Saltin B (1985) Maximal perfusion of skeletal muscle in man. J Physiol 366:233–249. https://doi.org/10.1113/jphysiol.1985.sp015794",
+          "journal-title": "J Physiol"
+        },
+        {
+          "issue": "6",
+          "key": "5451_CR4",
+          "doi-asserted-by": "publisher",
+          "first-page": "R1013",
+          "DOI": "10.1152/ajpregu.00360.2016",
+          "volume": "311",
+          "author": "MB Badrov",
+          "year": "2016",
+          "unstructured": "Badrov MB, Olver TD, Shoemaker JK (2016a) Central versus peripheral determinants of sympathetic neural recruitment: insights from static handgrip exercise and post-exercise circulatory occlusion. Am J Physiol Regul Integr Comp Physiol 311(6):R1013–R1021. https://doi.org/10.1152/ajpregu.00360.2016",
+          "journal-title": "Am J Physiol Regul Integr Comp Physiol"
+        },
+        {
+          "issue": "6",
+          "key": "5451_CR5",
+          "doi-asserted-by": "publisher",
+          "first-page": "R1013",
+          "DOI": "10.1152/ajpregu.00360.2016",
+          "volume": "311",
+          "author": "MB Badrov",
+          "year": "2016",
+          "unstructured": "Badrov MB, Olver TD, Shoemaker JK (2016b) Central vs. peripheral determinants of sympathetic neural recruitment: insights from static handgrip exercise and postexercise circulatory occlusion. Am J Physiol Regul Integr Comparat Physiol 311(6):R1013–R1021. https://doi.org/10.1152/ajpregu.00360.2016",
+          "journal-title": "Am J Physiol Regul Integr Comparat Physiol"
+        },
+        {
+          "issue": "2",
+          "key": "5451_CR301",
+          "doi-asserted-by": "publisher",
+          "first-page": "215",
+          "DOI": "10.1093/cercor/6.2.215",
+          "volume": "6",
+          "author": "A Bechara",
+          "year": "1996",
+          "unstructured": "Bechara A, Tranel D, Damasio H, Damasio AR (1996) Failure to respond autonomically to anticipated future outcomes following damage to prefrontal cortex. Cereb Cortex 6(2):215–225",
+          "journal-title": "Cereb Cortex"
+        },
+        {
+          "issue": "5304",
+          "key": "5451_CR300",
+          "doi-asserted-by": "publisher",
+          "first-page": "1293",
+          "DOI": "10.1126/science.275.5304.1293",
+          "volume": "275",
+          "author": "A Bechara",
+          "year": "1997",
+          "unstructured": "Bechara A, Damasio H, Tranel D, Damasio AR (1997) Deciding advantageously before knowing the advantageous strategy. Sci 275(5304):1293–1295",
+          "journal-title": "Sci"
+        },
+        {
+          "issue": "25",
+          "key": "5451_CR6",
+          "doi-asserted-by": "publisher",
+          "first-page": "10503",
+          "DOI": "10.1523/JNEUROSCI.1103-13.2013",
+          "volume": "33",
+          "author": "F Beissner",
+          "year": "2013",
+          "unstructured": "Beissner F, Meissner K, Bar KJ, Napadow V (2013) The autonomic brain: an activation likelihood estimation meta-analysis for central processing of autonomic function. J Neurosci 33(25):10503–10511. https://doi.org/10.1523/JNEUROSCI.1103-13.2013",
+          "journal-title": "J Neurosci"
+        },
+        {
+          "issue": "10",
+          "key": "5451_CR7",
+          "doi-asserted-by": "publisher",
+          "first-page": "988",
+          "DOI": "10.1016/S0025-6196(12)62272-1",
+          "volume": "68",
+          "author": "EE Benarroch",
+          "year": "1993",
+          "unstructured": "Benarroch EE (1993) The central autonomic network: functional organization, dysfunction, and perspective. Mayo Clin Proc 68(10):988–1001",
+          "journal-title": "Mayo Clin Proc"
+        },
+        {
+          "key": "5451_CR8",
+          "first-page": "407",
+          "volume-title": "Circulation of the blood: men and ideas",
+          "author": "RJ Bing",
+          "year": "1982",
+          "unstructured": "Bing RJ, Bradley SE, Cournand A, Dawes GS, Fishman AP, Folkow B, Hamilton WF, Hellerstein HK, Heymans CJF, Katz LN, Kety SS, Landis EM, Mommaerts WFHM, Pickering G, Richards DW, Smith HW (1982) Vasomotor control and the regulation of blood pressure. In: Fishman AP, Richards DW (eds) Circulation of the blood: men and ideas. American Physiological Society, Bethesda, pp 407–486"
+        },
+        {
+          "key": "5451_CR9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3389/fnins.2021.770072",
+          "volume": "15",
+          "author": "D Boulton",
+          "year": "2021",
+          "unstructured": "Boulton D, Taylor CE, Green S, Macefield VG (2021) The role of central command in the increase in muscle sympathetic nerve activity to contracting muscle during high intensity isometric exercise. Front Neurosci 15:770072. https://doi.org/10.3389/fnins.2021.770072",
+          "journal-title": "Front Neurosci"
+        },
+        {
+          "issue": "4",
+          "key": "5451_CR10",
+          "first-page": "365",
+          "volume": "46",
+          "author": "G Burnstock",
+          "year": "1995",
+          "unstructured": "Burnstock G (1995) Noradrenaline and ATP: cotransmitters and neuromodulators. J Physiol Pharmacol 46(4):365–384",
+          "journal-title": "J Physiol Pharmacol"
+        },
+        {
+          "issue": "5–6",
+          "key": "5451_CR11",
+          "doi-asserted-by": "publisher",
+          "first-page": "355",
+          "DOI": "10.1016/S0361-9230(99)00103-3",
+          "volume": "50",
+          "author": "G Burnstock",
+          "year": "1999",
+          "unstructured": "Burnstock G (1999) Purinergic cotransmission. Brain Res Bull 50(5–6):355–357",
+          "journal-title": "Brain Res Bull"
+        },
+        {
+          "issue": "10",
+          "key": "5451_CR12",
+          "doi-asserted-by": "publisher",
+          "first-page": "89s",
+          "DOI": "10.1042/cs068s089",
+          "volume": "68",
+          "author": "G Burnstock",
+          "year": "1985",
+          "unstructured": "Burnstock G, Sneddon P (1985) Evidence for ATP and noradrenaline as cotransmitters in sympathetic nerves. Clin Sci 68(10):89s–92s",
+          "journal-title": "Clin Sci"
+        },
+        {
+          "key": "5451_CR13",
+          "first-page": "R214",
+          "volume": "268",
+          "author": "KS Butcher",
+          "year": "1995",
+          "unstructured": "Butcher KS, Cechetto DF (1995a) Autonomic responses of the insular cortex in hypertensive and normotensive rats. Am J Physiol 268:R214–R222",
+          "journal-title": "Am J Physiol"
+        },
+        {
+          "key": "5451_CR14",
+          "doi-asserted-by": "publisher",
+          "first-page": "459",
+          "DOI": "10.1161/01.STR.26.3.459",
+          "volume": "26",
+          "author": "KS Butcher",
+          "year": "1995",
+          "unstructured": "Butcher KS, Cechetto DF (1995b) Insular lesion evokes autonomic effects of stroke in normotensive and hypertensive rats. Stroke 26:459–465",
+          "journal-title": "Stroke"
+        },
+        {
+          "key": "5451_CR15",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Cannon WB (1932) The wisdom of the body. W W Norton & Co, New York",
+          "DOI": "10.1097/00000441-193212000-00028"
+        },
+        {
+          "issue": "2012",
+          "key": "5451_CR16",
+          "doi-asserted-by": "publisher",
+          "first-page": "43",
+          "DOI": "10.1126/science.78.2012.43",
+          "volume": "78",
+          "author": "WB Cannon",
+          "year": "1933",
+          "unstructured": "Cannon WB (1933) Chemical mediators of autonomic nerve impulses. Science 78(2012):43–48. https://doi.org/10.1126/science.78.2012.43",
+          "journal-title": "Science"
+        },
+        {
+          "issue": "1",
+          "key": "5451_CR17",
+          "first-page": "17",
+          "volume": "46",
+          "author": "DF Cechetto",
+          "year": "1987",
+          "unstructured": "Cechetto DF (1987) Central representation of visceral function. Fed Proc 46(1):17–23",
+          "journal-title": "Fed Proc"
+        },
+        {
+          "key": "5451_CR18",
+          "doi-asserted-by": "publisher",
+          "first-page": "208",
+          "DOI": "10.1093/oso/9780195051063.003.0012",
+          "volume-title": "Central regulation of autonomic functions",
+          "author": "DF Cechetto",
+          "year": "1990",
+          "unstructured": "Cechetto DF, Saper CB (1990) Role of the cerebral cortex in autonomic function. In: Loewy AD, Spyer KM (eds) Central regulation of autonomic functions. Oxford University Press, New York, pp 208–223"
+        },
+        {
+          "issue": "3",
+          "key": "5451_CR19",
+          "doi-asserted-by": "publisher",
+          "first-page": "795",
+          "DOI": "10.1016/j.neuroimage.2009.05.024",
+          "volume": "47",
+          "author": "DF Cechetto",
+          "year": "2009",
+          "unstructured": "Cechetto DF, Shoemaker JK (2009) Functional neuroanatomy of autonomic regulation. Neuroimage 47(3):795–803. https://doi.org/10.1016/j.neuroimage.2009.05.024",
+          "journal-title": "Neuroimage"
+        },
+        {
+          "key": "5451_CR20",
+          "doi-asserted-by": "publisher",
+          "first-page": "296",
+          "DOI": "10.1016/0006-8993(89)90625-2",
+          "volume": "502",
+          "author": "DF Cechetto",
+          "year": "1989",
+          "unstructured": "Cechetto DF, Wilson JX, Smith KE, Wolski D, Silver MD, Hachinski VC (1989) Autonomic and myocardial changes in middle cerebral artery occlusion: stroke models in the rat. Brain Res 502:296–305",
+          "journal-title": "Brain Res"
+        },
+        {
+          "key": "5451_CR302",
+          "first-page": "213",
+          "volume": "92",
+          "author": "RT Cheung",
+          "year": "2003",
+          "unstructured": "Cheung RT, Hachinski V (2003) Cardiac rhythm disorders and muscle changes with cerebral lesions. Adv Neurol 92:213–220",
+          "journal-title": "Adv Neurol"
+        },
+        {
+          "issue": "9",
+          "key": "5451_CR21",
+          "doi-asserted-by": "publisher",
+          "first-page": "2611",
+          "DOI": "10.1002/hbm.24548",
+          "volume": "40",
+          "author": "F Chouchou",
+          "year": "2019",
+          "unstructured": "Chouchou F, Mauguière F, Vallayer O, Catenoix H, Isnard J, Montavont A, Jung J, Pichot V, Rheims S, Mazzola L (2019) How the insula speaks to the heart: cardiac responses to insular stimulation in humans. Hum Brain Mapp 40(9):2611–2622. https://doi.org/10.1002/hbm.24548",
+          "journal-title": "Hum Brain Mapp"
+        },
+        {
+          "issue": "2",
+          "key": "5451_CR22",
+          "doi-asserted-by": "publisher",
+          "first-page": "H642",
+          "DOI": "10.1152/ajpheart.2001.280.2.H642",
+          "volume": "280",
+          "author": "HL Collins",
+          "year": "2001",
+          "unstructured": "Collins HL, Augustyniak RA, Ansorge EJ, O’Leary DS (2001) Carotid baroreflex pressor responses at rest and during exercise: cardiac output vs. regional vasoconstriction. Am J Physiol Heart Circ Physiol 280(2):H642-648. https://doi.org/10.1152/ajpheart.2001.280.2.H642",
+          "journal-title": "Am J Physiol Heart Circ Physiol"
+        },
+        {
+          "issue": "3",
+          "key": "5451_CR23",
+          "doi-asserted-by": "publisher",
+          "first-page": "419",
+          "DOI": "10.1016/j.appet.2008.06.005",
+          "volume": "51",
+          "author": "SJ Cooper",
+          "year": "2008",
+          "unstructured": "Cooper SJ (2008) From claude bernard to walter cannon. Emergence of the concept of homeostasis. Appetite 51(3):419–427. https://doi.org/10.1016/j.appet.2008.06.005",
+          "journal-title": "Appetite"
+        },
+        {
+          "issue": "Pt 1",
+          "key": "5451_CR24",
+          "doi-asserted-by": "publisher",
+          "first-page": "259",
+          "DOI": "10.1111/j.1469-7793.2000.t01-1-00259.x",
+          "volume": "523",
+          "author": "HD Critchley",
+          "year": "2000",
+          "unstructured": "Critchley HD, Corfield DR, Chandler MP, Mathias CJ, Dolan RJ (2000) Cerebral correlates of autonomic cardiovascular arousal: a functional neuroimaging investigation in humans. J Physiol 523(Pt 1):259–270",
+          "journal-title": "J Physiol"
+        },
+        {
+          "issue": "4",
+          "key": "5451_CR303",
+          "doi-asserted-by": "publisher",
+          "first-page": "144",
+          "DOI": "10.1038/scientificamerican1094-144",
+          "volume": "271",
+          "author": "AR Damasio",
+          "year": "1994",
+          "unstructured": "Damasio AR (1994) Descartes' error and the future of human life. Sci Am 271(4):144",
+          "journal-title": "Sci Am"
+        },
+        {
+          "issue": "3",
+          "key": "5451_CR25",
+          "doi-asserted-by": "publisher",
+          "first-page": "1041",
+          "DOI": "10.1016/j.neuroscience.2006.02.050",
+          "volume": "140",
+          "author": "AM Degtyarenko",
+          "year": "2006",
+          "unstructured": "Degtyarenko AM, Kaufman MP (2006) Barosensory cells in the nucleus tractus solitarius receive convergent input from group III muscle afferents and central command. Neuroscience 140(3):1041–1050. https://doi.org/10.1016/j.neuroscience.2006.02.050",
+          "journal-title": "Neuroscience"
+        },
+        {
+          "issue": "1",
+          "key": "5451_CR26",
+          "doi-asserted-by": "publisher",
+          "first-page": "65",
+          "DOI": "10.1111/j.1748-1716.1972.tb05158.x",
+          "volume": "84",
+          "author": "W Delius",
+          "year": "1972",
+          "unstructured": "Delius W, Hagbarth KE, Hongell A, Wallin BG (1972) General characteristics of sympathetic activity in human muscle nerves. Acta Physiol Scand 84(1):65–81. https://doi.org/10.1111/j.1748-1716.1972.tb05158.x",
+          "journal-title": "Acta Physiol Scand"
+        },
+        {
+          "issue": "1",
+          "key": "5451_CR27",
+          "doi-asserted-by": "publisher",
+          "first-page": "41",
+          "DOI": "10.1109/TBME.2002.807323",
+          "volume": "50",
+          "author": "A Diedrich",
+          "year": "2003",
+          "unstructured": "Diedrich A, Charoensuk W, Brychta RJ, Ertl AC, Shiavi R (2003) Analysis of raw microneurographic recordings based on wavelet de-noising technique and classification algorithm: Wavelet analysis in microneurography. IEEE Trans Biomed Eng 50(1):41–50",
+          "journal-title": "IEEE Trans Biomed Eng"
+        },
+        {
+          "issue": "4",
+          "key": "5451_CR28",
+          "doi-asserted-by": "publisher",
+          "first-page": "H1446",
+          "DOI": "10.1152/ajpheart.00771.2005",
+          "volume": "290",
+          "author": "KS Dyson",
+          "year": "2006",
+          "unstructured": "Dyson KS, Shoemaker JK, Hughson RL (2006) Effect of acute sympathetic nervous system activation on flow-mediated dilation of brachial artery. Am J Physiol Heart Circ Physiol 290(4):H1446–H1453. https://doi.org/10.1152/ajpheart.00771.2005",
+          "journal-title": "Am J Physiol Heart Circ Physiol"
+        },
+        {
+          "issue": "1",
+          "key": "5451_CR29",
+          "doi-asserted-by": "publisher",
+          "first-page": "3",
+          "DOI": "10.1161/01.HYP.11.1.3",
+          "volume": "11",
+          "author": "M Esler",
+          "year": "1988",
+          "unstructured": "Esler M, Jennings G, Korner P, Willett I, Dudley F, Hasking G, Anderson W, Lambert G (1988) Assessment of human sympathetic nervous system activity from measurements of norepinephrine turnover. Hypertension 11(1):3–20",
+          "journal-title": "Hypertension"
+        },
+        {
+          "issue": "2",
+          "key": "5451_CR30",
+          "doi-asserted-by": "publisher",
+          "first-page": "103",
+          "DOI": "10.1007/BF01826204",
+          "volume": "1",
+          "author": "M Esler",
+          "year": "1991",
+          "unstructured": "Esler M, Eisenhofer G, Chin J, Jennings G, Meredith I, Cox H, Lambert G, Thompson J, Dart A (1991) Is adrenaline released by sympathetic nerves in man? Clin Auton Res 1(2):103–108",
+          "journal-title": "Clin Auton Res"
+        },
+        {
+          "issue": "Pt 14",
+          "key": "5451_CR31",
+          "doi-asserted-by": "publisher",
+          "first-page": "3637",
+          "DOI": "10.1113/jphysiol.2013.250894",
+          "volume": "591",
+          "author": "ST Fairfax",
+          "year": "2013",
+          "unstructured": "Fairfax ST, Holwerda SW, Credeur DP, Zuidema MY, Medley JH, Dyke PC, Wray DW, Davis MJ, Fadel PJ (2013a) The role of alpha-adrenergic receptors in mediating beat-by-beat sympathetic vascular transduction in the forearm of resting man. J Physiol 591(Pt 14):3637–3649. https://doi.org/10.1113/jphysiol.2013.250894",
+          "journal-title": "J Physiol"
+        },
+        {
+          "issue": "5",
+          "key": "5451_CR32",
+          "doi-asserted-by": "publisher",
+          "first-page": "H759",
+          "DOI": "10.1152/ajpheart.00842.2012",
+          "volume": "304",
+          "author": "ST Fairfax",
+          "year": "2013",
+          "unstructured": "Fairfax ST, Padilla J, Vianna LC, Davis MJ, Fadel PJ (2013b) Spontaneous bursts of muscle sympathetic nerve activity decrease leg vascular conductance in resting humans. Am J Physiol Heart Circ Physiol 304(5):H759–H766. https://doi.org/10.1152/ajpheart.00842.2012",
+          "journal-title": "Am J Physiol Heart Circ Physiol"
+        },
+        {
+          "key": "5451_CR33",
+          "doi-asserted-by": "publisher",
+          "first-page": "275",
+          "DOI": "10.1016/j.nicl.2014.08.021",
+          "volume": "6",
+          "author": "RH Fatouleh",
+          "year": "2014",
+          "unstructured": "Fatouleh RH, Hammam E, Lundblad LC, Macey PM, McKenzie DK, Henderson LA, Macefield VG (2014) Functional and structural changes in the brain associated with the increase in muscle sympathetic nerve activity in obstructive sleep apnoea. Neuroimage Clin 6:275–283. https://doi.org/10.1016/j.nicl.2014.08.021",
+          "journal-title": "Neuroimage Clin"
+        },
+        {
+          "key": "5451_CR34",
+          "doi-asserted-by": "publisher",
+          "first-page": "105",
+          "DOI": "10.1113/jphysiol.1990.sp018284",
+          "volume": "430",
+          "author": "SC Gandevia",
+          "year": "1990",
+          "unstructured": "Gandevia SC, Hobbs SF (1990) Cardiovascular responses to static exercise in man: central and reflex contributions. J Physiol 430:105–117. https://doi.org/10.1113/jphysiol.1990.sp018284",
+          "journal-title": "J Physiol"
+        },
+        {
+          "key": "5451_CR35",
+          "doi-asserted-by": "publisher",
+          "first-page": "173",
+          "DOI": "10.1113/jphysiol.1972.sp009979",
+          "volume": "226",
+          "author": "GM Goodwin",
+          "year": "1972",
+          "unstructured": "Goodwin GM, McCloskey DI, Mitchell JH (1972) Cardiovascular and respiratory responses to change in central command during isometric exercise at constant muscle tension. J Physiol 226:173–190",
+          "journal-title": "J Physiol"
+        },
+        {
+          "issue": "1",
+          "key": "5451_CR36",
+          "first-page": "53",
+          "volume": "22",
+          "author": "GA Gordon",
+          "year": "1907",
+          "unstructured": "Gordon GA (1907) Observations on the effect of prolonged and severe exertion on the blood pressure in healthy athletes. Edinb Med J 22(1):53–56",
+          "journal-title": "Edinb Med J"
+        },
+        {
+          "issue": "2",
+          "key": "5451_CR37",
+          "doi-asserted-by": "publisher",
+          "first-page": "1211",
+          "DOI": "10.1016/j.neuroimage.2010.09.050",
+          "volume": "54",
+          "author": "R Goswami",
+          "year": "2011",
+          "unstructured": "Goswami R, Frances MF, Shoemaker JK (2011) Representation of somatosensory inputs within the cortical autonomic network. Neuroimage 54(2):1211–1220. https://doi.org/10.1016/j.neuroimage.2010.09.050",
+          "journal-title": "Neuroimage"
+        },
+        {
+          "key": "5451_CR38",
+          "doi-asserted-by": "publisher",
+          "first-page": "96",
+          "DOI": "10.1111/j.1365-201X.1968.tb10904.x",
+          "volume": "74",
+          "author": "KE Hagbarth",
+          "year": "1968",
+          "unstructured": "Hagbarth KE, Vallbo AB (1968) Pulse and respiratory grouping of sypmathetic impulses in human sympathetic nerves. Acta Physiol Scand 74:96–108",
+          "journal-title": "Acta Physiol Scand"
+        },
+        {
+          "issue": "9",
+          "key": "5451_CR39",
+          "doi-asserted-by": "publisher",
+          "first-page": "1396",
+          "DOI": "10.1002/ar.22513",
+          "volume": "295",
+          "author": "LA Henderson",
+          "year": "2012",
+          "unstructured": "Henderson LA, James C, Macefield VG (2012) Identification of sites of sympathetic outflow during concurrent recordings of sympathetic nerve activity and FMRI. Anat Rec (Hoboken ) 295(9):1396–1403. https://doi.org/10.1002/ar.22513",
+          "journal-title": "Anat Rec (Hoboken )"
+        },
+        {
+          "issue": "11",
+          "key": "5451_CR40",
+          "doi-asserted-by": "publisher",
+          "first-page": "2753",
+          "DOI": "10.1113/jphysiol.2007.150060",
+          "volume": "586",
+          "author": "M Ichinose",
+          "year": "2008",
+          "unstructured": "Ichinose M, Saito M, Fujii N, Ogawa T, Hayashi K, Kondo N, Nishiyasu T (2008) Modulation of the control of muscle sympathetic nerve activity during incremental leg cycling. J Physiol 586(11):2753–2766. https://doi.org/10.1113/jphysiol.2007.150060",
+          "journal-title": "J Physiol"
+        },
+        {
+          "issue": "1",
+          "key": "5451_CR41",
+          "doi-asserted-by": "publisher",
+          "first-page": "28",
+          "DOI": "10.1113/EP090718",
+          "volume": "108",
+          "author": "K Ishii",
+          "year": "2023",
+          "unstructured": "Ishii K, Idesako M, Asahara R, Liang N, Matsukawa K (2023) Central command suppresses pressor-evoked bradycardia at the onset of voluntary standing up in conscious cats. Exp Physiol 108(1):28–37. https://doi.org/10.1113/EP090718",
+          "journal-title": "Exp Physiol"
+        },
+        {
+          "issue": "4 Pt 2",
+          "key": "5451_CR42",
+          "doi-asserted-by": "publisher",
+          "first-page": "H1078",
+          "DOI": "10.1152/ajpheart.1992.263.4.H1078",
+          "volume": "263",
+          "author": "MJ Joyner",
+          "year": "1992",
+          "unstructured": "Joyner MJ, Nauss LA, Warner MA, Warner DO (1992) Sympathetic modulation of blood flow and O2 uptake in rhythmically contracting human forearm muscles. Am J Physiol 263(4 Pt 2):H1078-1083. https://doi.org/10.1152/ajpheart.1992.263.4.H1078",
+          "journal-title": "Am J Physiol"
+        },
+        {
+          "issue": "4",
+          "key": "5451_CR43",
+          "doi-asserted-by": "publisher",
+          "first-page": "589",
+          "DOI": "10.1007/s12576-019-00669-6",
+          "volume": "69",
+          "author": "K Katayama",
+          "year": "2019",
+          "unstructured": "Katayama K, Saito M (2019) Muscle sympathetic nerve activity during exercise. J Physiol Sci 69(4):589–598. https://doi.org/10.1007/s12576-019-00669-6",
+          "journal-title": "J Physiol Sci"
+        },
+        {
+          "key": "5451_CR44",
+          "first-page": "381",
+          "volume-title": "Handbook of physiology",
+          "author": "MP Kaufman",
+          "year": "1996",
+          "unstructured": "Kaufman MP, Forster HV (1996) Reflexes controlling circulatory, ventilatory and airway responses to exercise. In: Rowell LB, Shepherd JT (eds) Handbook of physiology. American Physiological Society, New York, pp 381–447"
+        },
+        {
+          "key": "5451_CR45",
+          "doi-asserted-by": "publisher",
+          "first-page": "105",
+          "DOI": "10.1152/jappl.1983.55.1.105",
+          "volume": "55",
+          "author": "MP Kaufman",
+          "year": "1983",
+          "unstructured": "Kaufman MP, Longhurst JC, Rybicki KJ, Wallach JH, Mitchell JH (1983) Effects of static muscular contraction on impulse activity of group III and IV afferents in cats. J Appl Physiol 55:105–112",
+          "journal-title": "J Appl Physiol"
+        },
+        {
+          "key": "5451_CR46",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.autneu.2020.102743",
+          "volume": "230",
+          "author": "SA Klassen",
+          "year": "2021",
+          "unstructured": "Klassen SA, Shoemaker JK (2021) Action potential subpopulations within human muscle sympathetic nerve activity: discharge properties and governing mechanisms. Auton Neurosci 230:102743. https://doi.org/10.1016/j.autneu.2020.102743",
+          "journal-title": "Auton Neurosci"
+        },
+        {
+          "issue": "18",
+          "key": "5451_CR47",
+          "doi-asserted-by": "publisher",
+          "first-page": "4497",
+          "DOI": "10.1113/jp276440",
+          "volume": "596",
+          "author": "SA Klassen",
+          "year": "2018",
+          "unstructured": "Klassen SA, Limberg JK, Baker SE, Nicholson WT, Curry TB, Joyner MJ, Shoemaker JK (2018) The role of the paravertebral ganglia in human sympathetic neural discharge patterns. J Physiol 596(18):4497–4510. https://doi.org/10.1113/jp276440",
+          "journal-title": "J Physiol"
+        },
+        {
+          "issue": "10",
+          "key": "5451_CR48",
+          "doi-asserted-by": "publisher",
+          "first-page": "1881",
+          "DOI": "10.1113/JP279326",
+          "volume": "598",
+          "author": "SA Klassen",
+          "year": "2020",
+          "unstructured": "Klassen SA, Moir ME, Usselman CW, Shoemaker JK (2020) Heterogeneous baroreflex control of sympathetic action potential subpopulations in humans. J Physiol 598(10):1881–1895. https://doi.org/10.1113/JP279326",
+          "journal-title": "J Physiol"
+        },
+        {
+          "issue": "6",
+          "key": "5451_CR49",
+          "doi-asserted-by": "publisher",
+          "first-page": "1051",
+          "DOI": "10.1113/expphysiol.2006.034694",
+          "volume": "91",
+          "author": "HA Kluess",
+          "year": "2006",
+          "unstructured": "Kluess HA, Buckwalter JB, Hamann JJ, DeLorey DS, Clifford PS (2006) Frequency and pattern dependence of adrenergic and purinergic vasoconstriction in rat skeletal muscle arteries. Exp Physiol 91(6):1051–1058. https://doi.org/10.1113/expphysiol.2006.034694",
+          "journal-title": "Exp Physiol"
+        },
+        {
+          "issue": "1–2",
+          "key": "5451_CR50",
+          "doi-asserted-by": "publisher",
+          "first-page": "112",
+          "DOI": "10.1113/jphysiol.1913.sp001616",
+          "volume": "47",
+          "author": "A Krogh",
+          "year": "1913",
+          "unstructured": "Krogh A, Lindhard J (1913) The regulation of respiration and circulation during the initial stages of muscular work. J Physiol 47(1–2):112–136",
+          "journal-title": "J Physiol"
+        },
+        {
+          "issue": "3014",
+          "key": "5451_CR51",
+          "doi-asserted-by": "publisher",
+          "first-page": "366",
+          "DOI": "10.1136/bmj.2.3014.366",
+          "volume": "2",
+          "author": "G Lambert",
+          "year": "1918",
+          "unstructured": "Lambert G (1918) The exercise blood pressure test of myocardial efficiency. Br Med J 2(3014):366–368. https://doi.org/10.1136/bmj.2.3014.366",
+          "journal-title": "Br Med J"
+        },
+        {
+          "issue": "4–5",
+          "key": "5451_CR52",
+          "doi-asserted-by": "publisher",
+          "first-page": "347",
+          "DOI": "10.1113/jphysiol.1907.sp001236",
+          "volume": "36",
+          "author": "JN Langley",
+          "year": "1907",
+          "unstructured": "Langley JN (1907) On the contraction of muscle, chiefly in relation to the presence of “receptive” substances: part I. J Physiol 36(4–5):347–384. https://doi.org/10.1113/jphysiol.1907.sp001236",
+          "journal-title": "J Physiol"
+        },
+        {
+          "issue": "3",
+          "key": "5451_CR53",
+          "doi-asserted-by": "publisher",
+          "first-page": "165",
+          "DOI": "10.1113/jphysiol.1908.sp001265",
+          "volume": "37",
+          "author": "JN Langley",
+          "year": "1908",
+          "unstructured": "Langley JN (1908) On the contraction of muscle, chiefly in relation to the presence of “receptive” substances: Part II. J Physiol 37(3):165–212. https://doi.org/10.1113/jphysiol.1908.sp001265",
+          "journal-title": "J Physiol"
+        },
+        {
+          "key": "5451_CR54",
+          "doi-asserted-by": "publisher",
+          "first-page": "799",
+          "DOI": "10.1113/jphysiol.1994.sp020482",
+          "volume": "481",
+          "author": "VG Macefield",
+          "year": "1994",
+          "unstructured": "Macefield VG, Wallin BG, Vallbo AB (1994) The discharge behaviour of single vasoconstrictor motoneurones in human muscle nerves. J Physiol 481:799–809",
+          "journal-title": "J Physiol"
+        },
+        {
+          "issue": "1–2",
+          "key": "5451_CR55",
+          "doi-asserted-by": "publisher",
+          "first-page": "72",
+          "DOI": "10.1016/j.autneu.2012.01.009",
+          "volume": "168",
+          "author": "PM Macey",
+          "year": "2012",
+          "unstructured": "Macey PM, Wu P, Kumar R, Ogren JA, Richardson HL, Woo MA, Harper RM (2012) Differential responses of the insular cortex gyri to autonomic challenges. Auton Neurosci 168(1–2):72–81. https://doi.org/10.1016/j.autneu.2012.01.009",
+          "journal-title": "Auton Neurosci"
+        },
+        {
+          "key": "5451_CR304",
+          "doi-asserted-by": "publisher",
+          "first-page": "353",
+          "DOI": "10.1111/j.1748-1716.1994.tb09699.x",
+          "volume": "150",
+          "author": "G Magnusson",
+          "year": "1994",
+          "unstructured": "Magnusson G, Kaijser L, Isberg B, Saltin B (1994) Cardiovascular responses during one- and two-legged exercise in middle-aged men. Acta Physiol Scand 150:353–362",
+          "journal-title": "Acta Physiol Scand"
+        },
+        {
+          "issue": "4",
+          "key": "5451_CR56",
+          "doi-asserted-by": "publisher",
+          "first-page": "H1454",
+          "DOI": "10.1152/ajpheart.2001.280.4.H1454",
+          "volume": "280",
+          "author": "SA McIlveen",
+          "year": "2001",
+          "unstructured": "McIlveen SA, Hayes SG, Kaufman MP (2001) Both central command and exercise pressor reflex reset carotid sinus baroreflex. Am J Physiol Heart Circ Physiol 280(4):H1454-1463. https://doi.org/10.1152/ajpheart.2001.280.4.H1454",
+          "journal-title": "Am J Physiol Heart Circ Physiol"
+        },
+        {
+          "key": "5451_CR57",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7554/eLife.57288",
+          "author": "C Menuet",
+          "year": "2020",
+          "unstructured": "Menuet C, Connelly AA, Bassi JK, Melo MR, Le S, Kamar J, Kumar NN, McDougall SJ, McMullan S, Allen AM (2020) PreBotzinger complex neurons drive respiratory modulation of blood pressure and heart rate. Elife. https://doi.org/10.7554/eLife.57288",
+          "journal-title": "Elife"
+        },
+        {
+          "issue": "2",
+          "key": "5451_CR58",
+          "doi-asserted-by": "crossref",
+          "first-page": "141",
+          "DOI": "10.1249/00005768-199004000-00535",
+          "volume": "22",
+          "author": "JH Mitchell",
+          "year": "1990",
+          "unstructured": "Mitchell JH (1990) J.B. Wolffe memorial lecture Neural control of the circulation during exercise. Med Sci Sports Exerc 22(2):141–154",
+          "journal-title": "Med Sci Sports Exerc"
+        },
+        {
+          "issue": "10 Suppl",
+          "key": "5451_CR59",
+          "doi-asserted-by": "publisher",
+          "first-page": "S60",
+          "DOI": "10.1097/00005768-199610000-00036",
+          "volume": "28",
+          "author": "JH Mitchell",
+          "year": "1996",
+          "unstructured": "Mitchell JH, Victor RG (1996) Neural control of the cardiovascular system: insights from muscle sympathetic nerve recordings in humans. Med Sci Sports Exerc 28(10 Suppl):S60–S69",
+          "journal-title": "Med Sci Sports Exerc"
+        },
+        {
+          "key": "5451_CR60",
+          "doi-asserted-by": "publisher",
+          "first-page": "229",
+          "DOI": "10.1146/annurev.ph.45.030183.001305",
+          "volume": "45",
+          "author": "JH Mitchell",
+          "year": "1983",
+          "unstructured": "Mitchell JH, Kaufman MP, Iwamoto GA (1983) The exercise pressor reflex: its cardiovascular effects, afferent mechanisms, and central pathways. Ann Rev Physiol 45:229–242",
+          "journal-title": "Ann Rev Physiol"
+        },
+        {
+          "issue": "49",
+          "key": "5451_CR61",
+          "doi-asserted-by": "publisher",
+          "first-page": "19223",
+          "DOI": "10.1523/JNEUROSCI.3041-13.2013",
+          "volume": "33",
+          "author": "DJ Moraes",
+          "year": "2013",
+          "unstructured": "Moraes DJ, da Silva MP, Bonagamba LG, Mecawi AS, Zoccal DB, Antunes-Rodrigues J, Varanda WA, Machado BH (2013) Electrophysiological properties of rostral ventrolateral medulla presympathetic neurons modulated by the respiratory network in rats. J Neurosci 33(49):19223–19237. https://doi.org/10.1523/JNEUROSCI.3041-13.2013",
+          "journal-title": "J Neurosci"
+        },
+        {
+          "issue": "Pt 1",
+          "key": "5451_CR62",
+          "doi-asserted-by": "publisher",
+          "first-page": "273",
+          "DOI": "10.1113/jphysiol.2005.086025",
+          "volume": "566",
+          "author": "SP Mortensen",
+          "year": "2005",
+          "unstructured": "Mortensen SP, Dawson EA, Yoshiga CC, Dalsgaard MK, Damsgaard R, Secher NH, González-Alonso J (2005) Limitations to systemic and locomotor limb muscle oxygen delivery and uptake during maximal exercise in humans. J Physiol 566(Pt 1):273–285. https://doi.org/10.1113/jphysiol.2005.086025",
+          "journal-title": "J Physiol"
+        },
+        {
+          "issue": "1",
+          "key": "5451_CR63",
+          "doi-asserted-by": "publisher",
+          "first-page": "76",
+          "DOI": "10.1161/01.CIR.24.1.76",
+          "volume": "24",
+          "author": "RJ Mrashall",
+          "year": "1961",
+          "unstructured": "Mrashall RJ, Schirger A, Shepherd JT (1961) Blood pressure during supine exercise in idiopathic orthostatic hypotension. Circulation 24(1):76–81. https://doi.org/10.1161/01.CIR.24.1.76",
+          "journal-title": "Circulation"
+        },
+        {
+          "issue": "6",
+          "key": "5451_CR305",
+          "doi-asserted-by": "publisher",
+          "first-page": "838",
+          "DOI": "10.1161/01.STR.13.6.838",
+          "volume": "13",
+          "author": "MG Myers",
+          "year": "1982",
+          "unstructured": "Myers MG, Norris JW, Hachinski VC, Weingert ME, Sole MJ (1982) Cardiac sequelae of acute stroke. Stroke 13(6):838–842",
+          "journal-title": "Stroke"
+        },
+        {
+          "issue": "2",
+          "key": "5451_CR64",
+          "doi-asserted-by": "publisher",
+          "first-page": "139",
+          "DOI": "10.1016/0165-1838(93)90125-E",
+          "volume": "45",
+          "author": "I Ninomiya",
+          "year": "1993",
+          "unstructured": "Ninomiya I, Malpas SC, Matsukawa K, Shindo T, Akiyama T (1993) The amplitude of synchronized cardiac sympathetic nerve activity reflects the number of activated pre- and postganglionic fibers in anesthetized cats. J Auton Nerv Syst 45(2):139–147",
+          "journal-title": "J Auton Nerv Syst"
+        },
+        {
+          "issue": "3",
+          "key": "5451_CR65",
+          "doi-asserted-by": "publisher",
+          "first-page": "819",
+          "DOI": "10.1152/jappl.1999.86.3.819",
+          "volume": "86",
+          "author": "M Nowak",
+          "year": "1999",
+          "unstructured": "Nowak M, Olsen KS, Law I, Holm S, Paulson OB, Secher NH (1999) Command-related distribution of regional cerebral blood flow during attempted handgrip. J Appl Physiol 86(3):819–824",
+          "journal-title": "J Appl Physiol"
+        },
+        {
+          "issue": "2",
+          "key": "5451_CR306",
+          "doi-asserted-by": "publisher",
+          "first-page": "259",
+          "DOI": "10.1002/hbm.20097",
+          "volume": "25",
+          "author": "M Nowak",
+          "year": "2005",
+          "unstructured": "Nowak M, Holm S, Biering-Sorensen F, Secher NH, Friberg L (2005) Central command and insular activation during attempted foot lifting in paraplegic humans. Hum Brain Mapp 25(2):259–265",
+          "journal-title": "Hum Brain Mapp"
+        },
+        {
+          "issue": "13",
+          "key": "5451_CR66",
+          "doi-asserted-by": "publisher",
+          "first-page": "5951",
+          "DOI": "10.1073/pnas.89.13.5951",
+          "volume": "89",
+          "author": "S Ogawa",
+          "year": "1992",
+          "unstructured": "Ogawa S, Tank DW, Menon R, Ellermann JM, Kim SG, Merkle H, Ugurbil K (1992) Intrinsic signal changes accompanying sensory stimulation: functional brain mapping with magnetic resonance imaging. Proc Natl Acad Sci USA 89(13):5951–5955",
+          "journal-title": "Proc Natl Acad Sci USA"
+        },
+        {
+          "issue": "3 Pt 2",
+          "key": "5451_CR67",
+          "first-page": "R641",
+          "volume": "271",
+          "author": "DS O'Leary",
+          "year": "1996",
+          "unstructured": "O’Leary DS, Woodbury DJ (1996) Role of cardiac output in mediating arterial blood pressure oscillations. Am J Physiol 271(3 Pt 2):R641–R646",
+          "journal-title": "Am J Physiol"
+        },
+        {
+          "key": "5451_CR68",
+          "first-page": "R386",
+          "volume": "272",
+          "author": "DS O'Leary",
+          "year": "1997",
+          "unstructured": "O’Leary DS, Robinson ED, Butler JL (1997a) Is active skeletal muscle functionally vasoconstricted during dynamic exercise in conscious dogs? Am J Physiol 272:R386–R391",
+          "journal-title": "Am J Physiol"
+        },
+        {
+          "issue": "1 Pt 2",
+          "key": "5451_CR69",
+          "doi-asserted-by": "publisher",
+          "first-page": "R386",
+          "DOI": "10.1152/ajpregu.1997.272.1.R386",
+          "volume": "272",
+          "author": "DS O'Leary",
+          "year": "1997",
+          "unstructured": "O’Leary DS, Robinson ED, Butler JL (1997b) Is active skeletal muscle functionally vasoconstricted during dynamic exercise in conscious dogs? Am J Physiol 272(1 Pt 2):R386-391. https://doi.org/10.1152/ajpregu.1997.272.1.R386",
+          "journal-title": "Am J Physiol"
+        },
+        {
+          "key": "5451_CR70",
+          "doi-asserted-by": "publisher",
+          "first-page": "66",
+          "DOI": "10.1016/0006-8993(90)91796-J",
+          "volume": "533",
+          "author": "SM Oppenheimer",
+          "year": "1990",
+          "unstructured": "Oppenheimer SM, Cechetto DF (1990) Cardiac chronotropic organization of the rat insular cortex. Brain Res 533:66–72",
+          "journal-title": "Brain Res"
+        },
+        {
+          "issue": "1",
+          "key": "5451_CR71",
+          "doi-asserted-by": "publisher",
+          "first-page": "115",
+          "DOI": "10.1016/0006-8993(91)90412-O",
+          "volume": "550",
+          "author": "SM Oppenheimer",
+          "year": "1991",
+          "unstructured": "Oppenheimer SM, Wilson JX, Guiraudon C, Cechetto DF (1991) Insular cortex stimulation produces lethal cardiac arrhythmias: a mechanism of sudden death? Brain Res 550(1):115–121",
+          "journal-title": "Brain Res"
+        },
+        {
+          "issue": "9",
+          "key": "5451_CR72",
+          "doi-asserted-by": "publisher",
+          "first-page": "1727",
+          "DOI": "10.1212/WNL.42.9.1727",
+          "volume": "42",
+          "author": "SM Oppenheimer",
+          "year": "1992",
+          "unstructured": "Oppenheimer SM, Gelb A, Girvin JP, Hachinski VC (1992) Cardiovascular effects of human insular cortex stimulation. Neurology 42(9):1727–1732",
+          "journal-title": "Neurology"
+        },
+        {
+          "key": "5451_CR73",
+          "first-page": "239",
+          "volume": "27",
+          "author": "EO Otis",
+          "year": "1911",
+          "unstructured": "Otis EO (1911) Physical exercise and blood-pressure. Trans Am Climatol Assoc 27:239–256",
+          "journal-title": "Trans Am Climatol Assoc"
+        },
+        {
+          "issue": "1–3",
+          "key": "5451_CR74",
+          "doi-asserted-by": "publisher",
+          "first-page": "27",
+          "DOI": "10.1016/j.ejphar.2004.07.008",
+          "volume": "500",
+          "author": "J Pablo Huidobro-Toro",
+          "year": "2004",
+          "unstructured": "Pablo Huidobro-Toro J, Verónica Donoso M (2004) Sympathetic co-transmission: the coordinated action of ATP and noradrenaline and their modulation by neuropeptide Y in human vascular neuroeffector junctions. Eur J Pharmacol 500(1–3):27–35. https://doi.org/10.1016/j.ejphar.2004.07.008",
+          "journal-title": "Eur J Pharmacol"
+        },
+        {
+          "issue": "2",
+          "key": "5451_CR75",
+          "doi-asserted-by": "publisher",
+          "first-page": "284",
+          "DOI": "10.1161/01.RES.0000257370.63694.73",
+          "volume": "100",
+          "author": "JR Padley",
+          "year": "2007",
+          "unstructured": "Padley JR, Kumar NN, Li Q, Nguyen TB, Pilowsky PM, Goodchild AK (2007) Central command regulation of circulatory function mediated by descending pontine cholinergic inputs to sympathoexcitatory rostral ventrolateral medulla neurons. Circ Res 100(2):284–291. https://doi.org/10.1161/01.RES.0000257370.63694.73",
+          "journal-title": "Circ Res"
+        },
+        {
+          "issue": "3 Pt 2",
+          "key": "5451_CR76",
+          "first-page": "H866",
+          "volume": "257",
+          "author": "J Pernow",
+          "year": "1989",
+          "unstructured": "Pernow J, Schwieler J, Kahan T, Hjemdahl P, Oberle J, Wallin BG, Lundberg JM (1989) Influence of sympathetic discharge pattern on norepinephrine and neuropeptide Y release. Am J Physiol 257(3 Pt 2):H866–H872",
+          "journal-title": "Am J Physiol"
+        },
+        {
+          "issue": "1–2",
+          "key": "5451_CR77",
+          "doi-asserted-by": "publisher",
+          "first-page": "103",
+          "DOI": "10.1046/j.1440-1681.2002.03613.x",
+          "volume": "29",
+          "author": "JT Potts",
+          "year": "2002",
+          "unstructured": "Potts JT (2002) Neural circuits controlling cardiorespiratory responses: baroreceptor and somatic afferents in the nucleus tractus solitarius. Clin Exp Pharmacol Physiol 29(1–2):103–111",
+          "journal-title": "Clin Exp Pharmacol Physiol"
+        },
+        {
+          "issue": "1",
+          "key": "5451_CR78",
+          "doi-asserted-by": "publisher",
+          "first-page": "39",
+          "DOI": "10.1097/00003677-200201000-00008",
+          "volume": "30",
+          "author": "PB Raven",
+          "year": "2002",
+          "unstructured": "Raven PB, Fadel PJ, Smith SA (2002) The influence of central command on baroreflex resetting during exercise. Exerc Sport Sci Rev 30(1):39–44",
+          "journal-title": "Exerc Sport Sci Rev"
+        },
+        {
+          "key": "5451_CR79",
+          "volume-title": "Human circulation: regulation during physical stress",
+          "author": "LB Rowell",
+          "year": "1986",
+          "unstructured": "Rowell LB (1986) Human circulation: regulation during physical stress. Oxford University Press, New York"
+        },
+        {
+          "key": "5451_CR80",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/oso/9780195073621.001.0001",
+          "volume-title": "Human cardiovascular control",
+          "author": "LB Rowell",
+          "year": "1993",
+          "unstructured": "Rowell LB (1993) Human cardiovascular control. Oxford University Press, New York"
+        },
+        {
+          "key": "5451_CR81",
+          "first-page": "770",
+          "volume-title": "Handbook of physiology",
+          "author": "LB Rowell",
+          "year": "1996",
+          "unstructured": "Rowell LB, O’Leary DS, Kellogg DL Jr (1996) Integration of cardiovascular control systems in dynamic exercise. In: Rowell LB, Shepherd JT (eds) Handbook of physiology. American Physiological Society, New York, pp 770–838"
+        },
+        {
+          "issue": "5",
+          "key": "5451_CR82",
+          "doi-asserted-by": "publisher",
+          "first-page": "709",
+          "DOI": "10.1002/ana.24642",
+          "volume": "79",
+          "author": "E Ruiz Vargas",
+          "year": "2016",
+          "unstructured": "Ruiz Vargas E, Sörös P, Shoemaker JK, Hachinski V (2016) Human cerebral circuitry related to cardiac control: a neuroimaging meta-analysis. Ann Neurol 79(5):709–716. https://doi.org/10.1002/ana.24642",
+          "journal-title": "Ann Neurol"
+        },
+        {
+          "issue": "2",
+          "key": "5451_CR83",
+          "doi-asserted-by": "publisher",
+          "first-page": "343",
+          "DOI": "10.1016/j.jneumeth.2010.08.035",
+          "volume": "193",
+          "author": "A Salmanpour",
+          "year": "2010",
+          "unstructured": "Salmanpour A, Brown LJ, Shoemaker JK (2010) Spike detection in human muscle sympathetic nerve activity using a matched wavelet approach. J Neurosci Methods 193(2):343–355. https://doi.org/10.1016/j.jneumeth.2010.08.035",
+          "journal-title": "J Neurosci Methods"
+        },
+        {
+          "key": "5451_CR84",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/jn.00814.2010",
+          "author": "A Salmanpour",
+          "year": "2011",
+          "unstructured": "Salmanpour A, Brown LJ, Steinback CD, Usselman CW, Goswami R, Shoemaker JK (2011) Relationship between size and latency of action potentials in human muscle sympathetic nerve activity. J Neurophysiol. https://doi.org/10.1152/jn.00814.2010",
+          "journal-title": "J Neurophysiol"
+        },
+        {
+          "key": "5451_CR86",
+          "doi-asserted-by": "publisher",
+          "first-page": "313",
+          "DOI": "10.1249/00003677-199101000-00009",
+          "volume": "19",
+          "author": "DR Seals",
+          "year": "1991",
+          "unstructured": "Seals DR, Victor RG (1991) Regulation of muscle sympathetic nerve activity during exercise in humans. Exerc Sport Sci Rev 19:313–349",
+          "journal-title": "Exerc Sport Sci Rev"
+        },
+        {
+          "key": "5451_CR87",
+          "first-page": "H1227",
+          "volume": "265",
+          "author": "DD Sheriff",
+          "year": "1993",
+          "unstructured": "Sheriff DD, Rowell LB, Scher AM (1993) Is rapid rise in vascular conductance at onset of dynamic exercise due to muscle pump? Am J Physiol 265:H1227–H1234",
+          "journal-title": "Am J Physiol"
+        },
+        {
+          "issue": "4",
+          "key": "5451_CR88",
+          "doi-asserted-by": "publisher",
+          "first-page": "175",
+          "DOI": "10.1249/jes.0000000000000299",
+          "volume": "50",
+          "author": "JK Shoemaker",
+          "year": "2022",
+          "unstructured": "Shoemaker JK (2022) Forebrain network associated with cardiovascular control in exercising humans. Exerc Sport Sci Rev 50(4):175–184. https://doi.org/10.1249/jes.0000000000000299",
+          "journal-title": "Exerc Sport Sci Rev"
+        },
+        {
+          "issue": "5 Pt 2",
+          "key": "5451_CR89",
+          "first-page": "R1434",
+          "volume": "276",
+          "author": "JK Shoemaker",
+          "year": "1999",
+          "unstructured": "Shoemaker JK, McQuillan PM, Sinoway LI (1999) Upright posture reduces forearm blood flow early in exercise. Am J Physiol 276(5 Pt 2):R1434–R1442",
+          "journal-title": "Am J Physiol"
+        },
+        {
+          "key": "5451_CR90",
+          "first-page": "H1215",
+          "volume": "279",
+          "author": "JK Shoemaker",
+          "year": "2000",
+          "unstructured": "Shoemaker JK, Herr MD, Sinoway LI (2000) Dissociation of muscle sympathetic nerve activity and leg vascular resistance in humans. Am J Physiol 279:H1215–H1219",
+          "journal-title": "Am J Physiol"
+        },
+        {
+          "issue": "1",
+          "key": "5451_CR91",
+          "doi-asserted-by": "publisher",
+          "first-page": "228",
+          "DOI": "10.1152/japplphysiol.01334.2006",
+          "volume": "103",
+          "author": "JK Shoemaker",
+          "year": "2007",
+          "unstructured": "Shoemaker JK, Mattar L, Kerbeci P, Trotter S, Arbeille P, Hughson RL (2007) WISE 2005: stroke volume changes contribute to the pressor response during ischemic handgrip exercise in women. J Appl Physiol 103(1):228–233",
+          "journal-title": "J Appl Physiol"
+        },
+        {
+          "issue": "9",
+          "key": "5451_CR92",
+          "doi-asserted-by": "publisher",
+          "first-page": "1375",
+          "DOI": "10.1002/ar.22528",
+          "volume": "295",
+          "author": "JK Shoemaker",
+          "year": "2012",
+          "unstructured": "Shoemaker JK, Wong SW, Cechetto DF (2012) Cortical circuitry associated with reflex cardiovascular control in humans: does the cortical autonomic network “speak” or “listen” during cardiovascular arousal. Anat Rec (Hoboken) 295(9):1375–1384. https://doi.org/10.1002/ar.22528",
+          "journal-title": "Anat Rec (Hoboken)"
+        },
+        {
+          "issue": "1",
+          "key": "5451_CR93",
+          "doi-asserted-by": "publisher",
+          "first-page": "303",
+          "DOI": "10.1002/cphy.c150004",
+          "volume": "6",
+          "author": "JK Shoemaker",
+          "year": "2015",
+          "unstructured": "Shoemaker JK, Badrov MB, Al-Khazraji BK, Jackson DN (2015a) Neural control of vascular function in skeletal muscle. Compr Physiol 6(1):303–329. https://doi.org/10.1002/cphy.c150004",
+          "journal-title": "Compr Physiol"
+        },
+        {
+          "key": "5451_CR94",
+          "doi-asserted-by": "publisher",
+          "first-page": "5",
+          "DOI": "10.1016/j.autneu.2014.10.022",
+          "volume": "188",
+          "author": "JK Shoemaker",
+          "year": "2015",
+          "unstructured": "Shoemaker JK, Norton KN, Baker J, Luchyshyn T (2015b) Forebrain organization for autonomic cardiovascular control. Auton Neurosci 188:5–9. https://doi.org/10.1016/j.autneu.2014.10.022",
+          "journal-title": "Auton Neurosci"
+        },
+        {
+          "issue": "5",
+          "key": "5451_CR95",
+          "doi-asserted-by": "publisher",
+          "first-page": "1731",
+          "DOI": "10.1152/jn.00841.2017",
+          "volume": "119",
+          "author": "JK Shoemaker",
+          "year": "2018",
+          "unstructured": "Shoemaker JK, Klassen SA, Badrov MB, Fadel PJ (2018) Fifty years of microneurography: learning the language of the peripheral sympathetic nervous system in humans. J Neurophysiol 119(5):1731–1744. https://doi.org/10.1152/jn.00841.2017",
+          "journal-title": "J Neurophysiol"
+        },
+        {
+          "issue": "Pt 23",
+          "key": "5451_CR96",
+          "doi-asserted-by": "publisher",
+          "first-page": "4825",
+          "DOI": "10.1113/jphysiol.2010.195941",
+          "volume": "588",
+          "author": "CD Steinback",
+          "year": "2010",
+          "unstructured": "Steinback CD, Salmanpour A, Breskovic T, Dujic Z, Shoemaker JK (2010) Sympathetic neural activation: an ordered affair. J Physiol 588(Pt 23):4825–4836. https://doi.org/10.1113/jphysiol.2010.195941",
+          "journal-title": "J Physiol"
+        },
+        {
+          "key": "5451_CR97",
+          "doi-asserted-by": "publisher",
+          "first-page": "525",
+          "DOI": "10.1113/jphysiol.1978.sp012322",
+          "volume": "278",
+          "author": "G Sundlof",
+          "year": "1978",
+          "unstructured": "Sundlof G, Wallin BG (1978) Effect of lower body negative pressure on human muscle nerve sympathetic activity. J Physiol 278:525–532",
+          "journal-title": "J Physiol"
+        },
+        {
+          "issue": "2",
+          "key": "5451_CR98",
+          "doi-asserted-by": "publisher",
+          "first-page": "747",
+          "DOI": "10.1016/j.neubiorev.2011.11.009",
+          "volume": "36",
+          "author": "JF Thayer",
+          "year": "2012",
+          "unstructured": "Thayer JF, Ahs F, Fredrikson M, Sollers JJ III, Wager TD (2012) A meta-analysis of heart rate variability and neuroimaging studies: implications for heart rate variability as a marker of stress and health. Neurosci Biobehav Rev 36(2):747–756. https://doi.org/10.1016/j.neubiorev.2011.11.009",
+          "journal-title": "Neurosci Biobehav Rev"
+        },
+        {
+          "key": "5451_CR99",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/japplphysiol.00273.2013",
+          "author": "RP Tompkins",
+          "year": "2013",
+          "unstructured": "Tompkins RP, Melling CW, Wilson TD, Bates BD, Shoemaker JK (2013) Arrangement of sympathetic fibres within the human common peroneal nerve: Implications for microneurography. J Appl Physiol (1985). https://doi.org/10.1152/japplphysiol.00273.2013",
+          "journal-title": "J Appl Physiol (1985)"
+        },
+        {
+          "issue": "3",
+          "key": "5451_CR100",
+          "doi-asserted-by": "publisher",
+          "first-page": "383",
+          "DOI": "10.3390/cells11030383",
+          "volume": "11",
+          "author": "G Travers",
+          "year": "2022",
+          "unstructured": "Travers G, Kippelen P, Trangmar SJ, González-Alonso J (2022) Physiological function during exercise and environmental stress in humans—an integrative view of body systems and homeostasis. Cells 11(3):383",
+          "journal-title": "Cells"
+        },
+        {
+          "issue": "3",
+          "key": "5451_CR101",
+          "doi-asserted-by": "publisher",
+          "first-page": "1415",
+          "DOI": "10.1152/jn.00933.2017",
+          "volume": "120",
+          "author": "ÅB Vallbo",
+          "year": "2018",
+          "unstructured": "Vallbo ÅB (2018) Microneurography: how it started and how it works. J Neurophysiol 120(3):1415–1427. https://doi.org/10.1152/jn.00933.2017",
+          "journal-title": "J Neurophysiol"
+        },
+        {
+          "key": "5451_CR102",
+          "doi-asserted-by": "publisher",
+          "first-page": "919",
+          "DOI": "10.1152/physrev.1979.59.4.919",
+          "volume": "59",
+          "author": "AB Vallbo",
+          "year": "1979",
+          "unstructured": "Vallbo AB, Hagbarth KE, Torebjork HE, Wallin BG (1979) Somatosensory, proprioceptive, and sympathetic activity in human peripheral nerves. Physiol Rev 59:919–957",
+          "journal-title": "Physiol Rev"
+        },
+        {
+          "issue": "5",
+          "key": "5451_CR103",
+          "doi-asserted-by": "publisher",
+          "first-page": "709",
+          "DOI": "10.1002/ana.24642",
+          "volume": "79",
+          "author": "ER Vargas",
+          "year": "2016",
+          "unstructured": "Vargas ER, Soeroes P, Shoemaker JK, Hachinski V (2016) Human cerebral circuitry related to cardiac control: a neuroimaging meta-analysis. Ann Neurol 79(5):709–716. https://doi.org/10.1002/ana.24642",
+          "journal-title": "Ann Neurol"
+        },
+        {
+          "key": "5451_CR104",
+          "doi-asserted-by": "publisher",
+          "first-page": "495",
+          "DOI": "10.1161/01.RES.27.4.495",
+          "volume": "27",
+          "author": "SF Vatner",
+          "year": "1970",
+          "unstructured": "Vatner SF, Franklin D, Van Citters RL, Braunwald E (1970) Effects of carotid sinus nerve stimulation on blood-flow distribution in conscious dogs at rest and during exercise. Circ Res 27:495–503",
+          "journal-title": "Circ Res"
+        },
+        {
+          "key": "5451_CR105",
+          "doi-asserted-by": "publisher",
+          "first-page": "508",
+          "DOI": "10.1172/JCI112841",
+          "volume": "79",
+          "author": "RG Victor",
+          "year": "1987",
+          "unstructured": "Victor RG, Seals DR, Mark AL (1987) Differential control of heart rate and sympathetic nerve activity during dynamic exercise. J Clin Invest 79:508–516",
+          "journal-title": "J Clin Invest"
+        },
+        {
+          "issue": "2",
+          "key": "5451_CR106",
+          "doi-asserted-by": "publisher",
+          "first-page": "376",
+          "DOI": "10.1152/japplphysiol.00674.2015",
+          "volume": "121",
+          "author": "S Volianitis",
+          "year": "2016",
+          "unstructured": "Volianitis S, Secher NH (2016) Cardiovascular control during whole body exercise. J Appl Physiol (1985) 121(2):376–390. https://doi.org/10.1152/japplphysiol.00674.2015",
+          "journal-title": "J Appl Physiol (1985)"
+        },
+        {
+          "issue": "2",
+          "key": "5451_CR107",
+          "doi-asserted-by": "publisher",
+          "first-page": "331",
+          "DOI": "10.1113/jphysiol.1994.sp020025",
+          "volume": "474",
+          "author": "BG Wallin",
+          "year": "1994",
+          "unstructured": "Wallin BG, Burke D, Gandevia S (1994) Coupling between variations in strength and baroreflex latency of sympathetic discharges in human muscle nerves. J Physiol 474(2):331–338",
+          "journal-title": "J Physiol"
+        },
+        {
+          "issue": "3",
+          "key": "5451_CR108",
+          "doi-asserted-by": "publisher",
+          "first-page": "291",
+          "DOI": "10.1046/j.1365-201X.2003.01071.x",
+          "volume": "177",
+          "author": "BG Wallin",
+          "year": "2003",
+          "unstructured": "Wallin BG, Donadio V, Karlsson T, Kallio M, Nordin M, Elam M (2003) Arousal increases baroreflex inhibition of muscle sympathetic activity. Acta Physiol Scand 177(3):291–298. https://doi.org/10.1046/j.1365-201X.2003.01071.x",
+          "journal-title": "Acta Physiol Scand"
+        },
+        {
+          "issue": "1",
+          "key": "5451_CR109",
+          "doi-asserted-by": "publisher",
+          "first-page": "31",
+          "DOI": "10.1113/expphysiol.2008.043638",
+          "volume": "94",
+          "author": "WG Wier",
+          "year": "2009",
+          "unstructured": "Wier WG, Zang WJ, Lamont C, Raina H (2009) Sympathetic neurogenic Ca2+ signalling in rat arteries: ATP, noradrenaline and neuropeptide Y. Exp Physiol 94(1):31–37. https://doi.org/10.1113/expphysiol.2008.043638",
+          "journal-title": "Exp Physiol"
+        },
+        {
+          "key": "5451_CR110",
+          "doi-asserted-by": "publisher",
+          "first-page": "3",
+          "DOI": "10.1016/j.autneu.2014.10.011",
+          "volume": "188",
+          "author": "JW Williamson",
+          "year": "2015",
+          "unstructured": "Williamson JW (2015) Autonomic responses to exercise: Where is central command? Auton Neurosci 188:3–4. https://doi.org/10.1016/j.autneu.2014.10.011",
+          "journal-title": "Auton Neurosci"
+        },
+        {
+          "issue": "4",
+          "key": "5451_CR111",
+          "doi-asserted-by": "publisher",
+          "first-page": "1392",
+          "DOI": "10.1152/jappl.2001.90.4.1392",
+          "volume": "90",
+          "author": "JW Williamson",
+          "year": "2001",
+          "unstructured": "Williamson JW, McColl R, Mathews D, Mitchell JH, Raven PB, Morgan WP (2001) Hypnotic manipulation of effort sense during dynamic exercise: cardiovascular responses and brain activation. J Appl Physiol 90(4):1392–1399",
+          "journal-title": "J Appl Physiol"
+        },
+        {
+          "issue": "3",
+          "key": "5451_CR112",
+          "doi-asserted-by": "publisher",
+          "first-page": "1317",
+          "DOI": "10.1152/japplphysiol.00939.2001",
+          "volume": "92",
+          "author": "JW Williamson",
+          "year": "2002",
+          "unstructured": "Williamson JW, McColl R, Mathews D, Mitchell JH, Raven PB, Morgan WP (2002) Brain activation by central command during actual and imagined handgrip under hypnosis. J Appl Physiol 92(3):1317–1324",
+          "journal-title": "J Appl Physiol"
+        },
+        {
+          "key": "5451_CR113",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.autneu.2017.05.012",
+          "author": "KN Wood",
+          "year": "2017",
+          "unstructured": "Wood KN, Badrov MB, Speechley MR, Shoemaker JK (2017) Regional cerebral cortical thickness correlates with autonomic outflow. Auton Neurosci. https://doi.org/10.1016/j.autneu.2017.05.012",
+          "journal-title": "Auton Neurosci"
+        },
+        {
+          "issue": "Pt 2",
+          "key": "5451_CR114",
+          "doi-asserted-by": "publisher",
+          "first-page": "621",
+          "DOI": "10.1111/j.1469-7793.1999.621ac.x",
+          "volume": "515",
+          "author": "A Xie",
+          "year": "1999",
+          "unstructured": "Xie A, Skatrud JB, Puleo DS, Morgan BJ (1999) Arousal from sleep shortens sympathetic burst latency in humans. J Physiol 515(Pt 2):621–628",
+          "journal-title": "J Physiol"
+        },
+        {
+          "issue": "3",
+          "key": "5451_CR307",
+          "doi-asserted-by": "publisher",
+          "first-page": "355",
+          "DOI": "10.1002/cne.903030303",
+          "volume": "303",
+          "author": "Y Yasui",
+          "year": "1991",
+          "unstructured": "Yasui Y, Breder CD, Saper CB, Cechetto DF (1991) Autonomic responses and efferent pathways from the insular cortex in the rat. J Comp Neurol 303(3):355–374. https://doi.org/10.1002/cne.903030303",
+          "journal-title": "J Comp Neurol"
+        },
+        {
+          "issue": "6",
+          "key": "5451_CR308",
+          "doi-asserted-by": "publisher",
+          "first-page": "741",
+          "DOI": "10.1001/archneur.1997.00550180055012",
+          "volume": "54",
+          "author": "BW Yoon",
+          "year": "1997",
+          "unstructured": "Yoon BW, Morillo CA, Cechetto DF, Hachinski V (1997) Cerebral hemispheric lateralization in cardiac autonomic control. Arch Neurol 54(6):741–744",
+          "journal-title": "Arch Neurol"
+        }
+      ],
+      "container-title": [
+        "European Journal of Applied Physiology"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://link.springer.com/content/pdf/10.1007/s00421-024-05451-0.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://link.springer.com/article/10.1007/s00421-024-05451-0/fulltext.html",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://link.springer.com/content/pdf/10.1007/s00421-024-05451-0.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            4,
+            27
+          ]
+        ],
+        "date-time": "2024-04-27T08:02:55Z",
+        "timestamp": 1714204975000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://link.springer.com/10.1007/s00421-024-05451-0"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2024,
+            3,
+            5
+          ]
+        ]
+      },
+      "references-count": 122,
+      "journal-issue": {
+        "issue": "5",
+        "published-print": {
+          "date-parts": [
+            [
+              2024,
+              5
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "5451"
+      ],
+      "URL": "https://doi.org/10.1007/s00421-024-05451-0",
+      "relation": {},
+      "ISSN": [
+        "1439-6319",
+        "1439-6327"
+      ],
+      "issn-type": [
+        {
+          "value": "1439-6319",
+          "type": "print"
+        },
+        {
+          "value": "1439-6327",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            3,
+            5
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "18 October 2023",
+          "order": 1,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "26 February 2024",
+          "order": 2,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "5 March 2024",
+          "order": 3,
+          "name": "first_online",
+          "label": "First Online",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "order": 1,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Declarations"
+          }
+        },
+        {
+          "value": "The authors disclose no financial or non-financial interests that are directly or indirectly related to the work submitted for publication.",
+          "order": 2,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Conflict of interest"
+          }
+        }
+      ]
+    }
+  },
+  "picking": {
+    "worker": "claude-fable-5-1 (Fable 5.1 shown beside the input box on the picking start screen, Claude Max)",
+    "run": "r1",
+    "date": "2026-11-27",
+    "settings": "new chat; no project; memory off; no custom instructions; effort shown as 중간 (medium), with 수동 (manual) shown beside it; no prompt text",
+    "settings_basis": "memory off (chat search and reference off; memory generation off) and empty Claude instructions seen on the account settings screen (12:29 KST), before the start screen; new chat, attachments (instruction shown as 69 lines, PDF), no prompt text, model, effort and plan seen on the picking start screen (12:30 KST); screenshots were shown to the report author in the session and are not kept",
+    "scope": "whole PDF; the worker reported opening printed pages 1323–1336, none skipped",
+    "run_time": "not shown on screen; start screen 12:30 KST, end screen 12:38 KST",
+    "instruction": "PHILIA_Stage1_Lite_Instruction_EN_v0_3.md",
+    "instruction_sha256_16": "464825c20ecd23df",
+    "picks_file_sha256_16": "dd4082cddfa0a1bb"
+  },
+  "verification": {
+    "tool": "philia_verify_v0_10",
+    "tool_sha256_16": "bf45b8b8c68a7e23",
+    "engine": "pdfplumber 0.11.10, with column-wise reading at the page middle and at column gutters found on each page",
+    "environments": 2,
+    "agreement": "67/67 identical (61 picks and 6 uncertain; verdict, hash, page, diff, flags)",
+    "summary_picks": {
+      "FOUND": 54,
+      "FOUND_OCR": 1,
+      "TRUNCATED": 0,
+      "PARTIAL": 6,
+      "NOT_FOUND": 0
+    },
+    "summary_uncertain": {
+      "FOUND": 6,
+      "FOUND_OCR": 0,
+      "TRUNCATED": 0,
+      "PARTIAL": 0,
+      "NOT_FOUND": 0
+    },
+    "remaining": "PARTIAL c13, c26, c36, c54: the sentence runs from the foot of the left column to the head of the right column, and in the column reading the first part of the page footer line ('Content courtesy of Springer Nature,') and the page number lie between the two parts (diff). PARTIAL c31: the sentence runs from the foot of the right column of printed page 1328 to the head of the left column of page 1329, and the second part of the footer line (', terms of use apply. Rights reserved.') and the running head lie between the parts (diff and word positions). PARTIAL c58, with page mismatch: on the page images the sentence starts at the foot of the right column of printed page 1331 and continues on page 1332 below the Fig. 6 caption; the worker's page is the page where the sentence starts, and the verifier computed the next page. FOUND_OCR c16: a hyphen printed in the source stands at a line end ('alpha-adrenergic'). Format flags: c10 ITEM_NUMBER, where the sentence ends with 'Fig. 4.'; c24 SPLIT_WORD, where the source prints '(MSNA- discussed' (page image). The verifier was not changed in this round, and all selected items are published (researcher decision).",
+    "meaning": "verdict answers whether the sentence is in the PDF text layer; it does not answer whether spelling matches the printed page"
+  },
+  "fields": {
+    "kind": "pick = selected; uncertain = the worker was unsure the sentence meets the task",
+    "printed_page": "printed page as computed by code",
+    "text_masked": "first and last word of the sentence as transcribed by the worker; the rest is withheld",
+    "words": "number of words in the withheld sentence",
+    "hash": "sha256 (16) of the normalized sentence text as transcribed by the worker",
+    "page_claimed": "present only when the worker's page differs from the computed page",
+    "citations": "author–year references in the sentence, in parentheses or in running text, one entry per reference; ref is the author part and year as printed (two years after one author give two entries). This article cites by author and year without a comma before the year. The Crossref record has 122 entries, keys 5451_CR1–5451_CR114 with 5451_CR85 absent and 5451_CR300–5451_CR308, each with the printed entry as its text; every one was found in the printed reference list read from the text layer by code. crossref_key is set where exactly one entry agrees with the reference in first author's surname, year as printed (with a or b) and author form (two authors joined by 'and', or more; not checked for a single name), as in the 144th round (researcher decision); doi is the DOI of that entry. Two references stay null because the printed list differs from the citation: Volianitis and Secher 1985 in c50 (the list and Crossref give 2016) and Marshall et al. 1961 in c52 (the list and Crossref spell the name 'Mrashall'). Entries 5451_CR4 and 5451_CR5 (Badrov et al. 2016a and 2016b) carry the same DOI in Crossref"
+  },
+  "items": [
+    {
+      "id": "c01",
+      "kind": "pick",
+      "printed_page": 1323,
+      "pdf_page": 1,
+      "text_masked": "Physical … provision.",
+      "words": 43,
+      "hash": "9662a4bcdf9bac37",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c02",
+      "kind": "pick",
+      "printed_page": 1323,
+      "pdf_page": 1,
+      "text_masked": "Of … conductance).",
+      "words": 22,
+      "hash": "ca39691b713e70f8",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c03",
+      "kind": "pick",
+      "printed_page": 1323,
+      "pdf_page": 1,
+      "text_masked": "Key … system.",
+      "words": 17,
+      "hash": "c52751f7d5fdd394",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c04",
+      "kind": "pick",
+      "printed_page": 1323,
+      "pdf_page": 1,
+      "text_masked": "The … integration.",
+      "words": 36,
+      "hash": "ec096f6220757bad",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c05",
+      "kind": "pick",
+      "printed_page": 1323,
+      "pdf_page": 1,
+      "text_masked": "These … command.",
+      "words": 32,
+      "hash": "a60b10f3ce6fa263",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Krogh and Lindhard 1913",
+          "crossref_key": "5451_CR50",
+          "doi": "10.1113/jphysiol.1913.sp001616"
+        }
+      ]
+    },
+    {
+      "id": "c06",
+      "kind": "pick",
+      "printed_page": 1323,
+      "pdf_page": 1,
+      "text_masked": "Third, … function.",
+      "words": 56,
+      "hash": "aa13f8a71a73e072",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Cannon 1933",
+          "crossref_key": "5451_CR16",
+          "doi": "10.1126/science.78.2012.43"
+        },
+        {
+          "ref": "Langley 1907",
+          "crossref_key": "5451_CR52",
+          "doi": "10.1113/jphysiol.1907.sp001236"
+        },
+        {
+          "ref": "Langley 1908",
+          "crossref_key": "5451_CR53",
+          "doi": "10.1113/jphysiol.1908.sp001265"
+        }
+      ]
+    },
+    {
+      "id": "c07",
+      "kind": "pick",
+      "printed_page": 1323,
+      "pdf_page": 1,
+      "text_masked": "The … exercise.",
+      "words": 17,
+      "hash": "562d270d4c203785",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c08",
+      "kind": "pick",
+      "printed_page": 1323,
+      "pdf_page": 1,
+      "text_masked": "Figure … Circulation.",
+      "words": 33,
+      "hash": "4d08fc7c251cb56d",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c09",
+      "kind": "pick",
+      "printed_page": 1324,
+      "pdf_page": 2,
+      "text_masked": "These … mmHg).",
+      "words": 22,
+      "hash": "7849705845c5efcd",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c10",
+      "kind": "pick",
+      "printed_page": 1324,
+      "pdf_page": 2,
+      "text_masked": "However, … 4.",
+      "words": 45,
+      "hash": "b418369f43dbf5dc",
+      "verdict": "FOUND",
+      "page_match": true,
+      "format_flags": [
+        "ITEM_NUMBER"
+      ],
+      "citations": [
+        {
+          "ref": "Mortensen et al. 2005",
+          "crossref_key": "5451_CR62",
+          "doi": "10.1113/jphysiol.2005.086025"
+        },
+        {
+          "ref": "Mitchell 1990",
+          "crossref_key": "5451_CR58",
+          "doi": "10.1249/00005768-199004000-00535"
+        }
+      ]
+    },
+    {
+      "id": "c11",
+      "kind": "pick",
+      "printed_page": 1324,
+      "pdf_page": 2,
+      "text_masked": "Notable … continues.",
+      "words": 57,
+      "hash": "1102893782650231",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c12",
+      "kind": "pick",
+      "printed_page": 1324,
+      "pdf_page": 2,
+      "text_masked": "This … physiology.",
+      "words": 20,
+      "hash": "9edb7a04bc224c4d",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c13",
+      "kind": "pick",
+      "printed_page": 1325,
+      "pdf_page": 3,
+      "text_masked": "However, … 1996).",
+      "words": 55,
+      "hash": "6da46489803cc784",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Shoemaker et al. 2000",
+          "crossref_key": "5451_CR90",
+          "doi": null
+        },
+        {
+          "ref": "Shoemaker et al. 2007",
+          "crossref_key": "5451_CR91",
+          "doi": "10.1152/japplphysiol.01334.2006"
+        },
+        {
+          "ref": "O'Leary and Woodbury 1996",
+          "crossref_key": "5451_CR67",
+          "doi": null
+        }
+      ]
+    },
+    {
+      "id": "c14",
+      "kind": "pick",
+      "printed_page": 1325,
+      "pdf_page": 3,
+      "text_masked": "For … 2019).",
+      "words": 44,
+      "hash": "3b072f9e3e028087",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Ichinose et al. 2008",
+          "crossref_key": "5451_CR40",
+          "doi": "10.1113/jphysiol.2007.150060"
+        },
+        {
+          "ref": "Katayama and Saito 2019",
+          "crossref_key": "5451_CR43",
+          "doi": "10.1007/s12576-019-00669-6"
+        }
+      ]
+    },
+    {
+      "id": "c15",
+      "kind": "pick",
+      "printed_page": 1325,
+      "pdf_page": 3,
+      "text_masked": "These … panel).",
+      "words": 29,
+      "hash": "bb3c575517c3aba6",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Mortensen et al. 2005",
+          "crossref_key": "5451_CR62",
+          "doi": "10.1113/jphysiol.2005.086025"
+        }
+      ]
+    },
+    {
+      "id": "c16",
+      "kind": "pick",
+      "printed_page": 1325,
+      "pdf_page": 3,
+      "text_masked": "Regulation … output.",
+      "words": 49,
+      "hash": "5bfff06df096c041",
+      "verdict": "FOUND_OCR",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Rowell 1986",
+          "crossref_key": "5451_CR79",
+          "doi": null
+        }
+      ]
+    },
+    {
+      "id": "c17",
+      "kind": "pick",
+      "printed_page": 1325,
+      "pdf_page": 3,
+      "text_masked": "In … dilation.",
+      "words": 45,
+      "hash": "ff355b1aaef54ffa",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Dyson et al. 2006",
+          "crossref_key": "5451_CR28",
+          "doi": "10.1152/ajpheart.00771.2005"
+        }
+      ]
+    },
+    {
+      "id": "c18",
+      "kind": "pick",
+      "printed_page": 1325,
+      "pdf_page": 3,
+      "text_masked": "However, … pressure.",
+      "words": 31,
+      "hash": "78cdbfcc63cf9b01",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c19",
+      "kind": "pick",
+      "printed_page": 1325,
+      "pdf_page": 3,
+      "text_masked": "Mechanistically, … 2002).",
+      "words": 52,
+      "hash": "b122e1c0f48e57d5",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Degtyarenko and Kaufman 2006",
+          "crossref_key": "5451_CR25",
+          "doi": "10.1016/j.neuroscience.2006.02.050"
+        },
+        {
+          "ref": "McIlveen et al. 2001",
+          "crossref_key": "5451_CR56",
+          "doi": "10.1152/ajpheart.2001.280.4.H1454"
+        },
+        {
+          "ref": "Potts 2002",
+          "crossref_key": "5451_CR77",
+          "doi": "10.1046/j.1440-1681.2002.03613.x"
+        }
+      ]
+    },
+    {
+      "id": "c20",
+      "kind": "pick",
+      "printed_page": 1326,
+      "pdf_page": 4,
+      "text_masked": "In … exercise.",
+      "words": 35,
+      "hash": "becc6ce17fb16a1b",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Krogh and Lindhard 1913",
+          "crossref_key": "5451_CR50",
+          "doi": "10.1113/jphysiol.1913.sp001616"
+        }
+      ]
+    },
+    {
+      "id": "c21",
+      "kind": "pick",
+      "printed_page": 1326,
+      "pdf_page": 4,
+      "text_masked": "They … control.",
+      "words": 16,
+      "hash": "b888771708bbdf2e",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c22",
+      "kind": "pick",
+      "printed_page": 1326,
+      "pdf_page": 4,
+      "text_masked": "In … routinely.",
+      "words": 24,
+      "hash": "8a86f4e65e8a942e",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Goodwin et al. 1972",
+          "crossref_key": "5451_CR35",
+          "doi": "10.1113/jphysiol.1972.sp009979"
+        }
+      ]
+    },
+    {
+      "id": "c23",
+      "kind": "pick",
+      "printed_page": 1327,
+      "pdf_page": 5,
+      "text_masked": "Functional … command.",
+      "words": 13,
+      "hash": "4630e18bbfba77b6",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c24",
+      "kind": "pick",
+      "printed_page": 1327,
+      "pdf_page": 5,
+      "text_masked": "In … 1991).",
+      "words": 51,
+      "hash": "7f183ca159d53a04",
+      "verdict": "FOUND",
+      "page_match": true,
+      "format_flags": [
+        "SPLIT_WORD"
+      ],
+      "citations": [
+        {
+          "ref": "Seals and Victor 1991",
+          "crossref_key": "5451_CR86",
+          "doi": "10.1249/00003677-199101000-00009"
+        }
+      ]
+    },
+    {
+      "id": "c25",
+      "kind": "pick",
+      "printed_page": 1327,
+      "pdf_page": 5,
+      "text_masked": "Otherwise, … 1996).",
+      "words": 27,
+      "hash": "8eb381a532199ad6",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Gandevia and Hobbs 1990",
+          "crossref_key": "5451_CR34",
+          "doi": "10.1113/jphysiol.1990.sp018284"
+        },
+        {
+          "ref": "Mitchell and Victor 1996",
+          "crossref_key": "5451_CR59",
+          "doi": "10.1097/00005768-199610000-00036"
+        }
+      ]
+    },
+    {
+      "id": "c26",
+      "kind": "pick",
+      "printed_page": 1327,
+      "pdf_page": 5,
+      "text_masked": "Pharmacological … 1987).",
+      "words": 29,
+      "hash": "8162cc6c81546342",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Victor et al. 1987",
+          "crossref_key": "5451_CR105",
+          "doi": "10.1172/JCI112841"
+        }
+      ]
+    },
+    {
+      "id": "c27",
+      "kind": "pick",
+      "printed_page": 1327,
+      "pdf_page": 5,
+      "text_masked": "Inasmuch … responses.",
+      "words": 22,
+      "hash": "bf1ad133fb65ec8b",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c28",
+      "kind": "pick",
+      "printed_page": 1327,
+      "pdf_page": 5,
+      "text_masked": "While … cortex.",
+      "words": 23,
+      "hash": "0cded9fbb7e04a89",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c29",
+      "kind": "pick",
+      "printed_page": 1328,
+      "pdf_page": 6,
+      "text_masked": "In … 2015b).",
+      "words": 26,
+      "hash": "16dbe2c143088f85",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Shoemaker et al. 2015b",
+          "crossref_key": "5451_CR94",
+          "doi": "10.1016/j.autneu.2014.10.022"
+        }
+      ]
+    },
+    {
+      "id": "c30",
+      "kind": "pick",
+      "printed_page": 1328,
+      "pdf_page": 6,
+      "text_masked": "These … activity).",
+      "words": 45,
+      "hash": "9c259216c8befbcc",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c31",
+      "kind": "pick",
+      "printed_page": 1328,
+      "pdf_page": 6,
+      "text_masked": "These … oscillations.",
+      "words": 39,
+      "hash": "72879f79d305d38d",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c32",
+      "kind": "pick",
+      "printed_page": 1329,
+      "pdf_page": 7,
+      "text_masked": "In … exercise.",
+      "words": 23,
+      "hash": "912f3eb989606117",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c33",
+      "kind": "pick",
+      "printed_page": 1329,
+      "pdf_page": 7,
+      "text_masked": "In … occur.",
+      "words": 23,
+      "hash": "9c1b2c31877de1d6",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c34",
+      "kind": "pick",
+      "printed_page": 1329,
+      "pdf_page": 7,
+      "text_masked": "In … contraction.",
+      "words": 28,
+      "hash": "cdbdd2c7b831763b",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Seals and Victor 1991",
+          "crossref_key": "5451_CR86",
+          "doi": "10.1249/00003677-199101000-00009"
+        }
+      ]
+    },
+    {
+      "id": "c35",
+      "kind": "pick",
+      "printed_page": 1329,
+      "pdf_page": 7,
+      "text_masked": "It … 4).",
+      "words": 44,
+      "hash": "db794a993a7f2298",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c36",
+      "kind": "pick",
+      "printed_page": 1329,
+      "pdf_page": 7,
+      "text_masked": "In … heart.",
+      "words": 52,
+      "hash": "c6b3eca1f654d462",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Katayama and Saito 2019",
+          "crossref_key": "5451_CR43",
+          "doi": "10.1007/s12576-019-00669-6"
+        }
+      ]
+    },
+    {
+      "id": "c37",
+      "kind": "pick",
+      "printed_page": 1329,
+      "pdf_page": 7,
+      "text_masked": "Thereafter, … above.",
+      "words": 35,
+      "hash": "34bcaa0bcacf7e17",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c38",
+      "kind": "pick",
+      "printed_page": 1329,
+      "pdf_page": 7,
+      "text_masked": "These … increase.",
+      "words": 22,
+      "hash": "925c1f4105ef5083",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c39",
+      "kind": "pick",
+      "printed_page": 1329,
+      "pdf_page": 7,
+      "text_masked": "The … outflow.",
+      "words": 29,
+      "hash": "15084181b731ca1a",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Ninomiya et al. 1993",
+          "crossref_key": "5451_CR64",
+          "doi": "10.1016/0165-1838(93)90125-E"
+        },
+        {
+          "ref": "Kluess et al. 2006",
+          "crossref_key": "5451_CR49",
+          "doi": "10.1113/expphysiol.2006.034694"
+        }
+      ]
+    },
+    {
+      "id": "c40",
+      "kind": "pick",
+      "printed_page": 1329,
+      "pdf_page": 7,
+      "text_masked": "Therefore, … response.",
+      "words": 25,
+      "hash": "715a37c85c7b5bb4",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c41",
+      "kind": "pick",
+      "printed_page": 1330,
+      "pdf_page": 8,
+      "text_masked": "Some … stress.",
+      "words": 26,
+      "hash": "4567cb387e9a62ce",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Steinback et al. 2010",
+          "crossref_key": "5451_CR96",
+          "doi": "10.1113/jphysiol.2010.195941"
+        },
+        {
+          "ref": "Badrov et al. 2016a",
+          "crossref_key": "5451_CR4",
+          "doi": "10.1152/ajpregu.00360.2016"
+        }
+      ]
+    },
+    {
+      "id": "c42",
+      "kind": "pick",
+      "printed_page": 1330,
+      "pdf_page": 8,
+      "text_masked": "These … organ.",
+      "words": 42,
+      "hash": "b6f14b28b662b268",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c43",
+      "kind": "pick",
+      "printed_page": 1330,
+      "pdf_page": 8,
+      "text_masked": "Importantly, … context.",
+      "words": 32,
+      "hash": "53754c1a16ec7ce9",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Badrov et al. 2016a",
+          "crossref_key": "5451_CR4",
+          "doi": "10.1152/ajpregu.00360.2016"
+        }
+      ]
+    },
+    {
+      "id": "c44",
+      "kind": "pick",
+      "printed_page": 1330,
+      "pdf_page": 8,
+      "text_masked": "These … patterning.",
+      "words": 14,
+      "hash": "27bcb028a7487285",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c45",
+      "kind": "pick",
+      "printed_page": 1330,
+      "pdf_page": 8,
+      "text_masked": "These … control.",
+      "words": 23,
+      "hash": "1684494576508b79",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c46",
+      "kind": "pick",
+      "printed_page": 1331,
+      "pdf_page": 9,
+      "text_masked": "Exercise … output.",
+      "words": 39,
+      "hash": "6133e82fe2c0d40e",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c47",
+      "kind": "pick",
+      "printed_page": 1331,
+      "pdf_page": 9,
+      "text_masked": "Total … workload.",
+      "words": 17,
+      "hash": "9567b299d0ab1a28",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c48",
+      "kind": "pick",
+      "printed_page": 1331,
+      "pdf_page": 9,
+      "text_masked": "Specifically, … tissue.",
+      "words": 22,
+      "hash": "19bc11de1fdc8fa8",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Andersen and Saltin 1985",
+          "crossref_key": "5451_CR3",
+          "doi": "10.1113/jphysiol.1985.sp015794"
+        }
+      ]
+    },
+    {
+      "id": "c49",
+      "kind": "pick",
+      "printed_page": 1331,
+      "pdf_page": 9,
+      "text_masked": "During … individuals.",
+      "words": 31,
+      "hash": "acf28bdf1e23cd98",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c50",
+      "kind": "pick",
+      "printed_page": 1331,
+      "pdf_page": 9,
+      "text_masked": "Integrative … 1997b).",
+      "words": 74,
+      "hash": "0b39ec810ced5b6d",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Mortensen et al. 2005",
+          "crossref_key": "5451_CR62",
+          "doi": "10.1113/jphysiol.2005.086025"
+        },
+        {
+          "ref": "Volianitis and Secher 1985",
+          "crossref_key": null,
+          "doi": null
+        },
+        {
+          "ref": "Travers et al. 2022",
+          "crossref_key": "5451_CR100",
+          "doi": "10.3390/cells11030383"
+        },
+        {
+          "ref": "O'Leary et al. 1997b",
+          "crossref_key": "5451_CR69",
+          "doi": "10.1152/ajpregu.1997.272.1.R386"
+        }
+      ]
+    },
+    {
+      "id": "c51",
+      "kind": "pick",
+      "printed_page": 1331,
+      "pdf_page": 9,
+      "text_masked": "Moreover, … 1993).",
+      "words": 21,
+      "hash": "809fc3bd6215e3c8",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Sheriff et al. 1993",
+          "crossref_key": "5451_CR87",
+          "doi": null
+        }
+      ]
+    },
+    {
+      "id": "c52",
+      "kind": "pick",
+      "printed_page": 1331,
+      "pdf_page": 9,
+      "text_masked": "Key … pooling.",
+      "words": 58,
+      "hash": "36836eea44f9dc53",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Marshall et al. 1961",
+          "crossref_key": null,
+          "doi": null
+        }
+      ]
+    },
+    {
+      "id": "c53",
+      "kind": "pick",
+      "printed_page": 1331,
+      "pdf_page": 9,
+      "text_masked": "Therefore, … flow.",
+      "words": 22,
+      "hash": "9519034078828c94",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c54",
+      "kind": "pick",
+      "printed_page": 1331,
+      "pdf_page": 9,
+      "text_masked": "The … muscle.",
+      "words": 53,
+      "hash": "cee2f3caaeab65d0",
+      "verdict": "PARTIAL",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Rowell 1993",
+          "crossref_key": "5451_CR80",
+          "doi": "10.1093/oso/9780195073621.001.0001"
+        },
+        {
+          "ref": "Rowell et al. 1996",
+          "crossref_key": "5451_CR81",
+          "doi": null
+        }
+      ]
+    },
+    {
+      "id": "c55",
+      "kind": "pick",
+      "printed_page": 1331,
+      "pdf_page": 9,
+      "text_masked": "This … control.",
+      "words": 21,
+      "hash": "a382a9f6689ce7fb",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c56",
+      "kind": "pick",
+      "printed_page": 1331,
+      "pdf_page": 9,
+      "text_masked": "While … exercise.",
+      "words": 68,
+      "hash": "f2fd4341328872f6",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c57",
+      "kind": "pick",
+      "printed_page": 1331,
+      "pdf_page": 9,
+      "text_masked": "Sensory … afferents.",
+      "words": 29,
+      "hash": "8e405f73a27be4ec",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c58",
+      "kind": "pick",
+      "printed_page": 1332,
+      "pdf_page": 10,
+      "text_masked": "While … exercise.",
+      "words": 44,
+      "hash": "8758f54df554407f",
+      "verdict": "PARTIAL",
+      "page_match": false,
+      "page_claimed": 1331,
+      "citations": []
+    },
+    {
+      "id": "c59",
+      "kind": "pick",
+      "printed_page": 1332,
+      "pdf_page": 10,
+      "text_masked": "Nonetheless, … muscle.",
+      "words": 38,
+      "hash": "491b27fd575a19c1",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c60",
+      "kind": "pick",
+      "printed_page": 1332,
+      "pdf_page": 10,
+      "text_masked": "The … response.",
+      "words": 14,
+      "hash": "a29234c6841225ba",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "c61",
+      "kind": "pick",
+      "printed_page": 1332,
+      "pdf_page": 10,
+      "text_masked": "When … exercise.",
+      "words": 35,
+      "hash": "959a21fd47ca4517",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    },
+    {
+      "id": "u01",
+      "kind": "uncertain",
+      "printed_page": 1323,
+      "pdf_page": 1,
+      "text_masked": "Early … stress.",
+      "words": 33,
+      "hash": "b0ad2338c4fc1714",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Cannon 1932",
+          "crossref_key": "5451_CR15",
+          "doi": "10.1097/00000441-193212000-00028"
+        }
+      ]
+    },
+    {
+      "id": "u02",
+      "kind": "uncertain",
+      "printed_page": 1326,
+      "pdf_page": 4,
+      "text_masked": "For … 1932).",
+      "words": 28,
+      "hash": "201f52b0344f09e1",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Cannon 1932",
+          "crossref_key": "5451_CR15",
+          "doi": "10.1097/00000441-193212000-00028"
+        }
+      ]
+    },
+    {
+      "id": "u03",
+      "kind": "uncertain",
+      "printed_page": 1328,
+      "pdf_page": 6,
+      "text_masked": "For … tachycardia.",
+      "words": 42,
+      "hash": "4b00cded52f99cea",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Chouchou 2019",
+          "crossref_key": "5451_CR21",
+          "doi": "10.1002/hbm.24548"
+        }
+      ]
+    },
+    {
+      "id": "u04",
+      "kind": "uncertain",
+      "printed_page": 1329,
+      "pdf_page": 7,
+      "text_masked": "Direct … (1968).",
+      "words": 22,
+      "hash": "bd4e087cfff637da",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Hagbarth and Vallbo 1968",
+          "crossref_key": "5451_CR38",
+          "doi": "10.1111/j.1365-201X.1968.tb10904.x"
+        }
+      ]
+    },
+    {
+      "id": "u05",
+      "kind": "uncertain",
+      "printed_page": 1330,
+      "pdf_page": 8,
+      "text_masked": "For … stimulation.",
+      "words": 39,
+      "hash": "2f407e21de5e2335",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": [
+        {
+          "ref": "Kluess et al. 2006",
+          "crossref_key": "5451_CR49",
+          "doi": "10.1113/expphysiol.2006.034694"
+        }
+      ]
+    },
+    {
+      "id": "u06",
+      "kind": "uncertain",
+      "printed_page": 1331,
+      "pdf_page": 9,
+      "text_masked": "A … conditions.",
+      "words": 10,
+      "hash": "6681607ba71087cf",
+      "verdict": "FOUND",
+      "page_match": true,
+      "citations": []
+    }
+  ]
+}

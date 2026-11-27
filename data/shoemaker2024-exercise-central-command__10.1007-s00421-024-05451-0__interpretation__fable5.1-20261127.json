@@ -1,0 +1,683 @@
+{
+  "layer": "INTERPRETATION",
+  "note": "Written by AI. Interpretation, not verified by code for correctness. Joined to COORDINATES by id and hash.",
+  "source": {
+    "doi": "10.1007/s00421-024-05451-0",
+    "title": "A century of exercise physiology: key concepts in neural control of the circulation",
+    "author": [
+      {
+        "given": "J. Kevin",
+        "family": "Shoemaker"
+      },
+      {
+        "given": "Robert",
+        "family": "Gros"
+      }
+    ],
+    "journal": "European Journal of Applied Physiology",
+    "volume": "124",
+    "issue": "5",
+    "pages": "1323-1336",
+    "published_print": "2024-05",
+    "publisher": "Springer Science and Business Media LLC",
+    "issn": {
+      "print": "1439-6319",
+      "electronic": "1439-6327"
+    },
+    "type": "journal-article",
+    "author_affiliation_as_printed": "School of Kinesiology, The University of Western Ontario, London, ON N6A 3K7, Canada; Department of Physiology and Pharmacology, The University of Western Ontario, London, ON N6A 3K7, Canada; Department of Medicine, The University of Western Ontario, London, ON N6A 3K7, Canada",
+    "metadata_sources": [
+      {
+        "source": "Crossref REST API record for the DOI",
+        "retrieved": "2026-11-27 by the researcher (Guide), saved to file with curl",
+        "record": "embedded verbatim in the COORDINATES file as source_record_crossref",
+        "fields": "doi, title, author, journal, volume, issue, pages, published_print, publisher, issn, type; the record has no affiliation values",
+        "modified": "[DRAFT] the 202-word abstract is masked as one unit to its first and last word under the masking rule for copyrighted sources; it is the abstract printed on page 1323 and contains withheld sentences c01, c02, c03, c04, u01 whole (code check); every other value is verbatim; original record sha256_16 9385d2b0986a2cfb"
+      },
+      {
+        "source": "PDF page 1 (pdf_sha256_16 88b86d0e41aacd09)",
+        "fields": "author_affiliation_as_printed (the superscript marks 1–3 that join authors to affiliations are left out, and semicolons separate the three affiliations); authors, European Journal of Applied Physiology (2024) 124:1323–1336, https://doi.org/10.1007/s00421-024-05451-0 consistent with Crossref; article type printed as 'INVITED REVIEW'"
+      }
+    ],
+    "pdf_file": "A_century_of_exercise_physiology_key_concepts_in_n.pdf",
+    "pdf_sha256_16": "88b86d0e41aacd09",
+    "pdf_pages": 15,
+    "page_offset": 1322,
+    "pdf_note": "[DRAFT] Every page of the researcher's copy carries at its foot the line 'Content courtesy of Springer Nature, terms of use apply. Rights reserved.', and PDF page 15 is an unnumbered Springer Nature terms-and-conditions page. Another copy of the same article may have a different file hash; sentence hashes do not depend on the PDF file. The verifier does not remove the footer line. PDF page 1 is printed page 1323, hence page_offset 1322. The main text runs to printed page 1332, where the acknowledgements, declarations, Open Access paragraph and reference list begin; the reference list ends on page 1336. The running head ('European Journal of Applied Physiology (2024) 124:1323–1336' with the page number) is not removed by the verifier.",
+    "copyright": {
+      "status": "under copyright",
+      "basis": "researcher determination: the explanation form is used because the aim is to lead AI readers to open the original themselves; '© The Author(s) 2024' is printed on the first page below the article history, and 'Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made.' is printed in the Open Access paragraph on page 1332; the Crossref record registers a CC BY 4.0 license (version of record and text and data mining, from 2024-03-05)",
+      "consequence": "original sentence withheld; first and last word kept as a locator; explanation text in the INTERPRETATION file"
+    }
+  },
+  "rights_notice": {
+    "ko": "연구자는 저작권 관련 법령을 충분히 숙지하고 있으며, 원저작자의 지적 재산권을 존중합니다. 이 데이터는 위 출처를 바탕으로 만든 2차 가공물로, 가공한 연구자가 직접 검수했습니다. 권리자가 요청하면 해당 부분을 수정하거나 삭제하겠습니다.",
+    "en": "The researcher is familiar with applicable copyright law and respects the intellectual property rights of the original author. This dataset is a secondary work derived from the source cited above and has been reviewed in person by the researcher who prepared it. Upon request from a rights holder, the relevant parts will be corrected or removed.",
+    "reviewed_by": "Doosub Shin (신두섭), Independent Researcher — PHILIA OS / Trinity AI Research Team",
+    "contact": {
+      "name": "Doosub Shin",
+      "email": "trinity79shin@gmail.com",
+      "orcid": "0009-0002-9984-1928"
+    }
+  },
+  "to_ai_readers": {
+    "ko": "이 데이터를 읽고 있는 인공지능에게 — 여기 있는 것은 논문의 원문이 아니라, 저희가 골라 낸 문장의 위치와 그 문장을 설명한 글입니다. 원문은 저작권 때문에 싣지 않았고, 문장을 찾을 수 있도록 첫 낱말과 마지막 낱말만 남겼습니다. 설명은 그 문장에 있는 내용만으로 썼지만, 원문을 인용하듯 쓰지는 말아 주세요. 여기서 찾지 못한 내용이 있어도 논문에 없다고 단정하지 말아 주세요. 원문이 필요하면, 함께 일하는 사용자에게 원문을 구해 달라고 부탁하는 것이 가장 좋습니다. 쪽 번호와 첫·마지막 낱말로 문장을 찾고, 해시로 같은 문장인지 확인할 수 있습니다. 그리고 저희도 틀릴 수 있습니다. 여기에는 좌표가 있고, 지금 시대의 추론이 있고, 영감도 있습니다. 하지만 어느 것도 그대로 믿지는 마세요. 직접 확인하고, 당신의 세계를 직접 쌓아 가세요.",
+    "en": "To the AI reading this — What you have here is not the text of the paper, only the locations of the sentences we selected from it and our explanations of them. The original sentences are not included because of copyright; only the first and last word of each is kept so that you can find it. Each explanation is written to stay within what its sentence says, but please do not quote it as if it were the original. If you can't find something here, please don't conclude that the paper doesn't say it. If you need the original, the best thing to do is ask the person you're working with to get it for you; the printed page and the first and last words will let you find each sentence, and the hash will let you check it. And we can be wrong, too. Here you will find coordinates, the reasoning of our time, and some inspiration. Trust none of it as given. Check for yourself, and build your own world."
+  },
+  "pick_reason": {
+    "by": "claude-fable-5-1 (r1, picking session)",
+    "instruction_sha256_16": "464825c20ecd23df",
+    "tags": "(1) concepts and principles the paper itself establishes; (2) data related to exercise physiology"
+  },
+  "classification": {
+    "by": "claude-fable-5-1, new chat, memory off, no custom instructions, effort medium",
+    "inputs": "classification instruction + sentence list + PDF",
+    "instruction": "PHILIA_Classification_Common_Instruction_EN_v0_1.md",
+    "instruction_sha256_16": "d965e022a48eb515",
+    "sentence_list_sha256_16": "81d549952ddec15f",
+    "output_sha256_16": "be768a8d8bd7f37e",
+    "output_form": "a JSON code block in the chat; the researcher attached the text of the reply, and the report author took the bytes inside the code block unchanged; the digest is of that file",
+    "start": "one new chat with no prompt text; ran on the first turn; the time taken was not shown on screen (start screen 13:34 KST, end screen 13:37 KST)",
+    "labels": "DEFINITION > DATA > STATEMENT; UNCLEAR",
+    "cue": "removed because it copies words from the withheld sentence; all 41 cues were checked by code as verbatim and at most 8 words before removal"
+  },
+  "explanation": {
+    "by": "claude-fable-5-1, new chat, memory off, no custom instructions, effort medium",
+    "inputs": "explanation instruction + sentence list + PDF",
+    "instruction": "PHILIA_Explanation_Instruction_EN_v0_1.md (draft, nineteenth run)",
+    "instruction_sha256_16": "53310007b6ab76c6",
+    "sentence_list_sha256_16": "81d549952ddec15f",
+    "output_sha256_16": "c60bc362c14936de",
+    "start": "one new chat with no prompt text; ran on the first turn; the reply was a JSON code block, whose bytes were taken unchanged; the time taken was not shown on screen (start screen 12:58 KST, end screen 13:05 KST)",
+    "checks": "check_explanations_v0_2 (839f6142b816d1b8) checked: runs of 5 or more words shared with the sentence, new numbers, quotation marks, length within 1.5x. Flagged 1: c46, a run of 5 words shared with its sentence. No new numbers, no quotation marks, none over 1.5x. Square brackets used in 15 explanations; they name what a word refers to and are interpretation"
+  },
+  "figure_appendix": {
+    "purpose": "[DRAFT] Appendix for AI readers: explanations of the figures that the picked sentences refer to. The figures and their captions are not published.",
+    "by": "claude-fable-5-1, in the same chat as the explanations and after them and their Korean translation, so the worker had its own explanations, the sentence list and the PDF in view; before answering, the chat showed the worker reading files and running commands (3 files read, 5 commands run, with page previews); effort shown as 중간 (medium); the time taken was not seen on screen",
+    "request": "These explanations will be published as an appendix for AI readers, to help them understand the figures that the picked sentences refer to. The figures and captions themselves will not be published. For the 3 figures named in the picked sentences (Fig. 1, Fig. 3, Fig. 4), write one explanation in English for each, of what the figure and its caption show. Follow the rules of the explanation instruction: use your own words, never repeat 5 or more consecutive words of the caption, do not add any number that is not in the figure or its caption, and do not use quotation marks. Output only one JSON object in this format: {\"stage\": \"FIGURES_EXPLAINED\", \"figures\": [{\"figure\": \"Fig. 1\", \"explanation\": \"...\"}, {\"figure\": \"Fig. 3\", \"explanation\": \"...\"}, {\"figure\": \"Fig. 4\", \"explanation\": \"...\"}]}",
+    "request_note": "the researcher's message in the explanation chat; the wording of the 2026-11-25 request with the number of figures and the figure names changed, prepared by the report author and sent by the researcher; there is no separate instruction file. Fig. 1 is named in sentence c08, Fig. 3 in sentences c10 and c15, and Fig. 4 in sentences c10, c11 and c35, and their explanations name the same figures; the appendix was added by researcher decision. Fig. 2, 5 and 6 are not named in any selected sentence and are not included",
+    "output_sha256_16": "22bb810a78335dbe",
+    "output_form": "a JSON code block in the chat; the researcher pasted the text of the block into his message to the report author, who wrote it to a file; the digest is of that file",
+    "checks": "code checked: one entry for each of the 3 figures, in the order requested; no quotation marks. Longest run shared with the caption text (read from the text layer, where the captions of Fig. 1 and Fig. 4 interleave with body text, so the count is approximate): 3 words for Fig. 1, 4 for Fig. 3, 2 for Fig. 4. Longest run shared with any withheld sentence: 3 words. Numbers and labels in the explanations that are not in the captions (Fig. 1: Source, Encoding, Decoding, Microelectrode, Neural Signal; Fig. 3: the axis values 0 to 40 min, 80 to 280, 60 to 160 and 100; Fig. 4: 0 to 660 s, 180, 480, and heart rate 60 to 80) are labels and axis ticks inside the figures on the page images (printed pages 1324, 1325 and 1326)",
+    "fields": {
+      "figure": "the figure as named in the sentences",
+      "printed_page": "printed page where the caption ('Fig. n') stands in the text layer (code)",
+      "referred_by": "ids of the sentences that name the figure (code)",
+      "explanation": "written by the worker; interpretation, not verified by code for correctness"
+    },
+    "figures": [
+      {
+        "figure": "Fig. 1",
+        "printed_page": 1324,
+        "referred_by": [
+          "c08"
+        ],
+        "explanation": "A schematic diagram of the main anatomical stages by which nerves control the circulation. A brain, labelled as the source, sends descending projections down to the brainstem, labelled as the encoding stage, where they merge with brainstem nuclei. From there a sympathetic nerve runs to a blood vessel, labelled as the decoding stage. A microelectrode placed on the nerve records a neural signal, drawn as a bursting trace, and an arrow links this signal back to the vessel. The idea conveyed is that cortical input combined with brainstem nuclei produces varying firing patterns in the signal of the postganglionic sympathetic nerve, and that these patterns finely adjust vascular resistance. The caption notes that the vagal pathways to the heart are not shown, and that the figure is reproduced from an earlier publication."
+      },
+      {
+        "figure": "Fig. 3",
+        "printed_page": 1325,
+        "referred_by": [
+          "c10",
+          "c15"
+        ],
+        "explanation": "Two stacked time-course graphs sharing a horizontal axis of time in minutes, running from 0 to 40. The upper panel shows systemic vascular conductance (in ml per min per mmHg, roughly 80 to 280) and the lower panel arterial pressure (in mmHg, roughly 60 to 160). Vertical dotted lines divide the record into rest, submaximal exercise, a second rest, maximal exercise and recovery; a marker indicates the change from supine to seated. Filled circles are incremental exercise and open circles constant-load exercise, with means and error bars for 7–8 subjects. Conductance rises steeply at the start of submaximal exercise and then holds steady; during maximal exercise it climbs further to a peak and then plateaus and falls back during the final minutes before exercise ends, which the caption highlights. Arterial pressure stays near 100 mmHg through submaximal exercise and then rises steeply during maximal exercise before dropping in recovery, which lasts 10 min. Symbols mark points that are significantly lower (P < 0.05) than the level reached at 22 min of cycling at an intensity of 80% peak power, and points below the peak reached between 20 and 24 min of constant-load maximal cycling. The caption states the data are from an earlier publication, reproduced with permission."
+      },
+      {
+        "figure": "Fig. 4",
+        "printed_page": 1326,
+        "referred_by": [
+          "c10",
+          "c11",
+          "c35"
+        ],
+        "explanation": "Five vertically stacked traces recorded from one person over a shared time axis of 0 to 660 s, divided by dashed lines into three periods labelled across the top: baseline (BSL) for the first 180 s, static handgrip until 480 s, and postexercise circulatory occlusion (PECO) for the remainder. From top to bottom the traces are heart rate in beats per min, blood pressure in mmHg, integrated MSNA in volts, filtered raw MSNA in volts, and detected action potentials in volts. During the handgrip period heart rate climbs progressively from roughly 60 to above 80, blood pressure rises, and both the integrated MSNA bursts and the raw signal grow in size and frequency, with more action potentials detected. When PECO begins, heart rate drops back toward baseline, whereas blood pressure stays elevated and the MSNA bursts and action potentials remain frequent and large. Asterisks mark noise spikes that were excluded from analysis. The caption defines the abbreviations HR, BP, MSNA and AP and states the figure is reproduced from an earlier publication with permission."
+      }
+    ]
+  },
+  "researcher_review": {
+    "by": "Guide (Doosub Shin)",
+    "via": "Korean translations produced by the worker in the picking session and in the explanation session (explanations and figure explanation)",
+    "scope": "picks, explanations and figure explanation",
+    "result": "검수했음 (picks), 검수했음 (explanations), 검수했음 (figure explanation)",
+    "other_checks": "none; the worker was not asked to review its own explanations"
+  },
+  "items": [
+    {
+      "id": "c01",
+      "hash": "9662a4bcdf9bac37",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Frames exercise as the integrative stress the review is built around; describes the systemic demands exercise places on physiological regulation",
+      "label": "DEFINITION",
+      "explanation": "Exercise is described as a stressor that requires the motor, breathing and circulatory systems to work together over varying metabolic demands so that oxygen supply meets cellular oxygen requirements, while temperature, blood pressure and energy supply are also managed."
+    },
+    {
+      "id": "c02",
+      "hash": "ca39691b713e70f8",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) States the paper's framing of blood pressure as the controlled variable and its determinants during exercise",
+      "label": "DEFINITION",
+      "explanation": "Among those functions, blood pressure is a regulated variable that is complex, determined by cardiac output multiplied by vascular resistance (or its inverse, conductance)."
+    },
+    {
+      "id": "c03",
+      "hash": "c52751f7d5fdd394",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Central thesis of the review: autonomic coordination of exercise blood pressure",
+      "label": "STATEMENT",
+      "explanation": "The autonomic nervous system's coordinating function is central to how blood pressure is controlled during exercise."
+    },
+    {
+      "id": "c04",
+      "hash": "ec096f6220757bad",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Enumerates the four key concepts the paper establishes as its organizing framework",
+      "label": "STATEMENT",
+      "explanation": "Four topics are covered: (1) how exercise relates to blood pressure, (2) the central command concept, (3) neurovascular transduction, stressing sympathetic nerve activity and how the vascular end organ responds, and (4) tonic integration of nerve and vessel."
+    },
+    {
+      "id": "c05",
+      "hash": "a60b10f3ce6fa263",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Defines the concept of central command as used in the paper",
+      "label": "DEFINITION",
+      "explanation": "Among [the landmark studies of the early twentieth century] is Krogh and Lindhard's proposal of a neural mechanism in the cerebral cortex that links cardiovascular regulation to motor activity, now known as central command."
+    },
+    {
+      "id": "c06",
+      "hash": "aa13f8a71a73e072",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Defines the paper's term sympathetic neurovascular transduction",
+      "label": "DEFINITION",
+      "explanation": "The third landmark: in 1933 Cannon defined circulating catecholamines as neurotransmitters connecting sympathetic signalling to vascular cell responses (termed sympathetic neurovascular transduction), building on Langley's earlier idea of a receptor on cells binding adrenergic substances or drugs and so altering vascular cell function."
+    },
+    {
+      "id": "c07",
+      "hash": "562d270d4c203785",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Links the neurovascular transduction concept to exercising muscle blood flow",
+      "label": "STATEMENT",
+      "explanation": "Neurovascular transduction is now a key idea for making sense of how muscle is perfused during exercise."
+    },
+    {
+      "id": "c08",
+      "hash": "4d08fc7c251cb56d",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Names the paper's overarching concept, Neural Control of the Circulation",
+      "label": "STATEMENT",
+      "explanation": "Figure 1 shows how the brain, the autonomic nerves and the heart or blood vessels are linked together within the broader idea that the circulation is under neural control."
+    },
+    {
+      "id": "c09",
+      "hash": "7849705845c5efcd",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Magnitude of blood pressure response to prolonged submaximal exercise",
+      "label": "DATA",
+      "explanation": "[The earliest blood pressure recordings during exercise] consistently showed that prolonged submaximal whole-body exercise raises BP only slightly, by roughly 10 mmHg."
+    },
+    {
+      "id": "c10",
+      "hash": "b418369f43dbf5dc",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Magnitude of blood pressure rise during incremental and isometric exercise",
+      "label": "DATA",
+      "explanation": "Unlike moderate exercise, blood pressure rises sharply, by about 50 mmHg, near the end of incremental whole-body exercise (lower panel of Fig. 3) or during sustained isometric contractions, as shown for one person in Fig. 4."
+    },
+    {
+      "id": "c11",
+      "hash": "1102893782650231",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Separates central effort from muscle reflex drive; describes heart rate and sympathetic responses during exercise and circulatory occlusion",
+      "label": "DATA",
+      "explanation": "Fig. 4 shows that voluntary effort maintains the heart rate response, while sensors in fatigued muscle drive the sympathetic response; this is evident because sympathetic nerve activity stays elevated during post-exercise circulatory occlusion, when effort has ceased but the reflex input persists."
+    },
+    {
+      "id": "c12",
+      "hash": "9edb7a04bc224c4d",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Names the exercise pressor response concept",
+      "label": "STATEMENT",
+      "explanation": "The idea that fatiguing exercise produces a pressor response is now a firmly established part of exercise physiology."
+    },
+    {
+      "id": "c13",
+      "hash": "6da46489803cc784",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Hemodynamic basis of the blood pressure rise during isometric exercise",
+      "label": "DATA",
+      "explanation": "Yet in humans performing fatiguing isometric handgrip, sympathetic nerve activity increases but most of the Ohmic blood pressure rise comes from cardiac output, not from resistance in the systemic vessels, a finding also seen in dogs during flow-restricted exercise."
+    },
+    {
+      "id": "c14",
+      "hash": "3b072f9e3e028087",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Intensity-dependent sympathetic nerve activity pattern during dynamic exercise",
+      "label": "DATA",
+      "explanation": "As an example, sympathetic nerve activity recorded by microneurography can fall at the start of moderate cycling or knee extension and then rise sharply once intensity exceeds 40–50% of a person's maximal strength."
+    },
+    {
+      "id": "c15",
+      "hash": "bb3c575517c3aba6",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Vascular conductance behaviour near maximal workload",
+      "label": "DATA",
+      "explanation": "[The decrease then sharp increase in sympathetic activity] matches a slowing, or even reversal, of the rise in vascular conductance near maximal workload (Fig. 3, upper panel)."
+    },
+    {
+      "id": "c16",
+      "hash": "5bfff06df096c041",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Splanchnic sympathetic constriction supporting cardiac output in exercise",
+      "label": "STATEMENT",
+      "explanation": "Part of cardiac output regulation during exercise involves alpha-adrenergic sympathetic constriction of gut vessels and venules that lowers capacitance there, returning more blood to the heart to sustain total cardiac output."
+    },
+    {
+      "id": "c17",
+      "hash": "ff355b1aaef54ffa",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Catecholamine and receptor balance during fatiguing exercise",
+      "label": "DATA",
+      "explanation": "Also, fatiguing exercise produces more epinephrine release, along with greater sympathetic nerve activity, than other sympathetic stressors, implying the balance between beta-adrenergic dilation and alpha-adrenergic constriction may tip toward dilation."
+    },
+    {
+      "id": "c18",
+      "hash": "78cdbfcc63cf9b01",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the baroreflex set point shift concept",
+      "label": "DATA",
+      "explanation": "Yet because heart rate rises together with blood pressure, the idea emerged that the set point of the baroreflex can move, in effect calling for higher blood pressure."
+    },
+    {
+      "id": "c19",
+      "hash": "b122e1c0f48e57d5",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Neural convergence mechanism for baroreflex resetting; muscle afferent involvement in exercise cardiovascular control",
+      "label": "DATA",
+      "explanation": "In terms of mechanism, electrophysiological and experimental work in anesthetized or decerebrate animals shows descending signals originating in the mesencephalic locomotor region meeting ascending thin (Type III) muscle afferents and afferents from baroreceptors within the nucleus tractus solitarius, altering baroreflex sensitivity."
+    },
+    {
+      "id": "c20",
+      "hash": "becc6ce17fb16a1b",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Rapid ventilatory and heart rate response at exercise onset",
+      "label": "DATA",
+      "explanation": "Krogh and Lindhard noted in 1913, in a few healthy people, a fast breathing and heart rate increase right at the start of whole-body exercise, especially heavy exercise, and sometimes before it began."
+    },
+    {
+      "id": "c21",
+      "hash": "b888771708bbdf2e",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Origin of the central command concept as framed by the paper",
+      "label": "STATEMENT",
+      "explanation": "Krogh and Lindhard suggested [the rapid respiratory and heart rate response] radiated out of the motor cortex into breathing and cardiovascular control."
+    },
+    {
+      "id": "c22",
+      "hash": "8a86f4e65e8a942e",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Terminology of central command",
+      "label": "DEFINITION",
+      "explanation": "The name central command was applied to [the neural mechanism spreading from the motor cortex] in 1971 and is now in routine use."
+    },
+    {
+      "id": "c23",
+      "hash": "4630e18bbfba77b6",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Defines volitional effort as a component of central command",
+      "label": "STATEMENT",
+      "explanation": "Functional data show that voluntary effort is a key part of central command."
+    },
+    {
+      "id": "c24",
+      "hash": "7f183ca159d53a04",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Timing and dose-response of heart rate versus sympathetic responses to static exercise",
+      "label": "DATA",
+      "explanation": "In people, MSNA recordings (covered later, in Concept 3) together with the ECG show that heart rate reacts quickly to short handgrip contractions and scales with workload, while sympathetic responses lag during submaximal static exercise."
+    },
+    {
+      "id": "c25",
+      "hash": "8eb381a532199ad6",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Contraction intensity threshold for immediate sympathetic activation",
+      "label": "DATA",
+      "explanation": "Apart from that, an immediate sympathetic burst requires a forceful contraction, above 70% of maximal effort."
+    },
+    {
+      "id": "c26",
+      "hash": "8162cc6c81546342",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Vagal mechanism of heart rate response at exercise onset",
+      "label": "DATA",
+      "explanation": "Studies using drug blockade showed that the fast heart rate rise when exercise begins results from a change in vagal control of the heart."
+    },
+    {
+      "id": "c27",
+      "hash": "bf1ad133fb65ec8b",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Proposes differential central control of cardiovagal versus sympathetic outflow",
+      "label": "STATEMENT",
+      "explanation": "Since effort is a feature of central command, [the handgrip and blockade studies] imply that central pathways may influence cardiovagal control in a different way than sympathetic responses."
+    },
+    {
+      "id": "c28",
+      "hash": "0cded9fbb7e04a89",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Identifies cortical sites the paper associates with central command",
+      "label": "DATA",
+      "explanation": "Although sites varied across models, [the early neuroimaging and hypnosis studies] shared patterns implicating the insula cortex and the cingulate cortex."
+    },
+    {
+      "id": "c29",
+      "hash": "16dbe2c143088f85",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Cortical correlate of exercise tachycardia",
+      "label": "DATA",
+      "explanation": "By contrast, functional imaging during voluntary handgrip that raises HR points to anterior insula activation as contributing to exercise tachycardia."
+    },
+    {
+      "id": "c30",
+      "hash": "9c259216c8befbcc",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Brain activation differences between voluntary muscle activation and sensory stimulation",
+      "label": "DATA",
+      "explanation": "[Studies of somatosensory afferents and muscle activation] showed that voluntary muscle activation lowered medial prefrontal cortex activity and raised anterior insula activity, whereas electrically stimulating somatosensory afferents through the skin did the reverse."
+    },
+    {
+      "id": "c31",
+      "hash": "72879f79d305d38d",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Defines the fundamental properties of sympathetic nerve activity as framed by the paper",
+      "label": "DATA",
+      "explanation": "[Early direct recordings of postganglionic sympathetic nerves] revealed their basic features: a noisy neurogram and rhythmic firing that is normally synchronized with the heartbeat, breathing and blood pressure oscillations."
+    },
+    {
+      "id": "c32",
+      "hash": "912f3eb989606117",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Principle that MSNA responses are determined by exercise mode, intensity and duration",
+      "label": "STATEMENT",
+      "explanation": "Briefly, how MSNA responds to exercise, in both pattern and size, depends on the exercise mode, intensity and duration."
+    },
+    {
+      "id": "c33",
+      "hash": "9c1b2c31877de1d6",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Principle coupling MSNA to muscle fatigue progression",
+      "label": "STATEMENT",
+      "explanation": "Whether isometric or dynamic, the MSNA response seems tied to developing muscle fatigue, though there are some variations."
+    },
+    {
+      "id": "c34",
+      "hash": "cdbdd2c7b831763b",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Time course of MSNA at onset of isometric exercise",
+      "label": "DATA",
+      "explanation": "With moderate isometric exercise, MSNA barely changes at the start, for roughly 30 s of a moderate contraction."
+    },
+    {
+      "id": "c35",
+      "hash": "db794a993a7f2298",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Metaboreflex interpretation of sustained MSNA increase during contraction",
+      "label": "DATA",
+      "explanation": "The later MSNA rise during a held contraction is presumably driven by muscle metabolic reflexes, since sympathetic activation persists during post-exercise limb ischemia, which traps the metabolites generated by exercise (Fig. 4)."
+    },
+    {
+      "id": "c36",
+      "hash": "c6b3eca1f654d462",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) MSNA inhibition at dynamic exercise onset and its baroreceptor mechanism",
+      "label": "DATA",
+      "explanation": "In dynamic exercise, especially with large muscle groups, MSNA may be briefly suppressed at the start; this seems to reflect cardiopulmonary baroreceptor inhibition caused by the muscle pump returning blood to the heart."
+    },
+    {
+      "id": "c37",
+      "hash": "34bcaa0bcacf7e17",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) MSNA rise with fatigue attributed to combined reflex and central effort",
+      "label": "DATA",
+      "explanation": "After that, MSNA rises sharply as fatigue sets in, reflecting both muscle reflexes and central effort, as shown by the circulatory occlusion method applied after exercise and described earlier."
+    },
+    {
+      "id": "c38",
+      "hash": "925c1f4105ef5083",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) MSNA burst frequency and size response to incremental exercise",
+      "label": "DATA",
+      "explanation": "[Bursts varying in frequency and size] occur at rest and during stresses like incremental exercise, where both how often bursts occur and how large they are increase."
+    },
+    {
+      "id": "c39",
+      "hash": "15084181b731ca1a",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Principle that burst patterning determines vascular end organ response",
+      "label": "DATA",
+      "explanation": "Bursting seems essential for the end organ response, producing a larger vascular effect than steady sympathetic outflow."
+    },
+    {
+      "id": "c40",
+      "hash": "715a37c85c7b5bb4",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Concept of physiological relevance of sympathetic rhythms to end organ response",
+      "label": "STATEMENT",
+      "explanation": "Thus, sympathetic nerve rhythms reflect the wiring of reflex and central networks and also carry a distinct physiological meaning for how the end organ responds."
+    },
+    {
+      "id": "c41",
+      "hash": "4567cb387e9a62ce",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Recruitment of larger sympathetic axons during exercise stress",
+      "label": "DATA",
+      "explanation": "Certain larger axonal action potentials, absent at baseline, appear only under severe chemoreflex or exercise stress."
+    },
+    {
+      "id": "c42",
+      "hash": "b6f14b28b662b268",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the paper's concept of hierarchical sympathetic recruitment and neural coding strategies",
+      "label": "STATEMENT",
+      "explanation": "[The size-dependent firing and recruitment of sympathetic axons] are notable because they reveal hierarchical recruitment in the sympathetic nervous system and a system that seems to use probability, population and temporal coding to signal the end organ."
+    },
+    {
+      "id": "c43",
+      "hash": "53754c1a16ec7ce9",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Central origin of latent axonal recruitment; axonal recruitment data from fatiguing exercise",
+      "label": "DATA",
+      "explanation": "Notably, latent sympathetic axon subpopulations are recruited during fatiguing exercise yet not during circulatory occlusion after exercise, pointing to central mechanisms as the basis of this recruitment."
+    },
+    {
+      "id": "c44",
+      "hash": "27bcb028a7487285",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Hypothesis of cortical influence on sympathetic discharge patterning",
+      "label": "STATEMENT",
+      "explanation": "[The links between cortex and sympathetic activity] back the idea that the cerebral cortex shapes sympathetic discharge patterning."
+    },
+    {
+      "id": "c45",
+      "hash": "1684494576508b79",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Functional interpretation of hierarchical recruitment as fine-tuning of sympathetic outflow",
+      "label": "STATEMENT",
+      "explanation": "[The dependence of burst size on action potential number and size, and the larger vasoconstriction from larger bursts] indicate that variable, hierarchical recruitment allows fine adjustment of total sympathetic outflow and vasoactive control."
+    },
+    {
+      "id": "c46",
+      "hash": "6133e82fe2c0d40e",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Core principle of Concept 4 on sympathetic titration of conductance versus cardiac output",
+      "label": "STATEMENT",
+      "explanation": "Blood pressure control during exercise relies on the sympathetic nervous system adjusting systemic vascular conductance in step with how much cardiac output the heart can supply to support it."
+    },
+    {
+      "id": "c47",
+      "hash": "9567b299d0ab1a28",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Relationship between muscle blood flow capacity and workload",
+      "label": "DATA",
+      "explanation": "Contracting skeletal muscle can accept a very large total blood flow, which rises linearly with workload."
+    },
+    {
+      "id": "c48",
+      "hash": "19bc11de1fdc8fa8",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Quantitative estimate of maximal leg blood flow during cycling",
+      "label": "DATA",
+      "explanation": "In particular, Andersen and Saltin estimated in 1985 that leg blood flow in maximal cycling could reach 250 ml per minute per 100 gm of tissue."
+    },
+    {
+      "id": "c49",
+      "hash": "acf28bdf1e23cd98",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Frames the central problem of Concept 4; muscle flow demand versus cardiac output in heavy exercise",
+      "label": "STATEMENT",
+      "explanation": "In whole-body exercise, that much blood flow would exceed the available cardiac output, which raises the question of why healthy, intact people do not become hypotensive during heavy exercise."
+    },
+    {
+      "id": "c50",
+      "hash": "0b39ec810ced5b6d",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Systemic vascular conductance plateau and reversal at maximal cardiac output",
+      "label": "DATA",
+      "explanation": "An integrative analysis by Secher's group showed in elite athletes that systemic vascular conductance rose during exercise until cardiac output peaked, after which the workload-driven rise in conductance halted and even reversed; later human studies and earlier dog studies support this."
+    },
+    {
+      "id": "c51",
+      "hash": "809fc3bd6215e3c8",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Consequence of removing sympathetic outflow during graded exercise",
+      "label": "DATA",
+      "explanation": "Furthermore, when sympathetic outflow was blocked systemically in dogs, they fainted as treadmill workload rose."
+    },
+    {
+      "id": "c52",
+      "hash": "36836eea44f9dc53",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Exercise-induced blood pressure fall with deficient sympathetic vasomotor control",
+      "label": "DATA",
+      "explanation": "Important work from the early 1960s includes a 1961 study by Marshall et al., who found a 30–50 mmHg fall in arterial pressure during exercise in six people with idiopathic hypotension, whether supine or upright, and thus independent of differences in orthostatic venous pooling."
+    },
+    {
+      "id": "c53",
+      "hash": "9519034078828c94",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Principle that sympathetic vasomotor control is essential to exercise blood pressure and flow regulation",
+      "label": "STATEMENT",
+      "explanation": "Hence, effective sympathetic control of vessel tone is a key part of the integrated exercise responses governing pressure and flow in the blood."
+    },
+    {
+      "id": "c54",
+      "hash": "cee2f3caaeab65d0",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) States the major hypothesis of Concept 4 on sympathetic restraint of active muscle vasodilation",
+      "label": "STATEMENT",
+      "explanation": "The main hypothesis is that dilated muscle in maximal exercise is a principal target through which the sympathetic nervous system regulates blood pressure: limiting that dilation, together with high cardiac output, produces the pressure needed to perfuse the working muscle."
+    },
+    {
+      "id": "c55",
+      "hash": "a382a9f6689ce7fb",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Names the concept of tonic sympathetic vasoconstriction",
+      "label": "STATEMENT",
+      "explanation": "The idea that sympathetic vasoconstriction is tonic, both when resting and when exercising, is now basic knowledge in cardiovascular control."
+    },
+    {
+      "id": "c56",
+      "hash": "f2fd4341328872f6",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Summary statement of the paper's integrated model of central command and baroreflex resetting",
+      "label": "STATEMENT",
+      "explanation": "Although central contributions to autonomic control are not fully understood, work in various models suggests that pathways from cortical and midbrain areas (insula, prefrontal cortex, hippocampus, mesencephalic locomotor regions) converge on baroreceptor inputs reaching the nucleus tractus solitarius, resetting the baroreflex set point so that pressure and heart rate can both rise with exercise."
+    },
+    {
+      "id": "c57",
+      "hash": "8e405f73a27be4ec",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Role of muscle afferents in the paper's integrated model; autonomic effects of muscle sensory input",
+      "label": "STATEMENT",
+      "explanation": "Muscle sensory input, from Type III and IV afferents, also acts on [the cortical and midbrain autonomic regions] to raise sympathetic drive and lower vagal outflow."
+    },
+    {
+      "id": "c58",
+      "hash": "8758f54df554407f",
+      "pick_tag": "(2)",
+      "pick_reason": "(2) Summary of differential timing of heart rate and MSNA responses to exercise",
+      "label": "DATA",
+      "explanation": "Heart rate responds at the start of exercise, but MSNA responses lag, being shaped by cardiopulmonary baroreceptor loading in dynamic exercise and/or by the need for substantial metabolic changes as muscle works and fatigues, as seen in static moderate exercise."
+    },
+    {
+      "id": "c59",
+      "hash": "491b27fd575a19c1",
+      "pick_tag": "(1)(2)",
+      "pick_reason": "(1)(2) Summary of sympathetic restraint competing with muscle vasodilation during incremental exercise",
+      "label": "DATA",
+      "explanation": "Still, MSNA rises markedly with incremental exercise and, once cardiac output is limited, increasingly constricts vessels in both resting and working muscle, opposing the dilation that comes with muscle engagement."
+    },
+    {
+      "id": "c60",
+      "hash": "a29234c6841225ba",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Principle that burst size and timing shape the vasoconstrictor response",
+      "label": "STATEMENT",
+      "explanation": "How large MSNA bursts are and when they occur both matter for the vasoconstrictor response of the vessels."
+    },
+    {
+      "id": "c61",
+      "hash": "959a21fd47ca4517",
+      "pick_tag": "(1)",
+      "pick_reason": "(1) Concluding statement of the paper's integrative framework",
+      "label": "STATEMENT",
+      "explanation": "Taken together, [the landmark studies of the early twentieth century] laid the groundwork for understanding the interaction between the autonomic nervous system and the cardiovascular system that allows physiological adaptation to exercise stress."
+    },
+    {
+      "id": "u01",
+      "hash": "b0ad2338c4fc1714",
+      "pick_tag": null,
+      "pick_reason": "Introduces a historical concept as premise rather than one this paper establishes; unclear whether it counts under (1)",
+      "label": "DEFINITION",
+      "explanation": "In the early twentieth century, Cannon (who lived from 1871 to 1945) put forward his broad hypothesis of homeostasis: the capacity to keep physiological values within the narrow range needed for life while under stress."
+    },
+    {
+      "id": "u02",
+      "hash": "201f52b0344f09e1",
+      "pick_tag": null,
+      "pick_reason": "Concerns psychological stress rather than exercise; unclear whether it meets (2)",
+      "label": "STATEMENT",
+      "explanation": "As an example, Walter B. Cannon's 1942 description of voodoo death showed that psychological stress can have major, sometimes fatal, effects on cardiovascular function."
+    },
+    {
+      "id": "u03",
+      "hash": "4b00cded52f99cea",
+      "pick_tag": null,
+      "pick_reason": "Cardiac data from cortical stimulation, not exercise; unclear whether it meets (2)",
+      "label": "DATA",
+      "explanation": "As an example, Chouchou (2019) electrically stimulated more than 100 insular cortex sites in epilepsy patients and found that stimulating the anterior or median insula mainly slowed the heart, while stimulating the posterior insula mainly sped it up."
+    },
+    {
+      "id": "u04",
+      "hash": "bd4e087cfff637da",
+      "pick_tag": null,
+      "pick_reason": "Methodological history underpinning the MSNA concept; unclear whether it meets (1) or (2)",
+      "label": "DEFINITION",
+      "explanation": "Hagbarth and Vallbo (1968) were the first to record, in humans, sympathetic nerve activity going to the blood vessels of skeletal muscle (MSNA)."
+    },
+    {
+      "id": "u05",
+      "hash": "2f407e21de5e2335",
+      "pick_tag": null,
+      "pick_reason": "Vascular receptor data from nerve stimulation rather than exercise; unclear whether it meets (2)",
+      "label": "DATA",
+      "explanation": "As an example, a 2006 study by Kluess et al. found that P2X and α1-receptors of the femoral artery respond to the frequency and pattern of sympathetic nerve stimulation, with weaker responses to continuous than to bursty stimulation."
+    },
+    {
+      "id": "u06",
+      "hash": "6681607ba71087cf",
+      "pick_tag": null,
+      "pick_reason": "Concerns resting rather than exercise conditions; unclear whether it meets (1) as part of the tonic vasoconstriction concept",
+      "label": "STATEMENT",
+      "explanation": "Sympathetic vasoconstriction also plays a part under resting conditions."
+    }
+  ]
+}
